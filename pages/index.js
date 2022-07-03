@@ -106,7 +106,7 @@ export default function Home() {
         Romans
         </li>
         </a>
-        <a href="#">
+        <a href="https://first-corinthians.vercel.app/">
         <li>
         1 Corinthians
         </li>
