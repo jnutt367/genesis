@@ -105,7 +105,7 @@
     margin: 0rem 0;
     margin-bottom: 2rem;
     line-height: 1.5;
-    font-size: 2rem;
+    font-size: 1rem;
     max-width: 60rem;
 }
 
@@ -251,13 +251,6 @@
     justify-content: space-between;
 }
 
-.publisher {
-    font-family: monospace;
-    color: orange;
-    font-size: 2.5rem;
-    margin-left: 2rem;
-}
-
 .index {
     font-size: 1.3rem;
     display: grid;
@@ -270,6 +263,10 @@
 
 .index li {
     padding-right: 5rem;
+}
+
+.publisher {
+    color: orange;
 }
 
 @media (max-width: 600px) {
@@ -297,11 +294,10 @@
     .title {
         font-size: 2rem;
     }
-    .description {
-        font-size: 1rem;
-    }
     .index {
         font-size: 1rem;
+        color: orange;
+        padding-left: 5rem;
     }
 }
 
@@ -313,13 +309,12 @@
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
         font-family: monospace;
-        color: orange;
+        color: black;
         cursor: pointer;
-        margin-left: 2rem;
-        font-size: 4rem;
+        margin-left: 2.5rem;
     }
     .index li {
         font-size: x-large;
-        padding-right: 5rem;
+        padding-right: 3rem;
     }
 }

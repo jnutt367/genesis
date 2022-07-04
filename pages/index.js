@@ -111,6 +111,11 @@ export default function Home() {
         1 Corinthians
         </li>
         </a>
+        <a href="https://second-corinthians.vercel.app/">
+        <li>
+        2 Corinthians
+        </li>
+        </a>
         <a href="https://proverbs.vercel.app/">
         <li>
           Proverbs
