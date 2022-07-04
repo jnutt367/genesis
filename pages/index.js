@@ -59,7 +59,7 @@ export default function Home() {
 
       <main className={styles.main}>
       
-       <h2>The Holy Bible's</h2>
+       <h2>The Holy Bible</h2>
         <h1 className={styles.title}>
             <a href="https://en.wikipedia.org/wiki/Bible">Index</a>
         </h1>
@@ -74,7 +74,7 @@ export default function Home() {
           For I am not ashamed of the  gospel, because it is the power
           of God that brings salvation to everyone who believes. First the Jew & then the Gentile
         </p>
-      <ol className={styles.index}>
+      <ul className={styles.index}>
        <a href="https://matthew-coral.vercel.app/">
         <li>
         Matthew
@@ -108,12 +108,12 @@ export default function Home() {
         </a>
         <a href="https://first-corinthians.vercel.app/">
         <li>
-        1 Corinthians
+        1 Corinth
         </li>
         </a>
         <a href="https://second-corinthians.vercel.app/">
         <li>
-        2 Corinthians
+        2 Corinth
         </li>
         </a>
         <a href="https://proverbs.vercel.app/">
@@ -121,7 +121,7 @@ export default function Home() {
           Proverbs
         </li>
         </a>
-      </ol>
+      </ul>
         <code className={styles.code}> THE TRUE LIGHT WHO GIVES LIGHT TO EVERY MAN WAS COMING INTO THE WORLD. </code>
       
        

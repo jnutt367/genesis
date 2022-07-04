@@ -115,7 +115,7 @@
     margin-bottom: 2rem;
     text-shadow: 2px 2px black;
     background-image: url(/cloud_lightning.webp);
-    padding: 3rem;
+    padding: 1rem;
     font-size: 1.1rem;
     font-weight: 900;
     font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
@@ -254,19 +254,20 @@
 .index {
     font-size: 1.3rem;
     display: grid;
+    margin-left: -2rem;
     grid-template-columns: 1fr 1fr;
     font-family: monospace;
     color: orange;
     cursor: pointer;
-    margin-left: 2rem;
-}
-
-.index li {
-    padding-right: 5rem;
 }
 
 .publisher {
     color: orange;
+}
+
+.index li {
+    margin-top: 1.5rem;
+    padding-right: 1rem;
 }
 
 @media (max-width: 600px) {
@@ -297,7 +298,6 @@
     .index {
         font-size: 1rem;
         color: orange;
-        padding-left: 5rem;
     }
 }
 
