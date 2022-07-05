@@ -23,9 +23,11 @@ export default function Home() {
   <a className={styles.code} href="https://the-holy-bible.vercel.app">
     Home
   </a>
-            <button className={styles.code}>
-                DONATE
+    <a href="https://www.linkedin.com/feed/">
+            <button  className={styles.code}>
+                PUBLISHER
             </button>
+            </a>
         </div>
         <div>
           <nav className={styles.nav}>
