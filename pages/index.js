@@ -71,53 +71,53 @@ export default function Home() {
         </p>
       <ul className={styles.index}>
        <a href="https://matthew-coral.vercel.app/">
-        <li>
+        <li className={styles.li}>
         Matthew
         </li>
         </a>
        <a href="https://mark-alpha.vercel.app/">
-        <li>
+        <li className={styles.li}>
         Mark
         </li>
         </a>
         <a href="https://luke-three.vercel.app/">
-        <li>
+        <li className={styles.li}>
         Luke
         </li>
         </a>
 
         <a href="https://john-zeta.vercel.app/">
-        <li>
+        <li className={styles.li}>
           John
         </li>
         </a>
         <a href="https://acts-zeta.vercel.app/">
-        <li>
+        <li className={styles.li}>
         Acts
         </li>
         </a>
         <a href="https://romans-five.vercel.app/">
-        <li>
+        <li className={styles.li}>
         Romans
         </li>
         </a>
         <a href="https://first-corinthians.vercel.app/">
-        <li>
+        <li className={styles.li}>
         1 Corinth
         </li>
         </a>
         <a href="https://second-corinthians.vercel.app/">
-        <li>
+        <li className={styles.li}>
         2 Corinth
         </li>
         </a>
         <a href="https://proverbs.vercel.app/">
-        <li>
+        <li className={styles.li}>
           Proverbs
         </li>
         </a>
       </ul>
-        <code className={styles.code}> THE TRUE LIGHT WHO GIVES LIGHT TO EVERY MAN WAS COMING INTO THE WORLD. </code>
+        <div className={styles.h2}> THE TRUE LIGHT WHO GIVES LIGHT TO EVERY MAN WAS COMING INTO THE WORLD. </div>
       
        
       
