@@ -49,16 +49,18 @@ export default function Home() {
             <a href="https://en.wikipedia.org/wiki/Bible">Index</a>
         </h1>
         <div className={styles.flex}>
-          
-          <a className={styles.code} href="https://the-holy-bible.vercel.app">
-            HOME
-          </a>
-            <a className={styles.code} href="https://www.linkedin.com/feed/">
-                    
-                        PUBLISHER
-                    
-                    </a>
-                </div>
+        <button className={styles.code}>
+                    <a   href="https://the-holy-bible.vercel.app/">
+                          HOME
+                          </a>
+                      </button>
+
+          <a className={styles.code} href="https://www.linkedin.com/in/jnuttlovedisciple/">PUBLISHER</a>
+                     
+                     
+                      
+                  </div>
+       
         <p className={styles.description}>
           
           <code className={styles.publisher}>&darr; Scroll &darr;</code>
