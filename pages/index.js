@@ -11,24 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <header>
-      <div className={styles.flex}>
-            <Image
-              src="/Jesus-color-silhouette-low-poly-pattern.svg"
-              height={100}
-              width={100}
-              className="mt-10"
-              objectFit="cover"
-              alt="Jesus Logo"
-            />
-  <a className={styles.code} href="https://the-holy-bible.vercel.app">
-    Home
-  </a>
-    <a href="https://www.linkedin.com/feed/">
-            <button  className={styles.code}>
-                PUBLISHER
-            </button>
-            </a>
-        </div>
+   
         <div>
           <nav className={styles.nav}>
               <ul>
@@ -65,7 +48,17 @@ export default function Home() {
         <h1 className={styles.title}>
             <a href="https://en.wikipedia.org/wiki/Bible">Index</a>
         </h1>
-  
+        <div className={styles.flex}>
+          
+          <a className={styles.code} href="https://the-holy-bible.vercel.app">
+            HOME
+          </a>
+            <a className={styles.code} href="https://www.linkedin.com/feed/">
+                    
+                        PUBLISHER
+                    
+                    </a>
+                </div>
         <p className={styles.description}>
           
           <code className={styles.publisher}>&darr; Scroll &darr;</code>
