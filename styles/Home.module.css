@@ -264,10 +264,21 @@
     margin-left: 2rem;
 }
 
+.grid ul {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.grid li {
+    list-style: none;
+    padding: 1rem;
+}
+
 @media (max-width: 600px) {
     .grid {
         width: 100%;
         flex-direction: column;
+        position: relative;
+        left: -2rem;
     }
 }
 

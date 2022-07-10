@@ -71,54 +71,67 @@ export default function Home() {
           For I am not ashamed of the  gospel, because it is the power
           of God that brings salvation to everyone who believes. First the Jew & then the Gentile
         </p>
-      <ul className={styles.index}>
-       <a href="https://matthew-coral.vercel.app/">
-        <li className={styles.li}>
-        Matthew
-        </li>
-        </a>
-       <a href="https://mark-alpha.vercel.app/">
-        <li className={styles.li}>
-        Mark
-        </li>
-        </a>
-        <a href="https://luke-three.vercel.app/">
-        <li className={styles.li}>
-        Luke
-        </li>
-        </a>
+        <div>
+                  <ul className={styles.grid}> 
+                  <a href="https://matthew-coral.vercel.app/">
+                    <li className={styles.li-1}>
+                    Matthew
+                    </li>
+                    </a>
+                  <a href="https://mark-alpha.vercel.app/">
+                    <li className={styles.li-2}>
+                    Mark
+                    </li>
+                    </a>
+                    <a href="https://luke-three.vercel.app/">
+                    <li className={styles.li-3}>
+                    Luke
+                    </li>
+                    </a>
 
-        <a href="https://john-zeta.vercel.app/">
-        <li className={styles.li}>
-          John
-        </li>
-        </a>
-        <a href="https://acts-zeta.vercel.app/">
-        <li className={styles.li}>
-        Acts
-        </li>
-        </a>
-        <a href="https://romans-five.vercel.app/">
-        <li className={styles.li}>
-        Romans
-        </li>
-        </a>
-        <a href="https://first-corinthians.vercel.app/">
-        <li className={styles.li}>
-        1 Corinth
-        </li>
-        </a>
-        <a href="https://second-corinthians.vercel.app/">
-        <li className={styles.li}>
-        2 Corinth
-        </li>
-        </a>
-        <a href="https://proverbs.vercel.app/">
-        <li className={styles.li}>
-          Proverbs
-        </li>
-        </a>
-      </ul>
+                    <a href="https://john-zeta.vercel.app/">
+                    <li className={styles.li-4}>
+                      John
+                    </li>
+                    </a>
+                    <a href="https://acts-zeta.vercel.app/">
+                    <li className={styles.li-5}>
+                    Acts
+                    </li>
+                    
+                   
+                    </a>
+                    </ul>
+                    <ul className={styles.grid}>
+                    <a href="https://romans-five.vercel.app/">
+                    <li className={styles.li-6}>
+                    Romans
+                    </li>
+                    </a>
+                    <a href="https://first-corinthians.vercel.app/">
+                    <li className={styles.li-7}>
+                    1 Corinth
+                    </li>
+                    </a>
+                    <a href="https://second-corinthians.vercel.app/">
+                    <li className={styles.li-8}>
+                    2 Corinth
+                    </li>
+                    </a>
+                    <a href="https://galatians.vercel.app/">
+                    <li className={styles.li-9}>
+                    Galatians
+                    </li>
+
+                    </a>  
+
+                    <a href="https://proverbs.vercel.app/">
+                    <li className={styles.li-10}>
+                      Proverbs
+                    </li>
+                    </a>
+                    </ul>
+    </div>
         <div className={styles.h2}> THE TRUE LIGHT WHO GIVES LIGHT TO EVERY MAN WAS COMING INTO THE WORLD. </div>
       
        
