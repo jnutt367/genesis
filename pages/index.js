@@ -125,7 +125,7 @@ export default function Home() {
 
                     </a>  
 
-                    <a href="#">
+                    <a href="">
                     <li className={styles.li-10}>
                       Ephesians
                     </li>
@@ -138,18 +138,18 @@ export default function Home() {
                     Philippians
                     </li>
                     </a>
-                  <a href="https://mark-alpha.vercel.app/">
+                  <a href="">
                     <li className={styles.li-2}>
                     Colossians
                     </li>
                     </a>
-                    <a href="https://luke-three.vercel.app/">
+                    <a href="">
                     <li className={styles.li-3}>
                     1 Thessalonians
                     </li>
                     </a>
 
-                    <a href="https://john-zeta.vercel.app/">
+                    <a href="">
                     <li className={styles.li-4}>
                       2 Thessalonians
                     </li>
