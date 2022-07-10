@@ -125,12 +125,121 @@ export default function Home() {
 
                     </a>  
 
-                    <a href="https://proverbs.vercel.app/">
+                    <a href="#">
                     <li className={styles.li-10}>
-                      Proverbs
+                      Ephesians
                     </li>
                     </a>
                     </ul>
+
+                    <ul className={styles.grid}> 
+                  <a href="">
+                    <li className={styles.li-1}>
+                    Philippians
+                    </li>
+                    </a>
+                  <a href="https://mark-alpha.vercel.app/">
+                    <li className={styles.li-2}>
+                    Colossians
+                    </li>
+                    </a>
+                    <a href="https://luke-three.vercel.app/">
+                    <li className={styles.li-3}>
+                    1 Thessalonians
+                    </li>
+                    </a>
+
+                    <a href="https://john-zeta.vercel.app/">
+                    <li className={styles.li-4}>
+                      2 Thessalonians
+                    </li>
+                    </a>
+                   
+                    </ul>
+
+<ul className={styles.grid}>
+                    <a href="">
+                    <li className={styles.li-5}>
+                    1 Timothy
+                    </li>
+                     </a>
+
+                     <a href="">
+                    <li className={styles.li-1}>
+                    2 Timothy
+                    </li>
+                    </a>
+                  <a href="">
+                    <li className={styles.li-2}>
+                    Titus
+                    </li>
+                    </a>
+                    <a href="">
+                    <li className={styles.li-3}>
+                    Philemon
+                    </li>
+                    </a>
+
+                    <a href="">
+                    <li className={styles.li-4}>
+                      Hebrews
+                    </li>
+                    </a>
+</ul>
+
+<ul className={styles.grid}>
+                    <a href="">
+                    <li className={styles.li-5}>
+                    James
+                    </li>
+                     </a>
+
+                     <a href="">
+                    <li className={styles.li-1}>
+                    1 Peter
+                    </li>
+                    </a>
+                  <a href="">
+                    <li className={styles.li-2}>
+                    2 Peter
+                    </li>
+                    </a>
+                    <a href="">
+                    <li className={styles.li-3}>
+                    1 John
+                    </li>
+                    </a>
+
+                  
+</ul>
+
+<ul className={styles.grid}>
+<a href="">
+                    <li className={styles.li-4}>
+                      2 John
+                    </li>
+                    </a>
+
+                     <a href="">
+                    <li className={styles.li-1}>
+                    3 John
+                    </li>
+                    </a>
+                  <a href="">
+                    <li className={styles.li-2}>
+                    Jude
+                    </li>
+                    </a>
+                    <a href="">
+                    <li className={styles.li-3}>
+                    The Revelation of Jesus Christ
+                    </li>
+                    </a>
+
+                    
+</ul>
+
+
     </div>
         <div className={styles.h2}> THE TRUE LIGHT WHO GIVES LIGHT TO EVERY MAN WAS COMING INTO THE WORLD. </div>
       
