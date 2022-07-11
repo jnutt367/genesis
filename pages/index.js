@@ -46,7 +46,7 @@ export default function Home() {
       
        <h2>The Holy Bible</h2>
         <h1 className={styles.title}>
-            <a href="https://en.wikipedia.org/wiki/Bible">Index</a>
+            <a href="https://en.wikipedia.org/wiki/Bible">INDEX</a>
         </h1>
         <div className={styles.flex}>
         <button className={styles.code}>
