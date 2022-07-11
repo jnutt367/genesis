@@ -125,7 +125,7 @@ export default function Home() {
 
                     </a>  
 
-                    <a href="">
+                    <a href="https://ephesians.vercel.app/">
                     <li className={styles.li-10}>
                       Ephesians
                     </li>
