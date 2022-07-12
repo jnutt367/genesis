@@ -133,7 +133,7 @@ export default function Home() {
                     </ul>
 
                     <ul className={styles.grid}> 
-                  <a href="">
+                  <a href="https://phillipians.vercel.app/">
                     <li className={styles.li-1}>
                     Philippians
                     </li>
