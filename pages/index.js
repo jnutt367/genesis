@@ -143,13 +143,13 @@ export default function Home() {
                     Colossians
                     </li>
                     </a>
-                    <a href="">
+                    <a href="https://first_thessalonians.vercel.app">
                     <li className={styles.li-3}>
                     1 Thessalonians
                     </li>
                     </a>
 
-                    <a href="">
+                    <a href="https://second_thessalonians.vercel.app">
                     <li className={styles.li-4}>
                       2 Thessalonians
                     </li>
