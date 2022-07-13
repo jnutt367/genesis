@@ -138,7 +138,7 @@ export default function Home() {
                     Philippians
                     </li>
                     </a>
-                  <a href="">
+                  <a href="https://colossians.vercel.app/">
                     <li className={styles.li-2}>
                     Colossians
                     </li>
