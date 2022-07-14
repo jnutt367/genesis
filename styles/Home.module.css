@@ -115,9 +115,8 @@
 
 .code {
     border-radius: 5px;
-    color: orange;
-    text-shadow: 2px 2px black;
-    background-image: url(/cloud_lightning.webp);
+    color: black;
+    background-image: url(/monophy.gif);
     padding: 3rem;
     margin: 3rem;
     font-size: 1.1rem;
@@ -127,7 +126,8 @@
 
 .code:hover {
     color: white;
-    text-shadow: 1.5px 1.5px orange;
+    background-color: black;
+    background-image: none;
     opacity: 0.9;
     cursor: help;
 }

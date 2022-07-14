@@ -158,29 +158,29 @@ export default function Home() {
                     </ul>
 
 <ul className={styles.grid}>
-                    <a href="">
+                    <a href="https://first-timothy.vercel.app">
                     <li className={styles.li-5}>
                     1 Timothy
                     </li>
                      </a>
 
-                     <a href="">
+                     <a href="https://second-timothy.vercel.app">
                     <li className={styles.li-1}>
                     2 Timothy
                     </li>
                     </a>
-                  <a href="">
+                  <a href="https://titus.vercel.app">
                     <li className={styles.li-2}>
                     Titus
                     </li>
                     </a>
-                    <a href="">
+                    <a href="https://philemon.vercel.app">
                     <li className={styles.li-3}>
                     Philemon
                     </li>
                     </a>
 
-                    <a href="">
+                    <a href="https://hebrews.vercel.app">
                     <li className={styles.li-4}>
                       Hebrews
                     </li>
@@ -188,23 +188,23 @@ export default function Home() {
 </ul>
 
 <ul className={styles.grid}>
-                    <a href="">
+                    <a href="https://james.vercel.app">
                     <li className={styles.li-5}>
                     James
                     </li>
                      </a>
 
-                     <a href="">
+                     <a href="https://first-peter.vercel.app">
                     <li className={styles.li-1}>
                     1 Peter
                     </li>
                     </a>
-                  <a href="">
+                  <a href="https://second-peter.vercel.app">
                     <li className={styles.li-2}>
                     2 Peter
                     </li>
                     </a>
-                    <a href="">
+                    <a href="https://first-john.vercel.app">
                     <li className={styles.li-3}>
                     1 John
                     </li>
@@ -214,23 +214,23 @@ export default function Home() {
 </ul>
 
 <ul className={styles.grid}>
-<a href="">
+<a href="https://second-john.vercel.app">
                     <li className={styles.li-4}>
                       2 John
                     </li>
                     </a>
 
-                     <a href="">
+                     <a href="https://second-john.vercel.app">
                     <li className={styles.li-1}>
                     3 John
                     </li>
                     </a>
-                  <a href="">
+                  <a href="https://jude.vercel.app">
                     <li className={styles.li-2}>
                     Jude
                     </li>
                     </a>
-                    <a href="">
+                    <a href="https://the-revelation.vercel.app">
                     <li className={styles.li-3}>
                     The Revelation of Jesus Christ
                     </li>
