@@ -125,10 +125,8 @@
 }
 
 .code:hover {
-    color: white;
-    background-color: black;
+    color: black;
     background-image: none;
-    opacity: 0.9;
     cursor: help;
 }
 
