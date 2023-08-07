@@ -81,7 +81,7 @@ export default function Home() {
                                   <div className={styles.card}>
             <h2  className={styles.chapter}>Genesis Chapter I</h2>
             <p>
-The Beginning
+<h4>The Beginning</h4>
 1 In the beginning God created the heavens and the earth. 2 Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.
 
 3 And God said, “Let there be light,” and there was light. 4 God saw that the light was good, and he separated the light from the darkness. 5 God called the light “day,” and the darkness he called “night.” And there was evening, and there was morning—the first day.
@@ -114,7 +114,7 @@ The Beginning
           <div className={styles.card}>
               <h2  className={styles.chapter}>Genesis Chapter II</h2>
             <p>
-                          2 Thus the heavens and the earth were completed in all their vast array.
+                          2 <h4>Thus the heavens and the earth were completed</h4> in all their vast array.
                           
                           2 By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work. 3 Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done.
                           
@@ -154,7 +154,7 @@ The Beginning
           >
              <h2  className={styles.chapter}>Genesis Chapter III</h2>
             <p>
-The Fall
+<h4>The Fall</h4>
 3 Now the serpent was more crafty than any of the wild animals the Lord God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’?”
 
 2 The woman said to the serpent, “We may eat fruit from the trees in the garden, 3 but God did say, ‘You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.’”
@@ -221,7 +221,7 @@ for dust you are
              <h2  className={styles.chapter}>Genesis Chapter IV</h2>
             <p>
             
-Cain and Abel
+<h4>Cain and Abel</h4>
 4 Adam[a] made love to his wife Eve, and she became pregnant and gave birth to Cain.[b] She said, “With the help of the Lord I have brought forth[c] a man.” 2 Later she gave birth to his brother Abel.
 
 Now Abel kept flocks, and Cain worked the soil. 3 In the course of time Cain brought some of the fruits of the soil as an offering to the Lord. 4 And Abel also brought an offering—fat portions from some of the firstborn of his flock. The Lord looked with favor on Abel and his offering, 5 but on Cain and his offering he did not look with favor. So Cain was very angry, and his face was downcast.
@@ -264,7 +264,7 @@ At that time people began to call on[i] the name of the Lord.
            <h2  className={styles.chapter}>Genesis Chapter V</h2>
             <p>
             
-From Adam to Noah
+<h4>From Adam to Noah</h4>
 5 This is the written account of Adam’s family line.
 
 When God created mankind, he made them in the likeness of God. 2 He created them male and female and blessed them. And he named them “Mankind”[a] when they were created.
@@ -299,7 +299,7 @@ When God created mankind, he made them in the likeness of God. 2 He created them
            <h2  className={styles.chapter}>Genesis Chapter VI</h2>
             <p>
            
-Wickedness in the World
+<h4>Wickedness in the World</h4>
 6 When human beings began to increase in number on the earth and daughters were born to them, 2 the sons of God saw that the daughters of humans were beautiful, and they married any of them they chose. 3 Then the Lord said, “My Spirit will not contend with[a] humans forever, for they are mortal[b]; their days will be a hundred and twenty years.”
 
 4 The Nephilim were on the earth in those days—and also afterward—when the sons of God went to the daughters of humans and had children by them. They were the heroes of old, men of renown.
@@ -324,7 +324,7 @@ Noah was a righteous man, blameless among the people of his time, and he walked 
           >
              <h2  className={styles.chapter}>Genesis Chapter VII</h2>
             <p>
-7 The Lord then said to Noah, “Go into the ark, you and your whole family, because I have found you righteous in this generation. 2 Take with you seven pairs of every kind of clean animal, a male and its mate, and one pair of every kind of unclean animal, a male and its mate, 3 and also seven pairs of every kind of bird, male and female, to keep their various kinds alive throughout the earth. 4 Seven days from now I will send rain on the earth for forty days and forty nights, and I will wipe from the face of the earth every living creature I have made.”
+7 <h4>The Lord then said to Noah</h4> , “Go into the ark, you and your whole family, because I have found you righteous in this generation. 2 Take with you seven pairs of every kind of clean animal, a male and its mate, and one pair of every kind of unclean animal, a male and its mate, 3 and also seven pairs of every kind of bird, male and female, to keep their various kinds alive throughout the earth. 4 Seven days from now I will send rain on the earth for forty days and forty nights, and I will wipe from the face of the earth every living creature I have made.”
 
 5 And Noah did all that the Lord commanded him.
 
@@ -348,52 +348,26 @@ Noah was a righteous man, blameless among the people of his time, and he walked 
            <h2  className={styles.chapter}>Genesis Chapter VIII</h2>
             <p>
             
-8 When Jesus came down from the mountainside, large crowds followed him. 2 A man with leprosy[a] came and knelt before him and said, “Lord, if you are willing, you can make me clean.”
+8 <h4>But God remembered Noah</h4> and all the wild animals and the livestock that were with him in the ark, and he sent a wind over the earth, and the waters receded. 2 Now the springs of the deep and the floodgates of the heavens had been closed, and the rain had stopped falling from the sky. 3 The water receded steadily from the earth. At the end of the hundred and fifty days the water had gone down, 4 and on the seventeenth day of the seventh month the ark came to rest on the mountains of Ararat. 5 The waters continued to recede until the tenth month, and on the first day of the tenth month the tops of the mountains became visible.
 
-3 Jesus reached out his hand and touched the man. “I am willing,” he said. “Be clean!” Immediately he was cleansed of his leprosy. 4 Then Jesus said to him, “See that you don’t tell anyone. But go, show yourself to the priest and offer the gift Moses commanded, as a testimony to them.”
+6 After forty days Noah opened a window he had made in the ark 7 and sent out a raven, and it kept flying back and forth until the water had dried up from the earth. 8 Then he sent out a dove to see if the water had receded from the surface of the ground. 9 But the dove could find nowhere to perch because there was water over all the surface of the earth; so it returned to Noah in the ark. He reached out his hand and took the dove and brought it back to himself in the ark. 10 He waited seven more days and again sent out the dove from the ark. 11 When the dove returned to him in the evening, there in its beak was a freshly plucked olive leaf! Then Noah knew that the water had receded from the earth. 12 He waited seven more days and sent the dove out again, but this time it did not return to him.
 
-The Faith of the Centurion
-5 When Jesus had entered Capernaum, a centurion came to him, asking for help. 6 “Lord,” he said, “my servant lies at home paralyzed, suffering terribly.”
+13 By the first day of the first month of Noah’s six hundred and first year, the water had dried up from the earth. Noah then removed the covering from the ark and saw that the surface of the ground was dry. 14 By the twenty-seventh day of the second month the earth was completely dry.
 
-7 Jesus said to him, “Shall I come and heal him?”
+15 Then God said to Noah, 16 “Come out of the ark, you and your wife and your sons and their wives. 17 Bring out every kind of living creature that is with you—the birds, the animals, and all the creatures that move along the ground—so they can multiply on the earth and be fruitful and increase in number on it.”
 
-8 The centurion replied, “Lord, I do not deserve to have you come under my roof. But just say the word, and my servant will be healed. 9 For I myself am a man under authority, with soldiers under me. I tell this one, ‘Go,’ and he goes; and that one, ‘Come,’ and he comes. I say to my servant, ‘Do this,’ and he does it.”
+18 So Noah came out, together with his sons and his wife and his sons’ wives. 19 All the animals and all the creatures that move along the ground and all the birds—everything that moves on land—came out of the ark, one kind after another.
 
-10 When Jesus heard this, he was amazed and said to those following him, “Truly I tell you, I have not found anyone in Israel with such great faith. 11 I say to you that many will come from the east and the west, and will take their places at the feast with Abraham, Isaac and Jacob in the kingdom of heaven. 12 But the subjects of the kingdom will be thrown outside, into the darkness, where there will be weeping and gnashing of teeth.”
+20 Then Noah built an altar to the Lord and, taking some of all the clean animals and clean birds, he sacrificed burnt offerings on it. 21 The Lord smelled the pleasing aroma and said in his heart: “Never again will I curse the ground because of humans, even though[a] every inclination of the human heart is evil from childhood. And never again will I destroy all living creatures, as I have done.
 
-13 Then Jesus said to the centurion, “Go! Let it be done just as you believed it would.” And his servant was healed at that moment.
+22 “As long as the earth endures,
+seedtime and harvest,
+cold and heat,
+summer and winter,
+day and night
+will never cease.”
 
-Jesus Heals Many
-14 When Jesus came into Peter’s house, he saw Peter’s mother-in-law lying in bed with a fever. 15 He touched her hand and the fever left her, and she got up and began to wait on him.
-
-16 When evening came, many who were demon-possessed were brought to him, and he drove out the spirits with a word and healed all the sick. 17 This was to fulfill what was spoken through the prophet Isaiah:
-
-“He took up our infirmities
-    and bore our diseases.”[b]
-
-The Cost of Following Jesus
-18 When Jesus saw the crowd around him, he gave orders to cross to the other side of the lake. 19 Then a teacher of the law came to him and said, “Teacher, I will follow you wherever you go.”
-
-20 Jesus replied, “Foxes have dens and birds have nests, but the Son of Man has no place to lay his head.”
-
-21 Another disciple said to him, “Lord, first let me go and bury my father.”
-
-22 But Jesus told him, “Follow me, and let the dead bury their own dead.”
-
-Jesus Calms the Storm
-23 Then he got into the boat and his disciples followed him. 24 Suddenly a furious storm came up on the lake, so that the waves swept over the boat. But Jesus was sleeping. 25 The disciples went and woke him, saying, “Lord, save us! We’re going to drown!”
-
-26 He replied, “You of little faith, why are you so afraid?” Then he got up and rebuked the winds and the waves, and it was completely calm.
-
-27 The men were amazed and asked, “What kind of man is this? Even the winds and the waves obey him!”
-
-Jesus Restores Two Demon-Possessed Men
-28 When he arrived at the other side in the region of the Gadarenes,[c] two demon-possessed men coming from the tombs met him. They were so violent that no one could pass that way. 29 “What do you want with us, Son of God?” they shouted. “Have you come here to torture us before the appointed time?”
-
-30 Some distance from them a large herd of pigs was feeding. 31 The demons begged Jesus, “If you drive us out, send us into the herd of pigs.”
-
-32 He said to them, “Go!” So they came out and went into the pigs, and the whole herd rushed down the steep bank into the lake and died in the water. 33 Those tending the pigs ran off, went into the town and reported all this, including what had happened to the demon-possessed men. 34 Then the whole town went out to meet Jesus. And when they saw him, they pleaded with him to leave their region.
-            </p>
+              </p>
           </div>
 
           <div
@@ -402,51 +376,44 @@ Jesus Restores Two Demon-Possessed Men
   <h2  className={styles.chapter}>Genesis Chapter IX</h2>
             <p>
             
-9 Jesus stepped into a boat, crossed over and came to his own town. 2 Some men brought to him a paralyzed man, lying on a mat. When Jesus saw their faith, he said to the man, “Take heart, son; your sins are forgiven.”
+<h4>God’s Covenant With Noah</h4>
+9 Then God blessed Noah and his sons, saying to them, “Be fruitful and increase in number and fill the earth. 2 The fear and dread of you will fall on all the beasts of the earth, and on all the birds in the sky, on every creature that moves along the ground, and on all the fish in the sea; they are given into your hands. 3 Everything that lives and moves about will be food for you. Just as I gave you the green plants, I now give you everything.
 
-3 At this, some of the teachers of the law said to themselves, “This fellow is blaspheming!”
+4 “But you must not eat meat that has its lifeblood still in it. 5 And for your lifeblood I will surely demand an accounting. I will demand an accounting from every animal. And from each human being, too, I will demand an accounting for the life of another human being.
 
-4 Knowing their thoughts, Jesus said, “Why do you entertain evil thoughts in your hearts? 5 Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’? 6 But I want you to know that the Son of Man has authority on earth to forgive sins.” So he said to the paralyzed man, “Get up, take your mat and go home.” 7 Then the man got up and went home. 8 When the crowd saw this, they were filled with awe; and they praised God, who had given such authority to man.
+6 “Whoever sheds human blood,
+    by humans shall their blood be shed;
+for in the image of God
+    has God made mankind.
 
-The Calling of Matthew
-9 As Jesus went on from there, he saw a man named Matthew sitting at the tax collector’s booth. “Follow me,” he told him, and Matthew got up and followed him.
+7 As for you, be fruitful and increase in number; multiply on the earth and increase upon it.”
 
-10 While Jesus was having dinner at Matthew’s house, many tax collectors and sinners came and ate with him and his disciples. 11 When the Pharisees saw this, they asked his disciples, “Why does your teacher eat with tax collectors and sinners?”
+8 Then God said to Noah and to his sons with him: 9 “I now establish my covenant with you and with your descendants after you 10 and with every living creature that was with you—the birds, the livestock and all the wild animals, all those that came out of the ark with you—every living creature on earth. 11 I establish my covenant with you: Never again will all life be destroyed by the waters of a flood; never again will there be a flood to destroy the earth.”
 
-12 On hearing this, Jesus said, “It is not the healthy who need a doctor, but the sick. 13 But go and learn what this means: ‘I desire mercy, not sacrifice.’[a] For I have not come to call the righteous, but sinners.”
+12 And God said, “This is the sign of the covenant I am making between me and you and every living creature with you, a covenant for all generations to come: 13 I have set my rainbow in the clouds, and it will be the sign of the covenant between me and the earth. 14 Whenever I bring clouds over the earth and the rainbow appears in the clouds, 15 I will remember my covenant between me and you and all living creatures of every kind. Never again will the waters become a flood to destroy all life. 16 Whenever the rainbow appears in the clouds, I will see it and remember the everlasting covenant between God and all living creatures of every kind on the earth.”
 
-Jesus Questioned About Fasting
-14 Then John’s disciples came and asked him, “How is it that we and the Pharisees fast often, but your disciples do not fast?”
+17 So God said to Noah, “This is the sign of the covenant I have established between me and all life on the earth.”
 
-15 Jesus answered, “How can the guests of the bridegroom mourn while he is with them? The time will come when the bridegroom will be taken from them; then they will fast.
+The Sons of Noah
+18 The sons of Noah who came out of the ark were Shem, Ham and Japheth. (Ham was the father of Canaan.) 19 These were the three sons of Noah, and from them came the people who were scattered over the whole earth.
 
-16 “No one sews a patch of unshrunk cloth on an old garment, for the patch will pull away from the garment, making the tear worse. 17 Neither do people pour new wine into old wineskins. If they do, the skins will burst; the wine will run out and the wineskins will be ruined. No, they pour new wine into new wineskins, and both are preserved.”
+20 Noah, a man of the soil, proceeded[a] to plant a vineyard. 21 When he drank some of its wine, he became drunk and lay uncovered inside his tent. 22 Ham, the father of Canaan, saw his father naked and told his two brothers outside. 23 But Shem and Japheth took a garment and laid it across their shoulders; then they walked in backward and covered their father’s naked body. Their faces were turned the other way so that they would not see their father naked.
 
-Jesus Raises a Dead Girl and Heals a Sick Woman
-18 While he was saying this, a synagogue leader came and knelt before him and said, “My daughter has just died. But come and put your hand on her, and she will live.” 19 Jesus got up and went with him, and so did his disciples.
+24 When Noah awoke from his wine and found out what his youngest son had done to him, 25 he said,
 
-20 Just then a woman who had been subject to bleeding for twelve years came up behind him and touched the edge of his cloak. 21 She said to herself, “If I only touch his cloak, I will be healed.”
+“Cursed be Canaan!
+    The lowest of slaves
+    will he be to his brothers.”
 
-22 Jesus turned and saw her. “Take heart, daughter,” he said, “your faith has healed you.” And the woman was healed at that moment.
+26 He also said,
 
-23 When Jesus entered the synagogue leader’s house and saw the noisy crowd and people playing pipes, 24 he said, “Go away. The girl is not dead but asleep.” But they laughed at him. 25 After the crowd had been put outside, he went in and took the girl by the hand, and she got up. 26 News of this spread through all that region.
+“Praise be to the Lord, the God of Shem!
+    May Canaan be the slave of Shem.
+27 May God extend Japheth’s[b] territory;
+    may Japheth live in the tents of Shem,
+    and may Canaan be the slave of Japheth.”
 
-Jesus Heals the Blind and the Mute
-27 As Jesus went on from there, two blind men followed him, calling out, “Have mercy on us, Son of David!”
-
-28 When he had gone indoors, the blind men came to him, and he asked them, “Do you believe that I am able to do this?”
-
-“Yes, Lord,” they replied.
-
-29 Then he touched their eyes and said, “According to your faith let it be done to you”; 30 and their sight was restored. Jesus warned them sternly, “See that no one knows about this.” 31 But they went out and spread the news about him all over that region.
-
-32 While they were going out, a man who was demon-possessed and could not talk was brought to Jesus. 33 And when the demon was driven out, the man who had been mute spoke. The crowd was amazed and said, “Nothing like this has ever been seen in Israel.”
-
-34 But the Pharisees said, “It is by the prince of demons that he drives out demons.”
-
-The Workers Are Few
-35 Jesus went through all the towns and villages, teaching in their synagogues, proclaiming the good news of the kingdom and healing every disease and sickness. 36 When he saw the crowds, he had compassion on them, because they were harassed and helpless, like sheep without a shepherd. 37 Then he said to his disciples, “The harvest is plentiful but the workers are few. 38 Ask the Lord of the harvest, therefore, to send out workers into his harvest field.”
-
+28 After the flood Noah lived 350 years. 29 Noah lived a total of 950 years, and then he died.
 
             </p>
           </div>
@@ -457,34 +424,78 @@ The Workers Are Few
              <h2  className={styles.chapter}>Genesis Chapter X</h2>
             <p>
             
-10 Jesus called his twelve disciples to him and gave them authority to drive out impure spirits and to heal every disease and sickness.
+<h4>The Table of Nations</h4>
+10 This is the account of Shem, Ham and Japheth, Noah’s sons, who themselves had sons after the flood.
 
-2 These are the names of the twelve apostles: first, Simon (who is called Peter) and his brother Andrew; James son of Zebedee, and his brother John; 3 Philip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus, and Thaddaeus; 4 Simon the Zealot and Judas Iscariot, who betrayed him.
+The Japhethites
+2 The sons[a] of Japheth:
 
-5 These twelve Jesus sent out with the following instructions: “Do not go among the Gentiles or enter any town of the Samaritans. 6 Go rather to the lost sheep of Israel. 7 As you go, proclaim this message: ‘The kingdom of heaven has come near.’ 8 Heal the sick, raise the dead, cleanse those who have leprosy,[a] drive out demons. Freely you have received; freely give.
+Gomer, Magog, Madai, Javan, Tubal, Meshek and Tiras.
 
-9 “Do not get any gold or silver or copper to take with you in your belts— 10 no bag for the journey or extra shirt or sandals or a staff, for the worker is worth his keep. 11 Whatever town or village you enter, search there for some worthy person and stay at their house until you leave. 12 As you enter the home, give it your greeting. 13 If the home is deserving, let your peace rest on it; if it is not, let your peace return to you. 14 If anyone will not welcome you or listen to your words, leave that home or town and shake the dust off your feet. 15 Truly I tell you, it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town.
+3 The sons of Gomer:
 
-16 “I am sending you out like sheep among wolves. Therefore be as shrewd as snakes and as innocent as doves. 17 Be on your guard; you will be handed over to the local councils and be flogged in the synagogues. 18 On my account you will be brought before governors and kings as witnesses to them and to the Gentiles. 19 But when they arrest you, do not worry about what to say or how to say it. At that time you will be given what to say, 20 for it will not be you speaking, but the Spirit of your Father speaking through you.
+Ashkenaz, Riphath and Togarmah.
 
-21 “Brother will betray brother to death, and a father his child; children will rebel against their parents and have them put to death. 22 You will be hated by everyone because of me, but the one who stands firm to the end will be saved. 23 When you are persecuted in one place, flee to another. Truly I tell you, you will not finish going through the towns of Israel before the Son of Man comes.
+4 The sons of Javan:
 
-24 “The student is not above the teacher, nor a servant above his master. 25 It is enough for students to be like their teachers, and servants like their masters. If the head of the house has been called Beelzebul, how much more the members of his household!
+Elishah, Tarshish, the Kittites and the Rodanites.[b] 5 (From these the maritime peoples spread out into their territories by their clans within their nations, each with its own language.)
 
-26 “So do not be afraid of them, for there is nothing concealed that will not be disclosed, or hidden that will not be made known. 27 What I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the roofs. 28 Do not be afraid of those who kill the body but cannot kill the soul. Rather, be afraid of the One who can destroy both soul and body in hell. 29 Are not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father’s care.[b] 30 And even the very hairs of your head are all numbered. 31 So don’t be afraid; you are worth more than many sparrows.
+The Hamites
+6 The sons of Ham:
 
-32 “Whoever acknowledges me before others, I will also acknowledge before my Father in heaven. 33 But whoever disowns me before others, I will disown before my Father in heaven.
+Cush, Egypt, Put and Canaan.
 
-34 “Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword. 35 For I have come to turn
+7 The sons of Cush:
 
-“‘a man against his father,
-    a daughter against her mother,
-a daughter-in-law against her mother-in-law—
-36     a man’s enemies will be the members of his own household.’[c]
+Seba, Havilah, Sabtah, Raamah and Sabteka.
 
-37 “Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me. 38 Whoever does not take up their cross and follow me is not worthy of me. 39 Whoever finds their life will lose it, and whoever loses their life for my sake will find it.
+The sons of Raamah:
 
-40 “Anyone who welcomes you welcomes me, and anyone who welcomes me welcomes the one who sent me. 41 Whoever welcomes a prophet as a prophet will receive a prophet’s reward, and whoever welcomes a righteous person as a righteous person will receive a righteous person’s reward. 42 And if anyone gives even a cup of cold water to one of these little ones who is my disciple, truly I tell you, that person will certainly not lose their reward.”
+Sheba and Dedan.
+
+8 Cush was the father[c] of Nimrod, who became a mighty warrior on the earth. 9 He was a mighty hunter before the Lord; that is why it is said, “Like Nimrod, a mighty hunter before the Lord.” 10 The first centers of his kingdom were Babylon, Uruk, Akkad and Kalneh, in[d] Shinar.[e] 11 From that land he went to Assyria, where he built Nineveh, Rehoboth Ir,[f] Calah 12 and Resen, which is between Nineveh and Calah—which is the great city.
+
+13 Egypt was the father of
+
+the Ludites, Anamites, Lehabites, Naphtuhites, 14 Pathrusites, Kasluhites (from whom the Philistines came) and Caphtorites.
+
+15 Canaan was the father of
+
+Sidon his firstborn,[g] and of the Hittites, 16 Jebusites, Amorites, Girgashites, 17 Hivites, Arkites, Sinites, 18 Arvadites, Zemarites and Hamathites.
+
+Later the Canaanite clans scattered 19 and the borders of Canaan reached from Sidon toward Gerar as far as Gaza, and then toward Sodom, Gomorrah, Admah and Zeboyim, as far as Lasha.
+
+20 These are the sons of Ham by their clans and languages, in their territories and nations.
+
+The Semites
+21 Sons were also born to Shem, whose older brother was[h] Japheth; Shem was the ancestor of all the sons of Eber.
+
+22 The sons of Shem:
+
+Elam, Ashur, Arphaxad, Lud and Aram.
+
+23 The sons of Aram:
+
+Uz, Hul, Gether and Meshek.[i]
+
+24 Arphaxad was the father of[j] Shelah,
+
+and Shelah the father of Eber.
+
+25 Two sons were born to Eber:
+
+One was named Peleg,[k] because in his time the earth was divided; his brother was named Joktan.
+
+26 Joktan was the father of
+
+Almodad, Sheleph, Hazarmaveth, Jerah, 27 Hadoram, Uzal, Diklah, 28 Obal, Abimael, Sheba, 29 Ophir, Havilah and Jobab. All these were sons of Joktan.
+
+30 The region where they lived stretched from Mesha toward Sephar, in the eastern hill country.
+
+31 These are the sons of Shem by their clans and languages, in their territories and nations.
+
+32 These are the clans of Noah’s sons, according to their lines of descent, within their nations. From these the nations spread out over the earth after the flood.”
+  
             </p>
           </div>
 
@@ -494,37 +505,45 @@ a daughter-in-law against her mother-in-law—
              <h2  className={styles.chapter}>Genesis Chapter XI</h2>
             <p>
             
-11 After Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in the towns of Galilee.[a]
+<h4>The Tower of Babel</h4>
+11 Now the whole world had one language and a common speech. 2 As people moved eastward,[a] they found a plain in Shinar[b] and settled there.
 
-2 When John, who was in prison, heard about the deeds of the Messiah, he sent his disciples 3 to ask him, “Are you the one who is to come, or should we expect someone else?”
+3 They said to each other, “Come, let’s make bricks and bake them thoroughly.” They used brick instead of stone, and tar for mortar. 4 Then they said, “Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves; otherwise we will be scattered over the face of the whole earth.”
 
-4 Jesus replied, “Go back and report to John what you hear and see: 5 The blind receive sight, the lame walk, those who have leprosy[b] are cleansed, the deaf hear, the dead are raised, and the good news is proclaimed to the poor. 6 Blessed is anyone who does not stumble on account of me.”
+5 But the Lord came down to see the city and the tower the people were building. 6 The Lord said, “If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them. 7 Come, let us go down and confuse their language so they will not understand each other.”
 
-7 As John’s disciples were leaving, Jesus began to speak to the crowd about John: “What did you go out into the wilderness to see? A reed swayed by the wind? 8 If not, what did you go out to see? A man dressed in fine clothes? No, those who wear fine clothes are in kings’ palaces. 9 Then what did you go out to see? A prophet? Yes, I tell you, and more than a prophet. 10 This is the one about whom it is written:
+8 So the Lord scattered them from there over all the earth, and they stopped building the city. 9 That is why it was called Babel[c]—because there the Lord confused the language of the whole world. From there the Lord scattered them over the face of the whole earth.
 
-“‘I will send my messenger ahead of you,
-    who will prepare your way before you.’[c]
+From Shem to Abram
+10 This is the account of Shem’s family line.
 
-11 Truly I tell you, among those born of women there has not risen anyone greater than John the Baptist; yet whoever is least in the kingdom of heaven is greater than he. 12 From the days of John the Baptist until now, the kingdom of heaven has been subjected to violence,[d] and violent people have been raiding it. 13 For all the Prophets and the Law prophesied until John. 14 And if you are willing to accept it, he is the Elijah who was to come. 15 Whoever has ears, let them hear.
+Two years after the flood, when Shem was 100 years old, he became the father[d] of Arphaxad. 11 And after he became the father of Arphaxad, Shem lived 500 years and had other sons and daughters.
 
-16 “To what can I compare this generation? They are like children sitting in the marketplaces and calling out to others:
+12 When Arphaxad had lived 35 years, he became the father of Shelah. 13 And after he became the father of Shelah, Arphaxad lived 403 years and had other sons and daughters.[e]
 
-17 “‘We played the pipe for you,
-    and you did not dance;
-we sang a dirge,
-    and you did not mourn.’
+14 When Shelah had lived 30 years, he became the father of Eber. 15 And after he became the father of Eber, Shelah lived 403 years and had other sons and daughters.
 
-18 For John came neither eating nor drinking, and they say, ‘He has a demon.’ 19 The Son of Man came eating and drinking, and they say, ‘Here is a glutton and a drunkard, a friend of tax collectors and sinners.’ But wisdom is proved right by her deeds.”
+16 When Eber had lived 34 years, he became the father of Peleg. 17 And after he became the father of Peleg, Eber lived 430 years and had other sons and daughters.
 
-Woe on Unrepentant Towns
-20 Then Jesus began to denounce the towns in which most of his miracles had been performed, because they did not repent. 21 “Woe to you, Chorazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago in sackcloth and ashes. 22 But I tell you, it will be more bearable for Tyre and Sidon on the day of judgment than for you. 23 And you, Capernaum, will you be lifted to the heavens? No, you will go down to Hades.[e] For if the miracles that were performed in you had been performed in Sodom, it would have remained to this day. 24 But I tell you that it will be more bearable for Sodom on the day of judgment than for you.”
+18 When Peleg had lived 30 years, he became the father of Reu. 19 And after he became the father of Reu, Peleg lived 209 years and had other sons and daughters.
 
-The Father Revealed in the Son
-25 At that time Jesus said, “I praise you, Father, Lord of heaven and earth, because you have hidden these things from the wise and learned, and revealed them to little children. 26 Yes, Father, for this is what you were pleased to do.
+20 When Reu had lived 32 years, he became the father of Serug. 21 And after he became the father of Serug, Reu lived 207 years and had other sons and daughters.
 
-27 “All things have been committed to me by my Father. No one knows the Son except the Father, and no one knows the Father except the Son and those to whom the Son chooses to reveal him.
+22 When Serug had lived 30 years, he became the father of Nahor. 23 And after he became the father of Nahor, Serug lived 200 years and had other sons and daughters.
 
-28 “Come to me, all you who are weary and burdened, and I will give you rest. 29 Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. 30 For my yoke is easy and my burden is light.”
+24 When Nahor had lived 29 years, he became the father of Terah. 25 And after he became the father of Terah, Nahor lived 119 years and had other sons and daughters.
+
+26 After Terah had lived 70 years, he became the father of Abram, Nahor and Haran.
+
+Abram’s Family
+27 This is the account of Terah’s family line.
+
+Terah became the father of Abram, Nahor and Haran. And Haran became the father of Lot. 28 While his father Terah was still alive, Haran died in Ur of the Chaldeans, in the land of his birth. 29 Abram and Nahor both married. The name of Abram’s wife was Sarai, and the name of Nahor’s wife was Milkah; she was the daughter of Haran, the father of both Milkah and Iskah. 30 Now Sarai was childless because she was not able to conceive.
+
+31 Terah took his son Abram, his grandson Lot son of Haran, and his daughter-in-law Sarai, the wife of his son Abram, and together they set out from Ur of the Chaldeans to go to Canaan. But when they came to Harran, they settled there.
+
+32 Terah lived 205 years, and he died in Harran.
+  
             </p>
           </div>
 
