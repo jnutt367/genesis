@@ -152,142 +152,151 @@ The Beginning
           <div
             className={styles.card}
           >
-             <h2  className={styles.chapter}>Matthew Chapter III</h2>
+             <h2  className={styles.chapter}>Genesis Chapter III</h2>
             <p>
-3 In those days John the Baptist came, preaching in the wilderness of Judea 2 and saying, “Repent, for the kingdom of heaven has come near.” 3 This is he who was spoken of through the prophet Isaiah:
+The Fall
+3 Now the serpent was more crafty than any of the wild animals the Lord God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’?”
 
-“A voice of one calling in the wilderness,
-‘Prepare the way for the Lord,
-    make straight paths for him.’”[a]
+2 The woman said to the serpent, “We may eat fruit from the trees in the garden, 3 but God did say, ‘You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.’”
 
-4 John’s clothes were made of camel’s hair, and he had a leather belt around his waist. His food was locusts and wild honey. 5 People went out to him from Jerusalem and all Judea and the whole region of the Jordan. 6 Confessing their sins, they were baptized by him in the Jordan River.
+4 “You will not certainly die,” the serpent said to the woman. 5 “For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil.”
 
-7 But when he saw many of the Pharisees and Sadducees coming to where he was baptizing, he said to them: “You brood of vipers! Who warned you to flee from the coming wrath? 8 Produce fruit in keeping with repentance. 9 And do not think you can say to yourselves, ‘We have Abraham as our father.’ I tell you that out of these stones God can raise up children for Abraham. 10 The ax is already at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.
+6 When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it. 7 Then the eyes of both of them were opened, and they realized they were naked; so they sewed fig leaves together and made coverings for themselves.
 
-11 “I baptize you with[b] water for repentance. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with[c] the Holy Spirit and fire. 12 His winnowing fork is in his hand, and he will clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire.”
+8 Then the man and his wife heard the sound of the Lord God as he was walking in the garden in the cool of the day, and they hid from the Lord God among the trees of the garden. 9 But the Lord God called to the man, “Where are you?”
 
-The Baptism of Jesus
-13 Then Jesus came from Galilee to the Jordan to be baptized by John. 14 But John tried to deter him, saying, “I need to be baptized by you, and do you come to me?”
+10 He answered, “I heard you in the garden, and I was afraid because I was naked; so I hid.”
 
-15 Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness.” Then John consented.
+11 And he said, “Who told you that you were naked? Have you eaten from the tree that I commanded you not to eat from?”
 
-16 As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. 17 And a voice from heaven said, “This is my Son, whom I love; with him I am well pleased.”</p>
-          </div>
+12 The man said, “The woman you put here with me—she gave me some fruit from the tree, and I ate it.”
+
+13 Then the Lord God said to the woman, “What is this you have done?”
+
+The woman said, “The serpent deceived me, and I ate.”
+
+14 So the Lord God said to the serpent, “Because you have done this,
+
+“Cursed are you above all livestock
+    and all wild animals!
+You will crawl on your belly
+    and you will eat dust
+    all the days of your life.
+15 And I will put enmity
+    between you and the woman,
+    and between your offspring[a] and hers;
+he will crush[b] your head,
+    and you will strike his heel.”
+
+16 To the woman he said,
+
+“I will make your pains in childbearing very severe;
+    with painful labor you will give birth to children.
+Your desire will be for your husband,
+    and he will rule over you.”
+
+17 To Adam he said, “Because you listened to your wife and ate fruit from the tree about which I commanded you, ‘You must not eat from it,’
+
+“Cursed is the ground because of you;
+    through painful toil you will eat food from it
+    all the days of your life.
+18 It will produce thorns and thistles for you,
+    and you will eat the plants of the field.
+19 By the sweat of your brow
+    you will eat your food
+until you return to the ground,
+    since from it you were taken;
+for dust you are
+    and to dust you will return.”
+
+20 Adam[c] named his wife Eve,[d] because she would become the mother of all the living.
+
+21 The Lord God made garments of skin for Adam and his wife and clothed them. 22 And the Lord God said, “The man has now become like one of us, knowing good and evil. He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever.” 23 So the Lord God banished him from the Garden of Eden to work the ground from which he had been taken. 24 After he drove the man out, he placed on the east side[e] of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life.
+  </p>
+  </div>
 
           <div
             className={styles.card}
           >
-             <h2  className={styles.chapter}>Matthew Chapter IV</h2>
+             <h2  className={styles.chapter}>Genesis Chapter IV</h2>
             <p>
             
-4 Then Jesus was led by the Spirit into the wilderness to be tempted[a] by the devil. 2 After fasting forty days and forty nights, he was hungry. 3 The tempter came to him and said, “If you are the Son of God, tell these stones to become bread.”
+Cain and Abel
+4 Adam[a] made love to his wife Eve, and she became pregnant and gave birth to Cain.[b] She said, “With the help of the Lord I have brought forth[c] a man.” 2 Later she gave birth to his brother Abel.
 
-4 Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’[b]”
+Now Abel kept flocks, and Cain worked the soil. 3 In the course of time Cain brought some of the fruits of the soil as an offering to the Lord. 4 And Abel also brought an offering—fat portions from some of the firstborn of his flock. The Lord looked with favor on Abel and his offering, 5 but on Cain and his offering he did not look with favor. So Cain was very angry, and his face was downcast.
 
-5 Then the devil took him to the holy city and had him stand on the highest point of the temple. 6 “If you are the Son of God,” he said, “throw yourself down. For it is written:
+6 Then the Lord said to Cain, “Why are you angry? Why is your face downcast? 7 If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must rule over it.”
 
-“‘He will command his angels concerning you,
-    and they will lift you up in their hands,
-    so that you will not strike your foot against a stone.’[c]”
+8 Now Cain said to his brother Abel, “Let’s go out to the field.”[d] While they were in the field, Cain attacked his brother Abel and killed him.
 
-7 Jesus answered him, “It is also written: ‘Do not put the Lord your God to the test.’[d]”
+9 Then the Lord said to Cain, “Where is your brother Abel?”
 
-8 Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their splendor. 9 “All this I will give you,” he said, “if you will bow down and worship me.”
+“I don’t know,” he replied. “Am I my brother’s keeper?”
 
-10 Jesus said to him, “Away from me, Satan! For it is written: ‘Worship the Lord your God, and serve him only.’[e]”
+10 The Lord said, “What have you done? Listen! Your brother’s blood cries out to me from the ground. 11 Now you are under a curse and driven from the ground, which opened its mouth to receive your brother’s blood from your hand. 12 When you work the ground, it will no longer yield its crops for you. You will be a restless wanderer on the earth.”
 
-11 Then the devil left him, and angels came and attended him.
+13 Cain said to the Lord, “My punishment is more than I can bear. 14 Today you are driving me from the land, and I will be hidden from your presence; I will be a restless wanderer on the earth, and whoever finds me will kill me.”
 
-Jesus Begins to Preach
-12 When Jesus heard that John had been put in prison, he withdrew to Galilee. 13 Leaving Nazareth, he went and lived in Capernaum, which was by the lake in the area of Zebulun and Naphtali— 14 to fulfill what was said through the prophet Isaiah:
+15 But the Lord said to him, “Not so[e]; anyone who kills Cain will suffer vengeance seven times over.” Then the Lord put a mark on Cain so that no one who found him would kill him. 16 So Cain went out from the Lord’s presence and lived in the land of Nod,[f] east of Eden.
 
-15 “Land of Zebulun and land of Naphtali,
-    the Way of the Sea, beyond the Jordan,
-    Galilee of the Gentiles—
-16 the people living in darkness
-    have seen a great light;
-on those living in the land of the shadow of death
-    a light has dawned.”[f]
+17 Cain made love to his wife, and she became pregnant and gave birth to Enoch. Cain was then building a city, and he named it after his son Enoch. 18 To Enoch was born Irad, and Irad was the father of Mehujael, and Mehujael was the father of Methushael, and Methushael was the father of Lamech.
 
-17 From that time on Jesus began to preach, “Repent, for the kingdom of heaven has come near.”
+19 Lamech married two women, one named Adah and the other Zillah. 20 Adah gave birth to Jabal; he was the father of those who live in tents and raise livestock. 21 His brother’s name was Jubal; he was the father of all who play stringed instruments and pipes. 22 Zillah also had a son, Tubal-Cain, who forged all kinds of tools out of[g] bronze and iron. Tubal-Cain’s sister was Naamah.
 
-Jesus Calls His First Disciples
-18 As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen. 19 “Come, follow me,” Jesus said, “and I will send you out to fish for people.” 20 At once they left their nets and followed him.
+23 Lamech said to his wives,
 
-21 Going on from there, he saw two other brothers, James son of Zebedee and his brother John. They were in a boat with their father Zebedee, preparing their nets. Jesus called them, 22 and immediately they left the boat and their father and followed him.
+“Adah and Zillah, listen to me;
+    wives of Lamech, hear my words.
+I have killed a man for wounding me,
+    a young man for injuring me.
+24 If Cain is avenged seven times,
+    then Lamech seventy-seven times.”
 
-Jesus Heals the Sick
-23 Jesus went throughout Galilee, teaching in their synagogues, proclaiming the good news of the kingdom, and healing every disease and sickness among the people. 24 News about him spread all over Syria, and people brought to him all who were ill with various diseases, those suffering severe pain, the demon-possessed, those having seizures, and the paralyzed; and he healed them. 25 Large crowds from Galilee, the Decapolis,[g] Jerusalem, Judea and the region across the Jordan followed him.
+25 Adam made love to his wife again, and she gave birth to a son and named him Seth,[h] saying, “God has granted me another child in place of Abel, since Cain killed him.” 26 Seth also had a son, and he named him Enosh.
 
-
+At that time people began to call on[i] the name of the Lord.
             </p>
           </div>
           <div
             className={styles.card}
           >
-           <h2  className={styles.chapter}>Matthew Chapter V</h2>
+           <h2  className={styles.chapter}>Genesis Chapter V</h2>
             <p>
             
-5 Now when Jesus saw the crowds, he went up on a mountainside and sat down. His disciples came to him, 2 and he began to teach them.
+From Adam to Noah
+5 This is the written account of Adam’s family line.
 
-The Beatitudes
-He said:
+When God created mankind, he made them in the likeness of God. 2 He created them male and female and blessed them. And he named them “Mankind”[a] when they were created.
 
-3 “Blessed are the poor in spirit,
-    for theirs is the kingdom of heaven.
-4 Blessed are those who mourn,
-    for they will be comforted.
-5 Blessed are the meek,
-    for they will inherit the earth.
-6 Blessed are those who hunger and thirst for righteousness,
-    for they will be filled.
-7 Blessed are the merciful,
-    for they will be shown mercy.
-8 Blessed are the pure in heart,
-    for they will see God.
-9 Blessed are the peacemakers,
-    for they will be called children of God.
-10 Blessed are those who are persecuted because of righteousness,
-    for theirs is the kingdom of heaven.
+3 When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he named him Seth. 4 After Seth was born, Adam lived 800 years and had other sons and daughters. 5 Altogether, Adam lived a total of 930 years, and then he died.
 
-11 “Blessed are you when people insult you, persecute you and falsely say all kinds of evil against you because of me. 12 Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets who were before you.
+6 When Seth had lived 105 years, he became the father[b] of Enosh. 7 After he became the father of Enosh, Seth lived 807 years and had other sons and daughters. 8 Altogether, Seth lived a total of 912 years, and then he died.
 
-Salt and Light
-13 “You are the salt of the earth. But if the salt loses its saltiness, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled underfoot.
+9 When Enosh had lived 90 years, he became the father of Kenan. 10 After he became the father of Kenan, Enosh lived 815 years and had other sons and daughters. 11 Altogether, Enosh lived a total of 905 years, and then he died.
 
-14 “You are the light of the world. A town built on a hill cannot be hidden. 15 Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house. 16 In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.
+12 When Kenan had lived 70 years, he became the father of Mahalalel. 13 After he became the father of Mahalalel, Kenan lived 840 years and had other sons and daughters. 14 Altogether, Kenan lived a total of 910 years, and then he died.
 
-The Fulfillment of the Law
-17 “Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them. 18 For truly I tell you, until heaven and earth disappear, not the smallest letter, not the least stroke of a pen, will by any means disappear from the Law until everything is accomplished. 19 Therefore anyone who sets aside one of the least of these commands and teaches others accordingly will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven. 20 For I tell you that unless your righteousness surpasses that of the Pharisees and the teachers of the law, you will certainly not enter the kingdom of heaven.
+15 When Mahalalel had lived 65 years, he became the father of Jared. 16 After he became the father of Jared, Mahalalel lived 830 years and had other sons and daughters. 17 Altogether, Mahalalel lived a total of 895 years, and then he died.
 
-Murder
-21 “You have heard that it was said to the people long ago, ‘You shall not murder,[a] and anyone who murders will be subject to judgment.’ 22 But I tell you that anyone who is angry with a brother or sister[b][c] will be subject to judgment. Again, anyone who says to a brother or sister, ‘Raca,’[d] is answerable to the court. And anyone who says, ‘You fool!’ will be in danger of the fire of hell.
+18 When Jared had lived 162 years, he became the father of Enoch. 19 After he became the father of Enoch, Jared lived 800 years and had other sons and daughters. 20 Altogether, Jared lived a total of 962 years, and then he died.
 
-23 “Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you, 24 leave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift.
+21 When Enoch had lived 65 years, he became the father of Methuselah. 22 After he became the father of Methuselah, Enoch walked faithfully with God 300 years and had other sons and daughters. 23 Altogether, Enoch lived a total of 365 years. 24 Enoch walked faithfully with God; then he was no more, because God took him away.
 
-25 “Settle matters quickly with your adversary who is taking you to court. Do it while you are still together on the way, or your adversary may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison. 26 Truly I tell you, you will not get out until you have paid the last penny.
+25 When Methuselah had lived 187 years, he became the father of Lamech. 26 After he became the father of Lamech, Methuselah lived 782 years and had other sons and daughters. 27 Altogether, Methuselah lived a total of 969 years, and then he died.
 
-Adultery
-27 “You have heard that it was said, ‘You shall not commit adultery.’[e] 28 But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart. 29 If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell. 30 And if your right hand causes you to stumble, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.
+28 When Lamech had lived 182 years, he had a son. 29 He named him Noah[c] and said, “He will comfort us in the labor and painful toil of our hands caused by the ground the Lord has cursed.” 30 After Noah was born, Lamech lived 595 years and had other sons and daughters. 31 Altogether, Lamech lived a total of 777 years, and then he died.
 
-Divorce
-31 “It has been said, ‘Anyone who divorces his wife must give her a certificate of divorce.’[f] 32 But I tell you that anyone who divorces his wife, except for sexual immorality, makes her the victim of adultery, and anyone who marries a divorced woman commits adultery.
+32 After Noah was 500 years old, he became the father of Shem, Ham and Japheth.
 
-Oaths
-33 “Again, you have heard that it was said to the people long ago, ‘Do not break your oath, but fulfill to the Lord the vows you have made.’ 34 But I tell you, do not swear an oath at all: either by heaven, for it is God’s throne; 35 or by the earth, for it is his footstool; or by Jerusalem, for it is the city of the Great King. 36 And do not swear by your head, for you cannot make even one hair white or black. 37 All you need to say is simply ‘Yes’ or ‘No’; anything beyond this comes from the evil one.[g]
-
-Eye for Eye
-38 “You have heard that it was said, ‘Eye for eye, and tooth for tooth.’[h] 39 But I tell you, do not resist an evil person. If anyone slaps you on the right cheek, turn to them the other cheek also. 40 And if anyone wants to sue you and take your shirt, hand over your coat as well. 41 If anyone forces you to go one mile, go with them two miles. 42 Give to the one who asks you, and do not turn away from the one who wants to borrow from you.
-
-Love for Enemies
-43 “You have heard that it was said, ‘Love your neighbor[i] and hate your enemy.’ 44 But I tell you, love your enemies and pray for those who persecute you, 45 that you may be children of your Father in heaven. He causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous. 46 If you love those who love you, what reward will you get? Are not even the tax collectors doing that? 47 And if you greet only your own people, what are you doing more than others? Do not even pagans do that? 48 Be perfect, therefore, as your heavenly Father is perfect.
+  
             </p>
           </div>
 
           <div
             className={styles.card}
           >
-           <h2  className={styles.chapter}>Matthew Chapter VI</h2>
+           <h2  className={styles.chapter}>Genesis Chapter VI</h2>
             <p>
            
 6 “Be careful not to practice your righteousness in front of others to be seen by them. If you do, you will have no reward from your Father in heaven.
@@ -332,7 +341,7 @@ Do Not Worry
           <div
             className={styles.card}
           >
-             <h2  className={styles.chapter}>Matthew Chapter VII</h2>
+             <h2  className={styles.chapter}>Genesis Chapter VII</h2>
             <p>
             
 7 “Do not judge, or you too will be judged. 2 For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you.
@@ -365,7 +374,7 @@ The Wise and Foolish Builders
           <div
             className={styles.card}
           > 
-           <h2  className={styles.chapter}>Matthew Chapter VIII</h2>
+           <h2  className={styles.chapter}>Genesis Chapter VIII</h2>
             <p>
             
 8 When Jesus came down from the mountainside, large crowds followed him. 2 A man with leprosy[a] came and knelt before him and said, “Lord, if you are willing, you can make me clean.”
@@ -419,7 +428,7 @@ Jesus Restores Two Demon-Possessed Men
           <div
             className={styles.card}
           >
-  <h2  className={styles.chapter}>Matthew Chapter IX</h2>
+  <h2  className={styles.chapter}>Genesis Chapter IX</h2>
             <p>
             
 9 Jesus stepped into a boat, crossed over and came to his own town. 2 Some men brought to him a paralyzed man, lying on a mat. When Jesus saw their faith, he said to the man, “Take heart, son; your sins are forgiven.”
@@ -474,7 +483,7 @@ The Workers Are Few
           <div
             className={styles.card}
           >
-             <h2  className={styles.chapter}>Matthew Chapter X</h2>
+             <h2  className={styles.chapter}>Genesis Chapter X</h2>
             <p>
             
 10 Jesus called his twelve disciples to him and gave them authority to drive out impure spirits and to heal every disease and sickness.
@@ -511,7 +520,7 @@ a daughter-in-law against her mother-in-law—
           <div
             className={styles.card}
           >
-             <h2  className={styles.chapter}>Matthew Chapter XI</h2>
+             <h2  className={styles.chapter}>Genesis Chapter XI</h2>
             <p>
             
 11 After Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in the towns of Galilee.[a]
@@ -610,7 +619,7 @@ Jesus’ Mother and Brothers
           <div
             className={styles.card}
           >
-           <h2  className={styles.chapter}>Matthew Chapter XIII</h2>
+           <h2  className={styles.chapter}>Genesis Chapter XIII</h2>
             <p>
             
 13 That same day Jesus went out of the house and sat by the lake. 2 Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore. 3 Then he told them many things in parables, saying: “A farmer went out to sow his seed. 4 As he was scattering the seed, some fell along the path, and the birds came and ate it up. 5 Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. 6 But when the sun came up, the plants were scorched, and they withered because they had no root. 7 Other seed fell among thorns, which grew up and choked the plants. 8 Still other seed fell on good soil, where it produced a crop—a hundred, sixty or thirty times what was sown. 9 Whoever has ears, let them hear.”
@@ -692,7 +701,7 @@ But Jesus said to them, “A prophet is not without honor except in his own town
           <div
             className={styles.card}
           >
-             <h2  className={styles.chapter}>Matthew Chapter XIV</h2>
+             <h2  className={styles.chapter}>Genesis Chapter XIV</h2>
             <p>
             
 14 At that time Herod the tetrarch heard the reports about Jesus, 2 and he said to his attendants, “This is John the Baptist; he has risen from the dead! That is why miraculous powers are at work in him.”
@@ -736,7 +745,7 @@ Then Peter got down out of the boat, walked on the water and came toward Jesus. 
           <div
             className={styles.card}
           >
-             <h2  className={styles.chapter}>Matthew Chapter XV</h2>
+             <h2  className={styles.chapter}>Genesis Chapter XV</h2>
             <p>
            
 15 Then some Pharisees and teachers of the law came to Jesus from Jerusalem and asked, 2 “Why do your disciples break the tradition of the elders? They don’t wash their hands before they eat!”
@@ -791,7 +800,7 @@ Jesus Feeds the Four Thousand
           <div
             className={styles.card}
           >
-             <h2  className={styles.chapter}>Matthew Chapter XVI</h2>
+             <h2  className={styles.chapter}>Genesis Chapter XVI</h2>
             <p>
            
 16 The Pharisees and Sadducees came to Jesus and tested him by asking him to show them a sign from heaven.
@@ -830,7 +839,7 @@ Jesus Predicts His Death
           </div>
 
           <div className={styles.card}>
-            <h2  className={styles.chapter}>Matthew Chapter XVII</h2>
+            <h2  className={styles.chapter}>Genesis Chapter XVII</h2>
             <p>
 17 After six days Jesus took with him Peter, James and John the brother of James, and led them up a high mountain by themselves. 2 There he was transfigured before them. His face shone like the sun, and his clothes became as white as the light. 3 Just then there appeared before them Moses and Elijah, talking with Jesus.
 
@@ -871,7 +880,7 @@ When Peter came into the house, Jesus was the first to speak. “What do you thi
           </div>
 
           <div className={styles.card}>
-            <h2  className={styles.chapter}>Matthew Chapter XVIII</h2>
+            <h2  className={styles.chapter}>Genesis Chapter XVIII</h2>
             <p>
 18 At that time the disciples came to Jesus and asked, “Who, then, is the greatest in the kingdom of heaven?”
 
@@ -917,7 +926,7 @@ The Parable of the Unmerciful Servant
           <div
             className={styles.card}
           >
-            <h2  className={styles.chapter}>Matthew Chapter XIX</h2>
+            <h2  className={styles.chapter}>Genesis Chapter XIX</h2>
             <p>
 19 When Jesus had finished saying these things, he left Galilee and went into the region of Judea to the other side of the Jordan. 2 Large crowds followed him, and he healed them there.
 
@@ -967,7 +976,7 @@ Jesus replied, “‘You shall not murder, you shall not commit adultery, you sh
           <div
             className={styles.card}
           >
-           <h2  className={styles.chapter}>Matthew Chapter XX</h2>
+           <h2  className={styles.chapter}>Genesis Chapter XX</h2>
             <p>
             T
 20 “For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard. 2 He agreed to pay them a denarius[a] for the day and sent them into his vineyard.
@@ -1021,7 +1030,7 @@ Two Blind Men Receive Sight
           <div
             className={styles.card}
           >
-         <h2  className={styles.chapter}>Matthew Chapter XXI</h2>
+         <h2  className={styles.chapter}>Genesis Chapter XXI</h2>
             <p>
             
 21 As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent two disciples, 2 saying to them, “Go to the village ahead of you, and at once you will find a donkey tied there, with her colt by her. Untie them and bring them to me. 3 If anyone says anything to you, say that the Lord needs them, and he will send them right away.”
@@ -1117,7 +1126,7 @@ the Lord has done this,
           <div
             className={styles.card}
           >
-           <h2  className={styles.chapter}>Matthew Chapter XXII</h2>
+           <h2  className={styles.chapter}>Genesis Chapter XXII</h2>
             <p>
            
 22 Jesus spoke to them again in parables, saying: 2 “The kingdom of heaven is like a king who prepared a wedding banquet for his son. 3 He sent his servants to those who had been invited to the banquet to tell them to come, but they refused to come.
@@ -1176,7 +1185,7 @@ until I put your enemies
           <div
             className={styles.card}
           >
-            <h2  className={styles.chapter}>Matthew Chapter XXIII</h2>
+            <h2  className={styles.chapter}>Genesis Chapter XXIII</h2>
             <p>
            
 23 Then Jesus said to the crowds and to his disciples: 2 “The teachers of the law and the Pharisees sit in Moses’ seat. 3 So you must be careful to do everything they tell you. But do not do what they do, for they do not practice what they preach. 4 They tie up heavy, cumbersome loads and put them on other people’s shoulders, but they themselves are not willing to lift a finger to move them.
@@ -1209,7 +1218,7 @@ Seven Woes on the Teachers of the Law and the Pharisees
           <div
             className={styles.card}
           >
-            <h2  className={styles.chapter}>Matthew Chapter XXIV</h2>
+            <h2  className={styles.chapter}>Genesis Chapter XXIV</h2>
             <p>
             The Destruction of the Temple and Signs of the End Times
 24 Jesus left the temple and was walking away when his disciples came up to him to call his attention to its buildings. 2 “Do you see all these things?” he asked. “Truly I tell you, not one stone here will be left on another; every one will be thrown down.”
@@ -1249,7 +1258,7 @@ The Day and Hour Unknown
           <div
             className={styles.card}
           >
-           <h2  className={styles.chapter}>Matthew Chapter XXV</h2>
+           <h2  className={styles.chapter}>Genesis Chapter XXV</h2>
             <p>
             
 25 “At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom. 2 Five of them were foolish and five were wise. 3 The foolish ones took their lamps but did not take any oil with them. 4 The wise ones, however, took oil in jars along with their lamps. 5 The bridegroom was a long time in coming, and they all became drowsy and fell asleep.
@@ -1307,7 +1316,7 @@ The Sheep and the Goats
           <div
             className={styles.card}
           >
-            <h2  className={styles.chapter}>Matthew Chapter XXVI</h2>
+            <h2  className={styles.chapter}>Genesis Chapter XXVI</h2>
             <p>
            
 26 When Jesus had finished saying all these things, he said to his disciples, 2 “As you know, the Passover is two days away—and the Son of Man will be handed over to be crucified.”
@@ -1422,7 +1431,7 @@ Immediately a rooster crowed. 75 Then Peter remembered the word Jesus had spoken
           <div
             className={styles.card}
           >
-           <h2  className={styles.chapter}>Matthew Chapter XXVII</h2>
+           <h2  className={styles.chapter}>Genesis Chapter XXVII</h2>
             <p>
            
 27 Early in the morning, all the chief priests and the elders of the people made their plans how to have Jesus executed. 2 So they bound him, led him away and handed him over to Pilate the governor.
@@ -1504,7 +1513,7 @@ The Guard at the Tomb
           <div
             className={styles.card}
           >
-          <h2  className={styles.chapter}>Matthew Chapter XXVIII</h2>
+          <h2  className={styles.chapter}>GenesisChapter XXVIII</h2>
             <p>
            
 28 After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.
