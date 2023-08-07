@@ -38,7 +38,7 @@ export default function Home() {
                             
 </div> 
 <p className={styles.parables}>
-       "In the beginning God created the heavens and the earth. 2 Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters."                            
+       "In the beginning God created the heavens and the earth. Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters."                            
 </p>
 <div className={styles.nav}>               
 
