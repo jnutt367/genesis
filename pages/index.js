@@ -299,42 +299,23 @@ When God created mankind, he made them in the likeness of God. 2 He created them
            <h2  className={styles.chapter}>Genesis Chapter VI</h2>
             <p>
            
-6 “Be careful not to practice your righteousness in front of others to be seen by them. If you do, you will have no reward from your Father in heaven.
+Wickedness in the World
+6 When human beings began to increase in number on the earth and daughters were born to them, 2 the sons of God saw that the daughters of humans were beautiful, and they married any of them they chose. 3 Then the Lord said, “My Spirit will not contend with[a] humans forever, for they are mortal[b]; their days will be a hundred and twenty years.”
 
-2 “So when you give to the needy, do not announce it with trumpets, as the hypocrites do in the synagogues and on the streets, to be honored by others. Truly I tell you, they have received their reward in full. 3 But when you give to the needy, do not let your left hand know what your right hand is doing, 4 so that your giving may be in secret. Then your Father, who sees what is done in secret, will reward you.
+4 The Nephilim were on the earth in those days—and also afterward—when the sons of God went to the daughters of humans and had children by them. They were the heroes of old, men of renown.
 
-Prayer
-5 “And when you pray, do not be like the hypocrites, for they love to pray standing in the synagogues and on the street corners to be seen by others. Truly I tell you, they have received their reward in full. 6 But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you. 7 And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words. 8 Do not be like them, for your Father knows what you need before you ask him.
+5 The Lord saw how great the wickedness of the human race had become on the earth, and that every inclination of the thoughts of the human heart was only evil all the time. 6 The Lord regretted that he had made human beings on the earth, and his heart was deeply troubled. 7 So the Lord said, “I will wipe from the face of the earth the human race I have created—and with them the animals, the birds and the creatures that move along the ground—for I regret that I have made them.” 8 But Noah found favor in the eyes of the Lord.
 
-9 “This, then, is how you should pray:
+Noah and the Flood
+9 This is the account of Noah and his family.
 
-“‘Our Father in heaven,
-hallowed be your name,
-10 your kingdom come,
-your will be done,
-    on earth as it is in heaven.
-11 Give us today our daily bread.
-12 And forgive us our debts,
-    as we also have forgiven our debtors.
-13 And lead us not into temptation,[a]
-    but deliver us from the evil one.[b]’
+Noah was a righteous man, blameless among the people of his time, and he walked faithfully with God. 10 Noah had three sons: Shem, Ham and Japheth.
 
-14 For if you forgive other people when they sin against you, your heavenly Father will also forgive you. 15 But if you do not forgive others their sins, your Father will not forgive your sins.
+11 Now the earth was corrupt in God’s sight and was full of violence. 12 God saw how corrupt the earth had become, for all the people on earth had corrupted their ways. 13 So God said to Noah, “I am going to put an end to all people, for the earth is filled with violence because of them. I am surely going to destroy both them and the earth. 14 So make yourself an ark of cypress[c] wood; make rooms in it and coat it with pitch inside and out. 15 This is how you are to build it: The ark is to be three hundred cubits long, fifty cubits wide and thirty cubits high.[d] 16 Make a roof for it, leaving below the roof an opening one cubit[e] high all around.[f] Put a door in the side of the ark and make lower, middle and upper decks. 17 I am going to bring floodwaters on the earth to destroy all life under the heavens, every creature that has the breath of life in it. Everything on earth will perish. 18 But I will establish my covenant with you, and you will enter the ark—you and your sons and your wife and your sons’ wives with you. 19 You are to bring into the ark two of all living creatures, male and female, to keep them alive with you. 20 Two of every kind of bird, of every kind of animal and of every kind of creature that moves along the ground will come to you to be kept alive. 21 You are to take every kind of food that is to be eaten and store it away as food for you and for them.”
 
-Fasting
-16 “When you fast, do not look somber as the hypocrites do, for they disfigure their faces to show others they are fasting. Truly I tell you, they have received their reward in full. 17 But when you fast, put oil on your head and wash your face, 18 so that it will not be obvious to others that you are fasting, but only to your Father, who is unseen; and your Father, who sees what is done in secret, will reward you.
+22 Noah did everything just as God commanded him.
 
-Treasures in Heaven
-19 “Do not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal. 20 But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal. 21 For where your treasure is, there your heart will be also.
-
-22 “The eye is the lamp of the body. If your eyes are healthy,[c] your whole body will be full of light. 23 But if your eyes are unhealthy,[d] your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!
-
-24 “No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.
-
-Do Not Worry
-25 “Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes? 26 Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they? 27 Can any one of you by worrying add a single hour to your life[e]?
-
-28 “And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin. 29 Yet I tell you that not even Solomon in all his splendor was dressed like one of these. 30 If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you—you of little faith? 31 So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ 32 For the pagans run after all these things, and your heavenly Father knows that you need them. 33 But seek first his kingdom and his righteousness, and all these things will be given to you as well. 34 Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
+  
             </p>
           </div>
 
@@ -343,31 +324,21 @@ Do Not Worry
           >
              <h2  className={styles.chapter}>Genesis Chapter VII</h2>
             <p>
-            
-7 “Do not judge, or you too will be judged. 2 For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you.
+7 The Lord then said to Noah, “Go into the ark, you and your whole family, because I have found you righteous in this generation. 2 Take with you seven pairs of every kind of clean animal, a male and its mate, and one pair of every kind of unclean animal, a male and its mate, 3 and also seven pairs of every kind of bird, male and female, to keep their various kinds alive throughout the earth. 4 Seven days from now I will send rain on the earth for forty days and forty nights, and I will wipe from the face of the earth every living creature I have made.”
 
-3 “Why do you look at the speck of sawdust in your brother’s eye and pay no attention to the plank in your own eye? 4 How can you say to your brother, ‘Let me take the speck out of your eye,’ when all the time there is a plank in your own eye? 5 You hypocrite, first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.
+5 And Noah did all that the Lord commanded him.
 
-6 “Do not give dogs what is sacred; do not throw your pearls to pigs. If you do, they may trample them under their feet, and turn and tear you to pieces.
+6 Noah was six hundred years old when the floodwaters came on the earth. 7 And Noah and his sons and his wife and his sons’ wives entered the ark to escape the waters of the flood. 8 Pairs of clean and unclean animals, of birds and of all creatures that move along the ground, 9 male and female, came to Noah and entered the ark, as God had commanded Noah. 10 And after the seven days the floodwaters came on the earth.
 
-Ask, Seek, Knock
-7 “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. 8 For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
+11 In the six hundredth year of Noah’s life, on the seventeenth day of the second month—on that day all the springs of the great deep burst forth, and the floodgates of the heavens were opened. 12 And rain fell on the earth forty days and forty nights.
 
-9 “Which of you, if your son asks for bread, will give him a stone? 10 Or if he asks for a fish, will give him a snake? 11 If you, then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him! 12 So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets.
+13 On that very day Noah and his sons, Shem, Ham and Japheth, together with his wife and the wives of his three sons, entered the ark. 14 They had with them every wild animal according to its kind, all livestock according to their kinds, every creature that moves along the ground according to its kind and every bird according to its kind, everything with wings. 15 Pairs of all creatures that have the breath of life in them came to Noah and entered the ark. 16 The animals going in were male and female of every living thing, as God had commanded Noah. Then the Lord shut him in.
 
-The Narrow and Wide Gates
-13 “Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. 14 But small is the gate and narrow the road that leads to life, and only a few find it.
+17 For forty days the flood kept coming on the earth, and as the waters increased they lifted the ark high above the earth. 18 The waters rose and increased greatly on the earth, and the ark floated on the surface of the water. 19 They rose greatly on the earth, and all the high mountains under the entire heavens were covered. 20 The waters rose and covered the mountains to a depth of more than fifteen cubits.[a][b] 21 Every living thing that moved on land perished—birds, livestock, wild animals, all the creatures that swarm over the earth, and all mankind. 22 Everything on dry land that had the breath of life in its nostrils died. 23 Every living thing on the face of the earth was wiped out; people and animals and the creatures that move along the ground and the birds were wiped from the earth. Only Noah was left, and those with him in the ark.
 
-True and False Prophets
-15 “Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves. 16 By their fruit you will recognize them. Do people pick grapes from thornbushes, or figs from thistles? 17 Likewise, every good tree bears good fruit, but a bad tree bears bad fruit. 18 A good tree cannot bear bad fruit, and a bad tree cannot bear good fruit. 19 Every tree that does not bear good fruit is cut down and thrown into the fire. 20 Thus, by their fruit you will recognize them.
+24 The waters flooded the earth for a hundred and fifty days.
 
-True and False Disciples
-21 “Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only the one who does the will of my Father who is in heaven. 22 Many will say to me on that day, ‘Lord, Lord, did we not prophesy in your name and in your name drive out demons and in your name perform many miracles?’ 23 Then I will tell them plainly, ‘I never knew you. Away from me, you evildoers!’
 
-The Wise and Foolish Builders
-24 “Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock. 25 The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock. 26 But everyone who hears these words of mine and does not put them into practice is like a foolish man who built his house on sand. 27 The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash.”
-
-28 When Jesus had finished saying these things, the crowds were amazed at his teaching, 29 because he taught as one who had authority, and not as their teachers of the law.
             </p>
           </div>
 
