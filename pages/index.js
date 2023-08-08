@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
    
 
-     <main className={styles.main}>
+     <main id="genesis" className={styles.main}>
       
       <div className={styles.hero}>
       
@@ -1286,9 +1286,9 @@ Jacob’s Dream at Bethel
  
   </main>
 
-<main id="first_timothy" className={styles.main}>
+<main id="exodus" className={styles.main}>
        
-        <div id="first_thessalonians" className={styles.hero}>
+        <div className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
                     <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
@@ -1298,7 +1298,7 @@ Jacob’s Dream at Bethel
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/timothy.png"
+                                                    src="/exodus.png"
                                                     alt="hero image for Thessalonians"
                                                     height={900}
                                                     width={2000}
@@ -1309,10 +1309,10 @@ Jacob’s Dream at Bethel
                         </div>
     <p className={styles.parables}>
 
-           Exodus follows Moses as he leads his peaople out of Egyptian slavery. Led by God most high.
+           Exodus follows Moses as he leads his people ( the Hebrews ) out of Egyptian slavery. Led by God most high.
 </p>                                                      
                   <div className={styles.nav2}>           
-      <a href="https://second-corinthians.vercel.app/#second_thessalonians">
+      <a href="https://mytorah.vercel.app/#genesis">
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
@@ -1332,7 +1332,7 @@ Jacob’s Dream at Bethel
                                 priority
                               /> 
        </a>
-         <a href="https://mark-alpha.vercel.app/#second_timothy">
+         <a href="https://mytorah.vercel.app/#leviticus">
            <Image 
                                 src="/next.webp"
                                 alt="next"
@@ -1344,8 +1344,8 @@ Jacob’s Dream at Bethel
         </a> 
          
                </div>
-               <div className={styles.iframe}> 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/7RoqnGcEjcs?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                        
+                                 <div className={styles.iframe}> 
+                                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/jH_aojNJM3E?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>
                                   
                               
@@ -1354,39 +1354,55 @@ Jacob’s Dream at Bethel
            <h2  className={styles.chapter2}>Exodus Chapter I</h2>
             <p> 
 
-                            1 Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,
-                            
-                            2 To Timothy my true son in the faith:
-                            
-                            Grace, mercy and peace from God the Father and Christ Jesus our Lord.
-                            
-                            Timothy Charged to Oppose False Teachers
-                            3 As I urged you when I went into Macedonia, stay there in Ephesus so that you may command certain people not to teach false doctrines any longer 4 or to devote themselves to myths and endless genealogies. Such things promote controversial speculations rather than advancing God’s work—which is by faith. 5 The goal of this command is love, which comes from a pure heart and a good conscience and a sincere faith. 6 Some have departed from these and have turned to meaningless talk. 7 They want to be teachers of the law, but they do not know what they are talking about or what they so confidently affirm.
-                            
-                            8 We know that the law is good if one uses it properly. 9 We also know that the law is made not for the righteous but for lawbreakers and rebels, the ungodly and sinful, the unholy and irreligious, for those who kill their fathers or mothers, for murderers, 10 for the sexually immoral, for those practicing homosexuality, for slave traders and liars and perjurers—and for whatever else is contrary to the sound doctrine 11 that conforms to the gospel concerning the glory of the blessed God, which he entrusted to me.
-                            
-                            The Lord’s Grace to Paul
-                            12 I thank Christ Jesus our Lord, who has given me strength, that he considered me trustworthy, appointing me to his service. 13 Even though I was once a blasphemer and a persecutor and a violent man, I was shown mercy because I acted in ignorance and unbelief. 14 The grace of our Lord was poured out on me abundantly, along with the faith and love that are in Christ Jesus.
-                            
-                            15 Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save sinners—of whom I am the worst. 16 But for that very reason I was shown mercy so that in me, the worst of sinners, Christ Jesus might display his immense patience as an example for those who would believe in him and receive eternal life. 17 Now to the King eternal, immortal, invisible, the only God, be honor and glory for ever and ever. Amen.
-                            
-                            The Charge to Timothy Renewed
-                            18 Timothy, my son, I am giving you this command in keeping with the prophecies once made about you, so that by recalling them you may fight the battle well, 19 holding on to faith and a good conscience, which some have rejected and so have suffered shipwreck with regard to the faith. 20 Among them are Hymenaeus and Alexander, whom I have handed over to Satan to be taught not to blaspheme.
-  
+                          <h4>The Israelites Oppressed</h4>
+1 These are the names of the sons of Israel who went to Egypt with Jacob, each with his family: 2 Reuben, Simeon, Levi and Judah; 3 Issachar, Zebulun and Benjamin; 4 Dan and Naphtali; Gad and Asher. 5 The descendants of Jacob numbered seventy[a] in all; Joseph was already in Egypt.
+
+6 Now Joseph and all his brothers and all that generation died, 7 but the Israelites were exceedingly fruitful; they multiplied greatly, increased in numbers and became so numerous that the land was filled with them.
+
+8 Then a new king, to whom Joseph meant nothing, came to power in Egypt. 9 “Look,” he said to his people, “the Israelites have become far too numerous for us. 10 Come, we must deal shrewdly with them or they will become even more numerous and, if war breaks out, will join our enemies, fight against us and leave the country.”
+
+11 So they put slave masters over them to oppress them with forced labor, and they built Pithom and Rameses as store cities for Pharaoh. 12 But the more they were oppressed, the more they multiplied and spread; so the Egyptians came to dread the Israelites 13 and worked them ruthlessly. 14 They made their lives bitter with harsh labor in brick and mortar and with all kinds of work in the fields; in all their harsh labor the Egyptians worked them ruthlessly.
+
+15 The king of Egypt said to the Hebrew midwives, whose names were Shiphrah and Puah, 16 “When you are helping the Hebrew women during childbirth on the delivery stool, if you see that the baby is a boy, kill him; but if it is a girl, let her live.” 17 The midwives, however, feared God and did not do what the king of Egypt had told them to do; they let the boys live. 18 Then the king of Egypt summoned the midwives and asked them, “Why have you done this? Why have you let the boys live?”
+
+19 The midwives answered Pharaoh, “Hebrew women are not like Egyptian women; they are vigorous and give birth before the midwives arrive.”
+
+20 So God was kind to the midwives and the people increased and became even more numerous. 21 And because the midwives feared God, he gave them families of their own.
+
+22 Then Pharaoh gave this order to all his people: “Every Hebrew boy that is born you must throw into the Nile, but let every girl live.”
   </p>
           </div>
 
           <div className={styles.card2}>
             <h2 className={styles.chapter2}>Exodus Chapter II</h2>
             <p> 
-                          Instructions on Worship
-                    2 I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all people— 2 for kings and all those in authority, that we may live peaceful and quiet lives in all godliness and holiness. 3 This is good, and pleases God our Savior, 4 who wants all people to be saved and to come to a knowledge of the truth. 5 For there is one God and one mediator between God and mankind, the man Christ Jesus, 6 who gave himself as a ransom for all people. This has now been witnessed to at the proper time. 7 And for this purpose I was appointed a herald and an apostle—I am telling the truth, I am not lying—and a true and faithful teacher of the Gentiles.
-                    
-                    8 Therefore I want the men everywhere to pray, lifting up holy hands without anger or disputing. 9 I also want the women to dress modestly, with decency and propriety, adorning themselves, not with elaborate hairstyles or gold or pearls or expensive clothes, 10 but with good deeds, appropriate for women who profess to worship God.
-                    
-                    11 A woman should learn in quietness and full submission. 12 I do not permit a woman to teach or to assume authority over a man;[b] she must be quiet. 13 For Adam was formed first, then Eve. 14 And Adam was not the one deceived; it was the woman who was deceived and became a sinner. 15 But women[c] will be saved through childbearing—if they continue in faith, love and holiness with propriety.
+                        <h4> The Birth of Moses</h4>
+2 Now a man of the tribe of Levi married a Levite woman, 2 and she became pregnant and gave birth to a son. When she saw that he was a fine child, she hid him for three months. 3 But when she could hide him no longer, she got a papyrus basket[a] for him and coated it with tar and pitch. Then she placed the child in it and put it among the reeds along the bank of the Nile. 4 His sister stood at a distance to see what would happen to him.
 
-  
+5 Then Pharaoh’s daughter went down to the Nile to bathe, and her attendants were walking along the riverbank. She saw the basket among the reeds and sent her female slave to get it. 6 She opened it and saw the baby. He was crying, and she felt sorry for him. “This is one of the Hebrew babies,” she said.
+
+7 Then his sister asked Pharaoh’s daughter, “Shall I go and get one of the Hebrew women to nurse the baby for you?”
+
+8 “Yes, go,” she answered. So the girl went and got the baby’s mother. 9 Pharaoh’s daughter said to her, “Take this baby and nurse him for me, and I will pay you.” So the woman took the baby and nursed him. 10 When the child grew older, she took him to Pharaoh’s daughter and he became her son. She named him Moses,[b] saying, “I drew him out of the water.”
+
+Moses Flees to Midian
+11 One day, after Moses had grown up, he went out to where his own people were and watched them at their hard labor. He saw an Egyptian beating a Hebrew, one of his own people. 12 Looking this way and that and seeing no one, he killed the Egyptian and hid him in the sand. 13 The next day he went out and saw two Hebrews fighting. He asked the one in the wrong, “Why are you hitting your fellow Hebrew?”
+
+14 The man said, “Who made you ruler and judge over us? Are you thinking of killing me as you killed the Egyptian?” Then Moses was afraid and thought, “What I did must have become known.”
+
+15 When Pharaoh heard of this, he tried to kill Moses, but Moses fled from Pharaoh and went to live in Midian, where he sat down by a well. 16 Now a priest of Midian had seven daughters, and they came to draw water and fill the troughs to water their father’s flock. 17 Some shepherds came along and drove them away, but Moses got up and came to their rescue and watered their flock.
+
+18 When the girls returned to Reuel their father, he asked them, “Why have you returned so early today?”
+
+19 They answered, “An Egyptian rescued us from the shepherds. He even drew water for us and watered the flock.”
+
+20 “And where is he?” Reuel asked his daughters. “Why did you leave him? Invite him to have something to eat.”
+
+21 Moses agreed to stay with the man, who gave his daughter Zipporah to Moses in marriage. 22 Zipporah gave birth to a son, and Moses named him Gershom,[c] saying, “I have become a foreigner in a foreign land.”
+
+23 During that long period, the king of Egypt died. The Israelites groaned in their slavery and cried out, and their cry for help because of their slavery went up to God. 24 God heard their groaning and he remembered his covenant with Abraham, with Isaac and with Jacob. 25 So God looked on the Israelites and was concerned about them.
+
+
             </p>
           </div>
 
@@ -1395,24 +1411,38 @@ Jacob’s Dream at Bethel
           >
             <h2 className={styles.chapter2}>Exodus Chapter III </h2>
             <p>
-                                            Qualifications for Overseers and Deacons
-                          3 Here is a trustworthy saying: Whoever aspires to be an overseer desires a noble task. 2 Now the overseer is to be above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach, 3 not given to drunkenness, not violent but gentle, not quarrelsome, not a lover of money. 4 He must manage his own family well and see that his children obey him, and he must do so in a manner worthy of full[a] respect. 5 (If anyone does not know how to manage his own family, how can he take care of God’s church?) 6 He must not be a recent convert, or he may become conceited and fall under the same judgment as the devil. 7 He must also have a good reputation with outsiders, so that he will not fall into disgrace and into the devil’s trap.
-                          
-                          8 In the same way, deacons[b] are to be worthy of respect, sincere, not indulging in much wine, and not pursuing dishonest gain. 9 They must keep hold of the deep truths of the faith with a clear conscience. 10 They must first be tested; and then if there is nothing against them, let them serve as deacons.
-                          
-                          11 In the same way, the women[c] are to be worthy of respect, not malicious talkers but temperate and trustworthy in everything.
-                          
-                          12 A deacon must be faithful to his wife and must manage his children and his household well. 13 Those who have served well gain an excellent standing and great assurance in their faith in Christ Jesus.
-                          
-                          Reasons for Paul’s Instructions
-                          14 Although I hope to come to you soon, I am writing you these instructions so that, 15 if I am delayed, you will know how people ought to conduct themselves in God’s household, which is the church of the living God, the pillar and foundation of the truth. 16 Beyond all question, the mystery from which true godliness springs is great:
-                          
-                          He appeared in the flesh,
-                              was vindicated by the Spirit,[d]
-                          was seen by angels,
-                              was preached among the nations,
-                          was believed on in the world,
-                              was taken up in glory.
+                                          <h4>Moses and the Burning Bush</h4>
+3 Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness and came to Horeb, the mountain of God. 2 There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up. 3 So Moses thought, “I will go over and see this strange sight—why the bush does not burn up.”
+
+4 When the Lord saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!”
+
+And Moses said, “Here I am.”
+
+5 “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” 6 Then he said, “I am the God of your father,[a] the God of Abraham, the God of Isaac and the God of Jacob.” At this, Moses hid his face, because he was afraid to look at God.
+
+7 The Lord said, “I have indeed seen the misery of my people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering. 8 So I have come down to rescue them from the hand of the Egyptians and to bring them up out of that land into a good and spacious land, a land flowing with milk and honey—the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites. 9 And now the cry of the Israelites has reached me, and I have seen the way the Egyptians are oppressing them. 10 So now, go. I am sending you to Pharaoh to bring my people the Israelites out of Egypt.”
+
+11 But Moses said to God, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?”
+
+12 And God said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you[b] will worship God on this mountain.”
+
+13 Moses said to God, “Suppose I go to the Israelites and say to them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is his name?’ Then what shall I tell them?”
+
+14 God said to Moses, “I am who I am.[c] This is what you are to say to the Israelites: ‘I am has sent me to you.’”
+
+15 God also said to Moses, “Say to the Israelites, ‘The Lord,[d] the God of your fathers—the God of Abraham, the God of Isaac and the God of Jacob—has sent me to you.’
+
+“This is my name forever,
+    the name you shall call me
+    from generation to generation.
+
+16 “Go, assemble the elders of Israel and say to them, ‘The Lord, the God of your fathers—the God of Abraham, Isaac and Jacob—appeared to me and said: I have watched over you and have seen what has been done to you in Egypt. 17 And I have promised to bring you up out of your misery in Egypt into the land of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites—a land flowing with milk and honey.’
+
+18 “The elders of Israel will listen to you. Then you and the elders are to go to the king of Egypt and say to him, ‘The Lord, the God of the Hebrews, has met with us. Let us take a three-day journey into the wilderness to offer sacrifices to the Lord our God.’ 19 But I know that the king of Egypt will not let you go unless a mighty hand compels him. 20 So I will stretch out my hand and strike the Egyptians with all the wonders that I will perform among them. After that, he will let you go.
+
+21 “And I will make the Egyptians favorably disposed toward this people, so that when you leave you will not go empty-handed. 22 Every woman is to ask her neighbor and any woman living in her house for articles of silver and gold and for clothing, which you will put on your sons and daughters. And so you will plunder the Egyptians.”
+
+
   
                     </p>
           </div>
@@ -1421,62 +1451,134 @@ Jacob’s Dream at Bethel
           >
             <h2 className={styles.chapter2}>Exodus Chapter IV </h2>
             <p>
-                        4 The Spirit clearly says that in later times some will abandon the faith and follow deceiving spirits and things taught by demons. 2 Such teachings come through hypocritical liars, whose consciences have been seared as with a hot iron. 3 They forbid people to marry and order them to abstain from certain foods, which God created to be received with thanksgiving by those who believe and who know the truth. 4 For everything God created is good, and nothing is to be rejected if it is received with thanksgiving, 5 because it is consecrated by the word of God and prayer.
-                    
-                    6 If you point these things out to the brothers and sisters,[a] you will be a good minister of Christ Jesus, nourished on the truths of the faith and of the good teaching that you have followed. 7 Have nothing to do with godless myths and old wives’ tales; rather, train yourself to be godly. 8 For physical training is of some value, but godliness has value for all things, holding promise for both the present life and the life to come. 9 This is a trustworthy saying that deserves full acceptance. 10 That is why we labor and strive, because we have put our hope in the living God, who is the Savior of all people, and especially of those who believe.
-                    
-                    11 Command and teach these things. 12 Don’t let anyone look down on you because you are young, but set an example for the believers in speech, in conduct, in love, in faith and in purity. 13 Until I come, devote yourself to the public reading of Scripture, to preaching and to teaching. 14 Do not neglect your gift, which was given you through prophecy when the body of elders laid their hands on you.
-                    
-                    15 Be diligent in these matters; give yourself wholly to them, so that everyone may see your progress. 16 Watch your life and doctrine closely. Persevere in them, because if you do, you will save both yourself and your hearers.
+                    <h4>Signs for Moses</h4>
+4 Moses answered, “What if they do not believe me or listen to me and say, ‘The Lord did not appear to you’?”
 
-                            
+2 Then the Lord said to him, “What is that in your hand?”
+
+“A staff,” he replied.
+
+3 The Lord said, “Throw it on the ground.”
+
+Moses threw it on the ground and it became a snake, and he ran from it. 4 Then the Lord said to him, “Reach out your hand and take it by the tail.” So Moses reached out and took hold of the snake and it turned back into a staff in his hand. 5 “This,” said the Lord, “is so that they may believe that the Lord, the God of their fathers—the God of Abraham, the God of Isaac and the God of Jacob—has appeared to you.”
+
+6 Then the Lord said, “Put your hand inside your cloak.” So Moses put his hand into his cloak, and when he took it out, the skin was leprous[a]—it had become as white as snow.
+
+7 “Now put it back into your cloak,” he said. So Moses put his hand back into his cloak, and when he took it out, it was restored, like the rest of his flesh.
+
+8 Then the Lord said, “If they do not believe you or pay attention to the first sign, they may believe the second. 9 But if they do not believe these two signs or listen to you, take some water from the Nile and pour it on the dry ground. The water you take from the river will become blood on the ground.”
+
+10 Moses said to the Lord, “Pardon your servant, Lord. I have never been eloquent, neither in the past nor since you have spoken to your servant. I am slow of speech and tongue.”
+
+11 The Lord said to him, “Who gave human beings their mouths? Who makes them deaf or mute? Who gives them sight or makes them blind? Is it not I, the Lord? 12 Now go; I will help you speak and will teach you what to say.”
+
+13 But Moses said, “Pardon your servant, Lord. Please send someone else.”
+
+14 Then the Lord’s anger burned against Moses and he said, “What about your brother, Aaron the Levite? I know he can speak well. He is already on his way to meet you, and he will be glad to see you. 15 You shall speak to him and put words in his mouth; I will help both of you speak and will teach you what to do. 16 He will speak to the people for you, and it will be as if he were your mouth and as if you were God to him. 17 But take this staff in your hand so you can perform the signs with it.”
+
+Moses Returns to Egypt
+18 Then Moses went back to Jethro his father-in-law and said to him, “Let me return to my own people in Egypt to see if any of them are still alive.”
+
+Jethro said, “Go, and I wish you well.”
+
+19 Now the Lord had said to Moses in Midian, “Go back to Egypt, for all those who wanted to kill you are dead.” 20 So Moses took his wife and sons, put them on a donkey and started back to Egypt. And he took the staff of God in his hand.
+
+21 The Lord said to Moses, “When you return to Egypt, see that you perform before Pharaoh all the wonders I have given you the power to do. But I will harden his heart so that he will not let the people go. 22 Then say to Pharaoh, ‘This is what the Lord says: Israel is my firstborn son, 23 and I told you, “Let my son go, so he may worship me.” But you refused to let him go; so I will kill your firstborn son.’”
+
+24 At a lodging place on the way, the Lord met Moses[b] and was about to kill him. 25 But Zipporah took a flint knife, cut off her son’s foreskin and touched Moses’ feet with it.[c] “Surely you are a bridegroom of blood to me,” she said. 26 So the Lord let him alone. (At that time she said “bridegroom of blood,” referring to circumcision.)
+
+27 The Lord said to Aaron, “Go into the wilderness to meet Moses.” So he met Moses at the mountain of God and kissed him. 28 Then Moses told Aaron everything the Lord had sent him to say, and also about all the signs he had commanded him to perform.
+
+29 Moses and Aaron brought together all the elders of the Israelites, 30 and Aaron told them everything the Lord had said to Moses. He also performed the signs before the people, 31 and they believed. And when they heard that the Lord was concerned about them and had seen their misery, they bowed down and worshiped. 
             </p>
           </div>
           <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>I Timothy Chapter V</h2>
-                              <p> Widows, Elders and Slaves
-                  5 Do not rebuke an older man harshly, but exhort him as if he were your father. Treat younger men as brothers, 2 older women as mothers, and younger women as sisters, with absolute purity.
-                  
-                  3 Give proper recognition to those widows who are really in need. 4 But if a widow has children or grandchildren, these should learn first of all to put their religion into practice by caring for their own family and so repaying their parents and grandparents, for this is pleasing to God. 5 The widow who is really in need and left all alone puts her hope in God and continues night and day to pray and to ask God for help. 6 But the widow who lives for pleasure is dead even while she lives. 7 Give the people these instructions, so that no one may be open to blame. 8 Anyone who does not provide for their relatives, and especially for their own household, has denied the faith and is worse than an unbeliever.
-                  
-                  9 No widow may be put on the list of widows unless she is over sixty, has been faithful to her husband, 10 and is well known for her good deeds, such as bringing up children, showing hospitality, washing the feet of the Lord’s people, helping those in trouble and devoting herself to all kinds of good deeds.
-                  
-                  11 As for younger widows, do not put them on such a list. For when their sensual desires overcome their dedication to Christ, they want to marry. 12 Thus they bring judgment on themselves, because they have broken their first pledge. 13 Besides, they get into the habit of being idle and going about from house to house. And not only do they become idlers, but also busybodies who talk nonsense, saying things they ought not to. 14 So I counsel younger widows to marry, to have children, to manage their homes and to give the enemy no opportunity for slander. 15 Some have in fact already turned away to follow Satan.
-                  
-                  16 If any woman who is a believer has widows in her care, she should continue to help them and not let the church be burdened with them, so that the church can help those widows who are really in need.
-                  
-                  17 The elders who direct the affairs of the church well are worthy of double honor, especially those whose work is preaching and teaching. 18 For Scripture says, “Do not muzzle an ox while it is treading out the grain,”[a] and “The worker deserves his wages.”[b] 19 Do not entertain an accusation against an elder unless it is brought by two or three witnesses. 20 But those elders who are sinning you are to reprove before everyone, so that the others may take warning. 21 I charge you, in the sight of God and Christ Jesus and the elect angels, to keep these instructions without partiality, and to do nothing out of favoritism.
-                  
-                  22 Do not be hasty in the laying on of hands, and do not share in the sins of others. Keep yourself pure.
-                  
-                  23 Stop drinking only water, and use a little wine because of your stomach and your frequent illnesses.
-                  
-                  24 The sins of some are obvious, reaching the place of judgment ahead of them; the sins of others trail behind them. 25 In the same way, good deeds are obvious, and even those that are not obvious cannot remain hidden forever.
+            <h2 className={styles.chapter2}>Exodus Chapter V</h2>
+                              <p> 
   
+  <h4>Bricks Without Straw</h4>
+5 Afterward Moses and Aaron went to Pharaoh and said, “This is what the Lord, the God of Israel, says: ‘Let my people go, so that they may hold a festival to me in the wilderness.’”
+
+2 Pharaoh said, “Who is the Lord, that I should obey him and let Israel go? I do not know the Lord and I will not let Israel go.”
+
+3 Then they said, “The God of the Hebrews has met with us. Now let us take a three-day journey into the wilderness to offer sacrifices to the Lord our God, or he may strike us with plagues or with the sword.”
+
+4 But the king of Egypt said, “Moses and Aaron, why are you taking the people away from their labor? Get back to your work!” 5 Then Pharaoh said, “Look, the people of the land are now numerous, and you are stopping them from working.”
+
+6 That same day Pharaoh gave this order to the slave drivers and overseers in charge of the people: 7 “You are no longer to supply the people with straw for making bricks; let them go and gather their own straw. 8 But require them to make the same number of bricks as before; don’t reduce the quota. They are lazy; that is why they are crying out, ‘Let us go and sacrifice to our God.’ 9 Make the work harder for the people so that they keep working and pay no attention to lies.”
+
+10 Then the slave drivers and the overseers went out and said to the people, “This is what Pharaoh says: ‘I will not give you any more straw. 11 Go and get your own straw wherever you can find it, but your work will not be reduced at all.’” 12 So the people scattered all over Egypt to gather stubble to use for straw. 13 The slave drivers kept pressing them, saying, “Complete the work required of you for each day, just as when you had straw.” 14 And Pharaoh’s slave drivers beat the Israelite overseers they had appointed, demanding, “Why haven’t you met your quota of bricks yesterday or today, as before?”
+
+15 Then the Israelite overseers went and appealed to Pharaoh: “Why have you treated your servants this way? 16 Your servants are given no straw, yet we are told, ‘Make bricks!’ Your servants are being beaten, but the fault is with your own people.”
+
+17 Pharaoh said, “Lazy, that’s what you are—lazy! That is why you keep saying, ‘Let us go and sacrifice to the Lord.’ 18 Now get to work. You will not be given any straw, yet you must produce your full quota of bricks.”
+
+19 The Israelite overseers realized they were in trouble when they were told, “You are not to reduce the number of bricks required of you for each day.” 20 When they left Pharaoh, they found Moses and Aaron waiting to meet them, 21 and they said, “May the Lord look on you and judge you! You have made us obnoxious to Pharaoh and his officials and have put a sword in their hand to kill us.”
+
+God Promises Deliverance
+22 Moses returned to the Lord and said, “Why, Lord, why have you brought trouble on this people? Is this why you sent me? 23 Ever since I went to Pharaoh to speak in your name, he has brought trouble on this people, and you have not rescued your people at all.”
   
                     </p>
           </div>
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter V </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter VI </h2>
                                 <p>
-                              6 All who are under the yoke of slavery should consider their masters worthy of full respect, so that God’s name and our teaching may not be slandered. 2 Those who have believing masters should not show them disrespect just because they are fellow believers. Instead, they should serve them even better because their masters are dear to them as fellow believers and are devoted to the welfare[a] of their slaves.
-                              
-                              False Teachers and the Love of Money
-                              These are the things you are to teach and insist on. 3 If anyone teaches otherwise and does not agree to the sound instruction of our Lord Jesus Christ and to godly teaching, 4 they are conceited and understand nothing. They have an unhealthy interest in controversies and quarrels about words that result in envy, strife, malicious talk, evil suspicions 5 and constant friction between people of corrupt mind, who have been robbed of the truth and who think that godliness is a means to financial gain.
-                              
-                              6 But godliness with contentment is great gain. 7 For we brought nothing into the world, and we can take nothing out of it. 8 But if we have food and clothing, we will be content with that. 9 Those who want to get rich fall into temptation and a trap and into many foolish and harmful desires that plunge people into ruin and destruction. 10 For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs.
-                              
-                              Final Charge to Timothy
-                              11 But you, man of God, flee from all this, and pursue righteousness, godliness, faith, love, endurance and gentleness. 12 Fight the good fight of the faith. Take hold of the eternal life to which you were called when you made your good confession in the presence of many witnesses. 13 In the sight of God, who gives life to everything, and of Christ Jesus, who while testifying before Pontius Pilate made the good confession, I charge you 14 to keep this command without spot or blame until the appearing of our Lord Jesus Christ, 15 which God will bring about in his own time—God, the blessed and only Ruler, the King of kings and Lord of lords, 16 who alone is immortal and who lives in unapproachable light, whom no one has seen or can see. To him be honor and might forever. Amen.
-                              
-                              17 Command those who are rich in this present world not to be arrogant nor to put their hope in wealth, which is so uncertain, but to put their hope in God, who richly provides us with everything for our enjoyment. 18 Command them to do good, to be rich in good deeds, and to be generous and willing to share. 19 In this way they will lay up treasure for themselves as a firm foundation for the coming age, so that they may take hold of the life that is truly life.
-                              
-                              20 Timothy, guard what has been entrusted to your care. Turn away from godless chatter and the opposing ideas of what is falsely called knowledge, 21 which some have professed and in so doing have departed from the faith.
-                              
-                              Grace be with you all.
+                             6 Then the Lord said to Moses, “Now you will see what I will do to Pharaoh: Because of my mighty hand he will let them go; because of my mighty hand he will drive them out of his country.”
+
+2 God also said to Moses, “I am the Lord. 3 I appeared to Abraham, to Isaac and to Jacob as God Almighty,[a] but by my name the Lord[b] I did not make myself fully known to them. 4 I also established my covenant with them to give them the land of Canaan, where they resided as foreigners. 5 Moreover, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered my covenant.
+
+6 “Therefore, say to the Israelites: ‘I am the Lord, and I will bring you out from under the yoke of the Egyptians. I will free you from being slaves to them, and I will redeem you with an outstretched arm and with mighty acts of judgment. 7 I will take you as my own people, and I will be your God. Then you will know that I am the Lord your God, who brought you out from under the yoke of the Egyptians. 8 And I will bring you to the land I swore with uplifted hand to give to Abraham, to Isaac and to Jacob. I will give it to you as a possession. I am the Lord.’”
+
+9 Moses reported this to the Israelites, but they did not listen to him because of their discouragement and harsh labor.
+
+10 Then the Lord said to Moses, 11 “Go, tell Pharaoh king of Egypt to let the Israelites go out of his country.”
+
+12 But Moses said to the Lord, “If the Israelites will not listen to me, why would Pharaoh listen to me, since I speak with faltering lips[c]?”
+
+Family Record of Moses and Aaron
+13 Now the Lord spoke to Moses and Aaron about the Israelites and Pharaoh king of Egypt, and he commanded them to bring the Israelites out of Egypt.
+
+14 These were the heads of their families[d]:
+
+The sons of Reuben the firstborn son of Israel were Hanok and Pallu, Hezron and Karmi. These were the clans of Reuben.
+
+15 The sons of Simeon were Jemuel, Jamin, Ohad, Jakin, Zohar and Shaul the son of a Canaanite woman. These were the clans of Simeon.
+
+16 These were the names of the sons of Levi according to their records: Gershon, Kohath and Merari. Levi lived 137 years.
+
+17 The sons of Gershon, by clans, were Libni and Shimei.
+
+18 The sons of Kohath were Amram, Izhar, Hebron and Uzziel. Kohath lived 133 years.
+
+19 The sons of Merari were Mahli and Mushi.
+
+These were the clans of Levi according to their records.
+
+20 Amram married his father’s sister Jochebed, who bore him Aaron and Moses. Amram lived 137 years.
+
+21 The sons of Izhar were Korah, Nepheg and Zikri.
+
+22 The sons of Uzziel were Mishael, Elzaphan and Sithri.
+
+23 Aaron married Elisheba, daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar.
+
+24 The sons of Korah were Assir, Elkanah and Abiasaph. These were the Korahite clans.
+
+25 Eleazar son of Aaron married one of the daughters of Putiel, and she bore him Phinehas.
+
+These were the heads of the Levite families, clan by clan.
+
+26 It was this Aaron and Moses to whom the Lord said, “Bring the Israelites out of Egypt by their divisions.” 27 They were the ones who spoke to Pharaoh king of Egypt about bringing the Israelites out of Egypt—this same Moses and Aaron.
+
+Aaron to Speak for Moses
+28 Now when the Lord spoke to Moses in Egypt, 29 he said to him, “I am the Lord. Tell Pharaoh king of Egypt everything I tell you.”
+
+30 But Moses said to the Lord, “Since I speak with faltering lips, why would Pharaoh listen to me?”
+
+
 
                                 </p>
   </div>
@@ -1498,7 +1600,10 @@ Jacob’s Dream at Bethel
             I will be appending 2 John ...TBA
             I will be appending 3 John ...TBA
             I will be appending Jude ...TBA
-                        More to come on the layout...!
+            The New Testament IS COMPLETED!!!
+            This is the beginning of the Old Testament and it will contain the 5 books of the Torah or Pentateuch...
+              The meaning of “Torah” is often restricted to signify the first five books of the Hebrew Bible (Old Testament), also called the Law (or the Pentateuch, in Christianity). These are the books traditionally ascribed to Moses, the recipient of the original revelation from God on Mount Sinai.
+              More to come on the layout...!
      </p>
           </div>
 
