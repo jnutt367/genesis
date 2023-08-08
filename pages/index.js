@@ -878,7 +878,7 @@ Lot and His Daughters
          <h2  className={styles.chapter}>Genesis Chapter XXI</h2>
             <p>
             
-<h4The Birth of Isaac</h4>
+<h4>The Birth of Isaac</h4>
 21 Now the Lord was gracious to Sarah as he had said, and the Lord did for Sarah what he had promised. 2 Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him. 3 Abraham gave the name Isaac[a] to the son Sarah bore him. 4 When his son Isaac was eight days old, Abraham circumcised him, as God commanded him. 5 Abraham was a hundred years old when his son Isaac was born to him.
 
 6 Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.” 7 And she added, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”
