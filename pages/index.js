@@ -114,7 +114,7 @@ export default function Home() {
           <div className={styles.card}>
               <h2  className={styles.chapter}>Genesis Chapter II</h2>
             <p>
-                          2 <h4>Thus the heavens and the earth were completed</h4> in all their vast array.
+                           <h4>Thus the heavens and the earth were completed</h4> in all their vast array.
                           
                           2 By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work. 3 Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done.
                           
@@ -553,54 +553,32 @@ Terah became the father of Abram, Nahor and Haran. And Haran became the father o
              <h2  className={styles.chapter}>Matthew Chapter XII</h2>
             <p>
            
-12 At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick some heads of grain and eat them. 2 When the Pharisees saw this, they said to him, “Look! Your disciples are doing what is unlawful on the Sabbath.”
+<h4>The Call of Abram</h4>
+12 The Lord had said to Abram, “Go from your country, your people and your father’s household to the land I will show you.
 
-3 He answered, “Haven’t you read what David did when he and his companions were hungry? 4 He entered the house of God, and he and his companions ate the consecrated bread—which was not lawful for them to do, but only for the priests. 5 Or haven’t you read in the Law that the priests on Sabbath duty in the temple desecrate the Sabbath and yet are innocent? 6 I tell you that something greater than the temple is here. 7 If you had known what these words mean, ‘I desire mercy, not sacrifice,’[a] you would not have condemned the innocent. 8 For the Son of Man is Lord of the Sabbath.”
+2 “I will make you into a great nation,
+    and I will bless you;
+I will make your name great,
+    and you will be a blessing.[a]
+3 I will bless those who bless you,
+    and whoever curses you I will curse;
+and all peoples on earth
+    will be blessed through you.”[b]
 
-9 Going on from that place, he went into their synagogue, 10 and a man with a shriveled hand was there. Looking for a reason to bring charges against Jesus, they asked him, “Is it lawful to heal on the Sabbath?”
+4 So Abram went, as the Lord had told him; and Lot went with him. Abram was seventy-five years old when he set out from Harran. 5 He took his wife Sarai, his nephew Lot, all the possessions they had accumulated and the people they had acquired in Harran, and they set out for the land of Canaan, and they arrived there.
 
-11 He said to them, “If any of you has a sheep and it falls into a pit on the Sabbath, will you not take hold of it and lift it out? 12 How much more valuable is a person than a sheep! Therefore it is lawful to do good on the Sabbath.”
+6 Abram traveled through the land as far as the site of the great tree of Moreh at Shechem. At that time the Canaanites were in the land. 7 The Lord appeared to Abram and said, “To your offspring[c] I will give this land.” So he built an altar there to the Lord, who had appeared to him.
 
-13 Then he said to the man, “Stretch out your hand.” So he stretched it out and it was completely restored, just as sound as the other. 14 But the Pharisees went out and plotted how they might kill Jesus.
+8 From there he went on toward the hills east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the Lord and called on the name of the Lord.
 
-God’s Chosen Servant
-15 Aware of this, Jesus withdrew from that place. A large crowd followed him, and he healed all who were ill. 16 He warned them not to tell others about him. 17 This was to fulfill what was spoken through the prophet Isaiah:
+9 Then Abram set out and continued toward the Negev.
 
-18 “Here is my servant whom I have chosen,
-    the one I love, in whom I delight;
-I will put my Spirit on him,
-    and he will proclaim justice to the nations.
-19 He will not quarrel or cry out;
-    no one will hear his voice in the streets.
-20 A bruised reed he will not break,
-    and a smoldering wick he will not snuff out,
-till he has brought justice through to victory.
-21     In his name the nations will put their hope.”[b]
+Abram in Egypt
+10 Now there was a famine in the land, and Abram went down to Egypt to live there for a while because the famine was severe. 11 As he was about to enter Egypt, he said to his wife Sarai, “I know what a beautiful woman you are. 12 When the Egyptians see you, they will say, ‘This is his wife.’ Then they will kill me but will let you live. 13 Say you are my sister, so that I will be treated well for your sake and my life will be spared because of you.”
 
-Jesus and Beelzebul
-22 Then they brought him a demon-possessed man who was blind and mute, and Jesus healed him, so that he could both talk and see. 23 All the people were astonished and said, “Could this be the Son of David?”
+14 When Abram came to Egypt, the Egyptians saw that Sarai was a very beautiful woman. 15 And when Pharaoh’s officials saw her, they praised her to Pharaoh, and she was taken into his palace. 16 He treated Abram well for her sake, and Abram acquired sheep and cattle, male and female donkeys, male and female servants, and camels.
 
-24 But when the Pharisees heard this, they said, “It is only by Beelzebul, the prince of demons, that this fellow drives out demons.”
-
-25 Jesus knew their thoughts and said to them, “Every kingdom divided against itself will be ruined, and every city or household divided against itself will not stand. 26 If Satan drives out Satan, he is divided against himself. How then can his kingdom stand? 27 And if I drive out demons by Beelzebul, by whom do your people drive them out? So then, they will be your judges. 28 But if it is by the Spirit of God that I drive out demons, then the kingdom of God has come upon you.
-
-29 “Or again, how can anyone enter a strong man’s house and carry off his possessions unless he first ties up the strong man? Then he can plunder his house.
-
-30 “Whoever is not with me is against me, and whoever does not gather with me scatters. 31 And so I tell you, every kind of sin and slander can be forgiven, but blasphemy against the Spirit will not be forgiven. 32 Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come.
-
-33 “Make a tree good and its fruit will be good, or make a tree bad and its fruit will be bad, for a tree is recognized by its fruit. 34 You brood of vipers, how can you who are evil say anything good? For the mouth speaks what the heart is full of. 35 A good man brings good things out of the good stored up in him, and an evil man brings evil things out of the evil stored up in him. 36 But I tell you that everyone will have to give account on the day of judgment for every empty word they have spoken. 37 For by your words you will be acquitted, and by your words you will be condemned.”
-
-The Sign of Jonah
-38 Then some of the Pharisees and teachers of the law said to him, “Teacher, we want to see a sign from you.”
-
-39 He answered, “A wicked and adulterous generation asks for a sign! But none will be given it except the sign of the prophet Jonah. 40 For as Jonah was three days and three nights in the belly of a huge fish, so the Son of Man will be three days and three nights in the heart of the earth. 41 The men of Nineveh will stand up at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now something greater than Jonah is here. 42 The Queen of the South will rise at the judgment with this generation and condemn it; for she came from the ends of the earth to listen to Solomon’s wisdom, and now something greater than Solomon is here.
-
-43 “When an impure spirit comes out of a person, it goes through arid places seeking rest and does not find it. 44 Then it says, ‘I will return to the house I left.’ When it arrives, it finds the house unoccupied, swept clean and put in order. 45 Then it goes and takes with it seven other spirits more wicked than itself, and they go in and live there. And the final condition of that person is worse than the first. That is how it will be with this wicked generation.”
-
-Jesus’ Mother and Brothers
-46 While Jesus was still talking to the crowd, his mother and brothers stood outside, wanting to speak to him. 47 Someone told him, “Your mother and brothers are standing outside, wanting to speak to you.”
-
-48 He replied to him, “Who is my mother, and who are my brothers?” 49 Pointing to his disciples, he said, “Here are my mother and my brothers. 50 For whoever does the will of my Father in heaven is my brother and sister and mother.”
+17 But the Lord inflicted serious diseases on Pharaoh and his household because of Abram’s wife Sarai. 18 So Pharaoh summoned Abram. “What have you done to me?” he said. “Why didn’t you tell me she was your wife? 19 Why did you say, ‘She is my sister,’ so that I took her to be my wife? Now then, here is your wife. Take her and go!” 20 Then Pharaoh gave orders about Abram to his men, and they sent him on his way, with his wife and everything he had.
 
 
             </p>
@@ -612,79 +590,22 @@ Jesus’ Mother and Brothers
            <h2  className={styles.chapter}>Genesis Chapter XIII</h2>
             <p>
             
-13 That same day Jesus went out of the house and sat by the lake. 2 Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore. 3 Then he told them many things in parables, saying: “A farmer went out to sow his seed. 4 As he was scattering the seed, some fell along the path, and the birds came and ate it up. 5 Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. 6 But when the sun came up, the plants were scorched, and they withered because they had no root. 7 Other seed fell among thorns, which grew up and choked the plants. 8 Still other seed fell on good soil, where it produced a crop—a hundred, sixty or thirty times what was sown. 9 Whoever has ears, let them hear.”
+<h4>Abram and Lot Separate</h4>
+13 So Abram went up from Egypt to the Negev, with his wife and everything he had, and Lot went with him. 2 Abram had become very wealthy in livestock and in silver and gold.
 
-10 The disciples came to him and asked, “Why do you speak to the people in parables?”
+3 From the Negev he went from place to place until he came to Bethel, to the place between Bethel and Ai where his tent had been earlier 4 and where he had first built an altar. There Abram called on the name of the Lord.
 
-11 He replied, “Because the knowledge of the secrets of the kingdom of heaven has been given to you, but not to them. 12 Whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. 13 This is why I speak to them in parables:
+5 Now Lot, who was moving about with Abram, also had flocks and herds and tents. 6 But the land could not support them while they stayed together, for their possessions were so great that they were not able to stay together. 7 And quarreling arose between Abram’s herders and Lot’s. The Canaanites and Perizzites were also living in the land at that time.
 
-“Though seeing, they do not see;
-    though hearing, they do not hear or understand.
+8 So Abram said to Lot, “Let’s not have any quarreling between you and me, or between your herders and mine, for we are close relatives. 9 Is not the whole land before you? Let’s part company. If you go to the left, I’ll go to the right; if you go to the right, I’ll go to the left.”
 
-14 In them is fulfilled the prophecy of Isaiah:
+10 Lot looked around and saw that the whole plain of the Jordan toward Zoar was well watered, like the garden of the Lord, like the land of Egypt. (This was before the Lord destroyed Sodom and Gomorrah.) 11 So Lot chose for himself the whole plain of the Jordan and set out toward the east. The two men parted company: 12 Abram lived in the land of Canaan, while Lot lived among the cities of the plain and pitched his tents near Sodom. 13 Now the people of Sodom were wicked and were sinning greatly against the Lord.
 
-“‘You will be ever hearing but never understanding;
-    you will be ever seeing but never perceiving.
-15 For this people’s heart has become calloused;
-    they hardly hear with their ears,
-    and they have closed their eyes.
-Otherwise they might see with their eyes,
-    hear with their ears,
-    understand with their hearts
-and turn, and I would heal them.’[a]
+14 The Lord said to Abram after Lot had parted from him, “Look around from where you are, to the north and south, to the east and west. 15 All the land that you see I will give to you and your offspring[a] forever. 16 I will make your offspring like the dust of the earth, so that if anyone could count the dust, then your offspring could be counted. 17 Go, walk through the length and breadth of the land, for I am giving it to you.”
 
-16 But blessed are your eyes because they see, and your ears because they hear. 17 For truly I tell you, many prophets and righteous people longed to see what you see but did not see it, and to hear what you hear but did not hear it.
+18 So Abram went to live near the great trees of Mamre at Hebron, where he pitched his tents. There he built an altar to the Lord.
 
-18 “Listen then to what the parable of the sower means: 19 When anyone hears the message about the kingdom and does not understand it, the evil one comes and snatches away what was sown in their heart. This is the seed sown along the path. 20 The seed falling on rocky ground refers to someone who hears the word and at once receives it with joy. 21 But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away. 22 The seed falling among the thorns refers to someone who hears the word, but the worries of this life and the deceitfulness of wealth choke the word, making it unfruitful. 23 But the seed falling on good soil refers to someone who hears the word and understands it. This is the one who produces a crop, yielding a hundred, sixty or thirty times what was sown.”
 
-The Parable of the Weeds
-24 Jesus told them another parable: “The kingdom of heaven is like a man who sowed good seed in his field. 25 But while everyone was sleeping, his enemy came and sowed weeds among the wheat, and went away. 26 When the wheat sprouted and formed heads, then the weeds also appeared.
-
-27 “The owner’s servants came to him and said, ‘Sir, didn’t you sow good seed in your field? Where then did the weeds come from?’
-
-28 “‘An enemy did this,’ he replied.
-
-“The servants asked him, ‘Do you want us to go and pull them up?’
-
-29 “‘No,’ he answered, ‘because while you are pulling the weeds, you may uproot the wheat with them. 30 Let both grow together until the harvest. At that time I will tell the harvesters: First collect the weeds and tie them in bundles to be burned; then gather the wheat and bring it into my barn.’”
-
-The Parables of the Mustard Seed and the Yeast
-31 He told them another parable: “The kingdom of heaven is like a mustard seed, which a man took and planted in his field. 32 Though it is the smallest of all seeds, yet when it grows, it is the largest of garden plants and becomes a tree, so that the birds come and perch in its branches.”
-
-33 He told them still another parable: “The kingdom of heaven is like yeast that a woman took and mixed into about sixty pounds[b] of flour until it worked all through the dough.”
-
-34 Jesus spoke all these things to the crowd in parables; he did not say anything to them without using a parable. 35 So was fulfilled what was spoken through the prophet:
-
-“I will open my mouth in parables,
-    I will utter things hidden since the creation of the world.”[c]
-
-The Parable of the Weeds Explained
-36 Then he left the crowd and went into the house. His disciples came to him and said, “Explain to us the parable of the weeds in the field.”
-
-37 He answered, “The one who sowed the good seed is the Son of Man. 38 The field is the world, and the good seed stands for the people of the kingdom. The weeds are the people of the evil one, 39 and the enemy who sows them is the devil. The harvest is the end of the age, and the harvesters are angels.
-
-40 “As the weeds are pulled up and burned in the fire, so it will be at the end of the age. 41 The Son of Man will send out his angels, and they will weed out of his kingdom everything that causes sin and all who do evil. 42 They will throw them into the blazing furnace, where there will be weeping and gnashing of teeth. 43 Then the righteous will shine like the sun in the kingdom of their Father. Whoever has ears, let them hear.
-
-The Parables of the Hidden Treasure and the Pearl
-44 “The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and then in his joy went and sold all he had and bought that field.
-
-45 “Again, the kingdom of heaven is like a merchant looking for fine pearls. 46 When he found one of great value, he went away and sold everything he had and bought it.
-
-The Parable of the Net
-47 “Once again, the kingdom of heaven is like a net that was let down into the lake and caught all kinds of fish. 48 When it was full, the fishermen pulled it up on the shore. Then they sat down and collected the good fish in baskets, but threw the bad away. 49 This is how it will be at the end of the age. The angels will come and separate the wicked from the righteous 50 and throw them into the blazing furnace, where there will be weeping and gnashing of teeth.
-
-51 “Have you understood all these things?” Jesus asked.
-
-“Yes,” they replied.
-
-52 He said to them, “Therefore every teacher of the law who has become a disciple in the kingdom of heaven is like the owner of a house who brings out of his storeroom new treasures as well as old.”
-
-A Prophet Without Honor
-53 When Jesus had finished these parables, he moved on from there. 54 Coming to his hometown, he began teaching the people in their synagogue, and they were amazed. “Where did this man get this wisdom and these miraculous powers?” they asked. 55 “Isn’t this the carpenter’s son? Isn’t his mother’s name Mary, and aren’t his brothers James, Joseph, Simon and Judas? 56 Aren’t all his sisters with us? Where then did this man get all these things?” 57 And they took offense at him.
-
-But Jesus said to them, “A prophet is not without honor except in his own town and in his own home.”
-
-58 And he did not do many miracles there because of their lack of faith.
             </p>
           </div>
 
@@ -694,41 +615,29 @@ But Jesus said to them, “A prophet is not without honor except in his own town
              <h2  className={styles.chapter}>Genesis Chapter XIV</h2>
             <p>
             
-14 At that time Herod the tetrarch heard the reports about Jesus, 2 and he said to his attendants, “This is John the Baptist; he has risen from the dead! That is why miraculous powers are at work in him.”
+<h4>Abram Rescues Lot</h4>
+14 At the time when Amraphel was king of Shinar,[a] Arioch king of Ellasar, Kedorlaomer king of Elam and Tidal king of Goyim, 2 these kings went to war against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboyim, and the king of Bela (that is, Zoar). 3 All these latter kings joined forces in the Valley of Siddim (that is, the Dead Sea Valley). 4 For twelve years they had been subject to Kedorlaomer, but in the thirteenth year they rebelled.
 
-3 Now Herod had arrested John and bound him and put him in prison because of Herodias, his brother Philip’s wife, 4 for John had been saying to him: “It is not lawful for you to have her.” 5 Herod wanted to kill John, but he was afraid of the people, because they considered John a prophet.
+5 In the fourteenth year, Kedorlaomer and the kings allied with him went out and defeated the Rephaites in Ashteroth Karnaim, the Zuzites in Ham, the Emites in Shaveh Kiriathaim 6 and the Horites in the hill country of Seir, as far as El Paran near the desert. 7 Then they turned back and went to En Mishpat (that is, Kadesh), and they conquered the whole territory of the Amalekites, as well as the Amorites who were living in Hazezon Tamar.
 
-6 On Herod’s birthday the daughter of Herodias danced for the guests and pleased Herod so much 7 that he promised with an oath to give her whatever she asked. 8 Prompted by her mother, she said, “Give me here on a platter the head of John the Baptist.” 9 The king was distressed, but because of his oaths and his dinner guests, he ordered that her request be granted 10 and had John beheaded in the prison. 11 His head was brought in on a platter and given to the girl, who carried it to her mother. 12 John’s disciples came and took his body and buried it. Then they went and told Jesus.
+8 Then the king of Sodom, the king of Gomorrah, the king of Admah, the king of Zeboyim and the king of Bela (that is, Zoar) marched out and drew up their battle lines in the Valley of Siddim 9 against Kedorlaomer king of Elam, Tidal king of Goyim, Amraphel king of Shinar and Arioch king of Ellasar—four kings against five. 10 Now the Valley of Siddim was full of tar pits, and when the kings of Sodom and Gomorrah fled, some of the men fell into them and the rest fled to the hills. 11 The four kings seized all the goods of Sodom and Gomorrah and all their food; then they went away. 12 They also carried off Abram’s nephew Lot and his possessions, since he was living in Sodom.
 
-Jesus Feeds the Five Thousand
-13 When Jesus heard what had happened, he withdrew by boat privately to a solitary place. Hearing of this, the crowds followed him on foot from the towns. 14 When Jesus landed and saw a large crowd, he had compassion on them and healed their sick.
+13 A man who had escaped came and reported this to Abram the Hebrew. Now Abram was living near the great trees of Mamre the Amorite, a brother[b] of Eshkol and Aner, all of whom were allied with Abram. 14 When Abram heard that his relative had been taken captive, he called out the 318 trained men born in his household and went in pursuit as far as Dan. 15 During the night Abram divided his men to attack them and he routed them, pursuing them as far as Hobah, north of Damascus. 16 He recovered all the goods and brought back his relative Lot and his possessions, together with the women and the other people.
 
-15 As evening approached, the disciples came to him and said, “This is a remote place, and it’s already getting late. Send the crowds away, so they can go to the villages and buy themselves some food.”
+17 After Abram returned from defeating Kedorlaomer and the kings allied with him, the king of Sodom came out to meet him in the Valley of Shaveh (that is, the King’s Valley).
 
-16 Jesus replied, “They do not need to go away. You give them something to eat.”
+18 Then Melchizedek king of Salem brought out bread and wine. He was priest of God Most High, 19 and he blessed Abram, saying,
 
-17 “We have here only five loaves of bread and two fish,” they answered.
+“Blessed be Abram by God Most High,
+    Creator of heaven and earth.
+20 And praise be to God Most High,
+    who delivered your enemies into your hand.”
 
-18 “Bring them here to me,” he said. 19 And he directed the people to sit down on the grass. Taking the five loaves and the two fish and looking up to heaven, he gave thanks and broke the loaves. Then he gave them to the disciples, and the disciples gave them to the people. 20 They all ate and were satisfied, and the disciples picked up twelve basketfuls of broken pieces that were left over. 21 The number of those who ate was about five thousand men, besides women and children.
+Then Abram gave him a tenth of everything.
 
-Jesus Walks on the Water
-22 Immediately Jesus made the disciples get into the boat and go on ahead of him to the other side, while he dismissed the crowd. 23 After he had dismissed them, he went up on a mountainside by himself to pray. Later that night, he was there alone, 24 and the boat was already a considerable distance from land, buffeted by the waves because the wind was against it.
+21 The king of Sodom said to Abram, “Give me the people and keep the goods for yourself.”
 
-25 Shortly before dawn Jesus went out to them, walking on the lake. 26 When the disciples saw him walking on the lake, they were terrified. “It’s a ghost,” they said, and cried out in fear.
-
-27 But Jesus immediately said to them: “Take courage! It is I. Don’t be afraid.”
-
-28 “Lord, if it’s you,” Peter replied, “tell me to come to you on the water.”
-
-29 “Come,” he said.
-
-Then Peter got down out of the boat, walked on the water and came toward Jesus. 30 But when he saw the wind, he was afraid and, beginning to sink, cried out, “Lord, save me!”
-
-31 Immediately Jesus reached out his hand and caught him. “You of little faith,” he said, “why did you doubt?”
-
-32 And when they climbed into the boat, the wind died down. 33 Then those who were in the boat worshiped him, saying, “Truly you are the Son of God.”
-
-34 When they had crossed over, they landed at Gennesaret. 35 And when the men of that place recognized Jesus, they sent word to all the surrounding country. People brought all their sick to him 36 and begged him to let the sick just touch the edge of his cloak, and all who touched it were healed.
+22 But Abram said to the king of Sodom, “With raised hand I have sworn an oath to the Lord, God Most High, Creator of heaven and earth, 23 that I will accept nothing belonging to you, not even a thread or the strap of a sandal, so that you will never be able to say, ‘I made Abram rich.’ 24 I will accept nothing but what my men have eaten and the share that belongs to the men who went with me—to Aner, Eshkol and Mamre. Let them have their share.”
             </p>
           </div>
 
@@ -738,53 +647,33 @@ Then Peter got down out of the boat, walked on the water and came toward Jesus. 
              <h2  className={styles.chapter}>Genesis Chapter XV</h2>
             <p>
            
-15 Then some Pharisees and teachers of the law came to Jesus from Jerusalem and asked, 2 “Why do your disciples break the tradition of the elders? They don’t wash their hands before they eat!”
+<h4>The Lord’s Covenant With Abram</h4>
+15 After this, the word of the Lord came to Abram in a vision:
 
-3 Jesus replied, “And why do you break the command of God for the sake of your tradition? 4 For God said, ‘Honor your father and mother’[a] and ‘Anyone who curses their father or mother is to be put to death.’[b] 5 But you say that if anyone declares that what might have been used to help their father or mother is ‘devoted to God,’ 6 they are not to ‘honor their father or mother’ with it. Thus you nullify the word of God for the sake of your tradition. 7 You hypocrites! Isaiah was right when he prophesied about you:
+“Do not be afraid, Abram.
+    I am your shield,[a]
+    your very great reward.[b]”
 
-8 “‘These people honor me with their lips,
-    but their hearts are far from me.
-9 They worship me in vain;
-    their teachings are merely human rules.’[c]”
+2 But Abram said, “Sovereign Lord, what can you give me since I remain childless and the one who will inherit[c] my estate is Eliezer of Damascus?” 3 And Abram said, “You have given me no children; so a servant in my household will be my heir.”
 
-10 Jesus called the crowd to him and said, “Listen and understand. 11 What goes into someone’s mouth does not defile them, but what comes out of their mouth, that is what defiles them.”
+4 Then the word of the Lord came to him: “This man will not be your heir, but a son who is your own flesh and blood will be your heir.” 5 He took him outside and said, “Look up at the sky and count the stars—if indeed you can count them.” Then he said to him, “So shall your offspring[d] be.”
 
-12 Then the disciples came to him and asked, “Do you know that the Pharisees were offended when they heard this?”
+6 Abram believed the Lord, and he credited it to him as righteousness.
 
-13 He replied, “Every plant that my heavenly Father has not planted will be pulled up by the roots. 14 Leave them; they are blind guides.[d] If the blind lead the blind, both will fall into a pit.”
+7 He also said to him, “I am the Lord, who brought you out of Ur of the Chaldeans to give you this land to take possession of it.”
 
-15 Peter said, “Explain the parable to us.”
+8 But Abram said, “Sovereign Lord, how can I know that I will gain possession of it?”
 
-16 “Are you still so dull?” Jesus asked them. 17 “Don’t you see that whatever enters the mouth goes into the stomach and then out of the body? 18 But the things that come out of a person’s mouth come from the heart, and these defile them. 19 For out of the heart come evil thoughts—murder, adultery, sexual immorality, theft, false testimony, slander. 20 These are what defile a person; but eating with unwashed hands does not defile them.”
+9 So the Lord said to him, “Bring me a heifer, a goat and a ram, each three years old, along with a dove and a young pigeon.”
 
-The Faith of a Canaanite Woman
-21 Leaving that place, Jesus withdrew to the region of Tyre and Sidon. 22 A Canaanite woman from that vicinity came to him, crying out, “Lord, Son of David, have mercy on me! My daughter is demon-possessed and suffering terribly.”
+10 Abram brought all these to him, cut them in two and arranged the halves opposite each other; the birds, however, he did not cut in half. 11 Then birds of prey came down on the carcasses, but Abram drove them away.
 
-23 Jesus did not answer a word. So his disciples came to him and urged him, “Send her away, for she keeps crying out after us.”
+12 As the sun was setting, Abram fell into a deep sleep, and a thick and dreadful darkness came over him. 13 Then the Lord said to him, “Know for certain that for four hundred years your descendants will be strangers in a country not their own and that they will be enslaved and mistreated there. 14 But I will punish the nation they serve as slaves, and afterward they will come out with great possessions. 15 You, however, will go to your ancestors in peace and be buried at a good old age. 16 In the fourth generation your descendants will come back here, for the sin of the Amorites has not yet reached its full measure.”
 
-24 He answered, “I was sent only to the lost sheep of Israel.”
+17 When the sun had set and darkness had fallen, a smoking firepot with a blazing torch appeared and passed between the pieces. 18 On that day the Lord made a covenant with Abram and said, “To your descendants I give this land, from the Wadi[e] of Egypt to the great river, the Euphrates— 19 the land of the Kenites, Kenizzites, Kadmonites, 20 Hittites, Perizzites, Rephaites, 21 Amorites, Canaanites, Girgashites and Jebusites.”
 
-25 The woman came and knelt before him. “Lord, help me!” she said.
 
-26 He replied, “It is not right to take the children’s bread and toss it to the dogs.”
-
-27 “Yes it is, Lord,” she said. “Even the dogs eat the crumbs that fall from their master’s table.”
-
-28 Then Jesus said to her, “Woman, you have great faith! Your request is granted.” And her daughter was healed at that moment.
-
-Jesus Feeds the Four Thousand
-29 Jesus left there and went along the Sea of Galilee. Then he went up on a mountainside and sat down. 30 Great crowds came to him, bringing the lame, the blind, the crippled, the mute and many others, and laid them at his feet; and he healed them. 31 The people were amazed when they saw the mute speaking, the crippled made well, the lame walking and the blind seeing. And they praised the God of Israel.
-
-32 Jesus called his disciples to him and said, “I have compassion for these people; they have already been with me three days and have nothing to eat. I do not want to send them away hungry, or they may collapse on the way.”
-
-33 His disciples answered, “Where could we get enough bread in this remote place to feed such a crowd?”
-
-34 “How many loaves do you have?” Jesus asked.
-
-“Seven,” they replied, “and a few small fish.”
-
-35 He told the crowd to sit down on the ground. 36 Then he took the seven loaves and the fish, and when he had given thanks, he broke them and gave them to the disciples, and they in turn to the people. 37 They all ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over. 38 The number of those who ate was four thousand men, besides women and children. 39 After Jesus had sent the crowd away, he got into the boat and went to the vicinity of Magadan.
-            </p>
+  </p>
           </div>
 
           <div
@@ -792,175 +681,169 @@ Jesus Feeds the Four Thousand
           >
              <h2  className={styles.chapter}>Genesis Chapter XVI</h2>
             <p>
-           
-16 The Pharisees and Sadducees came to Jesus and tested him by asking him to show them a sign from heaven.
+           <h4>Hagar and Ishmael</h4>
+16 Now Sarai, Abram’s wife, had borne him no children. But she had an Egyptian slave named Hagar; 2 so she said to Abram, “The Lord has kept me from having children. Go, sleep with my slave; perhaps I can build a family through her.”
 
-2 He replied, “When evening comes, you say, ‘It will be fair weather, for the sky is red,’ 3 and in the morning, ‘Today it will be stormy, for the sky is red and overcast.’ You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times.[a] 4 A wicked and adulterous generation looks for a sign, but none will be given it except the sign of Jonah.” Jesus then left them and went away.
+Abram agreed to what Sarai said. 3 So after Abram had been living in Canaan ten years, Sarai his wife took her Egyptian slave Hagar and gave her to her husband to be his wife. 4 He slept with Hagar, and she conceived.
 
-The Yeast of the Pharisees and Sadducees
-5 When they went across the lake, the disciples forgot to take bread. 6 “Be careful,” Jesus said to them. “Be on your guard against the yeast of the Pharisees and Sadducees.”
+When she knew she was pregnant, she began to despise her mistress. 5 Then Sarai said to Abram, “You are responsible for the wrong I am suffering. I put my slave in your arms, and now that she knows she is pregnant, she despises me. May the Lord judge between you and me.”
 
-7 They discussed this among themselves and said, “It is because we didn’t bring any bread.”
+6 “Your slave is in your hands,” Abram said. “Do with her whatever you think best.” Then Sarai mistreated Hagar; so she fled from her.
 
-8 Aware of their discussion, Jesus asked, “You of little faith, why are you talking among yourselves about having no bread? 9 Do you still not understand? Don’t you remember the five loaves for the five thousand, and how many basketfuls you gathered? 10 Or the seven loaves for the four thousand, and how many basketfuls you gathered? 11 How is it you don’t understand that I was not talking to you about bread? But be on your guard against the yeast of the Pharisees and Sadducees.” 12 Then they understood that he was not telling them to guard against the yeast used in bread, but against the teaching of the Pharisees and Sadducees.
+7 The angel of the Lord found Hagar near a spring in the desert; it was the spring that is beside the road to Shur. 8 And he said, “Hagar, slave of Sarai, where have you come from, and where are you going?”
 
-Peter Declares That Jesus Is the Messiah
-13 When Jesus came to the region of Caesarea Philippi, he asked his disciples, “Who do people say the Son of Man is?”
+“I’m running away from my mistress Sarai,” she answered.
 
-14 They replied, “Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets.”
+9 Then the angel of the Lord told her, “Go back to your mistress and submit to her.” 10 The angel added, “I will increase your descendants so much that they will be too numerous to count.”
 
-15 “But what about you?” he asked. “Who do you say I am?”
+11 The angel of the Lord also said to her:
 
-16 Simon Peter answered, “You are the Messiah, the Son of the living God.”
+“You are now pregnant
+    and you will give birth to a son.
+You shall name him Ishmael,[a]
+    for the Lord has heard of your misery.
+12 He will be a wild donkey of a man;
+    his hand will be against everyone
+    and everyone’s hand against him,
+and he will live in hostility
+    toward[b] all his brothers.”
 
-17 Jesus replied, “Blessed are you, Simon son of Jonah, for this was not revealed to you by flesh and blood, but by my Father in heaven. 18 And I tell you that you are Peter,[b] and on this rock I will build my church, and the gates of Hades[c] will not overcome it. 19 I will give you the keys of the kingdom of heaven; whatever you bind on earth will be[d] bound in heaven, and whatever you loose on earth will be[e] loosed in heaven.” 20 Then he ordered his disciples not to tell anyone that he was the Messiah.
+13 She gave this name to the Lord who spoke to her: “You are the God who sees me,” for she said, “I have now seen[c] the One who sees me.” 14 That is why the well was called Beer Lahai Roi[d]; it is still there, between Kadesh and Bered.
 
-Jesus Predicts His Death
-21 From that time on Jesus began to explain to his disciples that he must go to Jerusalem and suffer many things at the hands of the elders, the chief priests and the teachers of the law, and that he must be killed and on the third day be raised to life.
-
-22 Peter took him aside and began to rebuke him. “Never, Lord!” he said. “This shall never happen to you!”
-
-23 Jesus turned and said to Peter, “Get behind me, Satan! You are a stumbling block to me; you do not have in mind the concerns of God, but merely human concerns.”
-
-24 Then Jesus said to his disciples, “Whoever wants to be my disciple must deny themselves and take up their cross and follow me. 25 For whoever wants to save their life[f] will lose it, but whoever loses their life for me will find it. 26 What good will it be for someone to gain the whole world, yet forfeit their soul? Or what can anyone give in exchange for their soul? 27 For the Son of Man is going to come in his Father’s glory with his angels, and then he will reward each person according to what they have done.
-
-28 “Truly I tell you, some who are standing here will not taste death before they see the Son of Man coming in his kingdom.”
+15 So Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had borne. 16 Abram was eighty-six years old when Hagar bore him Ishmael.
             </p>
           </div>
 
           <div className={styles.card}>
             <h2  className={styles.chapter}>Genesis Chapter XVII</h2>
             <p>
-17 After six days Jesus took with him Peter, James and John the brother of James, and led them up a high mountain by themselves. 2 There he was transfigured before them. His face shone like the sun, and his clothes became as white as the light. 3 Just then there appeared before them Moses and Elijah, talking with Jesus.
+                  <h4>The Covenant of Circumcision</h4>
+17 When Abram was ninety-nine years old, the Lord appeared to him and said, “I am God Almighty[a]; walk before me faithfully and be blameless. 2 Then I will make my covenant between me and you and will greatly increase your numbers.”
 
-4 Peter said to Jesus, “Lord, it is good for us to be here. If you wish, I will put up three shelters—one for you, one for Moses and one for Elijah.”
+3 Abram fell facedown, and God said to him, 4 “As for me, this is my covenant with you: You will be the father of many nations. 5 No longer will you be called Abram[b]; your name will be Abraham,[c] for I have made you a father of many nations. 6 I will make you very fruitful; I will make nations of you, and kings will come from you. 7 I will establish my covenant as an everlasting covenant between me and you and your descendants after you for the generations to come, to be your God and the God of your descendants after you. 8 The whole land of Canaan, where you now reside as a foreigner, I will give as an everlasting possession to you and your descendants after you; and I will be their God.”
 
-5 While he was still speaking, a bright cloud covered them, and a voice from the cloud said, “This is my Son, whom I love; with him I am well pleased. Listen to him!”
+9 Then God said to Abraham, “As for you, you must keep my covenant, you and your descendants after you for the generations to come. 10 This is my covenant with you and your descendants after you, the covenant you are to keep: Every male among you shall be circumcised. 11 You are to undergo circumcision, and it will be the sign of the covenant between me and you. 12 For the generations to come every male among you who is eight days old must be circumcised, including those born in your household or bought with money from a foreigner—those who are not your offspring. 13 Whether born in your household or bought with your money, they must be circumcised. My covenant in your flesh is to be an everlasting covenant. 14 Any uncircumcised male, who has not been circumcised in the flesh, will be cut off from his people; he has broken my covenant.”
 
-6 When the disciples heard this, they fell facedown to the ground, terrified. 7 But Jesus came and touched them. “Get up,” he said. “Don’t be afraid.” 8 When they looked up, they saw no one except Jesus.
+15 God also said to Abraham, “As for Sarai your wife, you are no longer to call her Sarai; her name will be Sarah. 16 I will bless her and will surely give you a son by her. I will bless her so that she will be the mother of nations; kings of peoples will come from her.”
 
-9 As they were coming down the mountain, Jesus instructed them, “Don’t tell anyone what you have seen, until the Son of Man has been raised from the dead.”
+17 Abraham fell facedown; he laughed and said to himself, “Will a son be born to a man a hundred years old? Will Sarah bear a child at the age of ninety?” 18 And Abraham said to God, “If only Ishmael might live under your blessing!”
 
-10 The disciples asked him, “Why then do the teachers of the law say that Elijah must come first?”
+19 Then God said, “Yes, but your wife Sarah will bear you a son, and you will call him Isaac.[d] I will establish my covenant with him as an everlasting covenant for his descendants after him. 20 And as for Ishmael, I have heard you: I will surely bless him; I will make him fruitful and will greatly increase his numbers. He will be the father of twelve rulers, and I will make him into a great nation. 21 But my covenant I will establish with Isaac, whom Sarah will bear to you by this time next year.” 22 When he had finished speaking with Abraham, God went up from him.
 
-11 Jesus replied, “To be sure, Elijah comes and will restore all things. 12 But I tell you, Elijah has already come, and they did not recognize him, but have done to him everything they wished. In the same way the Son of Man is going to suffer at their hands.” 13 Then the disciples understood that he was talking to them about John the Baptist.
+23 On that very day Abraham took his son Ishmael and all those born in his household or bought with his money, every male in his household, and circumcised them, as God told him. 24 Abraham was ninety-nine years old when he was circumcised, 25 and his son Ishmael was thirteen; 26 Abraham and his son Ishmael were both circumcised on that very day. 27 And every male in Abraham’s household, including those born in his household or bought from a foreigner, was circumcised with him.
 
-Jesus Heals a Demon-Possessed Boy
-14 When they came to the crowd, a man approached Jesus and knelt before him. 15 “Lord, have mercy on my son,” he said. “He has seizures and is suffering greatly. He often falls into the fire or into the water. 16 I brought him to your disciples, but they could not heal him.”
-
-17 “You unbelieving and perverse generation,” Jesus replied, “how long shall I stay with you? How long shall I put up with you? Bring the boy here to me.” 18 Jesus rebuked the demon, and it came out of the boy, and he was healed at that moment.
-
-19 Then the disciples came to Jesus in private and asked, “Why couldn’t we drive it out?”
-
-20 He replied, “Because you have so little faith. Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.” [21] [a]
-
-Jesus Predicts His Death a Second Time
-22 When they came together in Galilee, he said to them, “The Son of Man is going to be delivered into the hands of men. 23 They will kill him, and on the third day he will be raised to life.” And the disciples were filled with grief.
-
-The Temple Tax
-24 After Jesus and his disciples arrived in Capernaum, the collectors of the two-drachma temple tax came to Peter and asked, “Doesn’t your teacher pay the temple tax?”
-
-25 “Yes, he does,” he replied.
-
-When Peter came into the house, Jesus was the first to speak. “What do you think, Simon?” he asked. “From whom do the kings of the earth collect duty and taxes—from their own children or from others?”
-
-26 “From others,” Peter answered.
-
-“Then the children are exempt,” Jesus said to him. 27 “But so that we may not cause offense, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find a four-drachma coin. Take it and give it to them for my tax and yours.”</p>
+  
+            </p>
           </div>
 
           <div className={styles.card}>
             <h2  className={styles.chapter}>Genesis Chapter XVIII</h2>
-            <p>
-18 At that time the disciples came to Jesus and asked, “Who, then, is the greatest in the kingdom of heaven?”
+                        <p>
+  <h4>The Three Visitors</h4>
+18 The Lord appeared to Abraham near the great trees of Mamre while he was sitting at the entrance to his tent in the heat of the day. 2 Abraham looked up and saw three men standing nearby. When he saw them, he hurried from the entrance of his tent to meet them and bowed low to the ground.
 
-2 He called a little child to him, and placed the child among them. 3 And he said: “Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven. 4 Therefore, whoever takes the lowly position of this child is the greatest in the kingdom of heaven. 5 And whoever welcomes one such child in my name welcomes me.
+3 He said, “If I have found favor in your eyes, my lord,[a] do not pass your servant by. 4 Let a little water be brought, and then you may all wash your feet and rest under this tree. 5 Let me get you something to eat, so you can be refreshed and then go on your way—now that you have come to your servant.”
 
-Causing to Stumble
-6 “If anyone causes one of these little ones—those who believe in me—to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea. 7 Woe to the world because of the things that cause people to stumble! Such things must come, but woe to the person through whom they come! 8 If your hand or your foot causes you to stumble, cut it off and throw it away. It is better for you to enter life maimed or crippled than to have two hands or two feet and be thrown into eternal fire. 9 And if your eye causes you to stumble, gouge it out and throw it away. It is better for you to enter life with one eye than to have two eyes and be thrown into the fire of hell.
+“Very well,” they answered, “do as you say.”
 
-The Parable of the Wandering Sheep
-10 “See that you do not despise one of these little ones. For I tell you that their angels in heaven always see the face of my Father in heaven. [11] [a]
+6 So Abraham hurried into the tent to Sarah. “Quick,” he said, “get three seahs[b] of the finest flour and knead it and bake some bread.”
 
-12 “What do you think? If a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off? 13 And if he finds it, truly I tell you, he is happier about that one sheep than about the ninety-nine that did not wander off. 14 In the same way your Father in heaven is not willing that any of these little ones should perish.
+7 Then he ran to the herd and selected a choice, tender calf and gave it to a servant, who hurried to prepare it. 8 He then brought some curds and milk and the calf that had been prepared, and set these before them. While they ate, he stood near them under a tree.
 
-Dealing With Sin in the Church
-15 “If your brother or sister[b] sins,[c] go and point out their fault, just between the two of you. If they listen to you, you have won them over. 16 But if they will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’[d] 17 If they still refuse to listen, tell it to the church; and if they refuse to listen even to the church, treat them as you would a pagan or a tax collector.
+9 “Where is your wife Sarah?” they asked him.
 
-18 “Truly I tell you, whatever you bind on earth will be[e] bound in heaven, and whatever you loose on earth will be[f] loosed in heaven.
+“There, in the tent,” he said.
 
-19 “Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by my Father in heaven. 20 For where two or three gather in my name, there am I with them.”
+10 Then one of them said, “I will surely return to you about this time next year, and Sarah your wife will have a son.”
 
-The Parable of the Unmerciful Servant
-21 Then Peter came to Jesus and asked, “Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?”
+Now Sarah was listening at the entrance to the tent, which was behind him. 11 Abraham and Sarah were already very old, and Sarah was past the age of childbearing. 12 So Sarah laughed to herself as she thought, “After I am worn out and my lord is old, will I now have this pleasure?”
 
-22 Jesus answered, “I tell you, not seven times, but seventy-seven times.[g]
+13 Then the Lord said to Abraham, “Why did Sarah laugh and say, ‘Will I really have a child, now that I am old?’ 14 Is anything too hard for the Lord? I will return to you at the appointed time next year, and Sarah will have a son.”
 
-23 “Therefore, the kingdom of heaven is like a king who wanted to settle accounts with his servants. 24 As he began the settlement, a man who owed him ten thousand bags of gold[h] was brought to him. 25 Since he was not able to pay, the master ordered that he and his wife and his children and all that he had be sold to repay the debt.
+15 Sarah was afraid, so she lied and said, “I did not laugh.”
 
-26 “At this the servant fell on his knees before him. ‘Be patient with me,’ he begged, ‘and I will pay back everything.’ 27 The servant’s master took pity on him, canceled the debt and let him go.
+But he said, “Yes, you did laugh.”
 
-28 “But when that servant went out, he found one of his fellow servants who owed him a hundred silver coins.[i] He grabbed him and began to choke him. ‘Pay back what you owe me!’ he demanded.
+Abraham Pleads for Sodom
+16 When the men got up to leave, they looked down toward Sodom, and Abraham walked along with them to see them on their way. 17 Then the Lord said, “Shall I hide from Abraham what I am about to do? 18 Abraham will surely become a great and powerful nation, and all nations on earth will be blessed through him.[c] 19 For I have chosen him, so that he will direct his children and his household after him to keep the way of the Lord by doing what is right and just, so that the Lord will bring about for Abraham what he has promised him.”
 
-29 “His fellow servant fell to his knees and begged him, ‘Be patient with me, and I will pay it back.’
+20 Then the Lord said, “The outcry against Sodom and Gomorrah is so great and their sin so grievous 21 that I will go down and see if what they have done is as bad as the outcry that has reached me. If not, I will know.”
 
-30 “But he refused. Instead, he went off and had the man thrown into prison until he could pay the debt. 31 When the other servants saw what had happened, they were outraged and went and told their master everything that had happened.
+22 The men turned away and went toward Sodom, but Abraham remained standing before the Lord.[d] 23 Then Abraham approached him and said: “Will you sweep away the righteous with the wicked? 24 What if there are fifty righteous people in the city? Will you really sweep it away and not spare[e] the place for the sake of the fifty righteous people in it? 25 Far be it from you to do such a thing—to kill the righteous with the wicked, treating the righteous and the wicked alike. Far be it from you! Will not the Judge of all the earth do right?”
 
-32 “Then the master called the servant in. ‘You wicked servant,’ he said, ‘I canceled all that debt of yours because you begged me to. 33 Shouldn’t you have had mercy on your fellow servant just as I had on you?’ 34 In anger his master handed him over to the jailers to be tortured, until he should pay back all he owed.
+26 The Lord said, “If I find fifty righteous people in the city of Sodom, I will spare the whole place for their sake.”
 
-35 “This is how my heavenly Father will treat each of you unless you forgive your brother or sister from your heart.”
+27 Then Abraham spoke up again: “Now that I have been so bold as to speak to the Lord, though I am nothing but dust and ashes, 28 what if the number of the righteous is five less than fifty? Will you destroy the whole city for lack of five people?”
 
-</p>
+“If I find forty-five there,” he said, “I will not destroy it.”
+
+29 Once again he spoke to him, “What if only forty are found there?”
+
+He said, “For the sake of forty, I will not do it.”
+
+30 Then he said, “May the Lord not be angry, but let me speak. What if only thirty can be found there?”
+
+He answered, “I will not do it if I find thirty there.”
+
+31 Abraham said, “Now that I have been so bold as to speak to the Lord, what if only twenty can be found there?”
+
+He said, “For the sake of twenty, I will not destroy it.”
+
+32 Then he said, “May the Lord not be angry, but let me speak just once more. What if only ten can be found there?”
+
+He answered, “For the sake of ten, I will not destroy it.”
+
+33 When the Lord had finished speaking with Abraham, he left, and Abraham returned home.
+
+                        </p>
           </div>
 
           <div
             className={styles.card}
           >
             <h2  className={styles.chapter}>Genesis Chapter XIX</h2>
-            <p>
-19 When Jesus had finished saying these things, he left Galilee and went into the region of Judea to the other side of the Jordan. 2 Large crowds followed him, and he healed them there.
+                    <p>
+                            <h4>Sodom and Gomorrah Destroyed</h4>
+19 The two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When he saw them, he got up to meet them and bowed down with his face to the ground. 2 “My lords,” he said, “please turn aside to your servant’s house. You can wash your feet and spend the night and then go on your way early in the morning.”
 
-3 Some Pharisees came to him to test him. They asked, “Is it lawful for a man to divorce his wife for any and every reason?”
+“No,” they answered, “we will spend the night in the square.”
 
-4 “Haven’t you read,” he replied, “that at the beginning the Creator ‘made them male and female,’[a] 5 and said, ‘For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh’[b]? 6 So they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.”
+3 But he insisted so strongly that they did go with him and entered his house. He prepared a meal for them, baking bread without yeast, and they ate. 4 Before they had gone to bed, all the men from every part of the city of Sodom—both young and old—surrounded the house. 5 They called to Lot, “Where are the men who came to you tonight? Bring them out to us so that we can have sex with them.”
 
-7 “Why then,” they asked, “did Moses command that a man give his wife a certificate of divorce and send her away?”
+6 Lot went outside to meet them and shut the door behind him 7 and said, “No, my friends. Don’t do this wicked thing. 8 Look, I have two daughters who have never slept with a man. Let me bring them out to you, and you can do what you like with them. But don’t do anything to these men, for they have come under the protection of my roof.”
 
-8 Jesus replied, “Moses permitted you to divorce your wives because your hearts were hard. But it was not this way from the beginning. 9 I tell you that anyone who divorces his wife, except for sexual immorality, and marries another woman commits adultery.”
+9 “Get out of our way,” they replied. “This fellow came here as a foreigner, and now he wants to play the judge! We’ll treat you worse than them.” They kept bringing pressure on Lot and moved forward to break down the door.
 
-10 The disciples said to him, “If this is the situation between a husband and wife, it is better not to marry.”
+10 But the men inside reached out and pulled Lot back into the house and shut the door. 11 Then they struck the men who were at the door of the house, young and old, with blindness so that they could not find the door.
 
-11 Jesus replied, “Not everyone can accept this word, but only those to whom it has been given. 12 For there are eunuchs who were born that way, and there are eunuchs who have been made eunuchs by others—and there are those who choose to live like eunuchs for the sake of the kingdom of heaven. The one who can accept this should accept it.”
+12 The two men said to Lot, “Do you have anyone else here—sons-in-law, sons or daughters, or anyone else in the city who belongs to you? Get them out of here, 13 because we are going to destroy this place. The outcry to the Lord against its people is so great that he has sent us to destroy it.”
 
-The Little Children and Jesus
-13 Then people brought little children to Jesus for him to place his hands on them and pray for them. But the disciples rebuked them.
+14 So Lot went out and spoke to his sons-in-law, who were pledged to marry[a] his daughters. He said, “Hurry and get out of this place, because the Lord is about to destroy the city!” But his sons-in-law thought he was joking.
 
-14 Jesus said, “Let the little children come to me, and do not hinder them, for the kingdom of heaven belongs to such as these.” 15 When he had placed his hands on them, he went on from there.
+15 With the coming of dawn, the angels urged Lot, saying, “Hurry! Take your wife and your two daughters who are here, or you will be swept away when the city is punished.”
 
-The Rich and the Kingdom of God
-16 Just then a man came up to Jesus and asked, “Teacher, what good thing must I do to get eternal life?”
+16 When he hesitated, the men grasped his hand and the hands of his wife and of his two daughters and led them safely out of the city, for the Lord was merciful to them. 17 As soon as they had brought them out, one of them said, “Flee for your lives! Don’t look back, and don’t stop anywhere in the plain! Flee to the mountains or you will be swept away!”
 
-17 “Why do you ask me about what is good?” Jesus replied. “There is only One who is good. If you want to enter life, keep the commandments.”
+18 But Lot said to them, “No, my lords,[b] please! 19 Your[c] servant has found favor in your[d] eyes, and you[e] have shown great kindness to me in sparing my life. But I can’t flee to the mountains; this disaster will overtake me, and I’ll die. 20 Look, here is a town near enough to run to, and it is small. Let me flee to it—it is very small, isn’t it? Then my life will be spared.”
 
-18 “Which ones?” he inquired.
+21 He said to him, “Very well, I will grant this request too; I will not overthrow the town you speak of. 22 But flee there quickly, because I cannot do anything until you reach it.” (That is why the town was called Zoar.[f])
 
-Jesus replied, “‘You shall not murder, you shall not commit adultery, you shall not steal, you shall not give false testimony, 19 honor your father and mother,’[c] and ‘love your neighbor as yourself.’[d]”
+23 By the time Lot reached Zoar, the sun had risen over the land. 24 Then the Lord rained down burning sulfur on Sodom and Gomorrah—from the Lord out of the heavens. 25 Thus he overthrew those cities and the entire plain, destroying all those living in the cities—and also the vegetation in the land. 26 But Lot’s wife looked back, and she became a pillar of salt.
 
-20 “All these I have kept,” the young man said. “What do I still lack?”
+27 Early the next morning Abraham got up and returned to the place where he had stood before the Lord. 28 He looked down toward Sodom and Gomorrah, toward all the land of the plain, and he saw dense smoke rising from the land, like smoke from a furnace.
 
-21 Jesus answered, “If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow me.”
+29 So when God destroyed the cities of the plain, he remembered Abraham, and he brought Lot out of the catastrophe that overthrew the cities where Lot had lived.
 
-22 When the young man heard this, he went away sad, because he had great wealth.
+Lot and His Daughters
+30 Lot and his two daughters left Zoar and settled in the mountains, for he was afraid to stay in Zoar. He and his two daughters lived in a cave. 31 One day the older daughter said to the younger, “Our father is old, and there is no man around here to give us children—as is the custom all over the earth. 32 Let’s get our father to drink wine and then sleep with him and preserve our family line through our father.”
 
-23 Then Jesus said to his disciples, “Truly I tell you, it is hard for someone who is rich to enter the kingdom of heaven. 24 Again I tell you, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.”
+33 That night they got their father to drink wine, and the older daughter went in and slept with him. He was not aware of it when she lay down or when she got up.
 
-25 When the disciples heard this, they were greatly astonished and asked, “Who then can be saved?”
+34 The next day the older daughter said to the younger, “Last night I slept with my father. Let’s get him to drink wine again tonight, and you go in and sleep with him so we can preserve our family line through our father.” 35 So they got their father to drink wine that night also, and the younger daughter went in and slept with him. Again he was not aware of it when she lay down or when she got up.
 
-26 Jesus looked at them and said, “With man this is impossible, but with God all things are possible.”
+36 So both of Lot’s daughters became pregnant by their father. 37 The older daughter had a son, and she named him Moab[g]; he is the father of the Moabites of today. 38 The younger daughter also had a son, and she named him Ben-Ammi[h]; he is the father of the Ammonites[i] of today.
 
-27 Peter answered him, “We have left everything to follow you! What then will there be for us?”
-
-28 Jesus said to them, “Truly I tell you, at the renewal of all things, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel. 29 And everyone who has left houses or brothers or sisters or father or mother or wife[e] or children or fields for my sake will receive a hundred times as much and will inherit eternal life. 30 But many who are first will be last, and many who are last will be first.</p>
+                      </p>
           </div>
 
           <div
@@ -968,53 +851,25 @@ Jesus replied, “‘You shall not murder, you shall not commit adultery, you sh
           >
            <h2  className={styles.chapter}>Genesis Chapter XX</h2>
             <p>
-            T
-20 “For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard. 2 He agreed to pay them a denarius[a] for the day and sent them into his vineyard.
+          <h4>Abraham and Abimelek</h4>
+20 Now Abraham moved on from there into the region of the Negev and lived between Kadesh and Shur. For a while he stayed in Gerar, 2 and there Abraham said of his wife Sarah, “She is my sister.” Then Abimelek king of Gerar sent for Sarah and took her.
 
-3 “About nine in the morning he went out and saw others standing in the marketplace doing nothing. 4 He told them, ‘You also go and work in my vineyard, and I will pay you whatever is right.’ 5 So they went.
+3 But God came to Abimelek in a dream one night and said to him, “You are as good as dead because of the woman you have taken; she is a married woman.”
 
-“He went out again about noon and about three in the afternoon and did the same thing. 6 About five in the afternoon he went out and found still others standing around. He asked them, ‘Why have you been standing here all day long doing nothing?’
+4 Now Abimelek had not gone near her, so he said, “Lord, will you destroy an innocent nation? 5 Did he not say to me, ‘She is my sister,’ and didn’t she also say, ‘He is my brother’? I have done this with a clear conscience and clean hands.”
 
-7 “‘Because no one has hired us,’ they answered.
+6 Then God said to him in the dream, “Yes, I know you did this with a clear conscience, and so I have kept you from sinning against me. That is why I did not let you touch her. 7 Now return the man’s wife, for he is a prophet, and he will pray for you and you will live. But if you do not return her, you may be sure that you and all who belong to you will die.”
 
-“He said to them, ‘You also go and work in my vineyard.’
+8 Early the next morning Abimelek summoned all his officials, and when he told them all that had happened, they were very much afraid. 9 Then Abimelek called Abraham in and said, “What have you done to us? How have I wronged you that you have brought such great guilt upon me and my kingdom? You have done things to me that should never be done.” 10 And Abimelek asked Abraham, “What was your reason for doing this?”
 
-8 “When evening came, the owner of the vineyard said to his foreman, ‘Call the workers and pay them their wages, beginning with the last ones hired and going on to the first.’
+11 Abraham replied, “I said to myself, ‘There is surely no fear of God in this place, and they will kill me because of my wife.’ 12 Besides, she really is my sister, the daughter of my father though not of my mother; and she became my wife. 13 And when God had me wander from my father’s household, I said to her, ‘This is how you can show your love to me: Everywhere we go, say of me, “He is my brother.”’”
 
-9 “The workers who were hired about five in the afternoon came and each received a denarius. 10 So when those came who were hired first, they expected to receive more. But each one of them also received a denarius. 11 When they received it, they began to grumble against the landowner. 12 ‘These who were hired last worked only one hour,’ they said, ‘and you have made them equal to us who have borne the burden of the work and the heat of the day.’
+14 Then Abimelek brought sheep and cattle and male and female slaves and gave them to Abraham, and he returned Sarah his wife to him. 15 And Abimelek said, “My land is before you; live wherever you like.”
 
-13 “But he answered one of them, ‘I am not being unfair to you, friend. Didn’t you agree to work for a denarius? 14 Take your pay and go. I want to give the one who was hired last the same as I gave you. 15 Don’t I have the right to do what I want with my own money? Or are you envious because I am generous?’
+16 To Sarah he said, “I am giving your brother a thousand shekels[a] of silver. This is to cover the offense against you before all who are with you; you are completely vindicated.”
 
-16 “So the last will be first, and the first will be last.”
-
-Jesus Predicts His Death a Third Time
-17 Now Jesus was going up to Jerusalem. On the way, he took the Twelve aside and said to them, 18 “We are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the teachers of the law. They will condemn him to death 19 and will hand him over to the Gentiles to be mocked and flogged and crucified. On the third day he will be raised to life!”
-
-A Mother’s Request
-20 Then the mother of Zebedee’s sons came to Jesus with her sons and, kneeling down, asked a favor of him.
-
-21 “What is it you want?” he asked.
-
-She said, “Grant that one of these two sons of mine may sit at your right and the other at your left in your kingdom.”
-
-22 “You don’t know what you are asking,” Jesus said to them. “Can you drink the cup I am going to drink?”
-
-“We can,” they answered.
-
-23 Jesus said to them, “You will indeed drink from my cup, but to sit at my right or left is not for me to grant. These places belong to those for whom they have been prepared by my Father.”
-
-24 When the ten heard about this, they were indignant with the two brothers. 25 Jesus called them together and said, “You know that the rulers of the Gentiles lord it over them, and their high officials exercise authority over them. 26 Not so with you. Instead, whoever wants to become great among you must be your servant, 27 and whoever wants to be first must be your slave— 28 just as the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.”
-
-Two Blind Men Receive Sight
-29 As Jesus and his disciples were leaving Jericho, a large crowd followed him. 30 Two blind men were sitting by the roadside, and when they heard that Jesus was going by, they shouted, “Lord, Son of David, have mercy on us!”
-
-31 The crowd rebuked them and told them to be quiet, but they shouted all the louder, “Lord, Son of David, have mercy on us!”
-
-32 Jesus stopped and called them. “What do you want me to do for you?” he asked.
-
-33 “Lord,” they answered, “we want our sight.”
-
-34 Jesus had compassion on them and touched their eyes. Immediately they received their sight and followed him.
+17 Then Abraham prayed to God, and God healed Abimelek, his wife and his female slaves so they could have children again, 18 for the Lord had kept all the women in Abimelek’s household from conceiving because of Abraham’s wife Sarah.
+  
             </p>
           </div>
           <div
@@ -1023,93 +878,41 @@ Two Blind Men Receive Sight
          <h2  className={styles.chapter}>Genesis Chapter XXI</h2>
             <p>
             
-21 As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent two disciples, 2 saying to them, “Go to the village ahead of you, and at once you will find a donkey tied there, with her colt by her. Untie them and bring them to me. 3 If anyone says anything to you, say that the Lord needs them, and he will send them right away.”
+<h4The Birth of Isaac</h4>
+21 Now the Lord was gracious to Sarah as he had said, and the Lord did for Sarah what he had promised. 2 Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him. 3 Abraham gave the name Isaac[a] to the son Sarah bore him. 4 When his son Isaac was eight days old, Abraham circumcised him, as God commanded him. 5 Abraham was a hundred years old when his son Isaac was born to him.
 
-4 This took place to fulfill what was spoken through the prophet:
+6 Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.” 7 And she added, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”
 
-5 “Say to Daughter Zion,
-    ‘See, your king comes to you,
-gentle and riding on a donkey,
-    and on a colt, the foal of a donkey.’”[a]
+Hagar and Ishmael Sent Away
+8 The child grew and was weaned, and on the day Isaac was weaned Abraham held a great feast. 9 But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mocking, 10 and she said to Abraham, “Get rid of that slave woman and her son, for that woman’s son will never share in the inheritance with my son Isaac.”
 
-6 The disciples went and did as Jesus had instructed them. 7 They brought the donkey and the colt and placed their cloaks on them for Jesus to sit on. 8 A very large crowd spread their cloaks on the road, while others cut branches from the trees and spread them on the road. 9 The crowds that went ahead of him and those that followed shouted,
+11 The matter distressed Abraham greatly because it concerned his son. 12 But God said to him, “Do not be so distressed about the boy and your slave woman. Listen to whatever Sarah tells you, because it is through Isaac that your offspring[b] will be reckoned. 13 I will make the son of the slave into a nation also, because he is your offspring.”
 
-“Hosanna[b] to the Son of David!”
+14 Early the next morning Abraham took some food and a skin of water and gave them to Hagar. He set them on her shoulders and then sent her off with the boy. She went on her way and wandered in the Desert of Beersheba.
 
-“Blessed is he who comes in the name of the Lord!”[c]
+15 When the water in the skin was gone, she put the boy under one of the bushes. 16 Then she went off and sat down about a bowshot away, for she thought, “I cannot watch the boy die.” And as she sat there, she[c] began to sob.
 
-“Hosanna[d] in the highest heaven!”
+17 God heard the boy crying, and the angel of God called to Hagar from heaven and said to her, “What is the matter, Hagar? Do not be afraid; God has heard the boy crying as he lies there. 18 Lift the boy up and take him by the hand, for I will make him into a great nation.”
 
-10 When Jesus entered Jerusalem, the whole city was stirred and asked, “Who is this?”
+19 Then God opened her eyes and she saw a well of water. So she went and filled the skin with water and gave the boy a drink.
 
-11 The crowds answered, “This is Jesus, the prophet from Nazareth in Galilee.”
+20 God was with the boy as he grew up. He lived in the desert and became an archer. 21 While he was living in the Desert of Paran, his mother got a wife for him from Egypt.
 
-Jesus at the Temple
-12 Jesus entered the temple courts and drove out all who were buying and selling there. He overturned the tables of the money changers and the benches of those selling doves. 13 “It is written,” he said to them, “‘My house will be called a house of prayer,’[e] but you are making it ‘a den of robbers.’[f]”
+The Treaty at Beersheba
+22 At that time Abimelek and Phicol the commander of his forces said to Abraham, “God is with you in everything you do. 23 Now swear to me here before God that you will not deal falsely with me or my children or my descendants. Show to me and the country where you now reside as a foreigner the same kindness I have shown to you.”
 
-14 The blind and the lame came to him at the temple, and he healed them. 15 But when the chief priests and the teachers of the law saw the wonderful things he did and the children shouting in the temple courts, “Hosanna to the Son of David,” they were indignant.
+24 Abraham said, “I swear it.”
 
-16 “Do you hear what these children are saying?” they asked him.
+25 Then Abraham complained to Abimelek about a well of water that Abimelek’s servants had seized. 26 But Abimelek said, “I don’t know who has done this. You did not tell me, and I heard about it only today.”
 
-“Yes,” replied Jesus, “have you never read,
+27 So Abraham brought sheep and cattle and gave them to Abimelek, and the two men made a treaty. 28 Abraham set apart seven ewe lambs from the flock, 29 and Abimelek asked Abraham, “What is the meaning of these seven ewe lambs you have set apart by themselves?”
 
-“‘From the lips of children and infants
-    you, Lord, have called forth your praise’[g]?”
+30 He replied, “Accept these seven lambs from my hand as a witness that I dug this well.”
 
-17 And he left them and went out of the city to Bethany, where he spent the night.
+31 So that place was called Beersheba,[d] because the two men swore an oath there.
 
-Jesus Curses a Fig Tree
-18 Early in the morning, as Jesus was on his way back to the city, he was hungry. 19 Seeing a fig tree by the road, he went up to it but found nothing on it except leaves. Then he said to it, “May you never bear fruit again!” Immediately the tree withered.
-
-20 When the disciples saw this, they were amazed. “How did the fig tree wither so quickly?” they asked.
-
-21 Jesus replied, “Truly I tell you, if you have faith and do not doubt, not only can you do what was done to the fig tree, but also you can say to this mountain, ‘Go, throw yourself into the sea,’ and it will be done. 22 If you believe, you will receive whatever you ask for in prayer.”
-
-The Authority of Jesus Questioned
-23 Jesus entered the temple courts, and, while he was teaching, the chief priests and the elders of the people came to him. “By what authority are you doing these things?” they asked. “And who gave you this authority?”
-
-24 Jesus replied, “I will also ask you one question. If you answer me, I will tell you by what authority I am doing these things. 25 John’s baptism—where did it come from? Was it from heaven, or of human origin?”
-
-They discussed it among themselves and said, “If we say, ‘From heaven,’ he will ask, ‘Then why didn’t you believe him?’ 26 But if we say, ‘Of human origin’—we are afraid of the people, for they all hold that John was a prophet.”
-
-27 So they answered Jesus, “We don’t know.”
-
-Then he said, “Neither will I tell you by what authority I am doing these things.
-
-The Parable of the Two Sons
-28 “What do you think? There was a man who had two sons. He went to the first and said, ‘Son, go and work today in the vineyard.’
-
-29 “‘I will not,’ he answered, but later he changed his mind and went.
-
-30 “Then the father went to the other son and said the same thing. He answered, ‘I will, sir,’ but he did not go.
-
-31 “Which of the two did what his father wanted?”
-
-“The first,” they answered.
-
-Jesus said to them, “Truly I tell you, the tax collectors and the prostitutes are entering the kingdom of God ahead of you. 32 For John came to you to show you the way of righteousness, and you did not believe him, but the tax collectors and the prostitutes did. And even after you saw this, you did not repent and believe him.
-
-The Parable of the Tenants
-33 “Listen to another parable: There was a landowner who planted a vineyard. He put a wall around it, dug a winepress in it and built a watchtower. Then he rented the vineyard to some farmers and moved to another place. 34 When the harvest time approached, he sent his servants to the tenants to collect his fruit.
-
-35 “The tenants seized his servants; they beat one, killed another, and stoned a third. 36 Then he sent other servants to them, more than the first time, and the tenants treated them the same way. 37 Last of all, he sent his son to them. ‘They will respect my son,’ he said.
-
-38 “But when the tenants saw the son, they said to each other, ‘This is the heir. Come, let’s kill him and take his inheritance.’ 39 So they took him and threw him out of the vineyard and killed him.
-
-40 “Therefore, when the owner of the vineyard comes, what will he do to those tenants?”
-
-41 “He will bring those wretches to a wretched end,” they replied, “and he will rent the vineyard to other tenants, who will give him his share of the crop at harvest time.”
-
-42 Jesus said to them, “Have you never read in the Scriptures:
-
-“‘The stone the builders rejected
-    has become the cornerstone;
-the Lord has done this,
-    and it is marvelous in our eyes’[h]?
-
-43 “Therefore I tell you that the kingdom of God will be taken away from you and given to a people who will produce its fruit. 44 Anyone who falls on this stone will be broken to pieces; anyone on whom it falls will be crushed.”[i]
-
-45 When the chief priests and the Pharisees heard Jesus’ parables, they knew he was talking about them. 46 They looked for a way to arrest him, but they were afraid of the crowd because the people held that he was a prophet.
+32 After the treaty had been made at Beersheba, Abimelek and Phicol the commander of his forces returned to the land of the Philistines. 33 Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the Lord, the Eternal God. 34 And Abraham stayed in the land of the Philistines for a long time.
+  
             </p>
           </div>
 
@@ -1119,130 +922,151 @@ the Lord has done this,
            <h2  className={styles.chapter}>Genesis Chapter XXII</h2>
             <p>
            
-22 Jesus spoke to them again in parables, saying: 2 “The kingdom of heaven is like a king who prepared a wedding banquet for his son. 3 He sent his servants to those who had been invited to the banquet to tell them to come, but they refused to come.
+<h4>Abraham Tested</h4>
+22 Some time later God tested Abraham. He said to him, “Abraham!”
 
-4 “Then he sent some more servants and said, ‘Tell those who have been invited that I have prepared my dinner: My oxen and fattened cattle have been butchered, and everything is ready. Come to the wedding banquet.’
+“Here I am,” he replied.
 
-5 “But they paid no attention and went off—one to his field, another to his business. 6 The rest seized his servants, mistreated them and killed them. 7 The king was enraged. He sent his army and destroyed those murderers and burned their city.
+2 Then God said, “Take your son, your only son, whom you love—Isaac—and go to the region of Moriah. Sacrifice him there as a burnt offering on a mountain I will show you.”
 
-8 “Then he said to his servants, ‘The wedding banquet is ready, but those I invited did not deserve to come. 9 So go to the street corners and invite to the banquet anyone you find.’ 10 So the servants went out into the streets and gathered all the people they could find, the bad as well as the good, and the wedding hall was filled with guests.
+3 Early the next morning Abraham got up and loaded his donkey. He took with him two of his servants and his son Isaac. When he had cut enough wood for the burnt offering, he set out for the place God had told him about. 4 On the third day Abraham looked up and saw the place in the distance. 5 He said to his servants, “Stay here with the donkey while I and the boy go over there. We will worship and then we will come back to you.”
 
-11 “But when the king came in to see the guests, he noticed a man there who was not wearing wedding clothes. 12 He asked, ‘How did you get in here without wedding clothes, friend?’ The man was speechless.
+6 Abraham took the wood for the burnt offering and placed it on his son Isaac, and he himself carried the fire and the knife. As the two of them went on together, 7 Isaac spoke up and said to his father Abraham, “Father?”
 
-13 “Then the king told the attendants, ‘Tie him hand and foot, and throw him outside, into the darkness, where there will be weeping and gnashing of teeth.’
+“Yes, my son?” Abraham replied.
 
-14 “For many are invited, but few are chosen.”
+“The fire and wood are here,” Isaac said, “but where is the lamb for the burnt offering?”
 
-Paying the Imperial Tax to Caesar
-15 Then the Pharisees went out and laid plans to trap him in his words. 16 They sent their disciples to him along with the Herodians. “Teacher,” they said, “we know that you are a man of integrity and that you teach the way of God in accordance with the truth. You aren’t swayed by others, because you pay no attention to who they are. 17 Tell us then, what is your opinion? Is it right to pay the imperial tax[a] to Caesar or not?”
+8 Abraham answered, “God himself will provide the lamb for the burnt offering, my son.” And the two of them went on together.
 
-18 But Jesus, knowing their evil intent, said, “You hypocrites, why are you trying to trap me? 19 Show me the coin used for paying the tax.” They brought him a denarius, 20 and he asked them, “Whose image is this? And whose inscription?”
+9 When they reached the place God had told him about, Abraham built an altar there and arranged the wood on it. He bound his son Isaac and laid him on the altar, on top of the wood. 10 Then he reached out his hand and took the knife to slay his son. 11 But the angel of the Lord called out to him from heaven, “Abraham! Abraham!”
 
-21 “Caesar’s,” they replied.
+“Here I am,” he replied.
 
-Then he said to them, “So give back to Caesar what is Caesar’s, and to God what is God’s.”
+12 “Do not lay a hand on the boy,” he said. “Do not do anything to him. Now I know that you fear God, because you have not withheld from me your son, your only son.”
 
-22 When they heard this, they were amazed. So they left him and went away.
+13 Abraham looked up and there in a thicket he saw a ram[a] caught by its horns. He went over and took the ram and sacrificed it as a burnt offering instead of his son. 14 So Abraham called that place The Lord Will Provide. And to this day it is said, “On the mountain of the Lord it will be provided.”
 
-Marriage at the Resurrection
-23 That same day the Sadducees, who say there is no resurrection, came to him with a question. 24 “Teacher,” they said, “Moses told us that if a man dies without having children, his brother must marry the widow and raise up offspring for him. 25 Now there were seven brothers among us. The first one married and died, and since he had no children, he left his wife to his brother. 26 The same thing happened to the second and third brother, right on down to the seventh. 27 Finally, the woman died. 28 Now then, at the resurrection, whose wife will she be of the seven, since all of them were married to her?”
+15 The angel of the Lord called to Abraham from heaven a second time 16 and said, “I swear by myself, declares the Lord, that because you have done this and have not withheld your son, your only son, 17 I will surely bless you and make your descendants as numerous as the stars in the sky and as the sand on the seashore. Your descendants will take possession of the cities of their enemies, 18 and through your offspring[b] all nations on earth will be blessed,[c] because you have obeyed me.”
 
-29 Jesus replied, “You are in error because you do not know the Scriptures or the power of God. 30 At the resurrection people will neither marry nor be given in marriage; they will be like the angels in heaven. 31 But about the resurrection of the dead—have you not read what God said to you, 32 ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’[b]? He is not the God of the dead but of the living.”
+19 Then Abraham returned to his servants, and they set off together for Beersheba. And Abraham stayed in Beersheba.
 
-33 When the crowds heard this, they were astonished at his teaching.
-
-The Greatest Commandment
-34 Hearing that Jesus had silenced the Sadducees, the Pharisees got together. 35 One of them, an expert in the law, tested him with this question: 36 “Teacher, which is the greatest commandment in the Law?”
-
-37 Jesus replied: “‘Love the Lord your God with all your heart and with all your soul and with all your mind.’[c] 38 This is the first and greatest commandment. 39 And the second is like it: ‘Love your neighbor as yourself.’[d] 40 All the Law and the Prophets hang on these two commandments.”
-
-Whose Son Is the Messiah?
-41 While the Pharisees were gathered together, Jesus asked them, 42 “What do you think about the Messiah? Whose son is he?”
-
-“The son of David,” they replied.
-
-43 He said to them, “How is it then that David, speaking by the Spirit, calls him ‘Lord’? For he says,
-
-44 “‘The Lord said to my Lord:
-    “Sit at my right hand
-until I put your enemies
-    under your feet.”’[e]
-
-45 If then David calls him ‘Lord,’ how can he be his son?” 46 No one could say a word in reply, and from that day on no one dared to ask him any more questions.
-            </p>
+Nahor’s Sons
+20 Some time later Abraham was told, “Milkah is also a mother; she has borne sons to your brother Nahor: 21 Uz the firstborn, Buz his brother, Kemuel (the father of Aram), 22 Kesed, Hazo, Pildash, Jidlaph and Bethuel.” 23 Bethuel became the father of Rebekah. Milkah bore these eight sons to Abraham’s brother Nahor. 24 His concubine, whose name was Reumah, also had sons: Tebah, Gaham, Tahash and Maakah.
+  
+  </p>
           </div>
 
           <div
             className={styles.card}
           >
             <h2  className={styles.chapter}>Genesis Chapter XXIII</h2>
-            <p>
-           
-23 Then Jesus said to the crowds and to his disciples: 2 “The teachers of the law and the Pharisees sit in Moses’ seat. 3 So you must be careful to do everything they tell you. But do not do what they do, for they do not practice what they preach. 4 They tie up heavy, cumbersome loads and put them on other people’s shoulders, but they themselves are not willing to lift a finger to move them.
+                  <p>
+                 <h4>The Death of Sarah</h4>
+23 Sarah lived to be a hundred and twenty-seven years old. 2 She died at Kiriath Arba (that is, Hebron) in the land of Canaan, and Abraham went to mourn for Sarah and to weep over her.
 
-5 “Everything they do is done for people to see: They make their phylacteries[a] wide and the tassels on their garments long; 6 they love the place of honor at banquets and the most important seats in the synagogues; 7 they love to be greeted with respect in the marketplaces and to be called ‘Rabbi’ by others.
+3 Then Abraham rose from beside his dead wife and spoke to the Hittites.[a] He said, 4 “I am a foreigner and stranger among you. Sell me some property for a burial site here so I can bury my dead.”
 
-8 “But you are not to be called ‘Rabbi,’ for you have one Teacher, and you are all brothers. 9 And do not call anyone on earth ‘father,’ for you have one Father, and he is in heaven. 10 Nor are you to be called instructors, for you have one Instructor, the Messiah. 11 The greatest among you will be your servant. 12 For those who exalt themselves will be humbled, and those who humble themselves will be exalted.
+5 The Hittites replied to Abraham, 6 “Sir, listen to us. You are a mighty prince among us. Bury your dead in the choicest of our tombs. None of us will refuse you his tomb for burying your dead.”
 
-Seven Woes on the Teachers of the Law and the Pharisees
-13 “Woe to you, teachers of the law and Pharisees, you hypocrites! You shut the door of the kingdom of heaven in people’s faces. You yourselves do not enter, nor will you let those enter who are trying to. [14] [b]
+7 Then Abraham rose and bowed down before the people of the land, the Hittites. 8 He said to them, “If you are willing to let me bury my dead, then listen to me and intercede with Ephron son of Zohar on my behalf 9 so he will sell me the cave of Machpelah, which belongs to him and is at the end of his field. Ask him to sell it to me for the full price as a burial site among you.”
 
-15 “Woe to you, teachers of the law and Pharisees, you hypocrites! You travel over land and sea to win a single convert, and when you have succeeded, you make them twice as much a child of hell as you are.
+10 Ephron the Hittite was sitting among his people and he replied to Abraham in the hearing of all the Hittites who had come to the gate of his city. 11 “No, my lord,” he said. “Listen to me; I give[b] you the field, and I give[c] you the cave that is in it. I give[d] it to you in the presence of my people. Bury your dead.”
 
-16 “Woe to you, blind guides! You say, ‘If anyone swears by the temple, it means nothing; but anyone who swears by the gold of the temple is bound by that oath.’ 17 You blind fools! Which is greater: the gold, or the temple that makes the gold sacred? 18 You also say, ‘If anyone swears by the altar, it means nothing; but anyone who swears by the gift on the altar is bound by that oath.’ 19 You blind men! Which is greater: the gift, or the altar that makes the gift sacred? 20 Therefore, anyone who swears by the altar swears by it and by everything on it. 21 And anyone who swears by the temple swears by it and by the one who dwells in it. 22 And anyone who swears by heaven swears by God’s throne and by the one who sits on it.
+12 Again Abraham bowed down before the people of the land 13 and he said to Ephron in their hearing, “Listen to me, if you will. I will pay the price of the field. Accept it from me so I can bury my dead there.”
 
-23 “Woe to you, teachers of the law and Pharisees, you hypocrites! You give a tenth of your spices—mint, dill and cumin. But you have neglected the more important matters of the law—justice, mercy and faithfulness. You should have practiced the latter, without neglecting the former. 24 You blind guides! You strain out a gnat but swallow a camel.
+14 Ephron answered Abraham, 15 “Listen to me, my lord; the land is worth four hundred shekels[e] of silver, but what is that between you and me? Bury your dead.”
 
-25 “Woe to you, teachers of the law and Pharisees, you hypocrites! You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence. 26 Blind Pharisee! First clean the inside of the cup and dish, and then the outside also will be clean.
+16 Abraham agreed to Ephron’s terms and weighed out for him the price he had named in the hearing of the Hittites: four hundred shekels of silver, according to the weight current among the merchants.
 
-27 “Woe to you, teachers of the law and Pharisees, you hypocrites! You are like whitewashed tombs, which look beautiful on the outside but on the inside are full of the bones of the dead and everything unclean. 28 In the same way, on the outside you appear to people as righteous but on the inside you are full of hypocrisy and wickedness.
-
-29 “Woe to you, teachers of the law and Pharisees, you hypocrites! You build tombs for the prophets and decorate the graves of the righteous. 30 And you say, ‘If we had lived in the days of our ancestors, we would not have taken part with them in shedding the blood of the prophets.’ 31 So you testify against yourselves that you are the descendants of those who murdered the prophets. 32 Go ahead, then, and complete what your ancestors started!
-
-33 “You snakes! You brood of vipers! How will you escape being condemned to hell? 34 Therefore I am sending you prophets and sages and teachers. Some of them you will kill and crucify; others you will flog in your synagogues and pursue from town to town. 35 And so upon you will come all the righteous blood that has been shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Berekiah, whom you murdered between the temple and the altar. 36 Truly I tell you, all this will come on this generation.
-
-37 “Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing. 38 Look, your house is left to you desolate. 39 For I tell you, you will not see me again until you say, ‘Blessed is he who comes in the name of the Lord.’[c]”
-            </p>
+17 So Ephron’s field in Machpelah near Mamre—both the field and the cave in it, and all the trees within the borders of the field—was deeded 18 to Abraham as his property in the presence of all the Hittites who had come to the gate of the city. 19 Afterward Abraham buried his wife Sarah in the cave in the field of Machpelah near Mamre (which is at Hebron) in the land of Canaan. 20 So the field and the cave in it were deeded to Abraham by the Hittites as a burial site.
+  </p>
           </div>
 
           <div
             className={styles.card}
           >
             <h2  className={styles.chapter}>Genesis Chapter XXIV</h2>
-            <p>
-            The Destruction of the Temple and Signs of the End Times
-24 Jesus left the temple and was walking away when his disciples came up to him to call his attention to its buildings. 2 “Do you see all these things?” he asked. “Truly I tell you, not one stone here will be left on another; every one will be thrown down.”
+                        <p>
+                     <h4>Isaac and Rebekah</h4>
+24 Abraham was now very old, and the Lord had blessed him in every way. 2 He said to the senior servant in his household, the one in charge of all that he had, “Put your hand under my thigh. 3 I want you to swear by the Lord, the God of heaven and the God of earth, that you will not get a wife for my son from the daughters of the Canaanites, among whom I am living, 4 but will go to my country and my own relatives and get a wife for my son Isaac.”
 
-3 As Jesus was sitting on the Mount of Olives, the disciples came to him privately. “Tell us,” they said, “when will this happen, and what will be the sign of your coming and of the end of the age?”
+5 The servant asked him, “What if the woman is unwilling to come back with me to this land? Shall I then take your son back to the country you came from?”
 
-4 Jesus answered: “Watch out that no one deceives you. 5 For many will come in my name, claiming, ‘I am the Messiah,’ and will deceive many. 6 You will hear of wars and rumors of wars, but see to it that you are not alarmed. Such things must happen, but the end is still to come. 7 Nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places. 8 All these are the beginning of birth pains.
+6 “Make sure that you do not take my son back there,” Abraham said. 7 “The Lord, the God of heaven, who brought me out of my father’s household and my native land and who spoke to me and promised me on oath, saying, ‘To your offspring[a] I will give this land’—he will send his angel before you so that you can get a wife for my son from there. 8 If the woman is unwilling to come back with you, then you will be released from this oath of mine. Only do not take my son back there.” 9 So the servant put his hand under the thigh of his master Abraham and swore an oath to him concerning this matter.
 
-9 “Then you will be handed over to be persecuted and put to death, and you will be hated by all nations because of me. 10 At that time many will turn away from the faith and will betray and hate each other, 11 and many false prophets will appear and deceive many people. 12 Because of the increase of wickedness, the love of most will grow cold, 13 but the one who stands firm to the end will be saved. 14 And this gospel of the kingdom will be preached in the whole world as a testimony to all nations, and then the end will come.
+10 Then the servant left, taking with him ten of his master’s camels loaded with all kinds of good things from his master. He set out for Aram Naharaim[b] and made his way to the town of Nahor. 11 He had the camels kneel down near the well outside the town; it was toward evening, the time the women go out to draw water.
 
-15 “So when you see standing in the holy place ‘the abomination that causes desolation,’[a] spoken of through the prophet Daniel—let the reader understand— 16 then let those who are in Judea flee to the mountains. 17 Let no one on the housetop go down to take anything out of the house. 18 Let no one in the field go back to get their cloak. 19 How dreadful it will be in those days for pregnant women and nursing mothers! 20 Pray that your flight will not take place in winter or on the Sabbath. 21 For then there will be great distress, unequaled from the beginning of the world until now—and never to be equaled again.
+12 Then he prayed, “Lord, God of my master Abraham, make me successful today, and show kindness to my master Abraham. 13 See, I am standing beside this spring, and the daughters of the townspeople are coming out to draw water. 14 May it be that when I say to a young woman, ‘Please let down your jar that I may have a drink,’ and she says, ‘Drink, and I’ll water your camels too’—let her be the one you have chosen for your servant Isaac. By this I will know that you have shown kindness to my master.”
 
-22 “If those days had not been cut short, no one would survive, but for the sake of the elect those days will be shortened. 23 At that time if anyone says to you, ‘Look, here is the Messiah!’ or, ‘There he is!’ do not believe it. 24 For false messiahs and false prophets will appear and perform great signs and wonders to deceive, if possible, even the elect. 25 See, I have told you ahead of time.
+15 Before he had finished praying, Rebekah came out with her jar on her shoulder. She was the daughter of Bethuel son of Milkah, who was the wife of Abraham’s brother Nahor. 16 The woman was very beautiful, a virgin; no man had ever slept with her. She went down to the spring, filled her jar and came up again.
 
-26 “So if anyone tells you, ‘There he is, out in the wilderness,’ do not go out; or, ‘Here he is, in the inner rooms,’ do not believe it. 27 For as lightning that comes from the east is visible even in the west, so will be the coming of the Son of Man. 28 Wherever there is a carcass, there the vultures will gather.
+17 The servant hurried to meet her and said, “Please give me a little water from your jar.”
 
-29 “Immediately after the distress of those days
+18 “Drink, my lord,” she said, and quickly lowered the jar to her hands and gave him a drink.
 
-“‘the sun will be darkened,
-    and the moon will not give its light;
-the stars will fall from the sky,
-    and the heavenly bodies will be shaken.’[b]
+19 After she had given him a drink, she said, “I’ll draw water for your camels too, until they have had enough to drink.” 20 So she quickly emptied her jar into the trough, ran back to the well to draw more water, and drew enough for all his camels. 21 Without saying a word, the man watched her closely to learn whether or not the Lord had made his journey successful.
 
-30 “Then will appear the sign of the Son of Man in heaven. And then all the peoples of the earth[c] will mourn when they see the Son of Man coming on the clouds of heaven, with power and great glory.[d] 31 And he will send his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of the heavens to the other.
+22 When the camels had finished drinking, the man took out a gold nose ring weighing a beka[c] and two gold bracelets weighing ten shekels.[d] 23 Then he asked, “Whose daughter are you? Please tell me, is there room in your father’s house for us to spend the night?”
 
-32 “Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near. 33 Even so, when you see all these things, you know that it[e] is near, right at the door. 34 Truly I tell you, this generation will certainly not pass away until all these things have happened. 35 Heaven and earth will pass away, but my words will never pass away.
+24 She answered him, “I am the daughter of Bethuel, the son that Milkah bore to Nahor.” 25 And she added, “We have plenty of straw and fodder, as well as room for you to spend the night.”
 
-The Day and Hour Unknown
-36 “But about that day or hour no one knows, not even the angels in heaven, nor the Son,[f] but only the Father. 37 As it was in the days of Noah, so it will be at the coming of the Son of Man. 38 For in the days before the flood, people were eating and drinking, marrying and giving in marriage, up to the day Noah entered the ark; 39 and they knew nothing about what would happen until the flood came and took them all away. That is how it will be at the coming of the Son of Man. 40 Two men will be in the field; one will be taken and the other left. 41 Two women will be grinding with a hand mill; one will be taken and the other left.
+26 Then the man bowed down and worshiped the Lord, 27 saying, “Praise be to the Lord, the God of my master Abraham, who has not abandoned his kindness and faithfulness to my master. As for me, the Lord has led me on the journey to the house of my master’s relatives.”
 
-42 “Therefore keep watch, because you do not know on what day your Lord will come. 43 But understand this: If the owner of the house had known at what time of night the thief was coming, he would have kept watch and would not have let his house be broken into. 44 So you also must be ready, because the Son of Man will come at an hour when you do not expect him.
+28 The young woman ran and told her mother’s household about these things. 29 Now Rebekah had a brother named Laban, and he hurried out to the man at the spring. 30 As soon as he had seen the nose ring, and the bracelets on his sister’s arms, and had heard Rebekah tell what the man said to her, he went out to the man and found him standing by the camels near the spring. 31 “Come, you who are blessed by the Lord,” he said. “Why are you standing out here? I have prepared the house and a place for the camels.”
 
-45 “Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time? 46 It will be good for that servant whose master finds him doing so when he returns. 47 Truly I tell you, he will put him in charge of all his possessions. 48 But suppose that servant is wicked and says to himself, ‘My master is staying away a long time,’ 49 and he then begins to beat his fellow servants and to eat and drink with drunkards. 50 The master of that servant will come on a day when he does not expect him and at an hour he is not aware of. 51 He will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.
-            </p>
+32 So the man went to the house, and the camels were unloaded. Straw and fodder were brought for the camels, and water for him and his men to wash their feet. 33 Then food was set before him, but he said, “I will not eat until I have told you what I have to say.”
+
+“Then tell us,” Laban said.
+
+34 So he said, “I am Abraham’s servant. 35 The Lord has blessed my master abundantly, and he has become wealthy. He has given him sheep and cattle, silver and gold, male and female servants, and camels and donkeys. 36 My master’s wife Sarah has borne him a son in her old age, and he has given him everything he owns. 37 And my master made me swear an oath, and said, ‘You must not get a wife for my son from the daughters of the Canaanites, in whose land I live, 38 but go to my father’s family and to my own clan, and get a wife for my son.’
+
+39 “Then I asked my master, ‘What if the woman will not come back with me?’
+
+40 “He replied, ‘The Lord, before whom I have walked faithfully, will send his angel with you and make your journey a success, so that you can get a wife for my son from my own clan and from my father’s family. 41 You will be released from my oath if, when you go to my clan, they refuse to give her to you—then you will be released from my oath.’
+
+42 “When I came to the spring today, I said, ‘Lord, God of my master Abraham, if you will, please grant success to the journey on which I have come. 43 See, I am standing beside this spring. If a young woman comes out to draw water and I say to her, “Please let me drink a little water from your jar,” 44 and if she says to me, “Drink, and I’ll draw water for your camels too,” let her be the one the Lord has chosen for my master’s son.’
+
+45 “Before I finished praying in my heart, Rebekah came out, with her jar on her shoulder. She went down to the spring and drew water, and I said to her, ‘Please give me a drink.’
+
+46 “She quickly lowered her jar from her shoulder and said, ‘Drink, and I’ll water your camels too.’ So I drank, and she watered the camels also.
+
+47 “I asked her, ‘Whose daughter are you?’
+
+“She said, ‘The daughter of Bethuel son of Nahor, whom Milkah bore to him.’
+
+“Then I put the ring in her nose and the bracelets on her arms, 48 and I bowed down and worshiped the Lord. I praised the Lord, the God of my master Abraham, who had led me on the right road to get the granddaughter of my master’s brother for his son. 49 Now if you will show kindness and faithfulness to my master, tell me; and if not, tell me, so I may know which way to turn.”
+
+50 Laban and Bethuel answered, “This is from the Lord; we can say nothing to you one way or the other. 51 Here is Rebekah; take her and go, and let her become the wife of your master’s son, as the Lord has directed.”
+
+52 When Abraham’s servant heard what they said, he bowed down to the ground before the Lord. 53 Then the servant brought out gold and silver jewelry and articles of clothing and gave them to Rebekah; he also gave costly gifts to her brother and to her mother. 54 Then he and the men who were with him ate and drank and spent the night there.
+
+When they got up the next morning, he said, “Send me on my way to my master.”
+
+55 But her brother and her mother replied, “Let the young woman remain with us ten days or so; then you[e] may go.”
+
+56 But he said to them, “Do not detain me, now that the Lord has granted success to my journey. Send me on my way so I may go to my master.”
+
+57 Then they said, “Let’s call the young woman and ask her about it.” 58 So they called Rebekah and asked her, “Will you go with this man?”
+
+“I will go,” she said.
+
+59 So they sent their sister Rebekah on her way, along with her nurse and Abraham’s servant and his men. 60 And they blessed Rebekah and said to her,
+
+“Our sister, may you increase
+    to thousands upon thousands;
+may your offspring possess
+    the cities of their enemies.”
+
+61 Then Rebekah and her attendants got ready and mounted the camels and went back with the man. So the servant took Rebekah and left.
+
+62 Now Isaac had come from Beer Lahai Roi, for he was living in the Negev. 63 He went out to the field one evening to meditate,[f] and as he looked up, he saw camels approaching. 64 Rebekah also looked up and saw Isaac. She got down from her camel 65 and asked the servant, “Who is that man in the field coming to meet us?”
+
+“He is my master,” the servant answered. So she took her veil and covered herself.
+
+66 Then the servant told Isaac all he had done. 67 Isaac brought her into the tent of his mother Sarah, and he married Rebekah. So she became his wife, and he loved her; and Isaac was comforted after his mother’s death.
+  
+  </p>
           </div>
 
           <div
@@ -1251,55 +1075,47 @@ The Day and Hour Unknown
            <h2  className={styles.chapter}>Genesis Chapter XXV</h2>
             <p>
             
-25 “At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom. 2 Five of them were foolish and five were wise. 3 The foolish ones took their lamps but did not take any oil with them. 4 The wise ones, however, took oil in jars along with their lamps. 5 The bridegroom was a long time in coming, and they all became drowsy and fell asleep.
+<h4>The Death of Abraham</h4>
+25 Abraham had taken another wife, whose name was Keturah. 2 She bore him Zimran, Jokshan, Medan, Midian, Ishbak and Shuah. 3 Jokshan was the father of Sheba and Dedan; the descendants of Dedan were the Ashurites, the Letushites and the Leummites. 4 The sons of Midian were Ephah, Epher, Hanok, Abida and Eldaah. All these were descendants of Keturah.
 
-6 “At midnight the cry rang out: ‘Here’s the bridegroom! Come out to meet him!’
+5 Abraham left everything he owned to Isaac. 6 But while he was still living, he gave gifts to the sons of his concubines and sent them away from his son Isaac to the land of the east.
 
-7 “Then all the virgins woke up and trimmed their lamps. 8 The foolish ones said to the wise, ‘Give us some of your oil; our lamps are going out.’
+7 Abraham lived a hundred and seventy-five years. 8 Then Abraham breathed his last and died at a good old age, an old man and full of years; and he was gathered to his people. 9 His sons Isaac and Ishmael buried him in the cave of Machpelah near Mamre, in the field of Ephron son of Zohar the Hittite, 10 the field Abraham had bought from the Hittites.[a] There Abraham was buried with his wife Sarah. 11 After Abraham’s death, God blessed his son Isaac, who then lived near Beer Lahai Roi.
 
-9 “‘No,’ they replied, ‘there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.’
+Ishmael’s Sons
+12 This is the account of the family line of Abraham’s son Ishmael, whom Sarah’s slave, Hagar the Egyptian, bore to Abraham.
 
-10 “But while they were on their way to buy the oil, the bridegroom arrived. The virgins who were ready went in with him to the wedding banquet. And the door was shut.
+13 These are the names of the sons of Ishmael, listed in the order of their birth: Nebaioth the firstborn of Ishmael, Kedar, Adbeel, Mibsam, 14 Mishma, Dumah, Massa, 15 Hadad, Tema, Jetur, Naphish and Kedemah. 16 These were the sons of Ishmael, and these are the names of the twelve tribal rulers according to their settlements and camps. 17 Ishmael lived a hundred and thirty-seven years. He breathed his last and died, and he was gathered to his people. 18 His descendants settled in the area from Havilah to Shur, near the eastern border of Egypt, as you go toward Ashur. And they lived in hostility toward[b] all the tribes related to them.
 
-11 “Later the others also came. ‘Lord, Lord,’ they said, ‘open the door for us!’
+Jacob and Esau
+19 This is the account of the family line of Abraham’s son Isaac.
 
-12 “But he replied, ‘Truly I tell you, I don’t know you.’
+Abraham became the father of Isaac, 20 and Isaac was forty years old when he married Rebekah daughter of Bethuel the Aramean from Paddan Aram[c] and sister of Laban the Aramean.
 
-13 “Therefore keep watch, because you do not know the day or the hour.
+21 Isaac prayed to the Lord on behalf of his wife, because she was childless. The Lord answered his prayer, and his wife Rebekah became pregnant. 22 The babies jostled each other within her, and she said, “Why is this happening to me?” So she went to inquire of the Lord.
 
-The Parable of the Bags of Gold
-14 “Again, it will be like a man going on a journey, who called his servants and entrusted his wealth to them. 15 To one he gave five bags of gold, to another two bags, and to another one bag,[a] each according to his ability. Then he went on his journey. 16 The man who had received five bags of gold went at once and put his money to work and gained five bags more. 17 So also, the one with two bags of gold gained two more. 18 But the man who had received one bag went off, dug a hole in the ground and hid his master’s money.
+23 The Lord said to her,
 
-19 “After a long time the master of those servants returned and settled accounts with them. 20 The man who had received five bags of gold brought the other five. ‘Master,’ he said, ‘you entrusted me with five bags of gold. See, I have gained five more.’
+“Two nations are in your womb,
+    and two peoples from within you will be separated;
+one people will be stronger than the other,
+    and the older will serve the younger.”
 
-21 “His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’
+24 When the time came for her to give birth, there were twin boys in her womb. 25 The first to come out was red, and his whole body was like a hairy garment; so they named him Esau.[d] 26 After this, his brother came out, with his hand grasping Esau’s heel; so he was named Jacob.[e] Isaac was sixty years old when Rebekah gave birth to them.
 
-22 “The man with two bags of gold also came. ‘Master,’ he said, ‘you entrusted me with two bags of gold; see, I have gained two more.’
+27 The boys grew up, and Esau became a skillful hunter, a man of the open country, while Jacob was content to stay at home among the tents. 28 Isaac, who had a taste for wild game, loved Esau, but Rebekah loved Jacob.
 
-23 “His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’
+29 Once when Jacob was cooking some stew, Esau came in from the open country, famished. 30 He said to Jacob, “Quick, let me have some of that red stew! I’m famished!” (That is why he was also called Edom.[f])
 
-24 “Then the man who had received one bag of gold came. ‘Master,’ he said, ‘I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed. 25 So I was afraid and went out and hid your gold in the ground. See, here is what belongs to you.’
+31 Jacob replied, “First sell me your birthright.”
 
-26 “His master replied, ‘You wicked, lazy servant! So you knew that I harvest where I have not sown and gather where I have not scattered seed? 27 Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest.
+32 “Look, I am about to die,” Esau said. “What good is the birthright to me?”
 
-28 “‘So take the bag of gold from him and give it to the one who has ten bags. 29 For whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them. 30 And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.’
+33 But Jacob said, “Swear to me first.” So he swore an oath to him, selling his birthright to Jacob.
 
-The Sheep and the Goats
-31 “When the Son of Man comes in his glory, and all the angels with him, he will sit on his glorious throne. 32 All the nations will be gathered before him, and he will separate the people one from another as a shepherd separates the sheep from the goats. 33 He will put the sheep on his right and the goats on his left.
+34 Then Jacob gave Esau some bread and some lentil stew. He ate and drank, and then got up and left.
 
-34 “Then the King will say to those on his right, ‘Come, you who are blessed by my Father; take your inheritance, the kingdom prepared for you since the creation of the world. 35 For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in, 36 I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me.’
-
-37 “Then the righteous will answer him, ‘Lord, when did we see you hungry and feed you, or thirsty and give you something to drink? 38 When did we see you a stranger and invite you in, or needing clothes and clothe you? 39 When did we see you sick or in prison and go to visit you?’
-
-40 “The King will reply, ‘Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.’
-
-41 “Then he will say to those on his left, ‘Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels. 42 For I was hungry and you gave me nothing to eat, I was thirsty and you gave me nothing to drink, 43 I was a stranger and you did not invite me in, I needed clothes and you did not clothe me, I was sick and in prison and you did not look after me.’
-
-44 “They also will answer, ‘Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?’
-
-45 “He will reply, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for me.’
-
-46 “Then they will go away to eternal punishment, but the righteous to eternal life.”
+So Esau despised his birthright.              
             </p>
           </div>
 
@@ -1307,219 +1123,158 @@ The Sheep and the Goats
             className={styles.card}
           >
             <h2  className={styles.chapter}>Genesis Chapter XXVI</h2>
-            <p>
-           
-26 When Jesus had finished saying all these things, he said to his disciples, 2 “As you know, the Passover is two days away—and the Son of Man will be handed over to be crucified.”
+                          <p>
+                         
+             <h4> Isaac and Abimelek</h4>
+26 Now there was a famine in the land—besides the previous famine in Abraham’s time—and Isaac went to Abimelek king of the Philistines in Gerar. 2 The Lord appeared to Isaac and said, “Do not go down to Egypt; live in the land where I tell you to live. 3 Stay in this land for a while, and I will be with you and will bless you. For to you and your descendants I will give all these lands and will confirm the oath I swore to your father Abraham. 4 I will make your descendants as numerous as the stars in the sky and will give them all these lands, and through your offspring[a] all nations on earth will be blessed,[b] 5 because Abraham obeyed me and did everything I required of him, keeping my commands, my decrees and my instructions.” 6 So Isaac stayed in Gerar.
 
-3 Then the chief priests and the elders of the people assembled in the palace of the high priest, whose name was Caiaphas, 4 and they schemed to arrest Jesus secretly and kill him. 5 “But not during the festival,” they said, “or there may be a riot among the people.”
+7 When the men of that place asked him about his wife, he said, “She is my sister,” because he was afraid to say, “She is my wife.” He thought, “The men of this place might kill me on account of Rebekah, because she is beautiful.”
 
-Jesus Anointed at Bethany
-6 While Jesus was in Bethany in the home of Simon the Leper, 7 a woman came to him with an alabaster jar of very expensive perfume, which she poured on his head as he was reclining at the table.
+8 When Isaac had been there a long time, Abimelek king of the Philistines looked down from a window and saw Isaac caressing his wife Rebekah. 9 So Abimelek summoned Isaac and said, “She is really your wife! Why did you say, ‘She is my sister’?”
 
-8 When the disciples saw this, they were indignant. “Why this waste?” they asked. 9 “This perfume could have been sold at a high price and the money given to the poor.”
+Isaac answered him, “Because I thought I might lose my life on account of her.”
 
-10 Aware of this, Jesus said to them, “Why are you bothering this woman? She has done a beautiful thing to me. 11 The poor you will always have with you,[a] but you will not always have me. 12 When she poured this perfume on my body, she did it to prepare me for burial. 13 Truly I tell you, wherever this gospel is preached throughout the world, what she has done will also be told, in memory of her.”
+10 Then Abimelek said, “What is this you have done to us? One of the men might well have slept with your wife, and you would have brought guilt upon us.”
 
-Judas Agrees to Betray Jesus
-14 Then one of the Twelve—the one called Judas Iscariot—went to the chief priests 15 and asked, “What are you willing to give me if I deliver him over to you?” So they counted out for him thirty pieces of silver. 16 From then on Judas watched for an opportunity to hand him over.
+11 So Abimelek gave orders to all the people: “Anyone who harms this man or his wife shall surely be put to death.”
 
-The Last Supper
-17 On the first day of the Festival of Unleavened Bread, the disciples came to Jesus and asked, “Where do you want us to make preparations for you to eat the Passover?”
+12 Isaac planted crops in that land and the same year reaped a hundredfold, because the Lord blessed him. 13 The man became rich, and his wealth continued to grow until he became very wealthy. 14 He had so many flocks and herds and servants that the Philistines envied him. 15 So all the wells that his father’s servants had dug in the time of his father Abraham, the Philistines stopped up, filling them with earth.
 
-18 He replied, “Go into the city to a certain man and tell him, ‘The Teacher says: My appointed time is near. I am going to celebrate the Passover with my disciples at your house.’” 19 So the disciples did as Jesus had directed them and prepared the Passover.
+16 Then Abimelek said to Isaac, “Move away from us; you have become too powerful for us.”
 
-20 When evening came, Jesus was reclining at the table with the Twelve. 21 And while they were eating, he said, “Truly I tell you, one of you will betray me.”
+17 So Isaac moved away from there and encamped in the Valley of Gerar, where he settled. 18 Isaac reopened the wells that had been dug in the time of his father Abraham, which the Philistines had stopped up after Abraham died, and he gave them the same names his father had given them.
 
-22 They were very sad and began to say to him one after the other, “Surely you don’t mean me, Lord?”
+19 Isaac’s servants dug in the valley and discovered a well of fresh water there. 20 But the herders of Gerar quarreled with those of Isaac and said, “The water is ours!” So he named the well Esek,[c] because they disputed with him. 21 Then they dug another well, but they quarreled over that one also; so he named it Sitnah.[d] 22 He moved on from there and dug another well, and no one quarreled over it. He named it Rehoboth,[e] saying, “Now the Lord has given us room and we will flourish in the land.”
 
-23 Jesus replied, “The one who has dipped his hand into the bowl with me will betray me. 24 The Son of Man will go just as it is written about him. But woe to that man who betrays the Son of Man! It would be better for him if he had not been born.”
+23 From there he went up to Beersheba. 24 That night the Lord appeared to him and said, “I am the God of your father Abraham. Do not be afraid, for I am with you; I will bless you and will increase the number of your descendants for the sake of my servant Abraham.”
 
-25 Then Judas, the one who would betray him, said, “Surely you don’t mean me, Rabbi?”
+25 Isaac built an altar there and called on the name of the Lord. There he pitched his tent, and there his servants dug a well.
 
-Jesus answered, “You have said so.”
+26 Meanwhile, Abimelek had come to him from Gerar, with Ahuzzath his personal adviser and Phicol the commander of his forces. 27 Isaac asked them, “Why have you come to me, since you were hostile to me and sent me away?”
 
-26 While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take and eat; this is my body.”
+28 They answered, “We saw clearly that the Lord was with you; so we said, ‘There ought to be a sworn agreement between us’—between us and you. Let us make a treaty with you 29 that you will do us no harm, just as we did not harm you but always treated you well and sent you away peacefully. And now you are blessed by the Lord.”
 
-27 Then he took a cup, and when he had given thanks, he gave it to them, saying, “Drink from it, all of you. 28 This is my blood of the[b] covenant, which is poured out for many for the forgiveness of sins. 29 I tell you, I will not drink from this fruit of the vine from now on until that day when I drink it new with you in my Father’s kingdom.”
+30 Isaac then made a feast for them, and they ate and drank. 31 Early the next morning the men swore an oath to each other. Then Isaac sent them on their way, and they went away peacefully.
 
-30 When they had sung a hymn, they went out to the Mount of Olives.
+32 That day Isaac’s servants came and told him about the well they had dug. They said, “We’ve found water!” 33 He called it Shibah,[f] and to this day the name of the town has been Beersheba.[g]
 
-Jesus Predicts Peter’s Denial
-31 Then Jesus told them, “This very night you will all fall away on account of me, for it is written:
+Jacob Takes Esau’s Blessing
+34 When Esau was forty years old, he married Judith daughter of Beeri the Hittite, and also Basemath daughter of Elon the Hittite. 35 They were a source of grief to Isaac and Rebekah.
 
-“‘I will strike the shepherd,
-    and the sheep of the flock will be scattered.’[c]
-
-32 But after I have risen, I will go ahead of you into Galilee.”
-
-33 Peter replied, “Even if all fall away on account of you, I never will.”
-
-34 “Truly I tell you,” Jesus answered, “this very night, before the rooster crows, you will disown me three times.”
-
-35 But Peter declared, “Even if I have to die with you, I will never disown you.” And all the other disciples said the same.
-
-Gethsemane
-36 Then Jesus went with his disciples to a place called Gethsemane, and he said to them, “Sit here while I go over there and pray.” 37 He took Peter and the two sons of Zebedee along with him, and he began to be sorrowful and troubled. 38 Then he said to them, “My soul is overwhelmed with sorrow to the point of death. Stay here and keep watch with me.”
-
-39 Going a little farther, he fell with his face to the ground and prayed, “My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will.”
-
-40 Then he returned to his disciples and found them sleeping. “Couldn’t you men keep watch with me for one hour?” he asked Peter. 41 “Watch and pray so that you will not fall into temptation. The spirit is willing, but the flesh is weak.”
-
-42 He went away a second time and prayed, “My Father, if it is not possible for this cup to be taken away unless I drink it, may your will be done.”
-
-43 When he came back, he again found them sleeping, because their eyes were heavy. 44 So he left them and went away once more and prayed the third time, saying the same thing.
-
-45 Then he returned to the disciples and said to them, “Are you still sleeping and resting? Look, the hour has come, and the Son of Man is delivered into the hands of sinners. 46 Rise! Let us go! Here comes my betrayer!”
-
-Jesus Arrested
-47 While he was still speaking, Judas, one of the Twelve, arrived. With him was a large crowd armed with swords and clubs, sent from the chief priests and the elders of the people. 48 Now the betrayer had arranged a signal with them: “The one I kiss is the man; arrest him.” 49 Going at once to Jesus, Judas said, “Greetings, Rabbi!” and kissed him.
-
-50 Jesus replied, “Do what you came for, friend.”[d]
-
-Then the men stepped forward, seized Jesus and arrested him. 51 With that, one of Jesus’ companions reached for his sword, drew it out and struck the servant of the high priest, cutting off his ear.
-
-52 “Put your sword back in its place,” Jesus said to him, “for all who draw the sword will die by the sword. 53 Do you think I cannot call on my Father, and he will at once put at my disposal more than twelve legions of angels? 54 But how then would the Scriptures be fulfilled that say it must happen in this way?”
-
-55 In that hour Jesus said to the crowd, “Am I leading a rebellion, that you have come out with swords and clubs to capture me? Every day I sat in the temple courts teaching, and you did not arrest me. 56 But this has all taken place that the writings of the prophets might be fulfilled.” Then all the disciples deserted him and fled.
-
-Jesus Before the Sanhedrin
-57 Those who had arrested Jesus took him to Caiaphas the high priest, where the teachers of the law and the elders had assembled. 58 But Peter followed him at a distance, right up to the courtyard of the high priest. He entered and sat down with the guards to see the outcome.
-
-59 The chief priests and the whole Sanhedrin were looking for false evidence against Jesus so that they could put him to death. 60 But they did not find any, though many false witnesses came forward.
-
-Finally two came forward 61 and declared, “This fellow said, ‘I am able to destroy the temple of God and rebuild it in three days.’”
-
-62 Then the high priest stood up and said to Jesus, “Are you not going to answer? What is this testimony that these men are bringing against you?” 63 But Jesus remained silent.
-
-The high priest said to him, “I charge you under oath by the living God: Tell us if you are the Messiah, the Son of God.”
-
-64 “You have said so,” Jesus replied. “But I say to all of you: From now on you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.”[e]
-
-65 Then the high priest tore his clothes and said, “He has spoken blasphemy! Why do we need any more witnesses? Look, now you have heard the blasphemy. 66 What do you think?”
-
-“He is worthy of death,” they answered.
-
-67 Then they spit in his face and struck him with their fists. Others slapped him 68 and said, “Prophesy to us, Messiah. Who hit you?”
-
-Peter Disowns Jesus
-69 Now Peter was sitting out in the courtyard, and a servant girl came to him. “You also were with Jesus of Galilee,” she said.
-
-70 But he denied it before them all. “I don’t know what you’re talking about,” he said.
-
-71 Then he went out to the gateway, where another servant girl saw him and said to the people there, “This fellow was with Jesus of Nazareth.”
-
-72 He denied it again, with an oath: “I don’t know the man!”
-
-73 After a little while, those standing there went up to Peter and said, “Surely you are one of them; your accent gives you away.”
-
-74 Then he began to call down curses, and he swore to them, “I don’t know the man!”
-
-Immediately a rooster crowed. 75 Then Peter remembered the word Jesus had spoken: “Before the rooster crows, you will disown me three times.” And he went outside and wept bitterly.
-            </p>
+                            </p>
           </div>
 
           <div
             className={styles.card}
           >
            <h2  className={styles.chapter}>Genesis Chapter XXVII</h2>
-            <p>
-           
-27 Early in the morning, all the chief priests and the elders of the people made their plans how to have Jesus executed. 2 So they bound him, led him away and handed him over to Pilate the governor.
+                                <p>
+                               
+                    27 When Isaac was old and his eyes were so weak that he could no longer see, he called for Esau his older son and said to him, “My son.”
 
-3 When Judas, who had betrayed him, saw that Jesus was condemned, he was seized with remorse and returned the thirty pieces of silver to the chief priests and the elders. 4 “I have sinned,” he said, “for I have betrayed innocent blood.”
+“Here I am,” he answered.
 
-“What is that to us?” they replied. “That’s your responsibility.”
+2 Isaac said, “I am now an old man and don’t know the day of my death. 3 Now then, get your equipment—your quiver and bow—and go out to the open country to hunt some wild game for me. 4 Prepare me the kind of tasty food I like and bring it to me to eat, so that I may give you my blessing before I die.”
 
-5 So Judas threw the money into the temple and left. Then he went away and hanged himself.
+5 Now Rebekah was listening as Isaac spoke to his son Esau. When Esau left for the open country to hunt game and bring it back, 6 Rebekah said to her son Jacob, “Look, I overheard your father say to your brother Esau, 7 ‘Bring me some game and prepare me some tasty food to eat, so that I may give you my blessing in the presence of the Lord before I die.’ 8 Now, my son, listen carefully and do what I tell you: 9 Go out to the flock and bring me two choice young goats, so I can prepare some tasty food for your father, just the way he likes it. 10 Then take it to your father to eat, so that he may give you his blessing before he dies.”
 
-6 The chief priests picked up the coins and said, “It is against the law to put this into the treasury, since it is blood money.” 7 So they decided to use the money to buy the potter’s field as a burial place for foreigners. 8 That is why it has been called the Field of Blood to this day. 9 Then what was spoken by Jeremiah the prophet was fulfilled: “They took the thirty pieces of silver, the price set on him by the people of Israel, 10 and they used them to buy the potter’s field, as the Lord commanded me.”[a]
+11 Jacob said to Rebekah his mother, “But my brother Esau is a hairy man while I have smooth skin. 12 What if my father touches me? I would appear to be tricking him and would bring down a curse on myself rather than a blessing.”
 
-Jesus Before Pilate
-11 Meanwhile Jesus stood before the governor, and the governor asked him, “Are you the king of the Jews?”
+13 His mother said to him, “My son, let the curse fall on me. Just do what I say; go and get them for me.”
 
-“You have said so,” Jesus replied.
+14 So he went and got them and brought them to his mother, and she prepared some tasty food, just the way his father liked it. 15 Then Rebekah took the best clothes of Esau her older son, which she had in the house, and put them on her younger son Jacob. 16 She also covered his hands and the smooth part of his neck with the goatskins. 17 Then she handed to her son Jacob the tasty food and the bread she had made.
 
-12 When he was accused by the chief priests and the elders, he gave no answer. 13 Then Pilate asked him, “Don’t you hear the testimony they are bringing against you?” 14 But Jesus made no reply, not even to a single charge—to the great amazement of the governor.
+18 He went to his father and said, “My father.”
 
-15 Now it was the governor’s custom at the festival to release a prisoner chosen by the crowd. 16 At that time they had a well-known prisoner whose name was Jesus[b] Barabbas. 17 So when the crowd had gathered, Pilate asked them, “Which one do you want me to release to you: Jesus Barabbas, or Jesus who is called the Messiah?” 18 For he knew it was out of self-interest that they had handed Jesus over to him.
+“Yes, my son,” he answered. “Who is it?”
 
-19 While Pilate was sitting on the judge’s seat, his wife sent him this message: “Don’t have anything to do with that innocent man, for I have suffered a great deal today in a dream because of him.”
+19 Jacob said to his father, “I am Esau your firstborn. I have done as you told me. Please sit up and eat some of my game, so that you may give me your blessing.”
 
-20 But the chief priests and the elders persuaded the crowd to ask for Barabbas and to have Jesus executed.
+20 Isaac asked his son, “How did you find it so quickly, my son?”
 
-21 “Which of the two do you want me to release to you?” asked the governor.
+“The Lord your God gave me success,” he replied.
 
-“Barabbas,” they answered.
+21 Then Isaac said to Jacob, “Come near so I can touch you, my son, to know whether you really are my son Esau or not.”
 
-22 “What shall I do, then, with Jesus who is called the Messiah?” Pilate asked.
+22 Jacob went close to his father Isaac, who touched him and said, “The voice is the voice of Jacob, but the hands are the hands of Esau.” 23 He did not recognize him, for his hands were hairy like those of his brother Esau; so he proceeded to bless him. 24 “Are you really my son Esau?” he asked.
 
-They all answered, “Crucify him!”
+“I am,” he replied.
 
-23 “Why? What crime has he committed?” asked Pilate.
+25 Then he said, “My son, bring me some of your game to eat, so that I may give you my blessing.”
 
-But they shouted all the louder, “Crucify him!”
+Jacob brought it to him and he ate; and he brought some wine and he drank. 26 Then his father Isaac said to him, “Come here, my son, and kiss me.”
 
-24 When Pilate saw that he was getting nowhere, but that instead an uproar was starting, he took water and washed his hands in front of the crowd. “I am innocent of this man’s blood,” he said. “It is your responsibility!”
+27 So he went to him and kissed him. When Isaac caught the smell of his clothes, he blessed him and said,
 
-25 All the people answered, “His blood is on us and on our children!”
+“Ah, the smell of my son
+    is like the smell of a field
+    that the Lord has blessed.
+28 May God give you heaven’s dew
+    and earth’s richness—
+    an abundance of grain and new wine.
+29 May nations serve you
+    and peoples bow down to you.
+Be lord over your brothers,
+    and may the sons of your mother bow down to you.
+May those who curse you be cursed
+    and those who bless you be blessed.”
 
-26 Then he released Barabbas to them. But he had Jesus flogged, and handed him over to be crucified.
+30 After Isaac finished blessing him, and Jacob had scarcely left his father’s presence, his brother Esau came in from hunting. 31 He too prepared some tasty food and brought it to his father. Then he said to him, “My father, please sit up and eat some of my game, so that you may give me your blessing.”
 
-The Soldiers Mock Jesus
-27 Then the governor’s soldiers took Jesus into the Praetorium and gathered the whole company of soldiers around him. 28 They stripped him and put a scarlet robe on him, 29 and then twisted together a crown of thorns and set it on his head. They put a staff in his right hand. Then they knelt in front of him and mocked him. “Hail, king of the Jews!” they said. 30 They spit on him, and took the staff and struck him on the head again and again. 31 After they had mocked him, they took off the robe and put his own clothes on him. Then they led him away to crucify him.
+32 His father Isaac asked him, “Who are you?”
 
-The Crucifixion of Jesus
-32 As they were going out, they met a man from Cyrene, named Simon, and they forced him to carry the cross. 33 They came to a place called Golgotha (which means “the place of the skull”). 34 There they offered Jesus wine to drink, mixed with gall; but after tasting it, he refused to drink it. 35 When they had crucified him, they divided up his clothes by casting lots. 36 And sitting down, they kept watch over him there. 37 Above his head they placed the written charge against him: this is jesus, the king of the jews.
+“I am your son,” he answered, “your firstborn, Esau.”
 
-38 Two rebels were crucified with him, one on his right and one on his left. 39 Those who passed by hurled insults at him, shaking their heads 40 and saying, “You who are going to destroy the temple and build it in three days, save yourself! Come down from the cross, if you are the Son of God!” 41 In the same way the chief priests, the teachers of the law and the elders mocked him. 42 “He saved others,” they said, “but he can’t save himself! He’s the king of Israel! Let him come down now from the cross, and we will believe in him. 43 He trusts in God. Let God rescue him now if he wants him, for he said, ‘I am the Son of God.’” 44 In the same way the rebels who were crucified with him also heaped insults on him.
+33 Isaac trembled violently and said, “Who was it, then, that hunted game and brought it to me? I ate it just before you came and I blessed him—and indeed he will be blessed!”
 
-The Death of Jesus
-45 From noon until three in the afternoon darkness came over all the land. 46 About three in the afternoon Jesus cried out in a loud voice, “Eli, Eli,[c] lema sabachthani?” (which means “My God, my God, why have you forsaken me?”).[d]
+34 When Esau heard his father’s words, he burst out with a loud and bitter cry and said to his father, “Bless me—me too, my father!”
 
-47 When some of those standing there heard this, they said, “He’s calling Elijah.”
+35 But he said, “Your brother came deceitfully and took your blessing.”
 
-48 Immediately one of them ran and got a sponge. He filled it with wine vinegar, put it on a staff, and offered it to Jesus to drink. 49 The rest said, “Now leave him alone. Let’s see if Elijah comes to save him.”
+36 Esau said, “Isn’t he rightly named Jacob[a]? This is the second time he has taken advantage of me: He took my birthright, and now he’s taken my blessing!” Then he asked, “Haven’t you reserved any blessing for me?”
 
-50 And when Jesus had cried out again in a loud voice, he gave up his spirit.
+37 Isaac answered Esau, “I have made him lord over you and have made all his relatives his servants, and I have sustained him with grain and new wine. So what can I possibly do for you, my son?”
 
-51 At that moment the curtain of the temple was torn in two from top to bottom. The earth shook, the rocks split 52 and the tombs broke open. The bodies of many holy people who had died were raised to life. 53 They came out of the tombs after Jesus’ resurrection and[e] went into the holy city and appeared to many people.
+38 Esau said to his father, “Do you have only one blessing, my father? Bless me too, my father!” Then Esau wept aloud.
 
-54 When the centurion and those with him who were guarding Jesus saw the earthquake and all that had happened, they were terrified, and exclaimed, “Surely he was the Son of God!”
+39 His father Isaac answered him,
 
-55 Many women were there, watching from a distance. They had followed Jesus from Galilee to care for his needs. 56 Among them were Mary Magdalene, Mary the mother of James and Joseph,[f] and the mother of Zebedee’s sons.
+“Your dwelling will be
+    away from the earth’s richness,
+    away from the dew of heaven above.
+40 You will live by the sword
+    and you will serve your brother.
+But when you grow restless,
+    you will throw his yoke
+    from off your neck.”
 
-The Burial of Jesus
-57 As evening approached, there came a rich man from Arimathea, named Joseph, who had himself become a disciple of Jesus. 58 Going to Pilate, he asked for Jesus’ body, and Pilate ordered that it be given to him. 59 Joseph took the body, wrapped it in a clean linen cloth, 60 and placed it in his own new tomb that he had cut out of the rock. He rolled a big stone in front of the entrance to the tomb and went away. 61 Mary Magdalene and the other Mary were sitting there opposite the tomb.
+41 Esau held a grudge against Jacob because of the blessing his father had given him. He said to himself, “The days of mourning for my father are near; then I will kill my brother Jacob.”
 
-The Guard at the Tomb
-62 The next day, the one after Preparation Day, the chief priests and the Pharisees went to Pilate. 63 “Sir,” they said, “we remember that while he was still alive that deceiver said, ‘After three days I will rise again.’ 64 So give the order for the tomb to be made secure until the third day. Otherwise, his disciples may come and steal the body and tell the people that he has been raised from the dead. This last deception will be worse than the first.”
+42 When Rebekah was told what her older son Esau had said, she sent for her younger son Jacob and said to him, “Your brother Esau is planning to avenge himself by killing you. 43 Now then, my son, do what I say: Flee at once to my brother Laban in Harran. 44 Stay with him for a while until your brother’s fury subsides. 45 When your brother is no longer angry with you and forgets what you did to him, I’ll send word for you to come back from there. Why should I lose both of you in one day?”
 
-65 “Take a guard,” Pilate answered. “Go, make the tomb as secure as you know how.” 66 So they went and made the tomb secure by putting a seal on the stone and posting the guard.
-
-
-            </p>
+46 Then Rebekah said to Isaac, “I’m disgusted with living because of these Hittite women. If Jacob takes a wife from among the women of this land, from Hittite women like these, my life will not be worth living.”
+  </p>
           </div>
 
           <div
             className={styles.card}
           >
           <h2  className={styles.chapter}>GenesisChapter XXVIII</h2>
-            <p>
-           
-28 After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.
+                                          <p>
+                                         
+                              28 So Isaac called for Jacob and blessed him. Then he commanded him: “Do not marry a Canaanite woman. 2 Go at once to Paddan Aram,[a] to the house of your mother’s father Bethuel. Take a wife for yourself there, from among the daughters of Laban, your mother’s brother. 3 May God Almighty[b] bless you and make you fruitful and increase your numbers until you become a community of peoples. 4 May he give you and your descendants the blessing given to Abraham, so that you may take possession of the land where you now reside as a foreigner, the land God gave to Abraham.” 5 Then Isaac sent Jacob on his way, and he went to Paddan Aram, to Laban son of Bethuel the Aramean, the brother of Rebekah, who was the mother of Jacob and Esau.
 
-2 There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it. 3 His appearance was like lightning, and his clothes were white as snow. 4 The guards were so afraid of him that they shook and became like dead men.
+6 Now Esau learned that Isaac had blessed Jacob and had sent him to Paddan Aram to take a wife from there, and that when he blessed him he commanded him, “Do not marry a Canaanite woman,” 7 and that Jacob had obeyed his father and mother and had gone to Paddan Aram. 8 Esau then realized how displeasing the Canaanite women were to his father Isaac; 9 so he went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Ishmael son of Abraham, in addition to the wives he already had.
 
-5 The angel said to the women, “Do not be afraid, for I know that you are looking for Jesus, who was crucified. 6 He is not here; he has risen, just as he said. Come and see the place where he lay. 7 Then go quickly and tell his disciples: ‘He has risen from the dead and is going ahead of you into Galilee. There you will see him.’ Now I have told you.”
+Jacob’s Dream at Bethel
+10 Jacob left Beersheba and set out for Harran. 11 When he reached a certain place, he stopped for the night because the sun had set. Taking one of the stones there, he put it under his head and lay down to sleep. 12 He had a dream in which he saw a stairway resting on the earth, with its top reaching to heaven, and the angels of God were ascending and descending on it. 13 There above it[c] stood the Lord, and he said: “I am the Lord, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you are lying. 14 Your descendants will be like the dust of the earth, and you will spread out to the west and to the east, to the north and to the south. All peoples on earth will be blessed through you and your offspring.[d] 15 I am with you and will watch over you wherever you go, and I will bring you back to this land. I will not leave you until I have done what I have promised you.”
 
-8 So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples. 9 Suddenly Jesus met them. “Greetings,” he said. They came to him, clasped his feet and worshiped him. 10 Then Jesus said to them, “Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.”
+16 When Jacob awoke from his sleep, he thought, “Surely the Lord is in this place, and I was not aware of it.” 17 He was afraid and said, “How awesome is this place! This is none other than the house of God; this is the gate of heaven.”
 
-The Guards’ Report
-11 While the women were on their way, some of the guards went into the city and reported to the chief priests everything that had happened. 12 When the chief priests had met with the elders and devised a plan, they gave the soldiers a large sum of money, 13 telling them, “You are to say, ‘His disciples came during the night and stole him away while we were asleep.’ 14 If this report gets to the governor, we will satisfy him and keep you out of trouble.” 15 So the soldiers took the money and did as they were instructed. And this story has been widely circulated among the Jews to this very day.
+18 Early the next morning Jacob took the stone he had placed under his head and set it up as a pillar and poured oil on top of it. 19 He called that place Bethel,[e] though the city used to be called Luz.
 
-The Great Commission
-16 Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go. 17 When they saw him, they worshiped him; but some doubted. 18 Then Jesus came to them and said, “All authority in heaven and on earth has been given to me. 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”
-            </p>
+20 Then Jacob made a vow, saying, “If God will be with me and will watch over me on this journey I am taking and will give me food to eat and clothes to wear 21 so that I return safely to my father’s household, then the Lord[f] will be my God 22 and[g] this stone that I have set up as a pillar will be God’s house, and of all that you give me I will give you a tenth.”
+  </p>
           </div>
             <div className={styles.iframe}>
               <iframe width="100%" height="315" src="https://www.youtube.com/embed/F4isSyennFo?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
