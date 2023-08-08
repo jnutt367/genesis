@@ -1283,7 +1283,7 @@ Jacob’s Dream at Bethel
           <h2  className={styles.chapter}>GenesisChapter XXIX</h2>
                                           <p>
                                          
-                              Jacob Arrives in Paddan Aram
+                             <h4> Jacob Arrives in Paddan Aram</h4>
 29 Then Jacob continued on his journey and came to the land of the eastern peoples. 2 There he saw a well in the open country, with three flocks of sheep lying near it because the flocks were watered from that well. The stone over the mouth of the well was large. 3 When all the flocks were gathered there, the shepherds would roll the stone away from the well’s mouth and water the sheep. Then they would return the stone to its place over the mouth of the well.
 
 4 Jacob asked the shepherds, “My brothers, where are you from?”
@@ -1336,8 +1336,373 @@ Jacob’s Children
   </p>
           </div>
 
+
+    <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XXX</h2>
+                                          <p>
+                                         
+30 When Rachel saw that she was not bearing Jacob any children, she became jealous of her sister. So she said to Jacob, “Give me children, or I’ll die!”
+
+2 Jacob became angry with her and said, “Am I in the place of God, who has kept you from having children?”
+
+3 Then she said, “Here is Bilhah, my servant. Sleep with her so that she can bear children for me and I too can build a family through her.”
+
+4 So she gave him her servant Bilhah as a wife. Jacob slept with her, 5 and she became pregnant and bore him a son. 6 Then Rachel said, “God has vindicated me; he has listened to my plea and given me a son.” Because of this she named him Dan.[a]
+
+7 Rachel’s servant Bilhah conceived again and bore Jacob a second son. 8 Then Rachel said, “I have had a great struggle with my sister, and I have won.” So she named him Naphtali.[b]
+
+9 When Leah saw that she had stopped having children, she took her servant Zilpah and gave her to Jacob as a wife. 10 Leah’s servant Zilpah bore Jacob a son. 11 Then Leah said, “What good fortune!”[c] So she named him Gad.[d]
+
+12 Leah’s servant Zilpah bore Jacob a second son. 13 Then Leah said, “How happy I am! The women will call me happy.” So she named him Asher.[e]
+
+14 During wheat harvest, Reuben went out into the fields and found some mandrake plants, which he brought to his mother Leah. Rachel said to Leah, “Please give me some of your son’s mandrakes.”
+
+15 But she said to her, “Wasn’t it enough that you took away my husband? Will you take my son’s mandrakes too?”
+
+“Very well,” Rachel said, “he can sleep with you tonight in return for your son’s mandrakes.”
+
+16 So when Jacob came in from the fields that evening, Leah went out to meet him. “You must sleep with me,” she said. “I have hired you with my son’s mandrakes.” So he slept with her that night.
+
+17 God listened to Leah, and she became pregnant and bore Jacob a fifth son. 18 Then Leah said, “God has rewarded me for giving my servant to my husband.” So she named him Issachar.[f]
+
+19 Leah conceived again and bore Jacob a sixth son. 20 Then Leah said, “God has presented me with a precious gift. This time my husband will treat me with honor, because I have borne him six sons.” So she named him Zebulun.[g]
+
+21 Some time later she gave birth to a daughter and named her Dinah.
+
+22 Then God remembered Rachel; he listened to her and enabled her to conceive. 23 She became pregnant and gave birth to a son and said, “God has taken away my disgrace.” 24 She named him Joseph,[h] and said, “May the Lord add to me another son.”
+
+Jacob’s Flocks Increase
+25 After Rachel gave birth to Joseph, Jacob said to Laban, “Send me on my way so I can go back to my own homeland. 26 Give me my wives and children, for whom I have served you, and I will be on my way. You know how much work I’ve done for you.”
+
+27 But Laban said to him, “If I have found favor in your eyes, please stay. I have learned by divination that the Lord has blessed me because of you.” 28 He added, “Name your wages, and I will pay them.”
+
+29 Jacob said to him, “You know how I have worked for you and how your livestock has fared under my care. 30 The little you had before I came has increased greatly, and the Lord has blessed you wherever I have been. But now, when may I do something for my own household?”
+
+31 “What shall I give you?” he asked.
+
+“Don’t give me anything,” Jacob replied. “But if you will do this one thing for me, I will go on tending your flocks and watching over them: 32 Let me go through all your flocks today and remove from them every speckled or spotted sheep, every dark-colored lamb and every spotted or speckled goat. They will be my wages. 33 And my honesty will testify for me in the future, whenever you check on the wages you have paid me. Any goat in my possession that is not speckled or spotted, or any lamb that is not dark-colored, will be considered stolen.”
+
+34 “Agreed,” said Laban. “Let it be as you have said.” 35 That same day he removed all the male goats that were streaked or spotted, and all the speckled or spotted female goats (all that had white on them) and all the dark-colored lambs, and he placed them in the care of his sons. 36 Then he put a three-day journey between himself and Jacob, while Jacob continued to tend the rest of Laban’s flocks.
+
+37 Jacob, however, took fresh-cut branches from poplar, almond and plane trees and made white stripes on them by peeling the bark and exposing the white inner wood of the branches. 38 Then he placed the peeled branches in all the watering troughs, so that they would be directly in front of the flocks when they came to drink. When the flocks were in heat and came to drink, 39 they mated in front of the branches. And they bore young that were streaked or speckled or spotted. 40 Jacob set apart the young of the flock by themselves, but made the rest face the streaked and dark-colored animals that belonged to Laban. Thus he made separate flocks for himself and did not put them with Laban’s animals. 41 Whenever the stronger females were in heat, Jacob would place the branches in the troughs in front of the animals so they would mate near the branches, 42 but if the animals were weak, he would not place them there. So the weak animals went to Laban and the strong ones to Jacob. 43 In this way the man grew exceedingly prosperous and came to own large flocks, and female and male servants, and camels and donkeys.
+
+
   
-            <div className={styles.iframe}>
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XXXI</h2>
+                                          <p>
+                                         
+<h4>Jacob Flees From Laban</h4>
+31 Jacob heard that Laban’s sons were saying, “Jacob has taken everything our father owned and has gained all this wealth from what belonged to our father.” 2 And Jacob noticed that Laban’s attitude toward him was not what it had been.
+
+3 Then the Lord said to Jacob, “Go back to the land of your fathers and to your relatives, and I will be with you.”
+
+4 So Jacob sent word to Rachel and Leah to come out to the fields where his flocks were. 5 He said to them, “I see that your father’s attitude toward me is not what it was before, but the God of my father has been with me. 6 You know that I’ve worked for your father with all my strength, 7 yet your father has cheated me by changing my wages ten times. However, God has not allowed him to harm me. 8 If he said, ‘The speckled ones will be your wages,’ then all the flocks gave birth to speckled young; and if he said, ‘The streaked ones will be your wages,’ then all the flocks bore streaked young. 9 So God has taken away your father’s livestock and has given them to me.
+
+10 “In breeding season I once had a dream in which I looked up and saw that the male goats mating with the flock were streaked, speckled or spotted. 11 The angel of God said to me in the dream, ‘Jacob.’ I answered, ‘Here I am.’ 12 And he said, ‘Look up and see that all the male goats mating with the flock are streaked, speckled or spotted, for I have seen all that Laban has been doing to you. 13 I am the God of Bethel, where you anointed a pillar and where you made a vow to me. Now leave this land at once and go back to your native land.’”
+
+14 Then Rachel and Leah replied, “Do we still have any share in the inheritance of our father’s estate? 15 Does he not regard us as foreigners? Not only has he sold us, but he has used up what was paid for us. 16 Surely all the wealth that God took away from our father belongs to us and our children. So do whatever God has told you.”
+
+17 Then Jacob put his children and his wives on camels, 18 and he drove all his livestock ahead of him, along with all the goods he had accumulated in Paddan Aram,[a] to go to his father Isaac in the land of Canaan.
+
+19 When Laban had gone to shear his sheep, Rachel stole her father’s household gods. 20 Moreover, Jacob deceived Laban the Aramean by not telling him he was running away. 21 So he fled with all he had, crossed the Euphrates River, and headed for the hill country of Gilead.
+
+Laban Pursues Jacob
+22 On the third day Laban was told that Jacob had fled. 23 Taking his relatives with him, he pursued Jacob for seven days and caught up with him in the hill country of Gilead. 24 Then God came to Laban the Aramean in a dream at night and said to him, “Be careful not to say anything to Jacob, either good or bad.”
+
+25 Jacob had pitched his tent in the hill country of Gilead when Laban overtook him, and Laban and his relatives camped there too. 26 Then Laban said to Jacob, “What have you done? You’ve deceived me, and you’ve carried off my daughters like captives in war. 27 Why did you run off secretly and deceive me? Why didn’t you tell me, so I could send you away with joy and singing to the music of timbrels and harps? 28 You didn’t even let me kiss my grandchildren and my daughters goodbye. You have done a foolish thing. 29 I have the power to harm you; but last night the God of your father said to me, ‘Be careful not to say anything to Jacob, either good or bad.’ 30 Now you have gone off because you longed to return to your father’s household. But why did you steal my gods?”
+
+31 Jacob answered Laban, “I was afraid, because I thought you would take your daughters away from me by force. 32 But if you find anyone who has your gods, that person shall not live. In the presence of our relatives, see for yourself whether there is anything of yours here with me; and if so, take it.” Now Jacob did not know that Rachel had stolen the gods.
+
+33 So Laban went into Jacob’s tent and into Leah’s tent and into the tent of the two female servants, but he found nothing. After he came out of Leah’s tent, he entered Rachel’s tent. 34 Now Rachel had taken the household gods and put them inside her camel’s saddle and was sitting on them. Laban searched through everything in the tent but found nothing.
+
+35 Rachel said to her father, “Don’t be angry, my lord, that I cannot stand up in your presence; I’m having my period.” So he searched but could not find the household gods.
+
+36 Jacob was angry and took Laban to task. “What is my crime?” he asked Laban. “How have I wronged you that you hunt me down? 37 Now that you have searched through all my goods, what have you found that belongs to your household? Put it here in front of your relatives and mine, and let them judge between the two of us.
+
+38 “I have been with you for twenty years now. Your sheep and goats have not miscarried, nor have I eaten rams from your flocks. 39 I did not bring you animals torn by wild beasts; I bore the loss myself. And you demanded payment from me for whatever was stolen by day or night. 40 This was my situation: The heat consumed me in the daytime and the cold at night, and sleep fled from my eyes. 41 It was like this for the twenty years I was in your household. I worked for you fourteen years for your two daughters and six years for your flocks, and you changed my wages ten times. 42 If the God of my father, the God of Abraham and the Fear of Isaac, had not been with me, you would surely have sent me away empty-handed. But God has seen my hardship and the toil of my hands, and last night he rebuked you.”
+
+43 Laban answered Jacob, “The women are my daughters, the children are my children, and the flocks are my flocks. All you see is mine. Yet what can I do today about these daughters of mine, or about the children they have borne? 44 Come now, let’s make a covenant, you and I, and let it serve as a witness between us.”
+
+45 So Jacob took a stone and set it up as a pillar. 46 He said to his relatives, “Gather some stones.” So they took stones and piled them in a heap, and they ate there by the heap. 47 Laban called it Jegar Sahadutha, and Jacob called it Galeed.[b]
+
+48 Laban said, “This heap is a witness between you and me today.” That is why it was called Galeed. 49 It was also called Mizpah,[c] because he said, “May the Lord keep watch between you and me when we are away from each other. 50 If you mistreat my daughters or if you take any wives besides my daughters, even though no one is with us, remember that God is a witness between you and me.”
+
+51 Laban also said to Jacob, “Here is this heap, and here is this pillar I have set up between you and me. 52 This heap is a witness, and this pillar is a witness, that I will not go past this heap to your side to harm you and that you will not go past this heap and pillar to my side to harm me. 53 May the God of Abraham and the God of Nahor, the God of their father, judge between us.”
+
+So Jacob took an oath in the name of the Fear of his father Isaac. 54 He offered a sacrifice there in the hill country and invited his relatives to a meal. After they had eaten, they spent the night there.
+
+55 Early the next morning Laban kissed his grandchildren and his daughters and blessed them. Then he left and returned home.
+                                          </p>
+          </div>
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XXXII</h2>
+                                          <p>
+                                         
+<h4>Jacob Prepares to Meet Esau</h4>
+32 [a]Jacob also went on his way, and the angels of God met him. 2 When Jacob saw them, he said, “This is the camp of God!” So he named that place Mahanaim.[b]
+
+3 Jacob sent messengers ahead of him to his brother Esau in the land of Seir, the country of Edom. 4 He instructed them: “This is what you are to say to my lord Esau: ‘Your servant Jacob says, I have been staying with Laban and have remained there till now. 5 I have cattle and donkeys, sheep and goats, male and female servants. Now I am sending this message to my lord, that I may find favor in your eyes.’”
+
+6 When the messengers returned to Jacob, they said, “We went to your brother Esau, and now he is coming to meet you, and four hundred men are with him.”
+
+7 In great fear and distress Jacob divided the people who were with him into two groups,[c] and the flocks and herds and camels as well. 8 He thought, “If Esau comes and attacks one group,[d] the group[e] that is left may escape.”
+
+9 Then Jacob prayed, “O God of my father Abraham, God of my father Isaac, Lord, you who said to me, ‘Go back to your country and your relatives, and I will make you prosper,’ 10 I am unworthy of all the kindness and faithfulness you have shown your servant. I had only my staff when I crossed this Jordan, but now I have become two camps. 11 Save me, I pray, from the hand of my brother Esau, for I am afraid he will come and attack me, and also the mothers with their children. 12 But you have said, ‘I will surely make you prosper and will make your descendants like the sand of the sea, which cannot be counted.’”
+
+13 He spent the night there, and from what he had with him he selected a gift for his brother Esau: 14 two hundred female goats and twenty male goats, two hundred ewes and twenty rams, 15 thirty female camels with their young, forty cows and ten bulls, and twenty female donkeys and ten male donkeys. 16 He put them in the care of his servants, each herd by itself, and said to his servants, “Go ahead of me, and keep some space between the herds.”
+
+17 He instructed the one in the lead: “When my brother Esau meets you and asks, ‘Who do you belong to, and where are you going, and who owns all these animals in front of you?’ 18 then you are to say, ‘They belong to your servant Jacob. They are a gift sent to my lord Esau, and he is coming behind us.’”
+
+19 He also instructed the second, the third and all the others who followed the herds: “You are to say the same thing to Esau when you meet him. 20 And be sure to say, ‘Your servant Jacob is coming behind us.’” For he thought, “I will pacify him with these gifts I am sending on ahead; later, when I see him, perhaps he will receive me.” 21 So Jacob’s gifts went on ahead of him, but he himself spent the night in the camp.
+
+<h4>Jacob Wrestles With God</h4>
+22 That night Jacob got up and took his two wives, his two female servants and his eleven sons and crossed the ford of the Jabbok. 23 After he had sent them across the stream, he sent over all his possessions. 24 So Jacob was left alone, and a man wrestled with him till daybreak. 25 When the man saw that he could not overpower him, he touched the socket of Jacob’s hip so that his hip was wrenched as he wrestled with the man. 26 Then the man said, “Let me go, for it is daybreak.”
+
+But Jacob replied, “I will not let you go unless you bless me.”
+
+27 The man asked him, “What is your name?”
+
+“Jacob,” he answered.
+
+28 Then the man said, “Your name will no longer be Jacob, but Israel,[f] because you have struggled with God and with humans and have overcome.”
+
+29 Jacob said, “Please tell me your name.”
+
+But he replied, “Why do you ask my name?” Then he blessed him there.
+
+30 So Jacob called the place Peniel,[g] saying, “It is because I saw God face to face, and yet my life was spared.”
+
+31 The sun rose above him as he passed Peniel,[h] and he was limping because of his hip. 32 Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob’s hip was touched near the tendon.
+                                   
+  </p>
+          </div>
+
+
+              <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XXXIII</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XXXIV</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XXXV</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+
+              <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XXXVI</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+
+              <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XXXVII</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+              
+              <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XXXVIII</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XXXIX</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XL</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XLI</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XLII</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XLIII</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>              
+              
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XLIV</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XLV</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XLVI</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>           
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XLVII</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XLVIII</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XLIX</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>           
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter L</h2>
+                                          <p>
+                                         
+
+
+                                          </p>
+          </div>           
+              
+              
+              <div className={styles.iframe}>
               <iframe width="100%" height="315" src="https://www.youtube.com/embed/F4isSyennFo?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
             </div>            
