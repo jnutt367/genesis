@@ -505,7 +505,7 @@ Almodad, Sheleph, Hazarmaveth, Jerah, 27 Hadoram, Uzal, Diklah, 28 Obal, Abimael
              <h2  className={styles.chapter}>Genesis Chapter XI</h2>
             <p>
             
-<h4>The Tower of Babel</h4>
+<h4 className={styles.h4}>The Tower of Babel</h4>
 11 Now the whole world had one language and a common speech. 2 As people moved eastward,[a] they found a plain in Shinar[b] and settled there.
 
 3 They said to each other, “Come, let’s make bricks and bake them thoroughly.” They used brick instead of stone, and tar for mortar. 4 Then they said, “Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves; otherwise we will be scattered over the face of the whole earth.”
@@ -553,7 +553,7 @@ Terah became the father of Abram, Nahor and Haran. And Haran became the father o
              <h2  className={styles.chapter}>Matthew Chapter XII</h2>
             <p>
            
-<h4>The Call of Abram</h4>
+<h4 className={styles.h4}>The Call of Abram</h4>
 12 The Lord had said to Abram, “Go from your country, your people and your father’s household to the land I will show you.
 
 2 “I will make you into a great nation,
@@ -590,7 +590,7 @@ Abram in Egypt
            <h2  className={styles.chapter}>Genesis Chapter XIII</h2>
             <p>
             
-<h4>Abram and Lot Separate</h4>
+<h4 className={styles.h4}>Abram and Lot Separate</h4>
 13 So Abram went up from Egypt to the Negev, with his wife and everything he had, and Lot went with him. 2 Abram had become very wealthy in livestock and in silver and gold.
 
 3 From the Negev he went from place to place until he came to Bethel, to the place between Bethel and Ai where his tent had been earlier 4 and where he had first built an altar. There Abram called on the name of the Lord.
@@ -615,7 +615,7 @@ Abram in Egypt
              <h2  className={styles.chapter}>Genesis Chapter XIV</h2>
             <p>
             
-<h4>Abram Rescues Lot</h4>
+<h4 className={styles.h4}>Abram Rescues Lot</h4>
 14 At the time when Amraphel was king of Shinar,[a] Arioch king of Ellasar, Kedorlaomer king of Elam and Tidal king of Goyim, 2 these kings went to war against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboyim, and the king of Bela (that is, Zoar). 3 All these latter kings joined forces in the Valley of Siddim (that is, the Dead Sea Valley). 4 For twelve years they had been subject to Kedorlaomer, but in the thirteenth year they rebelled.
 
 5 In the fourteenth year, Kedorlaomer and the kings allied with him went out and defeated the Rephaites in Ashteroth Karnaim, the Zuzites in Ham, the Emites in Shaveh Kiriathaim 6 and the Horites in the hill country of Seir, as far as El Paran near the desert. 7 Then they turned back and went to En Mishpat (that is, Kadesh), and they conquered the whole territory of the Amalekites, as well as the Amorites who were living in Hazezon Tamar.
@@ -647,7 +647,7 @@ Then Abram gave him a tenth of everything.
              <h2  className={styles.chapter}>Genesis Chapter XV</h2>
             <p>
            
-<h4>The Lord’s Covenant With Abram</h4>
+<h4 className={styles.h4}>The Lord’s Covenant With Abram</h4>
 15 After this, the word of the Lord came to Abram in a vision:
 
 “Do not be afraid, Abram.
@@ -681,7 +681,7 @@ Then Abram gave him a tenth of everything.
           >
              <h2  className={styles.chapter}>Genesis Chapter XVI</h2>
             <p>
-           <h4>Hagar and Ishmael</h4>
+          <h4 className={styles.h4}>Hagar and Ishmael</h4>
 16 Now Sarai, Abram’s wife, had borne him no children. But she had an Egyptian slave named Hagar; 2 so she said to Abram, “The Lord has kept me from having children. Go, sleep with my slave; perhaps I can build a family through her.”
 
 Abram agreed to what Sarai said. 3 So after Abram had been living in Canaan ten years, Sarai his wife took her Egyptian slave Hagar and gave her to her husband to be his wife. 4 He slept with Hagar, and she conceived.
@@ -717,7 +717,7 @@ and he will live in hostility
           <div className={styles.card}>
             <h2  className={styles.chapter}>Genesis Chapter XVII</h2>
             <p>
-                  <h4>The Covenant of Circumcision</h4>
+                  <h4 className={styles.h4}>The Covenant of Circumcision</h4>
 17 When Abram was ninety-nine years old, the Lord appeared to him and said, “I am God Almighty[a]; walk before me faithfully and be blameless. 2 Then I will make my covenant between me and you and will greatly increase your numbers.”
 
 3 Abram fell facedown, and God said to him, 4 “As for me, this is my covenant with you: You will be the father of many nations. 5 No longer will you be called Abram[b]; your name will be Abraham,[c] for I have made you a father of many nations. 6 I will make you very fruitful; I will make nations of you, and kings will come from you. 7 I will establish my covenant as an everlasting covenant between me and you and your descendants after you for the generations to come, to be your God and the God of your descendants after you. 8 The whole land of Canaan, where you now reside as a foreigner, I will give as an everlasting possession to you and your descendants after you; and I will be their God.”
@@ -739,7 +739,7 @@ and he will live in hostility
           <div className={styles.card}>
             <h2  className={styles.chapter}>Genesis Chapter XVIII</h2>
                         <p>
-  <h4>The Three Visitors</h4>
+ <h4 className={styles.h4}>The Three Visitors</h4>
 18 The Lord appeared to Abraham near the great trees of Mamre while he was sitting at the entrance to his tent in the heat of the day. 2 Abraham looked up and saw three men standing nearby. When he saw them, he hurried from the entrance of his tent to meet them and bowed low to the ground.
 
 3 He said, “If I have found favor in your eyes, my lord,[a] do not pass your servant by. 4 Let a little water be brought, and then you may all wash your feet and rest under this tree. 5 Let me get you something to eat, so you can be refreshed and then go on your way—now that you have come to your servant.”
@@ -803,7 +803,7 @@ He answered, “For the sake of ten, I will not destroy it.”
           >
             <h2  className={styles.chapter}>Genesis Chapter XIX</h2>
                     <p>
-                            <h4>Sodom and Gomorrah Destroyed</h4>
+                            <h4 className={styles.h4}>Sodom and Gomorrah Destroyed</h4>
 19 The two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When he saw them, he got up to meet them and bowed down with his face to the ground. 2 “My lords,” he said, “please turn aside to your servant’s house. You can wash your feet and spend the night and then go on your way early in the morning.”
 
 “No,” they answered, “we will spend the night in the square.”
@@ -851,7 +851,7 @@ Lot and His Daughters
           >
            <h2  className={styles.chapter}>Genesis Chapter XX</h2>
             <p>
-          <h4>Abraham and Abimelek</h4>
+         <h4 className={styles.h4}>Abraham and Abimelek</h4>
 20 Now Abraham moved on from there into the region of the Negev and lived between Kadesh and Shur. For a while he stayed in Gerar, 2 and there Abraham said of his wife Sarah, “She is my sister.” Then Abimelek king of Gerar sent for Sarah and took her.
 
 3 But God came to Abimelek in a dream one night and said to him, “You are as good as dead because of the woman you have taken; she is a married woman.”
@@ -878,7 +878,7 @@ Lot and His Daughters
          <h2  className={styles.chapter}>Genesis Chapter XXI</h2>
             <p>
             
-<h4>The Birth of Isaac</h4>
+<h4 className={styles.h4}>The Birth of Isaac</h4>
 21 Now the Lord was gracious to Sarah as he had said, and the Lord did for Sarah what he had promised. 2 Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him. 3 Abraham gave the name Isaac[a] to the son Sarah bore him. 4 When his son Isaac was eight days old, Abraham circumcised him, as God commanded him. 5 Abraham was a hundred years old when his son Isaac was born to him.
 
 6 Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.” 7 And she added, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”
@@ -922,7 +922,7 @@ The Treaty at Beersheba
            <h2  className={styles.chapter}>Genesis Chapter XXII</h2>
             <p>
            
-<h4>Abraham Tested</h4>
+<h4 className={styles.h4}>Abraham Tested</h4>
 22 Some time later God tested Abraham. He said to him, “Abraham!”
 
 “Here I am,” he replied.
@@ -962,7 +962,7 @@ Nahor’s Sons
           >
             <h2  className={styles.chapter}>Genesis Chapter XXIII</h2>
                   <p>
-                 <h4>The Death of Sarah</h4>
+                 <h4 className={styles.h4}>The Death of Sarah</h4>
 23 Sarah lived to be a hundred and twenty-seven years old. 2 She died at Kiriath Arba (that is, Hebron) in the land of Canaan, and Abraham went to mourn for Sarah and to weep over her.
 
 3 Then Abraham rose from beside his dead wife and spoke to the Hittites.[a] He said, 4 “I am a foreigner and stranger among you. Sell me some property for a burial site here so I can bury my dead.”
@@ -988,7 +988,7 @@ Nahor’s Sons
           >
             <h2  className={styles.chapter}>Genesis Chapter XXIV</h2>
                         <p>
-                     <h4>Isaac and Rebekah</h4>
+                     <h4 className={styles.h4}>Isaac and Rebekah</h4>
 24 Abraham was now very old, and the Lord had blessed him in every way. 2 He said to the senior servant in his household, the one in charge of all that he had, “Put your hand under my thigh. 3 I want you to swear by the Lord, the God of heaven and the God of earth, that you will not get a wife for my son from the daughters of the Canaanites, among whom I am living, 4 but will go to my country and my own relatives and get a wife for my son Isaac.”
 
 5 The servant asked him, “What if the woman is unwilling to come back with me to this land? Shall I then take your son back to the country you came from?”
@@ -1075,7 +1075,7 @@ may your offspring possess
            <h2  className={styles.chapter}>Genesis Chapter XXV</h2>
             <p>
             
-<h4>The Death of Abraham</h4>
+<h4 className={styles.h4}>The Death of Abraham</h4>
 25 Abraham had taken another wife, whose name was Keturah. 2 She bore him Zimran, Jokshan, Medan, Midian, Ishbak and Shuah. 3 Jokshan was the father of Sheba and Dedan; the descendants of Dedan were the Ashurites, the Letushites and the Leummites. 4 The sons of Midian were Ephah, Epher, Hanok, Abida and Eldaah. All these were descendants of Keturah.
 
 5 Abraham left everything he owned to Isaac. 6 But while he was still living, he gave gifts to the sons of his concubines and sent them away from his son Isaac to the land of the east.
@@ -1125,7 +1125,7 @@ So Esau despised his birthright.
             <h2  className={styles.chapter}>Genesis Chapter XXVI</h2>
                           <p>
                          
-             <h4> Isaac and Abimelek</h4>
+             <h4 className={styles.h4}> Isaac and Abimelek</h4>
 26 Now there was a famine in the land—besides the previous famine in Abraham’s time—and Isaac went to Abimelek king of the Philistines in Gerar. 2 The Lord appeared to Isaac and said, “Do not go down to Egypt; live in the land where I tell you to live. 3 Stay in this land for a while, and I will be with you and will bless you. For to you and your descendants I will give all these lands and will confirm the oath I swore to your father Abraham. 4 I will make your descendants as numerous as the stars in the sky and will give them all these lands, and through your offspring[a] all nations on earth will be blessed,[b] 5 because Abraham obeyed me and did everything I required of him, keeping my commands, my decrees and my instructions.” 6 So Isaac stayed in Gerar.
 
 7 When the men of that place asked him about his wife, he said, “She is my sister,” because he was afraid to say, “She is my wife.” He thought, “The men of this place might kill me on account of Rebekah, because she is beautiful.”
@@ -1170,7 +1170,7 @@ Jacob Takes Esau’s Blessing
            <h2  className={styles.chapter}>Genesis Chapter XXVII</h2>
                                 <p>
                                
-                    27 When Isaac was old and his eyes were so weak that he could no longer see, he called for Esau his older son and said to him, “My son.”
+<h4 className={styles.h4}>When Isaac was old</h4> and his eyes were so weak that he could no longer see, he called for Esau his older son and said to him, “My son.”
 
 “Here I am,” he answered.
 
@@ -1262,7 +1262,7 @@ But when you grow restless,
           <h2  className={styles.chapter}>GenesisChapter XXVIII</h2>
                                           <p>
                                          
-                              28 So Isaac called for Jacob and blessed him. Then he commanded him: “Do not marry a Canaanite woman. 2 Go at once to Paddan Aram,[a] to the house of your mother’s father Bethuel. Take a wife for yourself there, from among the daughters of Laban, your mother’s brother. 3 May God Almighty[b] bless you and make you fruitful and increase your numbers until you become a community of peoples. 4 May he give you and your descendants the blessing given to Abraham, so that you may take possession of the land where you now reside as a foreigner, the land God gave to Abraham.” 5 Then Isaac sent Jacob on his way, and he went to Paddan Aram, to Laban son of Bethuel the Aramean, the brother of Rebekah, who was the mother of Jacob and Esau.
+                             <h4 className={styles.h4}>So Isaac called for Jacob</h4> and blessed him. Then he commanded him: “Do not marry a Canaanite woman. 2 Go at once to Paddan Aram,[a] to the house of your mother’s father Bethuel. Take a wife for yourself there, from among the daughters of Laban, your mother’s brother. 3 May God Almighty[b] bless you and make you fruitful and increase your numbers until you become a community of peoples. 4 May he give you and your descendants the blessing given to Abraham, so that you may take possession of the land where you now reside as a foreigner, the land God gave to Abraham.” 5 Then Isaac sent Jacob on his way, and he went to Paddan Aram, to Laban son of Bethuel the Aramean, the brother of Rebekah, who was the mother of Jacob and Esau.
 
 6 Now Esau learned that Isaac had blessed Jacob and had sent him to Paddan Aram to take a wife from there, and that when he blessed him he commanded him, “Do not marry a Canaanite woman,” 7 and that Jacob had obeyed his father and mother and had gone to Paddan Aram. 8 Esau then realized how displeasing the Canaanite women were to his father Isaac; 9 so he went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Ishmael son of Abraham, in addition to the wives he already had.
 
@@ -1283,7 +1283,7 @@ Jacob’s Dream at Bethel
           <h2  className={styles.chapter}>GenesisChapter XXIX</h2>
                                           <p>
                                          
-                             <h4> Jacob Arrives in Paddan Aram</h4>
+                            <h4 className={styles.h4}>Jacob Arrives in Paddan Aram</h4>
 29 Then Jacob continued on his journey and came to the land of the eastern peoples. 2 There he saw a well in the open country, with three flocks of sheep lying near it because the flocks were watered from that well. The stone over the mouth of the well was large. 3 When all the flocks were gathered there, the shepherds would roll the stone away from the well’s mouth and water the sheep. Then they would return the stone to its place over the mouth of the well.
 
 4 Jacob asked the shepherds, “My brothers, where are you from?”
@@ -1400,7 +1400,7 @@ Jacob’s Flocks Increase
           <h2  className={styles.chapter}>Genesis Chapter XXXI</h2>
                                           <p>
                                          
-<h4>Jacob Flees From Laban</h4>
+<h4 className={styles.h4}>Jacob Flees From Laban</h4>
 31 Jacob heard that Laban’s sons were saying, “Jacob has taken everything our father owned and has gained all this wealth from what belonged to our father.” 2 And Jacob noticed that Laban’s attitude toward him was not what it had been.
 
 3 Then the Lord said to Jacob, “Go back to the land of your fathers and to your relatives, and I will be with you.”
@@ -1450,7 +1450,7 @@ So Jacob took an oath in the name of the Fear of his father Isaac. 54 He offered
           <h2  className={styles.chapter}>Genesis Chapter XXXII</h2>
                                           <p>
                                          
-<h4>Jacob Prepares to Meet Esau</h4>
+<h4 className={styles.h4}>Jacob Prepares to Meet Esau</h4>
 32 [a]Jacob also went on his way, and the angels of God met him. 2 When Jacob saw them, he said, “This is the camp of God!” So he named that place Mahanaim.[b]
 
 3 Jacob sent messengers ahead of him to his brother Esau in the land of Seir, the country of Edom. 4 He instructed them: “This is what you are to say to my lord Esau: ‘Your servant Jacob says, I have been staying with Laban and have remained there till now. 5 I have cattle and donkeys, sheep and goats, male and female servants. Now I am sending this message to my lord, that I may find favor in your eyes.’”
@@ -1496,7 +1496,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XXXIII</h2>
                                           <p>
                                          
-                                          <h4>Jacob Meets Esau</h4>
+                                         <h4 className={styles.h4}>Jacob Meets Esau</h4>
                                           33 Jacob looked up and there was Esau, coming with his four hundred men; so he divided the children among Leah, Rachel and the two female servants. 2 He put the female servants and their children in front, Leah and her children next, and Rachel and Joseph in the rear. 3 He himself went on ahead and bowed down to the ground seven times as he approached his brother.
                                           
                                           4 But Esau ran to meet Jacob and embraced him; he threw his arms around his neck and kissed him. And they wept. 5 Then Esau looked up and saw the women and children. “Who are these with you?” he asked.
@@ -1534,7 +1534,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           >
           <h2  className={styles.chapter}>Genesis Chapter XXXIV</h2>
                                           <p>
-                     <h4>Dinah and the Shechemites</h4>
+                     <h4 className={styles.h4}>Dinah and the Shechemites</h4>
                                     34 Now Dinah, the daughter Leah had borne to Jacob, went out to visit the women of the land. 2 When Shechem son of Hamor the Hivite, the ruler of that area, saw her, he took her and raped her. 3 His heart was drawn to Dinah daughter of Jacob; he loved the young woman and spoke tenderly to her. 4 And Shechem said to his father Hamor, “Get me this girl as my wife.”
                                     
                                     5 When Jacob heard that his daughter Dinah had been defiled, his sons were in the fields with his livestock; so he did nothing about it until they came home.
@@ -1569,7 +1569,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XXXV</h2>
                                           <p>
                                          
-                                        <h4>Jacob Returns to Bethel</h4>
+                                       <h4 className={styles.h4}>Jacob Returns to Bethel</h4>
                                         35 Then God said to Jacob, “Go up to Bethel and settle there, and build an altar there to God, who appeared to you when you were fleeing from your brother Esau.”
                                         
                                         2 So Jacob said to his household and to all who were with him, “Get rid of the foreign gods you have with you, and purify yourselves and change your clothes. 3 Then come, let us go up to Bethel, where I will build an altar to God, who answered me in the day of my distress and who has been with me wherever I have gone.” 4 So they gave Jacob all the foreign gods they had and the rings in their ears, and Jacob buried them under the oak at Shechem. 5 Then they set out, and the terror of God fell on the towns all around them so that no one pursued them.
@@ -1625,7 +1625,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XXXVI</h2>
                                           <p>
                                          
-                                  <h4>Esau’s Descendants</h4>
+                                  <h4 className={styles.h4}>Esau’s Descendants</h4>
                                   36 This is the account of the family line of Esau (that is, Edom).
                                   
                                   2 Esau took his wives from the women of Canaan: Adah daughter of Elon the Hittite, and Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite— 3 also Basemath daughter of Ishmael and sister of Nebaioth.
@@ -1740,7 +1740,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XXXVII</h2>
                                           <p>
                                          
-                                                    <h4>Joseph’s Dreams</h4>
+                                                   <h4 className={styles.h4}>Joseph’s Dreams</h4>
                                                     37 Jacob lived in the land where his father had stayed, the land of Canaan.
                                                     
                                                     2 This is the account of Jacob’s family line.
@@ -1802,7 +1802,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XXXVIII</h2>
                                           <p>
                                          
-                                            <h4>Judah and Tamar</h4>
+                                            <h4 className={styles.h4}>Judah and Tamar</h4>
                                             38 At that time, Judah left his brothers and went down to stay with a man of Adullam named Hirah. 2 There Judah met the daughter of a Canaanite man named Shua. He married her and made love to her; 3 she became pregnant and gave birth to a son, who was named Er. 4 She conceived again and gave birth to a son and named him Onan. 5 She gave birth to still another son and named him Shelah. It was at Kezib that she gave birth to him.
                                             
                                             6 Judah got a wife for Er, his firstborn, and her name was Tamar. 7 But Er, Judah’s firstborn, was wicked in the Lord’s sight; so the Lord put him to death.
@@ -1854,7 +1854,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XXXIX</h2>
                                           <p>
                                          
-                                              <h4>Joseph and Potiphar’s Wife</h4>
+                                             <h4 className={styles.h4}>Joseph and Potiphar’s Wife</h4>
                                               39 Now Joseph had been taken down to Egypt. Potiphar, an Egyptian who was one of Pharaoh’s officials, the captain of the guard, bought him from the Ishmaelites who had taken him there.
                                               
                                               2 The Lord was with Joseph so that he prospered, and he lived in the house of his Egyptian master. 3 When his master saw that the Lord was with him and that the Lord gave him success in everything he did, 4 Joseph found favor in his eyes and became his attendant. Potiphar put him in charge of his household, and he entrusted to his care everything he owned. 5 From the time he put him in charge of his household and of all that he owned, the Lord blessed the household of the Egyptian because of Joseph. The blessing of the Lord was on everything Potiphar had, both in the house and in the field. 6 So Potiphar left everything he had in Joseph’s care; with Joseph in charge, he did not concern himself with anything except the food he ate.
@@ -1881,7 +1881,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XL</h2>
                                           <p>
                                          
-                                              <h4>The Cupbearer and the Baker</h4>
+                                              <h4 className={styles.h4}>The Cupbearer and the Baker</h4>
                                               40 Some time later, the cupbearer and the baker of the king of Egypt offended their master, the king of Egypt. 2 Pharaoh was angry with his two officials, the chief cupbearer and the chief baker, 3 and put them in custody in the house of the captain of the guard, in the same prison where Joseph was confined. 4 The captain of the guard assigned them to Joseph, and he attended them.
                                               
                                               After they had been in custody for some time, 5 each of the two men—the cupbearer and the baker of the king of Egypt, who were being held in prison—had a dream the same night, and each dream had a meaning of its own.
@@ -1913,7 +1913,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XLI</h2>
                                           <p>
                                          
-                                        <h4>Pharaoh’s Dreams</h4>
+                                       <h4 className={styles.h4}>Pharaoh’s Dreams</h4>
                                         41 When two full years had passed, Pharaoh had a dream: He was standing by the Nile, 2 when out of the river there came up seven cows, sleek and fat, and they grazed among the reeds. 3 After them, seven other cows, ugly and gaunt, came up out of the Nile and stood beside those on the riverbank. 4 And the cows that were ugly and gaunt ate up the seven sleek, fat cows. Then Pharaoh woke up.
                                         
                                         5 He fell asleep again and had a second dream: Seven heads of grain, healthy and good, were growing on a single stalk. 6 After them, seven other heads of grain sprouted—thin and scorched by the east wind. 7 The thin heads of grain swallowed up the seven healthy, full heads. Then Pharaoh woke up; it had been a dream.
@@ -1966,7 +1966,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XLII</h2>
                                           <p>
                                          
-                                              <h4>Joseph’s Brothers Go to Egypt</h4>
+                                             <h4 className={styles.h4}>Joseph’s Brothers Go to Egypt</h4>
                                               42 When Jacob learned that there was grain in Egypt, he said to his sons, “Why do you just keep looking at each other?” 2 He continued, “I have heard that there is grain in Egypt. Go down there and buy some for us, so that we may live and not die.”
                                               
                                               3 Then ten of Joseph’s brothers went down to buy grain from Egypt. 4 But Jacob did not send Benjamin, Joseph’s brother, with the others, because he was afraid that harm might come to him. 5 So Israel’s sons were among those who went to buy grain, for there was famine in the land of Canaan also.
@@ -2018,7 +2018,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XLIII</h2>
                                           <p>
                                          
-                                                <h4>The Second Journey to Egypt</h4>
+                                                <h4 className={styles.h4}>The Second Journey to Egypt</h4>
                                                 43 Now the famine was still severe in the land. 2 So when they had eaten all the grain they had brought from Egypt, their father said to them, “Go back and buy us a little more food.”
                                                 
                                                 3 But Judah said to him, “The man warned us solemnly, ‘You will not see my face again unless your brother is with you.’ 4 If you will send our brother along with us, we will go down and buy food for you. 5 But if you will not send him, we will not go down, because the man said to us, ‘You will not see my face again unless your brother is with you.’”
@@ -2060,7 +2060,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XLIV</h2>
                                           <p>
                                          
-                                              <h4>A Silver Cup in a Sack</h4>
+                                              <h4 className={styles.h4}>A Silver Cup in a Sack</h4>
                                               44 Now Joseph gave these instructions to the steward of his house: “Fill the men’s sacks with as much food as they can carry, and put each man’s silver in the mouth of his sack. 2 Then put my cup, the silver one, in the mouth of the youngest one’s sack, along with the silver for his grain.” And he did as Joseph said.
                                               
                                               3 As morning dawned, the men were sent on their way with their donkeys. 4 They had not gone far from the city when Joseph said to his steward, “Go after those men at once, and when you catch up with them, say to them, ‘Why have you repaid good with evil? 5 Isn’t this the cup my master drinks from and also uses for divination? This is a wicked thing you have done.’”
@@ -2098,7 +2098,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XLV</h2>
                                           <p>
                                          
-                                                  <h4>Joseph Makes Himself Known</h4>
+                                                  <h4 className={styles.h4}>Joseph Makes Himself Known</h4>
                                                   45 Then Joseph could no longer control himself before all his attendants, and he cried out, “Have everyone leave my presence!” So there was no one with Joseph when he made himself known to his brothers. 2 And he wept so loudly that the Egyptians heard him, and Pharaoh’s household heard about it.
                                                   
                                                   3 Joseph said to his brothers, “I am Joseph! Is my father still living?” But his brothers were not able to answer him, because they were terrified at his presence.
@@ -2128,7 +2128,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XLVI</h2>
                                           <p>
                                          
-                                          <h4>Jacob Goes to Egypt</h4>
+                                         <h4 className={styles.h4}>Jacob Goes to Egypt</h4>
                                           46 So Israel set out with all that was his, and when he reached Beersheba, he offered sacrifices to the God of his father Isaac.
                                           
                                           2 And God spoke to Israel in a vision at night and said, “Jacob! Jacob!”
@@ -2226,7 +2226,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XLVII</h2>
                                           <p>
                                          
-                                              47 Joseph went and told Pharaoh, “My father and brothers, with their flocks and herds and everything they own, have come from the land of Canaan and are now in Goshen.” 2 He chose five of his brothers and presented them before Pharaoh.
+                                              <h4 className={styles.h4}>Joseph went and told Pharaoh</h4> “My father and brothers, with their flocks and herds and everything they own, have come from the land of Canaan and are now in Goshen.” 2 He chose five of his brothers and presented them before Pharaoh.
                                               
                                               3 Pharaoh asked the brothers, “What is your occupation?”
                                               
@@ -2272,7 +2272,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XLVIII</h2>
                                           <p>
                                          
-                                               <h4>Manasseh and Ephraim</h4>
+                                               <h4 className={styles.h4}>Manasseh and Ephraim</h4>
                                                 48 Some time later Joseph was told, “Your father is ill.” So he took his two sons Manasseh and Ephraim along with him. 2 When Jacob was told, “Your son Joseph has come to you,” Israel rallied his strength and sat up on the bed.
                                                 
                                                 3 Jacob said to Joseph, “God Almighty[a] appeared to me at Luz in the land of Canaan, and there he blessed me 4 and said to me, ‘I am going to make you fruitful and increase your numbers. I will make you a community of peoples, and I will give this land as an everlasting possession to your descendants after you.’
@@ -2324,7 +2324,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter XLIX</h2>
                                           <p>
                                          
-                                                          <h4>Jacob Blesses His Sons</h4>
+                                                          <h4 className={styles.h4}>Jacob Blesses His Sons</h4>
                                                           49 Then Jacob called for his sons and said: “Gather around so I can tell you what will happen to you in days to come.
                                                           
                                                           2 “Assemble and listen, sons of Jacob;
@@ -2436,7 +2436,7 @@ But he replied, “Why do you ask my name?” Then he blessed him there.
           <h2  className={styles.chapter}>Genesis Chapter L</h2>
                                           <p>
                                          
-<h4>Joseph threw himself on his father and wept</h4>
+<h4 className={styles.h4}>Joseph threw himself on his father and wept</h4>
               over him and kissed him. 2 Then Joseph directed the physicians in his service to embalm his father Israel. So the physicians embalmed him, 3 taking a full forty days, for that was the time required for embalming. And the Egyptians mourned for him seventy days.
 
 4 When the days of mourning had passed, Joseph said to Pharaoh’s court, “If I have found favor in your eyes, speak to Pharaoh for me. Tell him, 5 ‘My father made me swear an oath and said, “I am about to die; bury me in the tomb I dug for myself in the land of Canaan.” Now let me go up and bury my father; then I will return.’”
