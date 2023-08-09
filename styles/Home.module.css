@@ -328,7 +328,10 @@
     justify-content: center;
     flex-wrap: wrap;
 }
-
+.h4  {
+    font-family: cursive, Ariel, serif;
+    font-weight: 700;
+}
 .grid2 {
     background-color: #37ADA2;
     color: white;
