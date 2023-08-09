@@ -81,7 +81,7 @@ export default function Home() {
                                   <div className={styles.card}>
             <h2  className={styles.chapter}>Genesis Chapter I</h2>
             <p>
-<h4>The Beginning</h4>
+<h4 className={styles.h4}>The Beginning</h4>
 1 In the beginning God created the heavens and the earth. 2 Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.
 
 3 And God said, “Let there be light,” and there was light. 4 God saw that the light was good, and he separated the light from the darkness. 5 God called the light “day,” and the darkness he called “night.” And there was evening, and there was morning—the first day.
@@ -114,7 +114,7 @@ export default function Home() {
           <div className={styles.card}>
               <h2  className={styles.chapter}>Genesis Chapter II</h2>
             <p>
-                           <h4>Thus the heavens and the earth were completed</h4> in all their vast array.
+                           <h4 className={styles.h4}>Thus the heavens and the earth were completed</h4> in all their vast array.
                           
                           2 By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work. 3 Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done.
                           
@@ -154,7 +154,7 @@ export default function Home() {
           >
              <h2  className={styles.chapter}>Genesis Chapter III</h2>
             <p>
-<h4>The Fall</h4>
+<h4 className={styles.h4}>The Fall</h4>
 3 Now the serpent was more crafty than any of the wild animals the Lord God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’?”
 
 2 The woman said to the serpent, “We may eat fruit from the trees in the garden, 3 but God did say, ‘You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.’”
@@ -221,7 +221,7 @@ for dust you are
              <h2  className={styles.chapter}>Genesis Chapter IV</h2>
             <p>
             
-<h4>Cain and Abel</h4>
+<h4 className={styles.h4}>Cain and Abel</h4>
 4 Adam[a] made love to his wife Eve, and she became pregnant and gave birth to Cain.[b] She said, “With the help of the Lord I have brought forth[c] a man.” 2 Later she gave birth to his brother Abel.
 
 Now Abel kept flocks, and Cain worked the soil. 3 In the course of time Cain brought some of the fruits of the soil as an offering to the Lord. 4 And Abel also brought an offering—fat portions from some of the firstborn of his flock. The Lord looked with favor on Abel and his offering, 5 but on Cain and his offering he did not look with favor. So Cain was very angry, and his face was downcast.
@@ -264,7 +264,7 @@ At that time people began to call on[i] the name of the Lord.
            <h2  className={styles.chapter}>Genesis Chapter V</h2>
             <p>
             
-<h4>From Adam to Noah</h4>
+<h4 className={styles.h4}>From Adam to Noah</h4>
 5 This is the written account of Adam’s family line.
 
 When God created mankind, he made them in the likeness of God. 2 He created them male and female and blessed them. And he named them “Mankind”[a] when they were created.
@@ -299,7 +299,7 @@ When God created mankind, he made them in the likeness of God. 2 He created them
            <h2  className={styles.chapter}>Genesis Chapter VI</h2>
             <p>
            
-<h4>Wickedness in the World</h4>
+<h4 className={styles.h4}>Wickedness in the World</h4>
 6 When human beings began to increase in number on the earth and daughters were born to them, 2 the sons of God saw that the daughters of humans were beautiful, and they married any of them they chose. 3 Then the Lord said, “My Spirit will not contend with[a] humans forever, for they are mortal[b]; their days will be a hundred and twenty years.”
 
 4 The Nephilim were on the earth in those days—and also afterward—when the sons of God went to the daughters of humans and had children by them. They were the heroes of old, men of renown.
@@ -324,7 +324,7 @@ Noah was a righteous man, blameless among the people of his time, and he walked 
           >
              <h2  className={styles.chapter}>Genesis Chapter VII</h2>
             <p>
-7 <h4>The Lord then said to Noah</h4> , “Go into the ark, you and your whole family, because I have found you righteous in this generation. 2 Take with you seven pairs of every kind of clean animal, a male and its mate, and one pair of every kind of unclean animal, a male and its mate, 3 and also seven pairs of every kind of bird, male and female, to keep their various kinds alive throughout the earth. 4 Seven days from now I will send rain on the earth for forty days and forty nights, and I will wipe from the face of the earth every living creature I have made.”
+ <h4 className={styles.h4}>The Lord then said to Noah</h4> , “Go into the ark, you and your whole family, because I have found you righteous in this generation. 2 Take with you seven pairs of every kind of clean animal, a male and its mate, and one pair of every kind of unclean animal, a male and its mate, 3 and also seven pairs of every kind of bird, male and female, to keep their various kinds alive throughout the earth. 4 Seven days from now I will send rain on the earth for forty days and forty nights, and I will wipe from the face of the earth every living creature I have made.”
 
 5 And Noah did all that the Lord commanded him.
 
@@ -348,7 +348,7 @@ Noah was a righteous man, blameless among the people of his time, and he walked 
            <h2  className={styles.chapter}>Genesis Chapter VIII</h2>
             <p>
             
-8 <h4>But God remembered Noah</h4> and all the wild animals and the livestock that were with him in the ark, and he sent a wind over the earth, and the waters receded. 2 Now the springs of the deep and the floodgates of the heavens had been closed, and the rain had stopped falling from the sky. 3 The water receded steadily from the earth. At the end of the hundred and fifty days the water had gone down, 4 and on the seventeenth day of the seventh month the ark came to rest on the mountains of Ararat. 5 The waters continued to recede until the tenth month, and on the first day of the tenth month the tops of the mountains became visible.
+<h4 className={styles.h4}>But God remembered Noah</h4> and all the wild animals and the livestock that were with him in the ark, and he sent a wind over the earth, and the waters receded. 2 Now the springs of the deep and the floodgates of the heavens had been closed, and the rain had stopped falling from the sky. 3 The water receded steadily from the earth. At the end of the hundred and fifty days the water had gone down, 4 and on the seventeenth day of the seventh month the ark came to rest on the mountains of Ararat. 5 The waters continued to recede until the tenth month, and on the first day of the tenth month the tops of the mountains became visible.
 
 6 After forty days Noah opened a window he had made in the ark 7 and sent out a raven, and it kept flying back and forth until the water had dried up from the earth. 8 Then he sent out a dove to see if the water had receded from the surface of the ground. 9 But the dove could find nowhere to perch because there was water over all the surface of the earth; so it returned to Noah in the ark. He reached out his hand and took the dove and brought it back to himself in the ark. 10 He waited seven more days and again sent out the dove from the ark. 11 When the dove returned to him in the evening, there in its beak was a freshly plucked olive leaf! Then Noah knew that the water had receded from the earth. 12 He waited seven more days and sent the dove out again, but this time it did not return to him.
 
@@ -376,7 +376,7 @@ will never cease.”
   <h2  className={styles.chapter}>Genesis Chapter IX</h2>
             <p>
             
-<h4>God’s Covenant With Noah</h4>
+<h4 className={styles.h4}>God’s Covenant With Noah</h4>
 9 Then God blessed Noah and his sons, saying to them, “Be fruitful and increase in number and fill the earth. 2 The fear and dread of you will fall on all the beasts of the earth, and on all the birds in the sky, on every creature that moves along the ground, and on all the fish in the sea; they are given into your hands. 3 Everything that lives and moves about will be food for you. Just as I gave you the green plants, I now give you everything.
 
 4 “But you must not eat meat that has its lifeblood still in it. 5 And for your lifeblood I will surely demand an accounting. I will demand an accounting from every animal. And from each human being, too, I will demand an accounting for the life of another human being.
@@ -424,7 +424,7 @@ The Sons of Noah
              <h2  className={styles.chapter}>Genesis Chapter X</h2>
             <p>
             
-<h4>The Table of Nations</h4>
+<h4 className={styles.h4}>The Table of Nations</h4>
 10 This is the account of Shem, Ham and Japheth, Noah’s sons, who themselves had sons after the flood.
 
 The Japhethites
