@@ -2544,7 +2544,7 @@ The Death of Joseph
            <h2  className={styles.chapter2}>Exodus Chapter I</h2>
             <p> 
 
-                          <h4>The Israelites Oppressed</h4>
+                          <h4 className={styles.h4}>The Israelites Oppressed</h4>
 1 These are the names of the sons of Israel who went to Egypt with Jacob, each with his family: 2 Reuben, Simeon, Levi and Judah; 3 Issachar, Zebulun and Benjamin; 4 Dan and Naphtali; Gad and Asher. 5 The descendants of Jacob numbered seventy[a] in all; Joseph was already in Egypt.
 
 6 Now Joseph and all his brothers and all that generation died, 7 but the Israelites were exceedingly fruitful; they multiplied greatly, increased in numbers and became so numerous that the land was filled with them.
@@ -2566,7 +2566,7 @@ The Death of Joseph
           <div className={styles.card2}>
             <h2 className={styles.chapter2}>Exodus Chapter II</h2>
             <p> 
-                        <h4> The Birth of Moses</h4>
+                       <h4 className={styles.h4}>The Birth of Moses</h4>
 2 Now a man of the tribe of Levi married a Levite woman, 2 and she became pregnant and gave birth to a son. When she saw that he was a fine child, she hid him for three months. 3 But when she could hide him no longer, she got a papyrus basket[a] for him and coated it with tar and pitch. Then she placed the child in it and put it among the reeds along the bank of the Nile. 4 His sister stood at a distance to see what would happen to him.
 
 5 Then Pharaoh’s daughter went down to the Nile to bathe, and her attendants were walking along the riverbank. She saw the basket among the reeds and sent her female slave to get it. 6 She opened it and saw the baby. He was crying, and she felt sorry for him. “This is one of the Hebrew babies,” she said.
@@ -2601,7 +2601,7 @@ Moses Flees to Midian
           >
             <h2 className={styles.chapter2}>Exodus Chapter III </h2>
             <p>
-                                          <h4>Moses and the Burning Bush</h4>
+                                         <h4 className={styles.h4}>Moses and the Burning Bush</h4>
 3 Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness and came to Horeb, the mountain of God. 2 There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up. 3 So Moses thought, “I will go over and see this strange sight—why the bush does not burn up.”
 
 4 When the Lord saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!”
@@ -2641,7 +2641,7 @@ And Moses said, “Here I am.”
           >
             <h2 className={styles.chapter2}>Exodus Chapter IV </h2>
             <p>
-                    <h4>Signs for Moses</h4>
+                    <h4 className={styles.h4}>Signs for Moses</h4>
 4 Moses answered, “What if they do not believe me or listen to me and say, ‘The Lord did not appear to you’?”
 
 2 Then the Lord said to him, “What is that in your hand?”
@@ -2687,7 +2687,7 @@ Jethro said, “Go, and I wish you well.”
             <h2 className={styles.chapter2}>Exodus Chapter V</h2>
                               <p> 
   
-  <h4>Bricks Without Straw</h4>
+  <h4 className={styles.h4}>Bricks Without Straw</h4>
 5 Afterward Moses and Aaron went to Pharaoh and said, “This is what the Lord, the God of Israel, says: ‘Let my people go, so that they may hold a festival to me in the wilderness.’”
 
 2 Pharaoh said, “Who is the Lord, that I should obey him and let Israel go? I do not know the Lord and I will not let Israel go.”
@@ -2716,7 +2716,7 @@ God Promises Deliverance
           >
             <h2 className={styles.chapter2}>Exodus Chapter VI </h2>
                                 <p>
-                             6 Then the Lord said to Moses, “Now you will see what I will do to Pharaoh: Because of my mighty hand he will let them go; because of my mighty hand he will drive them out of his country.”
+ <h4 className={styles.h4}> Then the Lord said to Moses</h4> “Now you will see what I will do to Pharaoh: Because of my mighty hand he will let them go; because of my mighty hand he will drive them out of his country.”
 
 2 God also said to Moses, “I am the Lord. 3 I appeared to Abraham, to Isaac and to Jacob as God Almighty,[a] but by my name the Lord[b] I did not make myself fully known to them. 4 I also established my covenant with them to give them the land of Canaan, where they resided as foreigners. 5 Moreover, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered my covenant.
 
@@ -2777,9 +2777,17 @@ Aaron to Speak for Moses
             <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
             <p>
             
-            The New Testament IS COMPLETED!!!
+            <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
             This is the beginning of the Old Testament and it will contain the 5 books of the Torah or Pentateuch...
-              The meaning of “Torah” is often restricted to signify the first five books of the Hebrew Bible (Old Testament), also called the Law (or the Pentateuch, in Christianity). These are the books traditionally ascribed to Moses, the recipient of the original revelation from God on Mount Sinai.
+              <h4>Genesis Complete</h4>
+               <h4>Exodus in the works</h4>
+               <h4>Leviticus coming soon</h4>
+               <h4>...Numbers next</h4>
+               <h4> And lastly Deuteronomy</h4>
+              
+              The meaning of “Torah” is often restricted to signify the first five books of the Hebrew Bible (Old Testament), also called the Law (or the Pentateuch, 
+              in Christianity). 
+              These are the books traditionally ascribed to Moses, the recipient of the original revelation from God on Mount Sinai.
               More to come on the layout...!
      </p>
           </div>
