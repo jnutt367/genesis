@@ -2772,6 +2772,409 @@ Aaron to Speak for Moses
 
                                 </p>
   </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter VIII </h2>
+                                <p>
+ <h4 className={styles.h4}>Then the Lord said to Moses</h4> 
+
+ “Go to Pharaoh and say to him, ‘This is what the Lord says: Let my people go, so that they may worship me. 2 If you refuse to let them go, I will send a plague of frogs on your whole country. 3 The Nile will teem with frogs. They will come up into your palace and your bedroom and onto your bed, into the houses of your officials and on your people, and into your ovens and kneading troughs. 4 The frogs will come up on you and your people and all your officials.’”
+
+5 Then the Lord said to Moses, “Tell Aaron, ‘Stretch out your hand with your staff over the streams and canals and ponds, and make frogs come up on the land of Egypt.’”
+
+6 So Aaron stretched out his hand over the waters of Egypt, and the frogs came up and covered the land. 7 But the magicians did the same things by their secret arts; they also made frogs come up on the land of Egypt.
+
+8 Pharaoh summoned Moses and Aaron and said, “Pray to the Lord to take the frogs away from me and my people, and I will let your people go to offer sacrifices to the Lord.”
+
+9 Moses said to Pharaoh, “I leave to you the honor of setting the time for me to pray for you and your officials and your people that you and your houses may be rid of the frogs, except for those that remain in the Nile.”
+
+10 “Tomorrow,” Pharaoh said.
+
+Moses replied, “It will be as you say, so that you may know there is no one like the Lord our God. 11 The frogs will leave you and your houses, your officials and your people; they will remain only in the Nile.”
+
+12 After Moses and Aaron left Pharaoh, Moses cried out to the Lord about the frogs he had brought on Pharaoh. 13 And the Lord did what Moses asked. The frogs died in the houses, in the courtyards and in the fields. 14 They were piled into heaps, and the land reeked of them. 15 But when Pharaoh saw that there was relief, he hardened his heart and would not listen to Moses and Aaron, just as the Lord had said.
+
+The Plague of Gnats
+16 Then the Lord said to Moses, “Tell Aaron, ‘Stretch out your staff and strike the dust of the ground,’ and throughout the land of Egypt the dust will become gnats.” 17 They did this, and when Aaron stretched out his hand with the staff and struck the dust of the ground, gnats came on people and animals. All the dust throughout the land of Egypt became gnats. 18 But when the magicians tried to produce gnats by their secret arts, they could not.
+
+Since the gnats were on people and animals everywhere, 19 the magicians said to Pharaoh, “This is the finger of God.” But Pharaoh’s heart was hard and he would not listen, just as the Lord had said.
+
+The Plague of Flies
+20 Then the Lord said to Moses, “Get up early in the morning and confront Pharaoh as he goes to the river and say to him, ‘This is what the Lord says: Let my people go, so that they may worship me. 21 If you do not let my people go, I will send swarms of flies on you and your officials, on your people and into your houses. The houses of the Egyptians will be full of flies; even the ground will be covered with them.
+
+22 “‘But on that day I will deal differently with the land of Goshen, where my people live; no swarms of flies will be there, so that you will know that I, the Lord, am in this land. 23 I will make a distinction[b] between my people and your people. This sign will occur tomorrow.’”
+
+24 And the Lord did this. Dense swarms of flies poured into Pharaoh’s palace and into the houses of his officials; throughout Egypt the land was ruined by the flies.
+
+25 Then Pharaoh summoned Moses and Aaron and said, “Go, sacrifice to your God here in the land.”
+
+26 But Moses said, “That would not be right. The sacrifices we offer the Lord our God would be detestable to the Egyptians. And if we offer sacrifices that are detestable in their eyes, will they not stone us? 27 We must take a three-day journey into the wilderness to offer sacrifices to the Lord our God, as he commands us.”
+
+28 Pharaoh said, “I will let you go to offer sacrifices to the Lord your God in the wilderness, but you must not go very far. Now pray for me.”
+
+29 Moses answered, “As soon as I leave you, I will pray to the Lord, and tomorrow the flies will leave Pharaoh and his officials and his people. Only let Pharaoh be sure that he does not act deceitfully again by not letting the people go to offer sacrifices to the Lord.”
+
+30 Then Moses left Pharaoh and prayed to the Lord, 31 and the Lord did what Moses asked. The flies left Pharaoh and his officials and his people; not a fly remained. 32 But this time also Pharaoh hardened his heart and would not let the people go.                                </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter IX </h2>
+                                <p>
+ <h4 className={styles.h4}>The Plague on Livestock</h4> 
+
+9 Then the Lord said to Moses, “Go to Pharaoh and say to him, ‘This is what the Lord, the God of the Hebrews, says: “Let my people go, so that they may worship me.” 2 If you refuse to let them go and continue to hold them back, 3 the hand of the Lord will bring a terrible plague on your livestock in the field—on your horses, donkeys and camels and on your cattle, sheep and goats. 4 But the Lord will make a distinction between the livestock of Israel and that of Egypt, so that no animal belonging to the Israelites will die.’”
+
+5 The Lord set a time and said, “Tomorrow the Lord will do this in the land.” 6 And the next day the Lord did it: All the livestock of the Egyptians died, but not one animal belonging to the Israelites died. 7 Pharaoh investigated and found that not even one of the animals of the Israelites had died. Yet his heart was unyielding and he would not let the people go.
+
+The Plague of Boils
+8 Then the Lord said to Moses and Aaron, “Take handfuls of soot from a furnace and have Moses toss it into the air in the presence of Pharaoh. 9 It will become fine dust over the whole land of Egypt, and festering boils will break out on people and animals throughout the land.”
+
+10 So they took soot from a furnace and stood before Pharaoh. Moses tossed it into the air, and festering boils broke out on people and animals. 11 The magicians could not stand before Moses because of the boils that were on them and on all the Egyptians. 12 But the Lord hardened Pharaoh’s heart and he would not listen to Moses and Aaron, just as the Lord had said to Moses.
+
+The Plague of Hail
+13 Then the Lord said to Moses, “Get up early in the morning, confront Pharaoh and say to him, ‘This is what the Lord, the God of the Hebrews, says: Let my people go, so that they may worship me, 14 or this time I will send the full force of my plagues against you and against your officials and your people, so you may know that there is no one like me in all the earth. 15 For by now I could have stretched out my hand and struck you and your people with a plague that would have wiped you off the earth. 16 But I have raised you up[a] for this very purpose, that I might show you my power and that my name might be proclaimed in all the earth. 17 You still set yourself against my people and will not let them go. 18 Therefore, at this time tomorrow I will send the worst hailstorm that has ever fallen on Egypt, from the day it was founded till now. 19 Give an order now to bring your livestock and everything you have in the field to a place of shelter, because the hail will fall on every person and animal that has not been brought in and is still out in the field, and they will die.’”
+
+20 Those officials of Pharaoh who feared the word of the Lord hurried to bring their slaves and their livestock inside. 21 But those who ignored the word of the Lord left their slaves and livestock in the field.
+
+22 Then the Lord said to Moses, “Stretch out your hand toward the sky so that hail will fall all over Egypt—on people and animals and on everything growing in the fields of Egypt.” 23 When Moses stretched out his staff toward the sky, the Lord sent thunder and hail, and lightning flashed down to the ground. So the Lord rained hail on the land of Egypt; 24 hail fell and lightning flashed back and forth. It was the worst storm in all the land of Egypt since it had become a nation. 25 Throughout Egypt hail struck everything in the fields—both people and animals; it beat down everything growing in the fields and stripped every tree. 26 The only place it did not hail was the land of Goshen, where the Israelites were.
+
+27 Then Pharaoh summoned Moses and Aaron. “This time I have sinned,” he said to them. “The Lord is in the right, and I and my people are in the wrong. 28 Pray to the Lord, for we have had enough thunder and hail. I will let you go; you don’t have to stay any longer.”
+
+29 Moses replied, “When I have gone out of the city, I will spread out my hands in prayer to the Lord. The thunder will stop and there will be no more hail, so you may know that the earth is the Lord’s. 30 But I know that you and your officials still do not fear the Lord God.”
+
+31 (The flax and barley were destroyed, since the barley had headed and the flax was in bloom. 32 The wheat and spelt, however, were not destroyed, because they ripen later.)
+
+33 Then Moses left Pharaoh and went out of the city. He spread out his hands toward the Lord; the thunder and hail stopped, and the rain no longer poured down on the land. 34 When Pharaoh saw that the rain and hail and thunder had stopped, he sinned again: He and his officials hardened their hearts. 35 So Pharaoh’s heart was hard and he would not let the Israelites go, just as the Lord had said through Moses.                                </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>The Plague of Locusts</h4> 
+
+10 Then the Lord said to Moses, “Go to Pharaoh, for I have hardened his heart and the hearts of his officials so that I may perform these signs of mine among them 2 that you may tell your children and grandchildren how I dealt harshly with the Egyptians and how I performed my signs among them, and that you may know that I am the Lord.”
+
+3 So Moses and Aaron went to Pharaoh and said to him, “This is what the Lord, the God of the Hebrews, says: ‘How long will you refuse to humble yourself before me? Let my people go, so that they may worship me. 4 If you refuse to let them go, I will bring locusts into your country tomorrow. 5 They will cover the face of the ground so that it cannot be seen. They will devour what little you have left after the hail, including every tree that is growing in your fields. 6 They will fill your houses and those of all your officials and all the Egyptians—something neither your parents nor your ancestors have ever seen from the day they settled in this land till now.’” Then Moses turned and left Pharaoh.
+
+7 Pharaoh’s officials said to him, “How long will this man be a snare to us? Let the people go, so that they may worship the Lord their God. Do you not yet realize that Egypt is ruined?”
+
+8 Then Moses and Aaron were brought back to Pharaoh. “Go, worship the Lord your God,” he said. “But tell me who will be going.”
+
+9 Moses answered, “We will go with our young and our old, with our sons and our daughters, and with our flocks and herds, because we are to celebrate a festival to the Lord.”
+
+10 Pharaoh said, “The Lord be with you—if I let you go, along with your women and children! Clearly you are bent on evil.[a] 11 No! Have only the men go and worship the Lord, since that’s what you have been asking for.” Then Moses and Aaron were driven out of Pharaoh’s presence.
+
+12 And the Lord said to Moses, “Stretch out your hand over Egypt so that locusts swarm over the land and devour everything growing in the fields, everything left by the hail.”
+
+13 So Moses stretched out his staff over Egypt, and the Lord made an east wind blow across the land all that day and all that night. By morning the wind had brought the locusts; 14 they invaded all Egypt and settled down in every area of the country in great numbers. Never before had there been such a plague of locusts, nor will there ever be again. 15 They covered all the ground until it was black. They devoured all that was left after the hail—everything growing in the fields and the fruit on the trees. Nothing green remained on tree or plant in all the land of Egypt.
+
+16 Pharaoh quickly summoned Moses and Aaron and said, “I have sinned against the Lord your God and against you. 17 Now forgive my sin once more and pray to the Lord your God to take this deadly plague away from me.”
+
+18 Moses then left Pharaoh and prayed to the Lord. 19 And the Lord changed the wind to a very strong west wind, which caught up the locusts and carried them into the Red Sea.[b] Not a locust was left anywhere in Egypt. 20 But the Lord hardened Pharaoh’s heart, and he would not let the Israelites go.
+
+The Plague of Darkness
+21 Then the Lord said to Moses, “Stretch out your hand toward the sky so that darkness spreads over Egypt—darkness that can be felt.” 22 So Moses stretched out his hand toward the sky, and total darkness covered all Egypt for three days. 23 No one could see anyone else or move about for three days. Yet all the Israelites had light in the places where they lived.
+
+24 Then Pharaoh summoned Moses and said, “Go, worship the Lord. Even your women and children may go with you; only leave your flocks and herds behind.”
+
+25 But Moses said, “You must allow us to have sacrifices and burnt offerings to present to the Lord our God. 26 Our livestock too must go with us; not a hoof is to be left behind. We have to use some of them in worshiping the Lord our God, and until we get there we will not know what we are to use to worship the Lord.”
+
+27 But the Lord hardened Pharaoh’s heart, and he was not willing to let them go. 28 Pharaoh said to Moses, “Get out of my sight! Make sure you do not appear before me again! The day you see my face you will die.”
+
+29 “Just as you say,” Moses replied. “I will never appear before you again.”
+                                </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+                                </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+  
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+                                </p>
+  </div>
+  
+
+  
+  
           <div className={styles.card2}
           >
             <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
