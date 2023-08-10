@@ -2854,7 +2854,7 @@ The Plague of Hail
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>The Plague of Locusts</h4> 
 
@@ -2894,31 +2894,82 @@ The Plague of Darkness
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XI </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>The Plague on the Firstborn</h4> 
 
 
-                                </p>
+11 Now the Lord had said to Moses, “I will bring one more plague on Pharaoh and on Egypt. After that, he will let you go from here, and when he does, he will drive you out completely. 2 Tell the people that men and women alike are to ask their neighbors for articles of silver and gold.” 3 (The Lord made the Egyptians favorably disposed toward the people, and Moses himself was highly regarded in Egypt by Pharaoh’s officials and by the people.)
+
+4 So Moses said, “This is what the Lord says: ‘About midnight I will go throughout Egypt. 5 Every firstborn son in Egypt will die, from the firstborn son of Pharaoh, who sits on the throne, to the firstborn son of the female slave, who is at her hand mill, and all the firstborn of the cattle as well. 6 There will be loud wailing throughout Egypt—worse than there has ever been or ever will be again. 7 But among the Israelites not a dog will bark at any person or animal.’ Then you will know that the Lord makes a distinction between Egypt and Israel. 8 All these officials of yours will come to me, bowing down before me and saying, ‘Go, you and all the people who follow you!’ After that I will leave.” Then Moses, hot with anger, left Pharaoh.
+
+9 The Lord had said to Moses, “Pharaoh will refuse to listen to you—so that my wonders may be multiplied in Egypt.” 10 Moses and Aaron performed all these wonders before Pharaoh, but the Lord hardened Pharaoh’s heart, and he would not let the Israelites go out of his country.                                </p>
   </div>
 
 
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XII </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>The Passover</h4> 
+ and the Festival of Unleavened Bread
+12 The Lord said to Moses and Aaron in Egypt, 2 “This month is to be for you the first month, the first month of your year. 3 Tell the whole community of Israel that on the tenth day of this month each man is to take a lamb[a] for his family, one for each household. 4 If any household is too small for a whole lamb, they must share one with their nearest neighbor, having taken into account the number of people there are. You are to determine the amount of lamb needed in accordance with what each person will eat. 5 The animals you choose must be year-old males without defect, and you may take them from the sheep or the goats. 6 Take care of them until the fourteenth day of the month, when all the members of the community of Israel must slaughter them at twilight. 7 Then they are to take some of the blood and put it on the sides and tops of the doorframes of the houses where they eat the lambs. 8 That same night they are to eat the meat roasted over the fire, along with bitter herbs, and bread made without yeast. 9 Do not eat the meat raw or boiled in water, but roast it over a fire—with the head, legs and internal organs. 10 Do not leave any of it till morning; if some is left till morning, you must burn it. 11 This is how you are to eat it: with your cloak tucked into your belt, your sandals on your feet and your staff in your hand. Eat it in haste; it is the Lord’s Passover.
 
-                                </p>
+12 “On that same night I will pass through Egypt and strike down every firstborn of both people and animals, and I will bring judgment on all the gods of Egypt. I am the Lord. 13 The blood will be a sign for you on the houses where you are, and when I see the blood, I will pass over you. No destructive plague will touch you when I strike Egypt.
+
+14 “This is a day you are to commemorate; for the generations to come you shall celebrate it as a festival to the Lord—a lasting ordinance. 15 For seven days you are to eat bread made without yeast. On the first day remove the yeast from your houses, for whoever eats anything with yeast in it from the first day through the seventh must be cut off from Israel. 16 On the first day hold a sacred assembly, and another one on the seventh day. Do no work at all on these days, except to prepare food for everyone to eat; that is all you may do.
+
+17 “Celebrate the Festival of Unleavened Bread, because it was on this very day that I brought your divisions out of Egypt. Celebrate this day as a lasting ordinance for the generations to come. 18 In the first month you are to eat bread made without yeast, from the evening of the fourteenth day until the evening of the twenty-first day. 19 For seven days no yeast is to be found in your houses. And anyone, whether foreigner or native-born, who eats anything with yeast in it must be cut off from the community of Israel. 20 Eat nothing made with yeast. Wherever you live, you must eat unleavened bread.”
+
+21 Then Moses summoned all the elders of Israel and said to them, “Go at once and select the animals for your families and slaughter the Passover lamb. 22 Take a bunch of hyssop, dip it into the blood in the basin and put some of the blood on the top and on both sides of the doorframe. None of you shall go out of the door of your house until morning. 23 When the Lord goes through the land to strike down the Egyptians, he will see the blood on the top and sides of the doorframe and will pass over that doorway, and he will not permit the destroyer to enter your houses and strike you down.
+
+24 “Obey these instructions as a lasting ordinance for you and your descendants. 25 When you enter the land that the Lord will give you as he promised, observe this ceremony. 26 And when your children ask you, ‘What does this ceremony mean to you?’ 27 then tell them, ‘It is the Passover sacrifice to the Lord, who passed over the houses of the Israelites in Egypt and spared our homes when he struck down the Egyptians.’” Then the people bowed down and worshiped. 28 The Israelites did just what the Lord commanded Moses and Aaron.
+
+29 At midnight the Lord struck down all the firstborn in Egypt, from the firstborn of Pharaoh, who sat on the throne, to the firstborn of the prisoner, who was in the dungeon, and the firstborn of all the livestock as well. 30 Pharaoh and all his officials and all the Egyptians got up during the night, and there was loud wailing in Egypt, for there was not a house without someone dead.
+
+The Exodus
+31 During the night Pharaoh summoned Moses and Aaron and said, “Up! Leave my people, you and the Israelites! Go, worship the Lord as you have requested. 32 Take your flocks and herds, as you have said, and go. And also bless me.”
+
+33 The Egyptians urged the people to hurry and leave the country. “For otherwise,” they said, “we will all die!” 34 So the people took their dough before the yeast was added, and carried it on their shoulders in kneading troughs wrapped in clothing. 35 The Israelites did as Moses instructed and asked the Egyptians for articles of silver and gold and for clothing. 36 The Lord had made the Egyptians favorably disposed toward the people, and they gave them what they asked for; so they plundered the Egyptians.
+
+37 The Israelites journeyed from Rameses to Sukkoth. There were about six hundred thousand men on foot, besides women and children. 38 Many other people went up with them, and also large droves of livestock, both flocks and herds. 39 With the dough the Israelites had brought from Egypt, they baked loaves of unleavened bread. The dough was without yeast because they had been driven out of Egypt and did not have time to prepare food for themselves.
+
+40 Now the length of time the Israelite people lived in Egypt[b] was 430 years. 41 At the end of the 430 years, to the very day, all the Lord’s divisions left Egypt. 42 Because the Lord kept vigil that night to bring them out of Egypt, on this night all the Israelites are to keep vigil to honor the Lord for the generations to come.
+
+Passover Restrictions
+43 The Lord said to Moses and Aaron, “These are the regulations for the Passover meal:
+
+“No foreigner may eat it. 44 Any slave you have bought may eat it after you have circumcised him, 45 but a temporary resident or a hired worker may not eat it.
+
+46 “It must be eaten inside the house; take none of the meat outside the house. Do not break any of the bones. 47 The whole community of Israel must celebrate it.
+
+48 “A foreigner residing among you who wants to celebrate the Lord’s Passover must have all the males in his household circumcised; then he may take part like one born in the land. No uncircumcised male may eat it. 49 The same law applies both to the native-born and to the foreigner residing among you.”
+
+50 All the Israelites did just what the Lord had commanded Moses and Aaron. 51 And on that very day the Lord brought the Israelites out of Egypt by their divisions.                                </p>
   </div>
 
 
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XIII </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Consecration of the Firstborn</h4> 
 
+
+13 The Lord said to Moses, 2 “Consecrate to me every firstborn male. The first offspring of every womb among the Israelites belongs to me, whether human or animal.”
+
+3 Then Moses said to the people, “Commemorate this day, the day you came out of Egypt, out of the land of slavery, because the Lord brought you out of it with a mighty hand. Eat nothing containing yeast. 4 Today, in the month of Aviv, you are leaving. 5 When the Lord brings you into the land of the Canaanites, Hittites, Amorites, Hivites and Jebusites—the land he swore to your ancestors to give you, a land flowing with milk and honey—you are to observe this ceremony in this month: 6 For seven days eat bread made without yeast and on the seventh day hold a festival to the Lord. 7 Eat unleavened bread during those seven days; nothing with yeast in it is to be seen among you, nor shall any yeast be seen anywhere within your borders. 8 On that day tell your son, ‘I do this because of what the Lord did for me when I came out of Egypt.’ 9 This observance will be for you like a sign on your hand and a reminder on your forehead that this law of the Lord is to be on your lips. For the Lord brought you out of Egypt with his mighty hand. 10 You must keep this ordinance at the appointed time year after year.
+
+11 “After the Lord brings you into the land of the Canaanites and gives it to you, as he promised on oath to you and your ancestors, 12 you are to give over to the Lord the first offspring of every womb. All the firstborn males of your livestock belong to the Lord. 13 Redeem with a lamb every firstborn donkey, but if you do not redeem it, break its neck. Redeem every firstborn among your sons.
+
+14 “In days to come, when your son asks you, ‘What does this mean?’ say to him, ‘With a mighty hand the Lord brought us out of Egypt, out of the land of slavery. 15 When Pharaoh stubbornly refused to let us go, the Lord killed the firstborn of both people and animals in Egypt. This is why I sacrifice to the Lord the first male offspring of every womb and redeem each of my firstborn sons.’ 16 And it will be like a sign on your hand and a symbol on your forehead that the Lord brought us out of Egypt with his mighty hand.”
+
+Crossing the Sea
+17 When Pharaoh let the people go, God did not lead them on the road through the Philistine country, though that was shorter. For God said, “If they face war, they might change their minds and return to Egypt.” 18 So God led the people around by the desert road toward the Red Sea.[a] The Israelites went up out of Egypt ready for battle.
+
+19 Moses took the bones of Joseph with him because Joseph had made the Israelites swear an oath. He had said, “God will surely come to your aid, and then you must carry my bones up with you from this place.”[b]
+
+20 After leaving Sukkoth they camped at Etham on the edge of the desert. 21 By day the Lord went ahead of them in a pillar of cloud to guide them on their way and by night in a pillar of fire to give them light, so that they could travel by day or night. 22 Neither the pillar of cloud by day nor the pillar of fire by night left its place in front of the people.
 
                                 </p>
   </div>
@@ -2927,44 +2978,201 @@ The Plague of Darkness
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XIV </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Then the Lord said to Moses</h4> 
 
+ 2 “Tell the Israelites to turn back and encamp near Pi Hahiroth, between Migdol and the sea. They are to encamp by the sea, directly opposite Baal Zephon. 3 Pharaoh will think, ‘The Israelites are wandering around the land in confusion, hemmed in by the desert.’ 4 And I will harden Pharaoh’s heart, and he will pursue them. But I will gain glory for myself through Pharaoh and all his army, and the Egyptians will know that I am the Lord.” So the Israelites did this.
 
-                                </p>
+5 When the king of Egypt was told that the people had fled, Pharaoh and his officials changed their minds about them and said, “What have we done? We have let the Israelites go and have lost their services!” 6 So he had his chariot made ready and took his army with him. 7 He took six hundred of the best chariots, along with all the other chariots of Egypt, with officers over all of them. 8 The Lord hardened the heart of Pharaoh king of Egypt, so that he pursued the Israelites, who were marching out boldly. 9 The Egyptians—all Pharaoh’s horses and chariots, horsemen[a] and troops—pursued the Israelites and overtook them as they camped by the sea near Pi Hahiroth, opposite Baal Zephon.
+
+10 As Pharaoh approached, the Israelites looked up, and there were the Egyptians, marching after them. They were terrified and cried out to the Lord. 11 They said to Moses, “Was it because there were no graves in Egypt that you brought us to the desert to die? What have you done to us by bringing us out of Egypt? 12 Didn’t we say to you in Egypt, ‘Leave us alone; let us serve the Egyptians’? It would have been better for us to serve the Egyptians than to die in the desert!”
+
+13 Moses answered the people, “Do not be afraid. Stand firm and you will see the deliverance the Lord will bring you today. The Egyptians you see today you will never see again. 14 The Lord will fight for you; you need only to be still.”
+
+15 Then the Lord said to Moses, “Why are you crying out to me? Tell the Israelites to move on. 16 Raise your staff and stretch out your hand over the sea to divide the water so that the Israelites can go through the sea on dry ground. 17 I will harden the hearts of the Egyptians so that they will go in after them. And I will gain glory through Pharaoh and all his army, through his chariots and his horsemen. 18 The Egyptians will know that I am the Lord when I gain glory through Pharaoh, his chariots and his horsemen.”
+
+19 Then the angel of God, who had been traveling in front of Israel’s army, withdrew and went behind them. The pillar of cloud also moved from in front and stood behind them, 20 coming between the armies of Egypt and Israel. Throughout the night the cloud brought darkness to the one side and light to the other side; so neither went near the other all night long.
+
+21 Then Moses stretched out his hand over the sea, and all that night the Lord drove the sea back with a strong east wind and turned it into dry land. The waters were divided, 22 and the Israelites went through the sea on dry ground, with a wall of water on their right and on their left.
+
+23 The Egyptians pursued them, and all Pharaoh’s horses and chariots and horsemen followed them into the sea. 24 During the last watch of the night the Lord looked down from the pillar of fire and cloud at the Egyptian army and threw it into confusion. 25 He jammed[b] the wheels of their chariots so that they had difficulty driving. And the Egyptians said, “Let’s get away from the Israelites! The Lord is fighting for them against Egypt.”
+
+26 Then the Lord said to Moses, “Stretch out your hand over the sea so that the waters may flow back over the Egyptians and their chariots and horsemen.” 27 Moses stretched out his hand over the sea, and at daybreak the sea went back to its place. The Egyptians were fleeing toward[c] it, and the Lord swept them into the sea. 28 The water flowed back and covered the chariots and horsemen—the entire army of Pharaoh that had followed the Israelites into the sea. Not one of them survived.
+
+29 But the Israelites went through the sea on dry ground, with a wall of water on their right and on their left. 30 That day the Lord saved Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore. 31 And when the Israelites saw the mighty hand of the Lord displayed against the Egyptians, the people feared the Lord and put their trust in him and in Moses his servant.                                </p>
   </div>
 
 
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XV </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>The Song of Moses and Miriam</h4> 
 
 
-                                </p>
+15 Then Moses and the Israelites sang this song to the Lord:
+
+“I will sing to the Lord,
+    for he is highly exalted.
+Both horse and driver
+    he has hurled into the sea.
+
+2 “The Lord is my strength and my defense[a];
+    he has become my salvation.
+He is my God, and I will praise him,
+    my father’s God, and I will exalt him.
+3 The Lord is a warrior;
+    the Lord is his name.
+4 Pharaoh’s chariots and his army
+    he has hurled into the sea.
+The best of Pharaoh’s officers
+    are drowned in the Red Sea.[b]
+5 The deep waters have covered them;
+    they sank to the depths like a stone.
+6 Your right hand, Lord,
+    was majestic in power.
+Your right hand, Lord,
+    shattered the enemy.
+
+7 “In the greatness of your majesty
+    you threw down those who opposed you.
+You unleashed your burning anger;
+    it consumed them like stubble.
+8 By the blast of your nostrils
+    the waters piled up.
+The surging waters stood up like a wall;
+    the deep waters congealed in the heart of the sea.
+9 The enemy boasted,
+    ‘I will pursue, I will overtake them.
+I will divide the spoils;
+    I will gorge myself on them.
+I will draw my sword
+    and my hand will destroy them.’
+10 But you blew with your breath,
+    and the sea covered them.
+They sank like lead
+    in the mighty waters.
+11 Who among the gods
+    is like you, Lord?
+Who is like you—
+    majestic in holiness,
+awesome in glory,
+    working wonders?
+
+12 “You stretch out your right hand,
+    and the earth swallows your enemies.
+13 In your unfailing love you will lead
+    the people you have redeemed.
+In your strength you will guide them
+    to your holy dwelling.
+14 The nations will hear and tremble;
+    anguish will grip the people of Philistia.
+15 The chiefs of Edom will be terrified,
+    the leaders of Moab will be seized with trembling,
+the people[c] of Canaan will melt away;
+16     terror and dread will fall on them.
+By the power of your arm
+    they will be as still as a stone—
+until your people pass by, Lord,
+    until the people you bought[d] pass by.
+17 You will bring them in and plant them
+    on the mountain of your inheritance—
+the place, Lord, you made for your dwelling,
+    the sanctuary, Lord, your hands established.
+
+18 “The Lord reigns
+    for ever and ever.”
+
+19 When Pharaoh’s horses, chariots and horsemen[e] went into the sea, the Lord brought the waters of the sea back over them, but the Israelites walked through the sea on dry ground. 20 Then Miriam the prophet, Aaron’s sister, took a timbrel in her hand, and all the women followed her, with timbrels and dancing. 21 Miriam sang to them:
+
+“Sing to the Lord,
+    for he is highly exalted.
+Both horse and driver
+    he has hurled into the sea.”
+
+The Waters of Marah and Elim
+22 Then Moses led Israel from the Red Sea and they went into the Desert of Shur. For three days they traveled in the desert without finding water. 23 When they came to Marah, they could not drink its water because it was bitter. (That is why the place is called Marah.[f]) 24 So the people grumbled against Moses, saying, “What are we to drink?”
+
+25 Then Moses cried out to the Lord, and the Lord showed him a piece of wood. He threw it into the water, and the water became fit to drink.
+
+There the Lord issued a ruling and instruction for them and put them to the test. 26 He said, “If you listen carefully to the Lord your God and do what is right in his eyes, if you pay attention to his commands and keep all his decrees, I will not bring on you any of the diseases I brought on the Egyptians, for I am the Lord, who heals you.”
+
+27 Then they came to Elim, where there were twelve springs and seventy palm trees, and they camped there near the water.                                </p>
   </div>
 
 
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XVI </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Manna and Quail</h4> 
 
 
-                                </p>
+16 The whole Israelite community set out from Elim and came to the Desert of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they had come out of Egypt. 2 In the desert the whole community grumbled against Moses and Aaron. 3 The Israelites said to them, “If only we had died by the Lord’s hand in Egypt! There we sat around pots of meat and ate all the food we wanted, but you have brought us out into this desert to starve this entire assembly to death.”
+
+4 Then the Lord said to Moses, “I will rain down bread from heaven for you. The people are to go out each day and gather enough for that day. In this way I will test them and see whether they will follow my instructions. 5 On the sixth day they are to prepare what they bring in, and that is to be twice as much as they gather on the other days.”
+
+6 So Moses and Aaron said to all the Israelites, “In the evening you will know that it was the Lord who brought you out of Egypt, 7 and in the morning you will see the glory of the Lord, because he has heard your grumbling against him. Who are we, that you should grumble against us?” 8 Moses also said, “You will know that it was the Lord when he gives you meat to eat in the evening and all the bread you want in the morning, because he has heard your grumbling against him. Who are we? You are not grumbling against us, but against the Lord.”
+
+9 Then Moses told Aaron, “Say to the entire Israelite community, ‘Come before the Lord, for he has heard your grumbling.’”
+
+10 While Aaron was speaking to the whole Israelite community, they looked toward the desert, and there was the glory of the Lord appearing in the cloud.
+
+11 The Lord said to Moses, 12 “I have heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.’”
+
+13 That evening quail came and covered the camp, and in the morning there was a layer of dew around the camp. 14 When the dew was gone, thin flakes like frost on the ground appeared on the desert floor. 15 When the Israelites saw it, they said to each other, “What is it?” For they did not know what it was.
+
+Moses said to them, “It is the bread the Lord has given you to eat. 16 This is what the Lord has commanded: ‘Everyone is to gather as much as they need. Take an omer[a] for each person you have in your tent.’”
+
+17 The Israelites did as they were told; some gathered much, some little. 18 And when they measured it by the omer, the one who gathered much did not have too much, and the one who gathered little did not have too little. Everyone had gathered just as much as they needed.
+
+19 Then Moses said to them, “No one is to keep any of it until morning.”
+
+20 However, some of them paid no attention to Moses; they kept part of it until morning, but it was full of maggots and began to smell. So Moses was angry with them.
+
+21 Each morning everyone gathered as much as they needed, and when the sun grew hot, it melted away. 22 On the sixth day, they gathered twice as much—two omers[b] for each person—and the leaders of the community came and reported this to Moses. 23 He said to them, “This is what the Lord commanded: ‘Tomorrow is to be a day of sabbath rest, a holy sabbath to the Lord. So bake what you want to bake and boil what you want to boil. Save whatever is left and keep it until morning.’”
+
+24 So they saved it until morning, as Moses commanded, and it did not stink or get maggots in it. 25 “Eat it today,” Moses said, “because today is a sabbath to the Lord. You will not find any of it on the ground today. 26 Six days you are to gather it, but on the seventh day, the Sabbath, there will not be any.”
+
+27 Nevertheless, some of the people went out on the seventh day to gather it, but they found none. 28 Then the Lord said to Moses, “How long will you[c] refuse to keep my commands and my instructions? 29 Bear in mind that the Lord has given you the Sabbath; that is why on the sixth day he gives you bread for two days. Everyone is to stay where they are on the seventh day; no one is to go out.” 30 So the people rested on the seventh day.
+
+31 The people of Israel called the bread manna.[d] It was white like coriander seed and tasted like wafers made with honey. 32 Moses said, “This is what the Lord has commanded: ‘Take an omer of manna and keep it for the generations to come, so they can see the bread I gave you to eat in the wilderness when I brought you out of Egypt.’”
+
+33 So Moses said to Aaron, “Take a jar and put an omer of manna in it. Then place it before the Lord to be kept for the generations to come.”
+
+34 As the Lord commanded Moses, Aaron put the manna with the tablets of the covenant law, so that it might be preserved. 35 The Israelites ate manna forty years, until they came to a land that was settled; they ate manna until they reached the border of Canaan.
+
+36 (An omer is one-tenth of an ephah.)                                </p>
   </div>
 
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XVII </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Water From the Rock</h4> 
 
+
+17 The whole Israelite community set out from the Desert of Sin, traveling from place to place as the Lord commanded. They camped at Rephidim, but there was no water for the people to drink. 2 So they quarreled with Moses and said, “Give us water to drink.”
+
+Moses replied, “Why do you quarrel with me? Why do you put the Lord to the test?”
+
+3 But the people were thirsty for water there, and they grumbled against Moses. They said, “Why did you bring us up out of Egypt to make us and our children and livestock die of thirst?”
+
+4 Then Moses cried out to the Lord, “What am I to do with these people? They are almost ready to stone me.”
+
+5 The Lord answered Moses, “Go out in front of the people. Take with you some of the elders of Israel and take in your hand the staff with which you struck the Nile, and go. 6 I will stand there before you by the rock at Horeb. Strike the rock, and water will come out of it for the people to drink.” So Moses did this in the sight of the elders of Israel. 7 And he called the place Massah[a] and Meribah[b] because the Israelites quarreled and because they tested the Lord saying, “Is the Lord among us or not?”
+
+The Amalekites Defeated
+8 The Amalekites came and attacked the Israelites at Rephidim. 9 Moses said to Joshua, “Choose some of our men and go out to fight the Amalekites. Tomorrow I will stand on top of the hill with the staff of God in my hands.”
+
+10 So Joshua fought the Amalekites as Moses had ordered, and Moses, Aaron and Hur went to the top of the hill. 11 As long as Moses held up his hands, the Israelites were winning, but whenever he lowered his hands, the Amalekites were winning. 12 When Moses’ hands grew tired, they took a stone and put it under him and he sat on it. Aaron and Hur held his hands up—one on one side, one on the other—so that his hands remained steady till sunset. 13 So Joshua overcame the Amalekite army with the sword.
+
+14 Then the Lord said to Moses, “Write this on a scroll as something to be remembered and make sure that Joshua hears it, because I will completely blot out the name of Amalek from under heaven.”
+
+15 Moses built an altar and called it The Lord is my Banner. 16 He said, “Because hands were lifted up against[c] the throne of the Lord,[d] the Lord will be at war against the Amalekites from generation to generation.”
 
                                 </p>
   </div>
@@ -2972,33 +3180,104 @@ The Plague of Darkness
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XVIII </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Jethro Visits Moses</h4> 
 
 
-                                </p>
+18 Now Jethro, the priest of Midian and father-in-law of Moses, heard of everything God had done for Moses and for his people Israel, and how the Lord had brought Israel out of Egypt.
+
+2 After Moses had sent away his wife Zipporah, his father-in-law Jethro received her 3 and her two sons. One son was named Gershom,[a] for Moses said, “I have become a foreigner in a foreign land”; 4 and the other was named Eliezer,[b] for he said, “My father’s God was my helper; he saved me from the sword of Pharaoh.”
+
+5 Jethro, Moses’ father-in-law, together with Moses’ sons and wife, came to him in the wilderness, where he was camped near the mountain of God. 6 Jethro had sent word to him, “I, your father-in-law Jethro, am coming to you with your wife and her two sons.”
+
+7 So Moses went out to meet his father-in-law and bowed down and kissed him. They greeted each other and then went into the tent. 8 Moses told his father-in-law about everything the Lord had done to Pharaoh and the Egyptians for Israel’s sake and about all the hardships they had met along the way and how the Lord had saved them.
+
+9 Jethro was delighted to hear about all the good things the Lord had done for Israel in rescuing them from the hand of the Egyptians. 10 He said, “Praise be to the Lord, who rescued you from the hand of the Egyptians and of Pharaoh, and who rescued the people from the hand of the Egyptians. 11 Now I know that the Lord is greater than all other gods, for he did this to those who had treated Israel arrogantly.” 12 Then Jethro, Moses’ father-in-law, brought a burnt offering and other sacrifices to God, and Aaron came with all the elders of Israel to eat a meal with Moses’ father-in-law in the presence of God.
+
+13 The next day Moses took his seat to serve as judge for the people, and they stood around him from morning till evening. 14 When his father-in-law saw all that Moses was doing for the people, he said, “What is this you are doing for the people? Why do you alone sit as judge, while all these people stand around you from morning till evening?”
+
+15 Moses answered him, “Because the people come to me to seek God’s will. 16 Whenever they have a dispute, it is brought to me, and I decide between the parties and inform them of God’s decrees and instructions.”
+
+17 Moses’ father-in-law replied, “What you are doing is not good. 18 You and these people who come to you will only wear yourselves out. The work is too heavy for you; you cannot handle it alone. 19 Listen now to me and I will give you some advice, and may God be with you. You must be the people’s representative before God and bring their disputes to him. 20 Teach them his decrees and instructions, and show them the way they are to live and how they are to behave. 21 But select capable men from all the people—men who fear God, trustworthy men who hate dishonest gain—and appoint them as officials over thousands, hundreds, fifties and tens. 22 Have them serve as judges for the people at all times, but have them bring every difficult case to you; the simple cases they can decide themselves. That will make your load lighter, because they will share it with you. 23 If you do this and God so commands, you will be able to stand the strain, and all these people will go home satisfied.”
+
+24 Moses listened to his father-in-law and did everything he said. 25 He chose capable men from all Israel and made them leaders of the people, officials over thousands, hundreds, fifties and tens. 26 They served as judges for the people at all times. The difficult cases they brought to Moses, but the simple ones they decided themselves.
+
+27 Then Moses sent his father-in-law on his way, and Jethro returned to his own country.                                </p>
   </div>
 
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XIX </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>At Mount Sinai</h4> 
 
+19 On the first day of the third month after the Israelites left Egypt—on that very day—they came to the Desert of Sinai. 2 After they set out from Rephidim, they entered the Desert of Sinai, and Israel camped there in the desert in front of the mountain.
 
+3 Then Moses went up to God, and the Lord called to him from the mountain and said, “This is what you are to say to the descendants of Jacob and what you are to tell the people of Israel: 4 ‘You yourselves have seen what I did to Egypt, and how I carried you on eagles’ wings and brought you to myself. 5 Now if you obey me fully and keep my covenant, then out of all nations you will be my treasured possession. Although the whole earth is mine, 6 you[a] will be for me a kingdom of priests and a holy nation.’ These are the words you are to speak to the Israelites.”
+
+7 So Moses went back and summoned the elders of the people and set before them all the words the Lord had commanded him to speak. 8 The people all responded together, “We will do everything the Lord has said.” So Moses brought their answer back to the Lord.
+
+9 The Lord said to Moses, “I am going to come to you in a dense cloud, so that the people will hear me speaking with you and will always put their trust in you.” Then Moses told the Lord what the people had said.
+
+10 And the Lord said to Moses, “Go to the people and consecrate them today and tomorrow. Have them wash their clothes 11 and be ready by the third day, because on that day the Lord will come down on Mount Sinai in the sight of all the people. 12 Put limits for the people around the mountain and tell them, ‘Be careful that you do not approach the mountain or touch the foot of it. Whoever touches the mountain is to be put to death. 13 They are to be stoned or shot with arrows; not a hand is to be laid on them. No person or animal shall be permitted to live.’ Only when the ram’s horn sounds a long blast may they approach the mountain.”
+
+14 After Moses had gone down the mountain to the people, he consecrated them, and they washed their clothes. 15 Then he said to the people, “Prepare yourselves for the third day. Abstain from sexual relations.”
+
+16 On the morning of the third day there was thunder and lightning, with a thick cloud over the mountain, and a very loud trumpet blast. Everyone in the camp trembled. 17 Then Moses led the people out of the camp to meet with God, and they stood at the foot of the mountain. 18 Mount Sinai was covered with smoke, because the Lord descended on it in fire. The smoke billowed up from it like smoke from a furnace, and the whole mountain[b] trembled violently. 19 As the sound of the trumpet grew louder and louder, Moses spoke and the voice of God answered him.[c]
+
+20 The Lord descended to the top of Mount Sinai and called Moses to the top of the mountain. So Moses went up 21 and the Lord said to him, “Go down and warn the people so they do not force their way through to see the Lord and many of them perish. 22 Even the priests, who approach the Lord, must consecrate themselves, or the Lord will break out against them.”
+
+23 Moses said to the Lord, “The people cannot come up Mount Sinai, because you yourself warned us, ‘Put limits around the mountain and set it apart as holy.’”
+
+24 The Lord replied, “Go down and bring Aaron up with you. But the priests and the people must not force their way through to come up to the Lord, or he will break out against them.”
+
+25 So Moses went down to the people and told them.
                                 </p>
   </div>
 
 
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XX </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>The Ten Commandments</h4> 
 
 
-                                </p>
+20 And God spoke all these words:
+
+2 “I am the Lord your God, who brought you out of Egypt, out of the land of slavery.
+
+3 “You shall have no other gods before[a] me.
+
+4 “You shall not make for yourself an image in the form of anything in heaven above or on the earth beneath or in the waters below. 5 You shall not bow down to them or worship them; for I, the Lord your God, am a jealous God, punishing the children for the sin of the parents to the third and fourth generation of those who hate me, 6 but showing love to a thousand generations of those who love me and keep my commandments.
+
+7 “You shall not misuse the name of the Lord your God, for the Lord will not hold anyone guiltless who misuses his name.
+
+8 “Remember the Sabbath day by keeping it holy. 9 Six days you shall labor and do all your work, 10 but the seventh day is a sabbath to the Lord your God. On it you shall not do any work, neither you, nor your son or daughter, nor your male or female servant, nor your animals, nor any foreigner residing in your towns. 11 For in six days the Lord made the heavens and the earth, the sea, and all that is in them, but he rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy.
+
+12 “Honor your father and your mother, so that you may live long in the land the Lord your God is giving you.
+
+13 “You shall not murder.
+
+14 “You shall not commit adultery.
+
+15 “You shall not steal.
+
+16 “You shall not give false testimony against your neighbor.
+
+17 “You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbor.”
+
+18 When the people saw the thunder and lightning and heard the trumpet and saw the mountain in smoke, they trembled with fear. They stayed at a distance 19 and said to Moses, “Speak to us yourself and we will listen. But do not have God speak to us or we will die.”
+
+20 Moses said to the people, “Do not be afraid. God has come to test you, so that the fear of God will be with you to keep you from sinning.”
+
+21 The people remained at a distance, while Moses approached the thick darkness where God was.
+
+Idols and Altars
+22 Then the Lord said to Moses, “Tell the Israelites this: ‘You have seen for yourselves that I have spoken to you from heaven: 23 Do not make any gods to be alongside me; do not make for yourselves gods of silver or gods of gold.
+
+24 “‘Make an altar of earth for me and sacrifice on it your burnt offerings and fellowship offerings, your sheep and goats and your cattle. Wherever I cause my name to be honored, I will come to you and bless you. 25 If you make an altar of stones for me, do not build it with dressed stones, for you will defile it if you use a tool on it. 26 And do not go up to my altar on steps, or your private parts may be exposed.’                                </p>
   </div>
 
    <div className={styles.card2}
