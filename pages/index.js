@@ -3620,66 +3620,187 @@ Incense
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXXI </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Bezalel and Oholiab</h4> 
 
+31 Then the Lord said to Moses, 2 “See, I have chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah, 3 and I have filled him with the Spirit of God, with wisdom, with understanding, with knowledge and with all kinds of skills— 4 to make artistic designs for work in gold, silver and bronze, 5 to cut and set stones, to work in wood, and to engage in all kinds of crafts. 6 Moreover, I have appointed Oholiab son of Ahisamak, of the tribe of Dan, to help him. Also I have given ability to all the skilled workers to make everything I have commanded you: 7 the tent of meeting, the ark of the covenant law with the atonement cover on it, and all the other furnishings of the tent— 8 the table and its articles, the pure gold lampstand and all its accessories, the altar of incense, 9 the altar of burnt offering and all its utensils, the basin with its stand— 10 and also the woven garments, both the sacred garments for Aaron the priest and the garments for his sons when they serve as priests, 11 and the anointing oil and fragrant incense for the Holy Place. They are to make them just as I commanded you.”
 
+The Sabbath
+12 Then the Lord said to Moses, 13 “Say to the Israelites, ‘You must observe my Sabbaths. This will be a sign between me and you for the generations to come, so you may know that I am the Lord, who makes you holy.
+
+14 “‘Observe the Sabbath, because it is holy to you. Anyone who desecrates it is to be put to death; those who do any work on that day must be cut off from their people. 15 For six days work is to be done, but the seventh day is a day of sabbath rest, holy to the Lord. Whoever does any work on the Sabbath day is to be put to death. 16 The Israelites are to observe the Sabbath, celebrating it for the generations to come as a lasting covenant. 17 It will be a sign between me and the Israelites forever, for in six days the Lord made the heavens and the earth, and on the seventh day he rested and was refreshed.’”
+
+18 When the Lord finished speaking to Moses on Mount Sinai, he gave him the two tablets of the covenant law, the tablets of stone inscribed by the finger of God.
                                 </p>
   </div>
 
 
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXXII </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>The Golden Calf</h4> 
 
 
-                                </p>
+32 When the people saw that Moses was so long in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods[a] who will go before us. As for this fellow Moses who brought us up out of Egypt, we don’t know what has happened to him.”
+
+2 Aaron answered them, “Take off the gold earrings that your wives, your sons and your daughters are wearing, and bring them to me.” 3 So all the people took off their earrings and brought them to Aaron. 4 He took what they handed him and made it into an idol cast in the shape of a calf, fashioning it with a tool. Then they said, “These are your gods,[b] Israel, who brought you up out of Egypt.”
+
+5 When Aaron saw this, he built an altar in front of the calf and announced, “Tomorrow there will be a festival to the Lord.” 6 So the next day the people rose early and sacrificed burnt offerings and presented fellowship offerings. Afterward they sat down to eat and drink and got up to indulge in revelry.
+
+7 Then the Lord said to Moses, “Go down, because your people, whom you brought up out of Egypt, have become corrupt. 8 They have been quick to turn away from what I commanded them and have made themselves an idol cast in the shape of a calf. They have bowed down to it and sacrificed to it and have said, ‘These are your gods, Israel, who brought you up out of Egypt.’
+
+9 “I have seen these people,” the Lord said to Moses, “and they are a stiff-necked people. 10 Now leave me alone so that my anger may burn against them and that I may destroy them. Then I will make you into a great nation.”
+
+11 But Moses sought the favor of the Lord his God. “Lord,” he said, “why should your anger burn against your people, whom you brought out of Egypt with great power and a mighty hand? 12 Why should the Egyptians say, ‘It was with evil intent that he brought them out, to kill them in the mountains and to wipe them off the face of the earth’? Turn from your fierce anger; relent and do not bring disaster on your people. 13 Remember your servants Abraham, Isaac and Israel, to whom you swore by your own self: ‘I will make your descendants as numerous as the stars in the sky and I will give your descendants all this land I promised them, and it will be their inheritance forever.’” 14 Then the Lord relented and did not bring on his people the disaster he had threatened.
+
+15 Moses turned and went down the mountain with the two tablets of the covenant law in his hands. They were inscribed on both sides, front and back. 16 The tablets were the work of God; the writing was the writing of God, engraved on the tablets.
+
+17 When Joshua heard the noise of the people shouting, he said to Moses, “There is the sound of war in the camp.”
+
+18 Moses replied:
+
+“It is not the sound of victory,
+    it is not the sound of defeat;
+    it is the sound of singing that I hear.”
+
+19 When Moses approached the camp and saw the calf and the dancing, his anger burned and he threw the tablets out of his hands, breaking them to pieces at the foot of the mountain. 20 And he took the calf the people had made and burned it in the fire; then he ground it to powder, scattered it on the water and made the Israelites drink it.
+
+21 He said to Aaron, “What did these people do to you, that you led them into such great sin?”
+
+22 “Do not be angry, my lord,” Aaron answered. “You know how prone these people are to evil. 23 They said to me, ‘Make us gods who will go before us. As for this fellow Moses who brought us up out of Egypt, we don’t know what has happened to him.’ 24 So I told them, ‘Whoever has any gold jewelry, take it off.’ Then they gave me the gold, and I threw it into the fire, and out came this calf!”
+
+25 Moses saw that the people were running wild and that Aaron had let them get out of control and so become a laughingstock to their enemies. 26 So he stood at the entrance to the camp and said, “Whoever is for the Lord, come to me.” And all the Levites rallied to him.
+
+27 Then he said to them, “This is what the Lord, the God of Israel, says: ‘Each man strap a sword to his side. Go back and forth through the camp from one end to the other, each killing his brother and friend and neighbor.’” 28 The Levites did as Moses commanded, and that day about three thousand of the people died. 29 Then Moses said, “You have been set apart to the Lord today, for you were against your own sons and brothers, and he has blessed you this day.”
+
+30 The next day Moses said to the people, “You have committed a great sin. But now I will go up to the Lord; perhaps I can make atonement for your sin.”
+
+31 So Moses went back to the Lord and said, “Oh, what a great sin these people have committed! They have made themselves gods of gold. 32 But now, please forgive their sin—but if not, then blot me out of the book you have written.”
+
+33 The Lord replied to Moses, “Whoever has sinned against me I will blot out of my book. 34 Now go, lead the people to the place I spoke of, and my angel will go before you. However, when the time comes for me to punish, I will punish them for their sin.”
+
+35 And the Lord struck the people with a plague because of what they did with the calf Aaron had made.                                </p>
   </div>
 
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXXIII </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Then the Lord said to Moses</h4> 
+
+ “Leave this place, you and the people you brought up out of Egypt, and go up to the land I promised on oath to Abraham, Isaac and Jacob, saying, ‘I will give it to your descendants.’ 2 I will send an angel before you and drive out the Canaanites, Amorites, Hittites, Perizzites, Hivites and Jebusites. 3 Go up to the land flowing with milk and honey. But I will not go with you, because you are a stiff-necked people and I might destroy you on the way.”
+
+4 When the people heard these distressing words, they began to mourn and no one put on any ornaments. 5 For the Lord had said to Moses, “Tell the Israelites, ‘You are a stiff-necked people. If I were to go with you even for a moment, I might destroy you. Now take off your ornaments and I will decide what to do with you.’” 6 So the Israelites stripped off their ornaments at Mount Horeb.
+
+The Tent of Meeting
+7 Now Moses used to take a tent and pitch it outside the camp some distance away, calling it the “tent of meeting.” Anyone inquiring of the Lord would go to the tent of meeting outside the camp. 8 And whenever Moses went out to the tent, all the people rose and stood at the entrances to their tents, watching Moses until he entered the tent. 9 As Moses went into the tent, the pillar of cloud would come down and stay at the entrance, while the Lord spoke with Moses. 10 Whenever the people saw the pillar of cloud standing at the entrance to the tent, they all stood and worshiped, each at the entrance to their tent. 11 The Lord would speak to Moses face to face, as one speaks to a friend. Then Moses would return to the camp, but his young aide Joshua son of Nun did not leave the tent.
+
+Moses and the Glory of the Lord
+12 Moses said to the Lord, “You have been telling me, ‘Lead these people,’ but you have not let me know whom you will send with me. You have said, ‘I know you by name and you have found favor with me.’ 13 If you are pleased with me, teach me your ways so I may know you and continue to find favor with you. Remember that this nation is your people.”
+
+14 The Lord replied, “My Presence will go with you, and I will give you rest.”
+
+15 Then Moses said to him, “If your Presence does not go with us, do not send us up from here. 16 How will anyone know that you are pleased with me and with your people unless you go with us? What else will distinguish me and your people from all the other people on the face of the earth?”
+
+17 And the Lord said to Moses, “I will do the very thing you have asked, because I am pleased with you and I know you by name.”
+
+18 Then Moses said, “Now show me your glory.”
+
+19 And the Lord said, “I will cause all my goodness to pass in front of you, and I will proclaim my name, the Lord, in your presence. I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion. 20 But,” he said, “you cannot see my face, for no one may see me and live.”
+
+21 Then the Lord said, “There is a place near me where you may stand on a rock. 22 When my glory passes by, I will put you in a cleft in the rock and cover you with my hand until I have passed by. 23 Then I will remove my hand and you will see my back; but my face must not be seen.”                                </p>
+  </div>
 
 
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter XXXIV </h2>
+                                <p>
+ <h4 className={styles.h4}>The New Stone Tablets</h4> 
+
+34 The Lord said to Moses, “Chisel out two stone tablets like the first ones, and I will write on them the words that were on the first tablets, which you broke. 2 Be ready in the morning, and then come up on Mount Sinai. Present yourself to me there on top of the mountain. 3 No one is to come with you or be seen anywhere on the mountain; not even the flocks and herds may graze in front of the mountain.”
+
+4 So Moses chiseled out two stone tablets like the first ones and went up Mount Sinai early in the morning, as the Lord had commanded him; and he carried the two stone tablets in his hands. 5 Then the Lord came down in the cloud and stood there with him and proclaimed his name, the Lord. 6 And he passed in front of Moses, proclaiming, “The Lord, the Lord, the compassionate and gracious God, slow to anger, abounding in love and faithfulness, 7 maintaining love to thousands, and forgiving wickedness, rebellion and sin. Yet he does not leave the guilty unpunished; he punishes the children and their children for the sin of the parents to the third and fourth generation.”
+
+8 Moses bowed to the ground at once and worshiped. 9 “Lord,” he said, “if I have found favor in your eyes, then let the Lord go with us. Although this is a stiff-necked people, forgive our wickedness and our sin, and take us as your inheritance.”
+
+10 Then the Lord said: “I am making a covenant with you. Before all your people I will do wonders never before done in any nation in all the world. The people you live among will see how awesome is the work that I, the Lord, will do for you. 11 Obey what I command you today. I will drive out before you the Amorites, Canaanites, Hittites, Perizzites, Hivites and Jebusites. 12 Be careful not to make a treaty with those who live in the land where you are going, or they will be a snare among you. 13 Break down their altars, smash their sacred stones and cut down their Asherah poles.[a] 14 Do not worship any other god, for the Lord, whose name is Jealous, is a jealous God.
+
+15 “Be careful not to make a treaty with those who live in the land; for when they prostitute themselves to their gods and sacrifice to them, they will invite you and you will eat their sacrifices. 16 And when you choose some of their daughters as wives for your sons and those daughters prostitute themselves to their gods, they will lead your sons to do the same.
+
+17 “Do not make any idols.
+
+18 “Celebrate the Festival of Unleavened Bread. For seven days eat bread made without yeast, as I commanded you. Do this at the appointed time in the month of Aviv, for in that month you came out of Egypt.
+
+19 “The first offspring of every womb belongs to me, including all the firstborn males of your livestock, whether from herd or flock. 20 Redeem the firstborn donkey with a lamb, but if you do not redeem it, break its neck. Redeem all your firstborn sons.
+
+“No one is to appear before me empty-handed.
+
+21 “Six days you shall labor, but on the seventh day you shall rest; even during the plowing season and harvest you must rest.
+
+22 “Celebrate the Festival of Weeks with the firstfruits of the wheat harvest, and the Festival of Ingathering at the turn of the year.[b] 23 Three times a year all your men are to appear before the Sovereign Lord, the God of Israel. 24 I will drive out nations before you and enlarge your territory, and no one will covet your land when you go up three times each year to appear before the Lord your God.
+
+25 “Do not offer the blood of a sacrifice to me along with anything containing yeast, and do not let any of the sacrifice from the Passover Festival remain until morning.
+
+26 “Bring the best of the firstfruits of your soil to the house of the Lord your God.
+
+“Do not cook a young goat in its mother’s milk.”
+
+27 Then the Lord said to Moses, “Write down these words, for in accordance with these words I have made a covenant with you and with Israel.” 28 Moses was there with the Lord forty days and forty nights without eating bread or drinking water. And he wrote on the tablets the words of the covenant—the Ten Commandments.
+
+The Radiant Face of Moses
+29 When Moses came down from Mount Sinai with the two tablets of the covenant law in his hands, he was not aware that his face was radiant because he had spoken with the Lord. 30 When Aaron and all the Israelites saw Moses, his face was radiant, and they were afraid to come near him. 31 But Moses called to them; so Aaron and all the leaders of the community came back to him, and he spoke to them. 32 Afterward all the Israelites came near him, and he gave them all the commands the Lord had given him on Mount Sinai.
+
+33 When Moses finished speaking to them, he put a veil over his face. 34 But whenever he entered the Lord’s presence to speak with him, he removed the veil until he came out. And when he came out and told the Israelites what he had been commanded, 35 they saw that his face was radiant. Then Moses would put the veil back over his face until he went in to speak with the Lord.
                                 </p>
   </div>
 
 
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXXV </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Sabbath Regulations</h4> 
 
+35 Moses assembled the whole Israelite community and said to them, “These are the things the Lord has commanded you to do: 2 For six days, work is to be done, but the seventh day shall be your holy day, a day of sabbath rest to the Lord. Whoever does any work on it is to be put to death. 3 Do not light a fire in any of your dwellings on the Sabbath day.”
 
+Materials for the Tabernacle
+4 Moses said to the whole Israelite community, “This is what the Lord has commanded: 5 From what you have, take an offering for the Lord. Everyone who is willing is to bring to the Lord an offering of gold, silver and bronze; 6 blue, purple and scarlet yarn and fine linen; goat hair; 7 ram skins dyed red and another type of durable leather[a]; acacia wood; 8 olive oil for the light; spices for the anointing oil and for the fragrant incense; 9 and onyx stones and other gems to be mounted on the ephod and breastpiece.
+
+10 “All who are skilled among you are to come and make everything the Lord has commanded: 11 the tabernacle with its tent and its covering, clasps, frames, crossbars, posts and bases; 12 the ark with its poles and the atonement cover and the curtain that shields it; 13 the table with its poles and all its articles and the bread of the Presence; 14 the lampstand that is for light with its accessories, lamps and oil for the light; 15 the altar of incense with its poles, the anointing oil and the fragrant incense; the curtain for the doorway at the entrance to the tabernacle; 16 the altar of burnt offering with its bronze grating, its poles and all its utensils; the bronze basin with its stand; 17 the curtains of the courtyard with its posts and bases, and the curtain for the entrance to the courtyard; 18 the tent pegs for the tabernacle and for the courtyard, and their ropes; 19 the woven garments worn for ministering in the sanctuary—both the sacred garments for Aaron the priest and the garments for his sons when they serve as priests.”
+
+20 Then the whole Israelite community withdrew from Moses’ presence, 21 and everyone who was willing and whose heart moved them came and brought an offering to the Lord for the work on the tent of meeting, for all its service, and for the sacred garments. 22 All who were willing, men and women alike, came and brought gold jewelry of all kinds: brooches, earrings, rings and ornaments. They all presented their gold as a wave offering to the Lord. 23 Everyone who had blue, purple or scarlet yarn or fine linen, or goat hair, ram skins dyed red or the other durable leather brought them. 24 Those presenting an offering of silver or bronze brought it as an offering to the Lord, and everyone who had acacia wood for any part of the work brought it. 25 Every skilled woman spun with her hands and brought what she had spun—blue, purple or scarlet yarn or fine linen. 26 And all the women who were willing and had the skill spun the goat hair. 27 The leaders brought onyx stones and other gems to be mounted on the ephod and breastpiece. 28 They also brought spices and olive oil for the light and for the anointing oil and for the fragrant incense. 29 All the Israelite men and women who were willing brought to the Lord freewill offerings for all the work the Lord through Moses had commanded them to do.
+
+Bezalel and Oholiab
+30 Then Moses said to the Israelites, “See, the Lord has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah, 31 and he has filled him with the Spirit of God, with wisdom, with understanding, with knowledge and with all kinds of skills— 32 to make artistic designs for work in gold, silver and bronze, 33 to cut and set stones, to work in wood and to engage in all kinds of artistic crafts. 34 And he has given both him and Oholiab son of Ahisamak, of the tribe of Dan, the ability to teach others. 35 He has filled them with skill to do all kinds of work as engravers, designers, embroiderers in blue, purple and scarlet yarn and fine linen, and weavers—all of them skilled workers and designers.
                                 </p>
   </div>
 
-
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXXVI </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Then Moses summoned Bezalel</h4> 
 
+36 1 So Bezalel, Oholiab and every skilled person to whom the Lord has given skill and ability to know how to carry out all the work of constructing the sanctuary are to do the work just as the Lord has commanded.”
 
-                                </p>
-  </div>
+2 Then Moses summoned Bezalel and Oholiab and every skilled person to whom the Lord had given ability and who was willing to come and do the work. 3 They received from Moses all the offerings the Israelites had brought to carry out the work of constructing the sanctuary. And the people continued to bring freewill offerings morning after morning. 4 So all the skilled workers who were doing all the work on the sanctuary left what they were doing 5 and said to Moses, “The people are bringing more than enough for doing the work the Lord commanded to be done.”
 
- <div className={styles.card2}
-          >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
-                                <p>
- <h4 className={styles.h4}>    </h4> 
+6 Then Moses gave an order and they sent this word throughout the camp: “No man or woman is to make anything else as an offering for the sanctuary.” And so the people were restrained from bringing more, 7 because what they already had was more than enough to do all the work.
 
+The Tabernacle
+8 All those who were skilled among the workers made the tabernacle with ten curtains of finely twisted linen and blue, purple and scarlet yarn, with cherubim woven into them by expert hands. 9 All the curtains were the same size—twenty-eight cubits long and four cubits wide.[a] 10 They joined five of the curtains together and did the same with the other five. 11 Then they made loops of blue material along the edge of the end curtain in one set, and the same was done with the end curtain in the other set. 12 They also made fifty loops on one curtain and fifty loops on the end curtain of the other set, with the loops opposite each other. 13 Then they made fifty gold clasps and used them to fasten the two sets of curtains together so that the tabernacle was a unit.
 
-                                </p>
+14 They made curtains of goat hair for the tent over the tabernacle—eleven altogether. 15 All eleven curtains were the same size—thirty cubits long and four cubits wide.[b] 16 They joined five of the curtains into one set and the other six into another set. 17 Then they made fifty loops along the edge of the end curtain in one set and also along the edge of the end curtain in the other set. 18 They made fifty bronze clasps to fasten the tent together as a unit. 19 Then they made for the tent a covering of ram skins dyed red, and over that a covering of the other durable leather.[c]
+
+20 They made upright frames of acacia wood for the tabernacle. 21 Each frame was ten cubits long and a cubit and a half wide,[d] 22 with two projections set parallel to each other. They made all the frames of the tabernacle in this way. 23 They made twenty frames for the south side of the tabernacle 24 and made forty silver bases to go under them—two bases for each frame, one under each projection. 25 For the other side, the north side of the tabernacle, they made twenty frames 26 and forty silver bases—two under each frame. 27 They made six frames for the far end, that is, the west end of the tabernacle, 28 and two frames were made for the corners of the tabernacle at the far end. 29 At these two corners the frames were double from the bottom all the way to the top and fitted into a single ring; both were made alike. 30 So there were eight frames and sixteen silver bases—two under each frame.
+
+31 They also made crossbars of acacia wood: five for the frames on one side of the tabernacle, 32 five for those on the other side, and five for the frames on the west, at the far end of the tabernacle. 33 They made the center crossbar so that it extended from end to end at the middle of the frames. 34 They overlaid the frames with gold and made gold rings to hold the crossbars. They also overlaid the crossbars with gold.
+
+35 They made the curtain of blue, purple and scarlet yarn and finely twisted linen, with cherubim woven into it by a skilled worker. 36 They made four posts of acacia wood for it and overlaid them with gold. They made gold hooks for them and cast their four silver bases. 37 For the entrance to the tent they made a curtain of blue, purple and scarlet yarn and finely twisted linen—the work of an embroiderer; 38 and they made five posts with hooks for them. They overlaid the tops of the posts and their bands with gold and made their five bases of bronze.                                </p>
   </div>
   
 
