@@ -3803,8 +3803,137 @@ The Tabernacle
 35 They made the curtain of blue, purple and scarlet yarn and finely twisted linen, with cherubim woven into it by a skilled worker. 36 They made four posts of acacia wood for it and overlaid them with gold. They made gold hooks for them and cast their four silver bases. 37 For the entrance to the tent they made a curtain of blue, purple and scarlet yarn and finely twisted linen—the work of an embroiderer; 38 and they made five posts with hooks for them. They overlaid the tops of the posts and their bands with gold and made their five bases of bronze.                                </p>
   </div>
   
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter XXXVII </h2>
+                                <p>
+ <h4 className={styles.h4}>The Ark</h4> 
+
+
+37 Bezalel made the ark of acacia wood—two and a half cubits long, a cubit and a half wide, and a cubit and a half high.[a] 2 He overlaid it with pure gold, both inside and out, and made a gold molding around it. 3 He cast four gold rings for it and fastened them to its four feet, with two rings on one side and two rings on the other. 4 Then he made poles of acacia wood and overlaid them with gold. 5 And he inserted the poles into the rings on the sides of the ark to carry it.
+
+6 He made the atonement cover of pure gold—two and a half cubits long and a cubit and a half wide. 7 Then he made two cherubim out of hammered gold at the ends of the cover. 8 He made one cherub on one end and the second cherub on the other; at the two ends he made them of one piece with the cover. 9 The cherubim had their wings spread upward, overshadowing the cover with them. The cherubim faced each other, looking toward the cover.
+
+The Table
+10 They[b] made the table of acacia wood—two cubits long, a cubit wide and a cubit and a half high.[c] 11 Then they overlaid it with pure gold and made a gold molding around it. 12 They also made around it a rim a handbreadth[d] wide and put a gold molding on the rim. 13 They cast four gold rings for the table and fastened them to the four corners, where the four legs were. 14 The rings were put close to the rim to hold the poles used in carrying the table. 15 The poles for carrying the table were made of acacia wood and were overlaid with gold. 16 And they made from pure gold the articles for the table—its plates and dishes and bowls and its pitchers for the pouring out of drink offerings.
+
+The Lampstand
+17 They made the lampstand of pure gold. They hammered out its base and shaft, and made its flowerlike cups, buds and blossoms of one piece with them. 18 Six branches extended from the sides of the lampstand—three on one side and three on the other. 19 Three cups shaped like almond flowers with buds and blossoms were on one branch, three on the next branch and the same for all six branches extending from the lampstand. 20 And on the lampstand were four cups shaped like almond flowers with buds and blossoms. 21 One bud was under the first pair of branches extending from the lampstand, a second bud under the second pair, and a third bud under the third pair—six branches in all. 22 The buds and the branches were all of one piece with the lampstand, hammered out of pure gold.
+
+23 They made its seven lamps, as well as its wick trimmers and trays, of pure gold. 24 They made the lampstand and all its accessories from one talent[e] of pure gold.
+
+The Altar of Incense
+25 They made the altar of incense out of acacia wood. It was square, a cubit long and a cubit wide and two cubits high[f]—its horns of one piece with it. 26 They overlaid the top and all the sides and the horns with pure gold, and made a gold molding around it. 27 They made two gold rings below the molding—two on each of the opposite sides—to hold the poles used to carry it. 28 They made the poles of acacia wood and overlaid them with gold.
+
+29 They also made the sacred anointing oil and the pure, fragrant incense—the work of a perfumer.
+
+
+                                    </p>
+                                  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter XXXVIII </h2>
+                                <p>
+ <h4 className={styles.h4}>The Altar of Burnt Offering</h4> 
+
+
+38 They[a] built the altar of burnt offering of acacia wood, three cubits[b] high; it was square, five cubits long and five cubits wide.[c] 2 They made a horn at each of the four corners, so that the horns and the altar were of one piece, and they overlaid the altar with bronze. 3 They made all its utensils of bronze—its pots, shovels, sprinkling bowls, meat forks and firepans. 4 They made a grating for the altar, a bronze network, to be under its ledge, halfway up the altar. 5 They cast bronze rings to hold the poles for the four corners of the bronze grating. 6 They made the poles of acacia wood and overlaid them with bronze. 7 They inserted the poles into the rings so they would be on the sides of the altar for carrying it. They made it hollow, out of boards.
+
+The Basin for Washing
+8 They made the bronze basin and its bronze stand from the mirrors of the women who served at the entrance to the tent of meeting.
+
+The Courtyard
+9 Next they made the courtyard. The south side was a hundred cubits[d] long and had curtains of finely twisted linen, 10 with twenty posts and twenty bronze bases, and with silver hooks and bands on the posts. 11 The north side was also a hundred cubits long and had twenty posts and twenty bronze bases, with silver hooks and bands on the posts.
+
+12 The west end was fifty cubits[e] wide and had curtains, with ten posts and ten bases, with silver hooks and bands on the posts. 13 The east end, toward the sunrise, was also fifty cubits wide. 14 Curtains fifteen cubits[f] long were on one side of the entrance, with three posts and three bases, 15 and curtains fifteen cubits long were on the other side of the entrance to the courtyard, with three posts and three bases. 16 All the curtains around the courtyard were of finely twisted linen. 17 The bases for the posts were bronze. The hooks and bands on the posts were silver, and their tops were overlaid with silver; so all the posts of the courtyard had silver bands.
+
+18 The curtain for the entrance to the courtyard was made of blue, purple and scarlet yarn and finely twisted linen—the work of an embroiderer. It was twenty cubits[g] long and, like the curtains of the courtyard, five cubits[h] high, 19 with four posts and four bronze bases. Their hooks and bands were silver, and their tops were overlaid with silver. 20 All the tent pegs of the tabernacle and of the surrounding courtyard were bronze.
+
+The Materials Used
+21 These are the amounts of the materials used for the tabernacle, the tabernacle of the covenant law, which were recorded at Moses’ command by the Levites under the direction of Ithamar son of Aaron, the priest. 22 (Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything the Lord commanded Moses; 23 with him was Oholiab son of Ahisamak, of the tribe of Dan—an engraver and designer, and an embroiderer in blue, purple and scarlet yarn and fine linen.) 24 The total amount of the gold from the wave offering used for all the work on the sanctuary was 29 talents and 730 shekels,[i] according to the sanctuary shekel.
+
+25 The silver obtained from those of the community who were counted in the census was 100 talents[j] and 1,775 shekels,[k] according to the sanctuary shekel— 26 one beka per person, that is, half a shekel,[l] according to the sanctuary shekel, from everyone who had crossed over to those counted, twenty years old or more, a total of 603,550 men. 27 The 100 talents of silver were used to cast the bases for the sanctuary and for the curtain—100 bases from the 100 talents, one talent for each base. 28 They used the 1,775 shekels to make the hooks for the posts, to overlay the tops of the posts, and to make their bands.
+
+29 The bronze from the wave offering was 70 talents and 2,400 shekels.[m] 30 They used it to make the bases for the entrance to the tent of meeting, the bronze altar with its bronze grating and all its utensils, 31 the bases for the surrounding courtyard and those for its entrance and all the tent pegs for the tabernacle and those for the surrounding courtyard.
+                                    </p>
+                                  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter XXXIX </h2>
+                                <p>
+ <h4 className={styles.h4}>The Priestly Garments</h4> 
+
+
+39 From the blue, purple and scarlet yarn they made woven garments for ministering in the sanctuary. They also made sacred garments for Aaron, as the Lord commanded Moses.
+
+The Ephod
+2 They[a] made the ephod of gold, and of blue, purple and scarlet yarn, and of finely twisted linen. 3 They hammered out thin sheets of gold and cut strands to be worked into the blue, purple and scarlet yarn and fine linen—the work of skilled hands. 4 They made shoulder pieces for the ephod, which were attached to two of its corners, so it could be fastened. 5 Its skillfully woven waistband was like it—of one piece with the ephod and made with gold, and with blue, purple and scarlet yarn, and with finely twisted linen, as the Lord commanded Moses.
+
+6 They mounted the onyx stones in gold filigree settings and engraved them like a seal with the names of the sons of Israel. 7 Then they fastened them on the shoulder pieces of the ephod as memorial stones for the sons of Israel, as the Lord commanded Moses.
+
+The Breastpiece
+8 They fashioned the breastpiece—the work of a skilled craftsman. They made it like the ephod: of gold, and of blue, purple and scarlet yarn, and of finely twisted linen. 9 It was square—a span[b] long and a span wide—and folded double. 10 Then they mounted four rows of precious stones on it. The first row was carnelian, chrysolite and beryl; 11 the second row was turquoise, lapis lazuli and emerald; 12 the third row was jacinth, agate and amethyst; 13 the fourth row was topaz, onyx and jasper.[c] They were mounted in gold filigree settings. 14 There were twelve stones, one for each of the names of the sons of Israel, each engraved like a seal with the name of one of the twelve tribes.
+
+15 For the breastpiece they made braided chains of pure gold, like a rope. 16 They made two gold filigree settings and two gold rings, and fastened the rings to two of the corners of the breastpiece. 17 They fastened the two gold chains to the rings at the corners of the breastpiece, 18 and the other ends of the chains to the two settings, attaching them to the shoulder pieces of the ephod at the front. 19 They made two gold rings and attached them to the other two corners of the breastpiece on the inside edge next to the ephod. 20 Then they made two more gold rings and attached them to the bottom of the shoulder pieces on the front of the ephod, close to the seam just above the waistband of the ephod. 21 They tied the rings of the breastpiece to the rings of the ephod with blue cord, connecting it to the waistband so that the breastpiece would not swing out from the ephod—as the Lord commanded Moses.
+
+Other Priestly Garments
+22 They made the robe of the ephod entirely of blue cloth—the work of a weaver— 23 with an opening in the center of the robe like the opening of a collar,[d] and a band around this opening, so that it would not tear. 24 They made pomegranates of blue, purple and scarlet yarn and finely twisted linen around the hem of the robe. 25 And they made bells of pure gold and attached them around the hem between the pomegranates. 26 The bells and pomegranates alternated around the hem of the robe to be worn for ministering, as the Lord commanded Moses.
+
+27 For Aaron and his sons, they made tunics of fine linen—the work of a weaver— 28 and the turban of fine linen, the linen caps and the undergarments of finely twisted linen. 29 The sash was made of finely twisted linen and blue, purple and scarlet yarn—the work of an embroiderer—as the Lord commanded Moses.
+
+30 They made the plate, the sacred emblem, out of pure gold and engraved on it, like an inscription on a seal: holy to the Lord. 31 Then they fastened a blue cord to it to attach it to the turban, as the Lord commanded Moses.
+
+Moses Inspects the Tabernacle
+32 So all the work on the tabernacle, the tent of meeting, was completed. The Israelites did everything just as the Lord commanded Moses. 33 Then they brought the tabernacle to Moses: the tent and all its furnishings, its clasps, frames, crossbars, posts and bases; 34 the covering of ram skins dyed red and the covering of another durable leather[e] and the shielding curtain; 35 the ark of the covenant law with its poles and the atonement cover; 36 the table with all its articles and the bread of the Presence; 37 the pure gold lampstand with its row of lamps and all its accessories, and the olive oil for the light; 38 the gold altar, the anointing oil, the fragrant incense, and the curtain for the entrance to the tent; 39 the bronze altar with its bronze grating, its poles and all its utensils; the basin with its stand; 40 the curtains of the courtyard with its posts and bases, and the curtain for the entrance to the courtyard; the ropes and tent pegs for the courtyard; all the furnishings for the tabernacle, the tent of meeting; 41 and the woven garments worn for ministering in the sanctuary, both the sacred garments for Aaron the priest and the garments for his sons when serving as priests.
+
+42 The Israelites had done all the work just as the Lord had commanded Moses. 43 Moses inspected the work and saw that they had done it just as the Lord had commanded. So Moses blessed them.
+                                    </p>
+                                  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Exodus Chapter XL </h2>
+                                <p>
+ <h4 className={styles.h4}>Setting Up the Tabernacle</h4> 
+
+
+40 Then the Lord said to Moses: 2 “Set up the tabernacle, the tent of meeting, on the first day of the first month. 3 Place the ark of the covenant law in it and shield the ark with the curtain. 4 Bring in the table and set out what belongs on it. Then bring in the lampstand and set up its lamps. 5 Place the gold altar of incense in front of the ark of the covenant law and put the curtain at the entrance to the tabernacle.
+
+6 “Place the altar of burnt offering in front of the entrance to the tabernacle, the tent of meeting; 7 place the basin between the tent of meeting and the altar and put water in it. 8 Set up the courtyard around it and put the curtain at the entrance to the courtyard.
+
+9 “Take the anointing oil and anoint the tabernacle and everything in it; consecrate it and all its furnishings, and it will be holy. 10 Then anoint the altar of burnt offering and all its utensils; consecrate the altar, and it will be most holy. 11 Anoint the basin and its stand and consecrate them.
+
+12 “Bring Aaron and his sons to the entrance to the tent of meeting and wash them with water. 13 Then dress Aaron in the sacred garments, anoint him and consecrate him so he may serve me as priest. 14 Bring his sons and dress them in tunics. 15 Anoint them just as you anointed their father, so they may serve me as priests. Their anointing will be to a priesthood that will continue throughout their generations.” 16 Moses did everything just as the Lord commanded him.
+
+17 So the tabernacle was set up on the first day of the first month in the second year. 18 When Moses set up the tabernacle, he put the bases in place, erected the frames, inserted the crossbars and set up the posts. 19 Then he spread the tent over the tabernacle and put the covering over the tent, as the Lord commanded him.
+
+20 He took the tablets of the covenant law and placed them in the ark, attached the poles to the ark and put the atonement cover over it. 21 Then he brought the ark into the tabernacle and hung the shielding curtain and shielded the ark of the covenant law, as the Lord commanded him.
+
+22 Moses placed the table in the tent of meeting on the north side of the tabernacle outside the curtain 23 and set out the bread on it before the Lord, as the Lord commanded him.
+
+24 He placed the lampstand in the tent of meeting opposite the table on the south side of the tabernacle 25 and set up the lamps before the Lord, as the Lord commanded him.
+
+26 Moses placed the gold altar in the tent of meeting in front of the curtain 27 and burned fragrant incense on it, as the Lord commanded him.
+
+28 Then he put up the curtain at the entrance to the tabernacle. 29 He set the altar of burnt offering near the entrance to the tabernacle, the tent of meeting, and offered on it burnt offerings and grain offerings, as the Lord commanded him.
+
+30 He placed the basin between the tent of meeting and the altar and put water in it for washing, 31 and Moses and Aaron and his sons used it to wash their hands and feet. 32 They washed whenever they entered the tent of meeting or approached the altar, as the Lord commanded Moses.
+
+33 Then Moses set up the courtyard around the tabernacle and altar and put up the curtain at the entrance to the courtyard. And so Moses finished the work.
+
+The Glory of the Lord
+34 Then the cloud covered the tent of meeting, and the glory of the Lord filled the tabernacle. 35 Moses could not enter the tent of meeting because the cloud had settled on it, and the glory of the Lord filled the tabernacle.
+
+36 In all the travels of the Israelites, whenever the cloud lifted from above the tabernacle, they would set out; 37 but if the cloud did not lift, they did not set out—until the day it lifted. 38 So the cloud of the Lord was over the tabernacle by day, and fire was in the cloud by night, in the sight of all the Israelites during all their travels.
+                                    </p>
+                                  </div>
 
   
+
+
   
           <div className={styles.card2}
           >
@@ -3813,8 +3942,8 @@ The Tabernacle
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
             This is the beginning of the Old Testament and it will contain the 5 books of the Torah or Pentateuch...
-              <h4>Genesis Complete</h4>
-               <h4>Exodus in the works</h4>
+              <h4>Genesis Completed</h4>
+               <h4>Exodus is Completed</h4>
                <h4>Leviticus coming soon</h4>
                <h4>...Numbers next</h4>
                <h4> And lastly Deuteronomy</h4>
