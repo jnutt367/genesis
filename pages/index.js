@@ -3282,42 +3282,169 @@ Idols and Altars
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXI </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>These are the laws you are to set before them:</h4> 
 
 
+Hebrew Servants
+2 “If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free, without paying anything. 3 If he comes alone, he is to go free alone; but if he has a wife when he comes, she is to go with him. 4 If his master gives him a wife and she bears him sons or daughters, the woman and her children shall belong to her master, and only the man shall go free.
+
+5 “But if the servant declares, ‘I love my master and my wife and children and do not want to go free,’ 6 then his master must take him before the judges.[a] He shall take him to the door or the doorpost and pierce his ear with an awl. Then he will be his servant for life.
+
+7 “If a man sells his daughter as a servant, she is not to go free as male servants do. 8 If she does not please the master who has selected her for himself,[b] he must let her be redeemed. He has no right to sell her to foreigners, because he has broken faith with her. 9 If he selects her for his son, he must grant her the rights of a daughter. 10 If he marries another woman, he must not deprive the first one of her food, clothing and marital rights. 11 If he does not provide her with these three things, she is to go free, without any payment of money.
+
+Personal Injuries
+12 “Anyone who strikes a person with a fatal blow is to be put to death. 13 However, if it is not done intentionally, but God lets it happen, they are to flee to a place I will designate. 14 But if anyone schemes and kills someone deliberately, that person is to be taken from my altar and put to death.
+
+15 “Anyone who attacks[c] their father or mother is to be put to death.
+
+16 “Anyone who kidnaps someone is to be put to death, whether the victim has been sold or is still in the kidnapper’s possession.
+
+17 “Anyone who curses their father or mother is to be put to death.
+
+18 “If people quarrel and one person hits another with a stone or with their fist[d] and the victim does not die but is confined to bed, 19 the one who struck the blow will not be held liable if the other can get up and walk around outside with a staff; however, the guilty party must pay the injured person for any loss of time and see that the victim is completely healed.
+
+20 “Anyone who beats their male or female slave with a rod must be punished if the slave dies as a direct result, 21 but they are not to be punished if the slave recovers after a day or two, since the slave is their property.
+
+22 “If people are fighting and hit a pregnant woman and she gives birth prematurely[e] but there is no serious injury, the offender must be fined whatever the woman’s husband demands and the court allows. 23 But if there is serious injury, you are to take life for life, 24 eye for eye, tooth for tooth, hand for hand, foot for foot, 25 burn for burn, wound for wound, bruise for bruise.
+
+26 “An owner who hits a male or female slave in the eye and destroys it must let the slave go free to compensate for the eye. 27 And an owner who knocks out the tooth of a male or female slave must let the slave go free to compensate for the tooth.
+
+28 “If a bull gores a man or woman to death, the bull is to be stoned to death, and its meat must not be eaten. But the owner of the bull will not be held responsible. 29 If, however, the bull has had the habit of goring and the owner has been warned but has not kept it penned up and it kills a man or woman, the bull is to be stoned and its owner also is to be put to death. 30 However, if payment is demanded, the owner may redeem his life by the payment of whatever is demanded. 31 This law also applies if the bull gores a son or daughter. 32 If the bull gores a male or female slave, the owner must pay thirty shekels[f] of silver to the master of the slave, and the bull is to be stoned to death.
+
+33 “If anyone uncovers a pit or digs one and fails to cover it and an ox or a donkey falls into it, 34 the one who opened the pit must pay the owner for the loss and take the dead animal in exchange.
+
+35 “If anyone’s bull injures someone else’s bull and it dies, the two parties are to sell the live one and divide both the money and the dead animal equally. 36 However, if it was known that the bull had the habit of goring, yet the owner did not keep it penned up, the owner must pay, animal for animal, and take the dead animal in exchange.
                                 </p>
   </div>
 
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXII</h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Protection of Property</h4> 
 
 
-                                </p>
+22 [a]“Whoever steals an ox or a sheep and slaughters it or sells it must pay back five head of cattle for the ox and four sheep for the sheep.
+
+2 “If a thief is caught breaking in at night and is struck a fatal blow, the defender is not guilty of bloodshed; 3 but if it happens after sunrise, the defender is guilty of bloodshed.
+
+“Anyone who steals must certainly make restitution, but if they have nothing, they must be sold to pay for their theft. 4 If the stolen animal is found alive in their possession—whether ox or donkey or sheep—they must pay back double.
+
+5 “If anyone grazes their livestock in a field or vineyard and lets them stray and they graze in someone else’s field, the offender must make restitution from the best of their own field or vineyard.
+
+6 “If a fire breaks out and spreads into thornbushes so that it burns shocks of grain or standing grain or the whole field, the one who started the fire must make restitution.
+
+7 “If anyone gives a neighbor silver or goods for safekeeping and they are stolen from the neighbor’s house, the thief, if caught, must pay back double. 8 But if the thief is not found, the owner of the house must appear before the judges, and they must[b] determine whether the owner of the house has laid hands on the other person’s property. 9 In all cases of illegal possession of an ox, a donkey, a sheep, a garment, or any other lost property about which somebody says, ‘This is mine,’ both parties are to bring their cases before the judges.[c] The one whom the judges declare[d] guilty must pay back double to the other.
+
+10 “If anyone gives a donkey, an ox, a sheep or any other animal to their neighbor for safekeeping and it dies or is injured or is taken away while no one is looking, 11 the issue between them will be settled by the taking of an oath before the Lord that the neighbor did not lay hands on the other person’s property. The owner is to accept this, and no restitution is required. 12 But if the animal was stolen from the neighbor, restitution must be made to the owner. 13 If it was torn to pieces by a wild animal, the neighbor shall bring in the remains as evidence and shall not be required to pay for the torn animal.
+
+14 “If anyone borrows an animal from their neighbor and it is injured or dies while the owner is not present, they must make restitution. 15 But if the owner is with the animal, the borrower will not have to pay. If the animal was hired, the money paid for the hire covers the loss.
+
+Social Responsibility
+16 “If a man seduces a virgin who is not pledged to be married and sleeps with her, he must pay the bride-price, and she shall be his wife. 17 If her father absolutely refuses to give her to him, he must still pay the bride-price for virgins.
+
+18 “Do not allow a sorceress to live.
+
+19 “Anyone who has sexual relations with an animal is to be put to death.
+
+20 “Whoever sacrifices to any god other than the Lord must be destroyed.[e]
+
+21 “Do not mistreat or oppress a foreigner, for you were foreigners in Egypt.
+
+22 “Do not take advantage of the widow or the fatherless. 23 If you do and they cry out to me, I will certainly hear their cry. 24 My anger will be aroused, and I will kill you with the sword; your wives will become widows and your children fatherless.
+
+25 “If you lend money to one of my people among you who is needy, do not treat it like a business deal; charge no interest. 26 If you take your neighbor’s cloak as a pledge, return it by sunset, 27 because that cloak is the only covering your neighbor has. What else can they sleep in? When they cry out to me, I will hear, for I am compassionate.
+
+28 “Do not blaspheme God[f] or curse the ruler of your people.
+
+29 “Do not hold back offerings from your granaries or your vats.[g]
+
+“You must give me the firstborn of your sons. 30 Do the same with your cattle and your sheep. Let them stay with their mothers for seven days, but give them to me on the eighth day.
+
+31 “You are to be my holy people. So do not eat the meat of an animal torn by wild beasts; throw it to the dogs.                                </p>
   </div>
 
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXIII</h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Laws of Justice and Mercy</h4> 
 
+
+23 “Do not spread false reports. Do not help a guilty person by being a malicious witness.
+
+2 “Do not follow the crowd in doing wrong. When you give testimony in a lawsuit, do not pervert justice by siding with the crowd, 3 and do not show favoritism to a poor person in a lawsuit.
+
+4 “If you come across your enemy’s ox or donkey wandering off, be sure to return it. 5 If you see the donkey of someone who hates you fallen down under its load, do not leave it there; be sure you help them with it.
+
+6 “Do not deny justice to your poor people in their lawsuits. 7 Have nothing to do with a false charge and do not put an innocent or honest person to death, for I will not acquit the guilty.
+
+8 “Do not accept a bribe, for a bribe blinds those who see and twists the words of the innocent.
+
+9 “Do not oppress a foreigner; you yourselves know how it feels to be foreigners, because you were foreigners in Egypt.
+
+Sabbath Laws
+10 “For six years you are to sow your fields and harvest the crops, 11 but during the seventh year let the land lie unplowed and unused. Then the poor among your people may get food from it, and the wild animals may eat what is left. Do the same with your vineyard and your olive grove.
+
+12 “Six days do your work, but on the seventh day do not work, so that your ox and your donkey may rest, and so that the slave born in your household and the foreigner living among you may be refreshed.
+
+13 “Be careful to do everything I have said to you. Do not invoke the names of other gods; do not let them be heard on your lips.
+
+The Three Annual Festivals
+14 “Three times a year you are to celebrate a festival to me.
+
+15 “Celebrate the Festival of Unleavened Bread; for seven days eat bread made without yeast, as I commanded you. Do this at the appointed time in the month of Aviv, for in that month you came out of Egypt.
+
+“No one is to appear before me empty-handed.
+
+16 “Celebrate the Festival of Harvest with the firstfruits of the crops you sow in your field.
+
+“Celebrate the Festival of Ingathering at the end of the year, when you gather in your crops from the field.
+
+17 “Three times a year all the men are to appear before the Sovereign Lord.
+
+18 “Do not offer the blood of a sacrifice to me along with anything containing yeast.
+
+“The fat of my festival offerings must not be kept until morning.
+
+19 “Bring the best of the firstfruits of your soil to the house of the Lord your God.
+
+“Do not cook a young goat in its mother’s milk.
+
+God’s Angel to Prepare the Way
+20 “See, I am sending an angel ahead of you to guard you along the way and to bring you to the place I have prepared. 21 Pay attention to him and listen to what he says. Do not rebel against him; he will not forgive your rebellion, since my Name is in him. 22 If you listen carefully to what he says and do all that I say, I will be an enemy to your enemies and will oppose those who oppose you. 23 My angel will go ahead of you and bring you into the land of the Amorites, Hittites, Perizzites, Canaanites, Hivites and Jebusites, and I will wipe them out. 24 Do not bow down before their gods or worship them or follow their practices. You must demolish them and break their sacred stones to pieces. 25 Worship the Lord your God, and his blessing will be on your food and water. I will take away sickness from among you, 26 and none will miscarry or be barren in your land. I will give you a full life span.
+
+27 “I will send my terror ahead of you and throw into confusion every nation you encounter. I will make all your enemies turn their backs and run. 28 I will send the hornet ahead of you to drive the Hivites, Canaanites and Hittites out of your way. 29 But I will not drive them out in a single year, because the land would become desolate and the wild animals too numerous for you. 30 Little by little I will drive them out before you, until you have increased enough to take possession of the land.
+
+31 “I will establish your borders from the Red Sea[a] to the Mediterranean Sea,[b] and from the desert to the Euphrates River. I will give into your hands the people who live in the land, and you will drive them out before you. 32 Do not make a covenant with them or with their gods. 33 Do not let them live in your land or they will cause you to sin against me, because the worship of their gods will certainly be a snare to you.”
 
                                 </p>
   </div>
 
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXIV</h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>The Covenant Confirmed</h4> 
 
+24 Then the Lord said to Moses, “Come up to the Lord, you and Aaron, Nadab and Abihu, and seventy of the elders of Israel. You are to worship at a distance, 2 but Moses alone is to approach the Lord; the others must not come near. And the people may not come up with him.”
 
+3 When Moses went and told the people all the Lord’s words and laws, they responded with one voice, “Everything the Lord has said we will do.” 4 Moses then wrote down everything the Lord had said.
+
+He got up early the next morning and built an altar at the foot of the mountain and set up twelve stone pillars representing the twelve tribes of Israel. 5 Then he sent young Israelite men, and they offered burnt offerings and sacrificed young bulls as fellowship offerings to the Lord. 6 Moses took half of the blood and put it in bowls, and the other half he splashed against the altar. 7 Then he took the Book of the Covenant and read it to the people. They responded, “We will do everything the Lord has said; we will obey.”
+
+8 Moses then took the blood, sprinkled it on the people and said, “This is the blood of the covenant that the Lord has made with you in accordance with all these words.”
+
+9 Moses and Aaron, Nadab and Abihu, and the seventy elders of Israel went up 10 and saw the God of Israel. Under his feet was something like a pavement made of lapis lazuli, as bright blue as the sky. 11 But God did not raise his hand against these leaders of the Israelites; they saw God, and they ate and drank.
+
+12 The Lord said to Moses, “Come up to me on the mountain and stay here, and I will give you the tablets of stone with the law and commandments I have written for their instruction.”
+
+13 Then Moses set out with Joshua his aide, and Moses went up on the mountain of God. 14 He said to the elders, “Wait here for us until we come back to you. Aaron and Hur are with you, and anyone involved in a dispute can go to them.”
+
+15 When Moses went up on the mountain, the cloud covered it, 16 and the glory of the Lord settled on Mount Sinai. For six days the cloud covered the mountain, and on the seventh day the Lord called to Moses from within the cloud. 17 To the Israelites the glory of the Lord looked like a consuming fire on top of the mountain. 18 Then Moses entered the cloud as he went on up the mountain. And he stayed on the mountain forty days and forty nights.
                                 </p>
   </div>
 
@@ -3325,30 +3452,69 @@ Idols and Altars
   
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXV</h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Offerings for the Tabernacle</h4> 
 
+25 The Lord said to Moses, 2 “Tell the Israelites to bring me an offering. You are to receive the offering for me from everyone whose heart prompts them to give. 3 These are the offerings you are to receive from them: gold, silver and bronze; 4 blue, purple and scarlet yarn and fine linen; goat hair; 5 ram skins dyed red and another type of durable leather[a]; acacia wood; 6 olive oil for the light; spices for the anointing oil and for the fragrant incense; 7 and onyx stones and other gems to be mounted on the ephod and breastpiece.
 
+8 “Then have them make a sanctuary for me, and I will dwell among them. 9 Make this tabernacle and all its furnishings exactly like the pattern I will show you.
+
+The Ark
+10 “Have them make an ark[b] of acacia wood—two and a half cubits long, a cubit and a half wide, and a cubit and a half high.[c] 11 Overlay it with pure gold, both inside and out, and make a gold molding around it. 12 Cast four gold rings for it and fasten them to its four feet, with two rings on one side and two rings on the other. 13 Then make poles of acacia wood and overlay them with gold. 14 Insert the poles into the rings on the sides of the ark to carry it. 15 The poles are to remain in the rings of this ark; they are not to be removed. 16 Then put in the ark the tablets of the covenant law, which I will give you.
+
+17 “Make an atonement cover of pure gold—two and a half cubits long and a cubit and a half wide. 18 And make two cherubim out of hammered gold at the ends of the cover. 19 Make one cherub on one end and the second cherub on the other; make the cherubim of one piece with the cover, at the two ends. 20 The cherubim are to have their wings spread upward, overshadowing the cover with them. The cherubim are to face each other, looking toward the cover. 21 Place the cover on top of the ark and put in the ark the tablets of the covenant law that I will give you. 22 There, above the cover between the two cherubim that are over the ark of the covenant law, I will meet with you and give you all my commands for the Israelites.
+
+The Table
+23 “Make a table of acacia wood—two cubits long, a cubit wide and a cubit and a half high.[d] 24 Overlay it with pure gold and make a gold molding around it. 25 Also make around it a rim a handbreadth[e] wide and put a gold molding on the rim. 26 Make four gold rings for the table and fasten them to the four corners, where the four legs are. 27 The rings are to be close to the rim to hold the poles used in carrying the table. 28 Make the poles of acacia wood, overlay them with gold and carry the table with them. 29 And make its plates and dishes of pure gold, as well as its pitchers and bowls for the pouring out of offerings. 30 Put the bread of the Presence on this table to be before me at all times.
+
+The Lampstand
+31 “Make a lampstand of pure gold. Hammer out its base and shaft, and make its flowerlike cups, buds and blossoms of one piece with them. 32 Six branches are to extend from the sides of the lampstand—three on one side and three on the other. 33 Three cups shaped like almond flowers with buds and blossoms are to be on one branch, three on the next branch, and the same for all six branches extending from the lampstand. 34 And on the lampstand there are to be four cups shaped like almond flowers with buds and blossoms. 35 One bud shall be under the first pair of branches extending from the lampstand, a second bud under the second pair, and a third bud under the third pair—six branches in all. 36 The buds and branches shall all be of one piece with the lampstand, hammered out of pure gold.
+
+37 “Then make its seven lamps and set them up on it so that they light the space in front of it. 38 Its wick trimmers and trays are to be of pure gold. 39 A talent[f] of pure gold is to be used for the lampstand and all these accessories. 40 See that you make them according to the pattern shown you on the mountain.
                                 </p>
   </div>
 
 
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXVI</h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>The Tabernacle</h4> 
 
+26 “Make the tabernacle with ten curtains of finely twisted linen and blue, purple and scarlet yarn, with cherubim woven into them by a skilled worker. 2 All the curtains are to be the same size—twenty-eight cubits long and four cubits wide.[a] 3 Join five of the curtains together, and do the same with the other five. 4 Make loops of blue material along the edge of the end curtain in one set, and do the same with the end curtain in the other set. 5 Make fifty loops on one curtain and fifty loops on the end curtain of the other set, with the loops opposite each other. 6 Then make fifty gold clasps and use them to fasten the curtains together so that the tabernacle is a unit.
 
+7 “Make curtains of goat hair for the tent over the tabernacle—eleven altogether. 8 All eleven curtains are to be the same size—thirty cubits long and four cubits wide.[b] 9 Join five of the curtains together into one set and the other six into another set. Fold the sixth curtain double at the front of the tent. 10 Make fifty loops along the edge of the end curtain in one set and also along the edge of the end curtain in the other set. 11 Then make fifty bronze clasps and put them in the loops to fasten the tent together as a unit. 12 As for the additional length of the tent curtains, the half curtain that is left over is to hang down at the rear of the tabernacle. 13 The tent curtains will be a cubit[c] longer on both sides; what is left will hang over the sides of the tabernacle so as to cover it. 14 Make for the tent a covering of ram skins dyed red, and over that a covering of the other durable leather.[d]
+
+15 “Make upright frames of acacia wood for the tabernacle. 16 Each frame is to be ten cubits long and a cubit and a half wide,[e] 17 with two projections set parallel to each other. Make all the frames of the tabernacle in this way. 18 Make twenty frames for the south side of the tabernacle 19 and make forty silver bases to go under them—two bases for each frame, one under each projection. 20 For the other side, the north side of the tabernacle, make twenty frames 21 and forty silver bases—two under each frame. 22 Make six frames for the far end, that is, the west end of the tabernacle, 23 and make two frames for the corners at the far end. 24 At these two corners they must be double from the bottom all the way to the top and fitted into a single ring; both shall be like that. 25 So there will be eight frames and sixteen silver bases—two under each frame.
+
+26 “Also make crossbars of acacia wood: five for the frames on one side of the tabernacle, 27 five for those on the other side, and five for the frames on the west, at the far end of the tabernacle. 28 The center crossbar is to extend from end to end at the middle of the frames. 29 Overlay the frames with gold and make gold rings to hold the crossbars. Also overlay the crossbars with gold.
+
+30 “Set up the tabernacle according to the plan shown you on the mountain.
+
+31 “Make a curtain of blue, purple and scarlet yarn and finely twisted linen, with cherubim woven into it by a skilled worker. 32 Hang it with gold hooks on four posts of acacia wood overlaid with gold and standing on four silver bases. 33 Hang the curtain from the clasps and place the ark of the covenant law behind the curtain. The curtain will separate the Holy Place from the Most Holy Place. 34 Put the atonement cover on the ark of the covenant law in the Most Holy Place. 35 Place the table outside the curtain on the north side of the tabernacle and put the lampstand opposite it on the south side.
+
+36 “For the entrance to the tent make a curtain of blue, purple and scarlet yarn and finely twisted linen—the work of an embroiderer. 37 Make gold hooks for this curtain and five posts of acacia wood overlaid with gold. And cast five bronze bases for them.
                                 </p>
   </div>
 
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter  XXVII</h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>The Altar of Burnt Offering</h4> 
+
+27 “Build an altar of acacia wood, three cubits[a] high; it is to be square, five cubits long and five cubits wide.[b] 2 Make a horn at each of the four corners, so that the horns and the altar are of one piece, and overlay the altar with bronze. 3 Make all its utensils of bronze—its pots to remove the ashes, and its shovels, sprinkling bowls, meat forks and firepans. 4 Make a grating for it, a bronze network, and make a bronze ring at each of the four corners of the network. 5 Put it under the ledge of the altar so that it is halfway up the altar. 6 Make poles of acacia wood for the altar and overlay them with bronze. 7 The poles are to be inserted into the rings so they will be on two sides of the altar when it is carried. 8 Make the altar hollow, out of boards. It is to be made just as you were shown on the mountain.
+
+The Courtyard
+9 “Make a courtyard for the tabernacle. The south side shall be a hundred cubits[c] long and is to have curtains of finely twisted linen, 10 with twenty posts and twenty bronze bases and with silver hooks and bands on the posts. 11 The north side shall also be a hundred cubits long and is to have curtains, with twenty posts and twenty bronze bases and with silver hooks and bands on the posts.
+
+12 “The west end of the courtyard shall be fifty cubits[d] wide and have curtains, with ten posts and ten bases. 13 On the east end, toward the sunrise, the courtyard shall also be fifty cubits wide. 14 Curtains fifteen cubits[e] long are to be on one side of the entrance, with three posts and three bases, 15 and curtains fifteen cubits long are to be on the other side, with three posts and three bases.
+
+16 “For the entrance to the courtyard, provide a curtain twenty cubits[f] long, of blue, purple and scarlet yarn and finely twisted linen—the work of an embroiderer—with four posts and four bases. 17 All the posts around the courtyard are to have silver bands and hooks, and bronze bases. 18 The courtyard shall be a hundred cubits long and fifty cubits wide,[g] with curtains of finely twisted linen five cubits[h] high, and with bronze bases. 19 All the other articles used in the service of the tabernacle, whatever their function, including all the tent pegs for it and those for the courtyard, are to be of bronze.
+
+Oil for the Lampstand
+20 “Command the Israelites to bring you clear oil of pressed olives for the light so that the lamps may be kept burning. 21 In the tent of meeting, outside the curtain that shields the ark of the covenant law, Aaron and his sons are to keep the lamps burning before the Lord from evening till morning. This is to be a lasting ordinance among the Israelites for the generations to come.
 
 
                                 </p>
@@ -3357,10 +3523,35 @@ Idols and Altars
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXVIII</h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>The Priestly Garments</h4> 
 
+
+28 “Have Aaron your brother brought to you from among the Israelites, along with his sons Nadab and Abihu, Eleazar and Ithamar, so they may serve me as priests. 2 Make sacred garments for your brother Aaron to give him dignity and honor. 3 Tell all the skilled workers to whom I have given wisdom in such matters that they are to make garments for Aaron, for his consecration, so he may serve me as priest. 4 These are the garments they are to make: a breastpiece, an ephod, a robe, a woven tunic, a turban and a sash. They are to make these sacred garments for your brother Aaron and his sons, so they may serve me as priests. 5 Have them use gold, and blue, purple and scarlet yarn, and fine linen.
+
+The Ephod
+6 “Make the ephod of gold, and of blue, purple and scarlet yarn, and of finely twisted linen—the work of skilled hands. 7 It is to have two shoulder pieces attached to two of its corners, so it can be fastened. 8 Its skillfully woven waistband is to be like it—of one piece with the ephod and made with gold, and with blue, purple and scarlet yarn, and with finely twisted linen.
+
+9 “Take two onyx stones and engrave on them the names of the sons of Israel 10 in the order of their birth—six names on one stone and the remaining six on the other. 11 Engrave the names of the sons of Israel on the two stones the way a gem cutter engraves a seal. Then mount the stones in gold filigree settings 12 and fasten them on the shoulder pieces of the ephod as memorial stones for the sons of Israel. Aaron is to bear the names on his shoulders as a memorial before the Lord. 13 Make gold filigree settings 14 and two braided chains of pure gold, like a rope, and attach the chains to the settings.
+
+The Breastpiece
+15 “Fashion a breastpiece for making decisions—the work of skilled hands. Make it like the ephod: of gold, and of blue, purple and scarlet yarn, and of finely twisted linen. 16 It is to be square—a span[a] long and a span wide—and folded double. 17 Then mount four rows of precious stones on it. The first row shall be carnelian, chrysolite and beryl; 18 the second row shall be turquoise, lapis lazuli and emerald; 19 the third row shall be jacinth, agate and amethyst; 20 the fourth row shall be topaz, onyx and jasper.[b] Mount them in gold filigree settings. 21 There are to be twelve stones, one for each of the names of the sons of Israel, each engraved like a seal with the name of one of the twelve tribes.
+
+22 “For the breastpiece make braided chains of pure gold, like a rope. 23 Make two gold rings for it and fasten them to two corners of the breastpiece. 24 Fasten the two gold chains to the rings at the corners of the breastpiece, 25 and the other ends of the chains to the two settings, attaching them to the shoulder pieces of the ephod at the front. 26 Make two gold rings and attach them to the other two corners of the breastpiece on the inside edge next to the ephod. 27 Make two more gold rings and attach them to the bottom of the shoulder pieces on the front of the ephod, close to the seam just above the waistband of the ephod. 28 The rings of the breastpiece are to be tied to the rings of the ephod with blue cord, connecting it to the waistband, so that the breastpiece will not swing out from the ephod.
+
+29 “Whenever Aaron enters the Holy Place, he will bear the names of the sons of Israel over his heart on the breastpiece of decision as a continuing memorial before the Lord. 30 Also put the Urim and the Thummim in the breastpiece, so they may be over Aaron’s heart whenever he enters the presence of the Lord. Thus Aaron will always bear the means of making decisions for the Israelites over his heart before the Lord.
+
+Other Priestly Garments
+31 “Make the robe of the ephod entirely of blue cloth, 32 with an opening for the head in its center. There shall be a woven edge like a collar[c] around this opening, so that it will not tear. 33 Make pomegranates of blue, purple and scarlet yarn around the hem of the robe, with gold bells between them. 34 The gold bells and the pomegranates are to alternate around the hem of the robe. 35 Aaron must wear it when he ministers. The sound of the bells will be heard when he enters the Holy Place before the Lord and when he comes out, so that he will not die.
+
+36 “Make a plate of pure gold and engrave on it as on a seal: holy to the Lord. 37 Fasten a blue cord to it to attach it to the turban; it is to be on the front of the turban. 38 It will be on Aaron’s forehead, and he will bear the guilt involved in the sacred gifts the Israelites consecrate, whatever their gifts may be. It will be on Aaron’s forehead continually so that they will be acceptable to the Lord.
+
+39 “Weave the tunic of fine linen and make the turban of fine linen. The sash is to be the work of an embroiderer. 40 Make tunics, sashes and caps for Aaron’s sons to give them dignity and honor. 41 After you put these clothes on your brother Aaron and his sons, anoint and ordain them. Consecrate them so they may serve me as priests.
+
+42 “Make linen undergarments as a covering for the body, reaching from the waist to the thigh. 43 Aaron and his sons must wear them whenever they enter the tent of meeting or approach the altar to minister in the Holy Place, so that they will not incur guilt and die.
+
+“This is to be a lasting ordinance for Aaron and his descendants.
 
                                 </p>
   </div>
@@ -3368,22 +3559,62 @@ Idols and Altars
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter XXIX </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Consecration of the Priests</h4> 
 
 
-                                </p>
+29 “This is what you are to do to consecrate them, so they may serve me as priests: Take a young bull and two rams without defect. 2 And from the finest wheat flour make round loaves without yeast, thick loaves without yeast and with olive oil mixed in, and thin loaves without yeast and brushed with olive oil. 3 Put them in a basket and present them along with the bull and the two rams. 4 Then bring Aaron and his sons to the entrance to the tent of meeting and wash them with water. 5 Take the garments and dress Aaron with the tunic, the robe of the ephod, the ephod itself and the breastpiece. Fasten the ephod on him by its skillfully woven waistband. 6 Put the turban on his head and attach the sacred emblem to the turban. 7 Take the anointing oil and anoint him by pouring it on his head. 8 Bring his sons and dress them in tunics 9 and fasten caps on them. Then tie sashes on Aaron and his sons.[a] The priesthood is theirs by a lasting ordinance.
+
+“Then you shall ordain Aaron and his sons.
+
+10 “Bring the bull to the front of the tent of meeting, and Aaron and his sons shall lay their hands on its head. 11 Slaughter it in the Lord’s presence at the entrance to the tent of meeting. 12 Take some of the bull’s blood and put it on the horns of the altar with your finger, and pour out the rest of it at the base of the altar. 13 Then take all the fat on the internal organs, the long lobe of the liver, and both kidneys with the fat on them, and burn them on the altar. 14 But burn the bull’s flesh and its hide and its intestines outside the camp. It is a sin offering.[b]
+
+15 “Take one of the rams, and Aaron and his sons shall lay their hands on its head. 16 Slaughter it and take the blood and splash it against the sides of the altar. 17 Cut the ram into pieces and wash the internal organs and the legs, putting them with the head and the other pieces. 18 Then burn the entire ram on the altar. It is a burnt offering to the Lord, a pleasing aroma, a food offering presented to the Lord.
+
+19 “Take the other ram, and Aaron and his sons shall lay their hands on its head. 20 Slaughter it, take some of its blood and put it on the lobes of the right ears of Aaron and his sons, on the thumbs of their right hands, and on the big toes of their right feet. Then splash blood against the sides of the altar. 21 And take some blood from the altar and some of the anointing oil and sprinkle it on Aaron and his garments and on his sons and their garments. Then he and his sons and their garments will be consecrated.
+
+22 “Take from this ram the fat, the fat tail, the fat on the internal organs, the long lobe of the liver, both kidneys with the fat on them, and the right thigh. (This is the ram for the ordination.) 23 From the basket of bread made without yeast, which is before the Lord, take one round loaf, one thick loaf with olive oil mixed in, and one thin loaf. 24 Put all these in the hands of Aaron and his sons and have them wave them before the Lord as a wave offering. 25 Then take them from their hands and burn them on the altar along with the burnt offering for a pleasing aroma to the Lord, a food offering presented to the Lord. 26 After you take the breast of the ram for Aaron’s ordination, wave it before the Lord as a wave offering, and it will be your share.
+
+27 “Consecrate those parts of the ordination ram that belong to Aaron and his sons: the breast that was waved and the thigh that was presented. 28 This is always to be the perpetual share from the Israelites for Aaron and his sons. It is the contribution the Israelites are to make to the Lord from their fellowship offerings.
+
+29 “Aaron’s sacred garments will belong to his descendants so that they can be anointed and ordained in them. 30 The son who succeeds him as priest and comes to the tent of meeting to minister in the Holy Place is to wear them seven days.
+
+31 “Take the ram for the ordination and cook the meat in a sacred place. 32 At the entrance to the tent of meeting, Aaron and his sons are to eat the meat of the ram and the bread that is in the basket. 33 They are to eat these offerings by which atonement was made for their ordination and consecration. But no one else may eat them, because they are sacred. 34 And if any of the meat of the ordination ram or any bread is left over till morning, burn it up. It must not be eaten, because it is sacred.
+
+35 “Do for Aaron and his sons everything I have commanded you, taking seven days to ordain them. 36 Sacrifice a bull each day as a sin offering to make atonement. Purify the altar by making atonement for it, and anoint it to consecrate it. 37 For seven days make atonement for the altar and consecrate it. Then the altar will be most holy, and whatever touches it will be holy.
+
+38 “This is what you are to offer on the altar regularly each day: two lambs a year old. 39 Offer one in the morning and the other at twilight. 40 With the first lamb offer a tenth of an ephah[c] of the finest flour mixed with a quarter of a hin[d] of oil from pressed olives, and a quarter of a hin of wine as a drink offering. 41 Sacrifice the other lamb at twilight with the same grain offering and its drink offering as in the morning—a pleasing aroma, a food offering presented to the Lord.
+
+42 “For the generations to come this burnt offering is to be made regularly at the entrance to the tent of meeting, before the Lord. There I will meet you and speak to you; 43 there also I will meet with the Israelites, and the place will be consecrated by my glory.
+
+44 “So I will consecrate the tent of meeting and the altar and will consecrate Aaron and his sons to serve me as priests. 45 Then I will dwell among the Israelites and be their God. 46 They will know that I am the Lord their God, who brought them out of Egypt so that I might dwell among them. I am the Lord their God.                                </p>
   </div>
 
  <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>Exodus Chapter  </h2>
+            <h2 className={styles.chapter2}>Exodus Chapter  XXX</h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>The Altar of Incense</h4> 
 
 
-                                </p>
+30 “Make an altar of acacia wood for burning incense. 2 It is to be square, a cubit long and a cubit wide, and two cubits high[a]—its horns of one piece with it. 3 Overlay the top and all the sides and the horns with pure gold, and make a gold molding around it. 4 Make two gold rings for the altar below the molding—two on each of the opposite sides—to hold the poles used to carry it. 5 Make the poles of acacia wood and overlay them with gold. 6 Put the altar in front of the curtain that shields the ark of the covenant law—before the atonement cover that is over the tablets of the covenant law—where I will meet with you.
+
+7 “Aaron must burn fragrant incense on the altar every morning when he tends the lamps. 8 He must burn incense again when he lights the lamps at twilight so incense will burn regularly before the Lord for the generations to come. 9 Do not offer on this altar any other incense or any burnt offering or grain offering, and do not pour a drink offering on it. 10 Once a year Aaron shall make atonement on its horns. This annual atonement must be made with the blood of the atoning sin offering[b] for the generations to come. It is most holy to the Lord.”
+
+Atonement Money
+11 Then the Lord said to Moses, 12 “When you take a census of the Israelites to count them, each one must pay the Lord a ransom for his life at the time he is counted. Then no plague will come on them when you number them. 13 Each one who crosses over to those already counted is to give a half shekel,[c] according to the sanctuary shekel, which weighs twenty gerahs. This half shekel is an offering to the Lord. 14 All who cross over, those twenty years old or more, are to give an offering to the Lord. 15 The rich are not to give more than a half shekel and the poor are not to give less when you make the offering to the Lord to atone for your lives. 16 Receive the atonement money from the Israelites and use it for the service of the tent of meeting. It will be a memorial for the Israelites before the Lord, making atonement for your lives.”
+
+Basin for Washing
+17 Then the Lord said to Moses, 18 “Make a bronze basin, with its bronze stand, for washing. Place it between the tent of meeting and the altar, and put water in it. 19 Aaron and his sons are to wash their hands and feet with water from it. 20 Whenever they enter the tent of meeting, they shall wash with water so that they will not die. Also, when they approach the altar to minister by presenting a food offering to the Lord, 21 they shall wash their hands and feet so that they will not die. This is to be a lasting ordinance for Aaron and his descendants for the generations to come.”
+
+Anointing Oil
+22 Then the Lord said to Moses, 23 “Take the following fine spices: 500 shekels[d] of liquid myrrh, half as much (that is, 250 shekels) of fragrant cinnamon, 250 shekels[e] of fragrant calamus, 24 500 shekels of cassia—all according to the sanctuary shekel—and a hin[f] of olive oil. 25 Make these into a sacred anointing oil, a fragrant blend, the work of a perfumer. It will be the sacred anointing oil. 26 Then use it to anoint the tent of meeting, the ark of the covenant law, 27 the table and all its articles, the lampstand and its accessories, the altar of incense, 28 the altar of burnt offering and all its utensils, and the basin with its stand. 29 You shall consecrate them so they will be most holy, and whatever touches them will be holy.
+
+30 “Anoint Aaron and his sons and consecrate them so they may serve me as priests. 31 Say to the Israelites, ‘This is to be my sacred anointing oil for the generations to come. 32 Do not pour it on anyone else’s body and do not make any other oil using the same formula. It is sacred, and you are to consider it sacred. 33 Whoever makes perfume like it and puts it on anyone other than a priest must be cut off from their people.’”
+
+Incense
+34 Then the Lord said to Moses, “Take fragrant spices—gum resin, onycha and galbanum—and pure frankincense, all in equal amounts, 35 and make a fragrant blend of incense, the work of a perfumer. It is to be salted and pure and sacred. 36 Grind some of it to powder and place it in front of the ark of the covenant law in the tent of meeting, where I will meet with you. It shall be most holy to you. 37 Do not make any incense with this formula for yourselves; consider it holy to the Lord. 38 Whoever makes incense like it to enjoy its fragrance must be cut off from their people.”                                </p>
   </div>
 
 
