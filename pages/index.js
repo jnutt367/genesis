@@ -4291,9 +4291,31 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter}>Leviticus Chapter XI </h2>
                                 <p>
- <h4 className={styles.h4}>            </h4> 
+ <h4 className={styles.h4}>Clean and Unclean Food</h4> 
 
 
+11 The Lord said to Moses and Aaron, 2 “Say to the Israelites: ‘Of all the animals that live on land, these are the ones you may eat: 3 You may eat any animal that has a divided hoof and that chews the cud.
+
+4 “‘There are some that only chew the cud or only have a divided hoof, but you must not eat them. The camel, though it chews the cud, does not have a divided hoof; it is ceremonially unclean for you. 5 The hyrax, though it chews the cud, does not have a divided hoof; it is unclean for you. 6 The rabbit, though it chews the cud, does not have a divided hoof; it is unclean for you. 7 And the pig, though it has a divided hoof, does not chew the cud; it is unclean for you. 8 You must not eat their meat or touch their carcasses; they are unclean for you.
+
+9 “‘Of all the creatures living in the water of the seas and the streams you may eat any that have fins and scales. 10 But all creatures in the seas or streams that do not have fins and scales—whether among all the swarming things or among all the other living creatures in the water—you are to regard as unclean. 11 And since you are to regard them as unclean, you must not eat their meat; you must regard their carcasses as unclean. 12 Anything living in the water that does not have fins and scales is to be regarded as unclean by you.
+
+13 “‘These are the birds you are to regard as unclean and not eat because they are unclean: the eagle,[a] the vulture, the black vulture, 14 the red kite, any kind of black kite, 15 any kind of raven, 16 the horned owl, the screech owl, the gull, any kind of hawk, 17 the little owl, the cormorant, the great owl, 18 the white owl, the desert owl, the osprey, 19 the stork, any kind of heron, the hoopoe and the bat.
+
+20 “‘All flying insects that walk on all fours are to be regarded as unclean by you. 21 There are, however, some flying insects that walk on all fours that you may eat: those that have jointed legs for hopping on the ground. 22 Of these you may eat any kind of locust, katydid, cricket or grasshopper. 23 But all other flying insects that have four legs you are to regard as unclean.
+
+24 “‘You will make yourselves unclean by these; whoever touches their carcasses will be unclean till evening. 25 Whoever picks up one of their carcasses must wash their clothes, and they will be unclean till evening.
+
+26 “‘Every animal that does not have a divided hoof or that does not chew the cud is unclean for you; whoever touches the carcass of any of them will be unclean. 27 Of all the animals that walk on all fours, those that walk on their paws are unclean for you; whoever touches their carcasses will be unclean till evening. 28 Anyone who picks up their carcasses must wash their clothes, and they will be unclean till evening. These animals are unclean for you.
+
+29 “‘Of the animals that move along the ground, these are unclean for you: the weasel, the rat, any kind of great lizard, 30 the gecko, the monitor lizard, the wall lizard, the skink and the chameleon. 31 Of all those that move along the ground, these are unclean for you. Whoever touches them when they are dead will be unclean till evening. 32 When one of them dies and falls on something, that article, whatever its use, will be unclean, whether it is made of wood, cloth, hide or sackcloth. Put it in water; it will be unclean till evening, and then it will be clean. 33 If one of them falls into a clay pot, everything in it will be unclean, and you must break the pot. 34 Any food you are allowed to eat that has come into contact with water from any such pot is unclean, and any liquid that is drunk from such a pot is unclean. 35 Anything that one of their carcasses falls on becomes unclean; an oven or cooking pot must be broken up. They are unclean, and you are to regard them as unclean. 36 A spring, however, or a cistern for collecting water remains clean, but anyone who touches one of these carcasses is unclean. 37 If a carcass falls on any seeds that are to be planted, they remain clean. 38 But if water has been put on the seed and a carcass falls on it, it is unclean for you.
+
+39 “‘If an animal that you are allowed to eat dies, anyone who touches its carcass will be unclean till evening. 40 Anyone who eats some of its carcass must wash their clothes, and they will be unclean till evening. Anyone who picks up the carcass must wash their clothes, and they will be unclean till evening.
+
+41 “‘Every creature that moves along the ground is to be regarded as unclean; it is not to be eaten. 42 You are not to eat any creature that moves along the ground, whether it moves on its belly or walks on all fours or on many feet; it is unclean. 43 Do not defile yourselves by any of these creatures. Do not make yourselves unclean by means of them or be made unclean by them. 44 I am the Lord your God; consecrate yourselves and be holy, because I am holy. Do not make yourselves unclean by any creature that moves along the ground. 45 I am the Lord, who brought you up out of Egypt to be your God; therefore be holy, because I am holy.
+
+46 “‘These are the regulations concerning animals, birds, every living thing that moves about in the water and every creature that moves along the ground. 47 You must distinguish between the unclean and the clean, between living creatures that may be eaten and those that may not be eaten.’”
+  
                                   </p>
   </div>
 
@@ -4301,9 +4323,16 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XII</h2>
                                 <p>
- <h4 className={styles.h4}>         </h4> 
+ <h4 className={styles.h4}>Purification After Childbirth</h4> 
 
 
+12 The Lord said to Moses, 2 “Say to the Israelites: ‘A woman who becomes pregnant and gives birth to a son will be ceremonially unclean for seven days, just as she is unclean during her monthly period. 3 On the eighth day the boy is to be circumcised. 4 Then the woman must wait thirty-three days to be purified from her bleeding. She must not touch anything sacred or go to the sanctuary until the days of her purification are over. 5 If she gives birth to a daughter, for two weeks the woman will be unclean, as during her period. Then she must wait sixty-six days to be purified from her bleeding.
+
+6 “‘When the days of her purification for a son or daughter are over, she is to bring to the priest at the entrance to the tent of meeting a year-old lamb for a burnt offering and a young pigeon or a dove for a sin offering.[a] 7 He shall offer them before the Lord to make atonement for her, and then she will be ceremonially clean from her flow of blood.
+
+“‘These are the regulations for the woman who gives birth to a boy or a girl. 8 But if she cannot afford a lamb, she is to bring two doves or two young pigeons, one for a burnt offering and the other for a sin offering. In this way the priest will make atonement for her, and she will be clean.’”
+
+  
                          </p>
   </div>
 
@@ -4312,8 +4341,33 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter}>Leviticus Chapter XIII</h2>
                                 <p>
- <h4 className={styles.h4}>          </h4> 
+ <h4 className={styles.h4}>Regulations About Defiling Skin Diseases</h4> 
 
+
+13 The Lord said to Moses and Aaron, 2 “When anyone has a swelling or a rash or a shiny spot on their skin that may be a defiling skin disease,[a] they must be brought to Aaron the priest or to one of his sons[b] who is a priest. 3 The priest is to examine the sore on the skin, and if the hair in the sore has turned white and the sore appears to be more than skin deep, it is a defiling skin disease. When the priest examines that person, he shall pronounce them ceremonially unclean. 4 If the shiny spot on the skin is white but does not appear to be more than skin deep and the hair in it has not turned white, the priest is to isolate the affected person for seven days. 5 On the seventh day the priest is to examine them, and if he sees that the sore is unchanged and has not spread in the skin, he is to isolate them for another seven days. 6 On the seventh day the priest is to examine them again, and if the sore has faded and has not spread in the skin, the priest shall pronounce them clean; it is only a rash. They must wash their clothes, and they will be clean. 7 But if the rash does spread in their skin after they have shown themselves to the priest to be pronounced clean, they must appear before the priest again. 8 The priest is to examine that person, and if the rash has spread in the skin, he shall pronounce them unclean; it is a defiling skin disease.
+
+9 “When anyone has a defiling skin disease, they must be brought to the priest. 10 The priest is to examine them, and if there is a white swelling in the skin that has turned the hair white and if there is raw flesh in the swelling, 11 it is a chronic skin disease and the priest shall pronounce them unclean. He is not to isolate them, because they are already unclean.
+
+12 “If the disease breaks out all over their skin and, so far as the priest can see, it covers all the skin of the affected person from head to foot, 13 the priest is to examine them, and if the disease has covered their whole body, he shall pronounce them clean. Since it has all turned white, they are clean. 14 But whenever raw flesh appears on them, they will be unclean. 15 When the priest sees the raw flesh, he shall pronounce them unclean. The raw flesh is unclean; they have a defiling disease. 16 If the raw flesh changes and turns white, they must go to the priest. 17 The priest is to examine them, and if the sores have turned white, the priest shall pronounce the affected person clean; then they will be clean.
+
+18 “When someone has a boil on their skin and it heals, 19 and in the place where the boil was, a white swelling or reddish-white spot appears, they must present themselves to the priest. 20 The priest is to examine it, and if it appears to be more than skin deep and the hair in it has turned white, the priest shall pronounce that person unclean. It is a defiling skin disease that has broken out where the boil was. 21 But if, when the priest examines it, there is no white hair in it and it is not more than skin deep and has faded, then the priest is to isolate them for seven days. 22 If it is spreading in the skin, the priest shall pronounce them unclean; it is a defiling disease. 23 But if the spot is unchanged and has not spread, it is only a scar from the boil, and the priest shall pronounce them clean.
+
+24 “When someone has a burn on their skin and a reddish-white or white spot appears in the raw flesh of the burn, 25 the priest is to examine the spot, and if the hair in it has turned white, and it appears to be more than skin deep, it is a defiling disease that has broken out in the burn. The priest shall pronounce them unclean; it is a defiling skin disease. 26 But if the priest examines it and there is no white hair in the spot and if it is not more than skin deep and has faded, then the priest is to isolate them for seven days. 27 On the seventh day the priest is to examine that person, and if it is spreading in the skin, the priest shall pronounce them unclean; it is a defiling skin disease. 28 If, however, the spot is unchanged and has not spread in the skin but has faded, it is a swelling from the burn, and the priest shall pronounce them clean; it is only a scar from the burn.
+
+29 “If a man or woman has a sore on their head or chin, 30 the priest is to examine the sore, and if it appears to be more than skin deep and the hair in it is yellow and thin, the priest shall pronounce them unclean; it is a defiling skin disease on the head or chin. 31 But if, when the priest examines the sore, it does not seem to be more than skin deep and there is no black hair in it, then the priest is to isolate the affected person for seven days. 32 On the seventh day the priest is to examine the sore, and if it has not spread and there is no yellow hair in it and it does not appear to be more than skin deep, 33 then the man or woman must shave themselves, except for the affected area, and the priest is to keep them isolated another seven days. 34 On the seventh day the priest is to examine the sore, and if it has not spread in the skin and appears to be no more than skin deep, the priest shall pronounce them clean. They must wash their clothes, and they will be clean. 35 But if the sore does spread in the skin after they are pronounced clean, 36 the priest is to examine them, and if he finds that the sore has spread in the skin, he does not need to look for yellow hair; they are unclean. 37 If, however, the sore is unchanged so far as the priest can see, and if black hair has grown in it, the affected person is healed. They are clean, and the priest shall pronounce them clean.
+
+38 “When a man or woman has white spots on the skin, 39 the priest is to examine them, and if the spots are dull white, it is a harmless rash that has broken out on the skin; they are clean.
+
+40 “A man who has lost his hair and is bald is clean. 41 If he has lost his hair from the front of his scalp and has a bald forehead, he is clean. 42 But if he has a reddish-white sore on his bald head or forehead, it is a defiling disease breaking out on his head or forehead. 43 The priest is to examine him, and if the swollen sore on his head or forehead is reddish-white like a defiling skin disease, 44 the man is diseased and is unclean. The priest shall pronounce him unclean because of the sore on his head.
+
+45 “Anyone with such a defiling disease must wear torn clothes, let their hair be unkempt,[c] cover the lower part of their face and cry out, ‘Unclean! Unclean!’ 46 As long as they have the disease they remain unclean. They must live alone; they must live outside the camp.
+
+Regulations About Defiling Molds
+47 “As for any fabric that is spoiled with a defiling mold—any woolen or linen clothing, 48 any woven or knitted material of linen or wool, any leather or anything made of leather— 49 if the affected area in the fabric, the leather, the woven or knitted material, or any leather article, is greenish or reddish, it is a defiling mold and must be shown to the priest. 50 The priest is to examine the affected area and isolate the article for seven days. 51 On the seventh day he is to examine it, and if the mold has spread in the fabric, the woven or knitted material, or the leather, whatever its use, it is a persistent defiling mold; the article is unclean. 52 He must burn the fabric, the woven or knitted material of wool or linen, or any leather article that has been spoiled; because the defiling mold is persistent, the article must be burned.
+
+53 “But if, when the priest examines it, the mold has not spread in the fabric, the woven or knitted material, or the leather article, 54 he shall order that the spoiled article be washed. Then he is to isolate it for another seven days. 55 After the article has been washed, the priest is to examine it again, and if the mold has not changed its appearance, even though it has not spread, it is unclean. Burn it, no matter which side of the fabric has been spoiled. 56 If, when the priest examines it, the mold has faded after the article has been washed, he is to tear the spoiled part out of the fabric, the leather, or the woven or knitted material. 57 But if it reappears in the fabric, in the woven or knitted material, or in the leather article, it is a spreading mold; whatever has the mold must be burned. 58 Any fabric, woven or knitted material, or any leather article that has been washed and is rid of the mold, must be washed again. Then it will be clean.”
+
+59 These are the regulations concerning defiling molds in woolen or linen clothing, woven or knitted material, or any leather article, for pronouncing them clean or unclean.
 
 
                                 </p>
@@ -4323,8 +4377,39 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XIV</h2>
                                 <p>
- <h4 className={styles.h4}>              </h4> 
+ <h4 className={styles.h4}>Cleansing From Defiling Skin Diseases</h4> 
 
+
+14 The Lord said to Moses, 2 “These are the regulations for any diseased person at the time of their ceremonial cleansing, when they are brought to the priest: 3 The priest is to go outside the camp and examine them. If they have been healed of their defiling skin disease,[a] 4 the priest shall order that two live clean birds and some cedar wood, scarlet yarn and hyssop be brought for the person to be cleansed. 5 Then the priest shall order that one of the birds be killed over fresh water in a clay pot. 6 He is then to take the live bird and dip it, together with the cedar wood, the scarlet yarn and the hyssop, into the blood of the bird that was killed over the fresh water. 7 Seven times he shall sprinkle the one to be cleansed of the defiling disease, and then pronounce them clean. After that, he is to release the live bird in the open fields.
+
+8 “The person to be cleansed must wash their clothes, shave off all their hair and bathe with water; then they will be ceremonially clean. After this they may come into the camp, but they must stay outside their tent for seven days. 9 On the seventh day they must shave off all their hair; they must shave their head, their beard, their eyebrows and the rest of their hair. They must wash their clothes and bathe themselves with water, and they will be clean.
+
+10 “On the eighth day they must bring two male lambs and one ewe lamb a year old, each without defect, along with three-tenths of an ephah[b] of the finest flour mixed with olive oil for a grain offering, and one log[c] of oil. 11 The priest who pronounces them clean shall present both the one to be cleansed and their offerings before the Lord at the entrance to the tent of meeting.
+
+12 “Then the priest is to take one of the male lambs and offer it as a guilt offering, along with the log of oil; he shall wave them before the Lord as a wave offering. 13 He is to slaughter the lamb in the sanctuary area where the sin offering[d] and the burnt offering are slaughtered. Like the sin offering, the guilt offering belongs to the priest; it is most holy. 14 The priest is to take some of the blood of the guilt offering and put it on the lobe of the right ear of the one to be cleansed, on the thumb of their right hand and on the big toe of their right foot. 15 The priest shall then take some of the log of oil, pour it in the palm of his own left hand, 16 dip his right forefinger into the oil in his palm, and with his finger sprinkle some of it before the Lord seven times. 17 The priest is to put some of the oil remaining in his palm on the lobe of the right ear of the one to be cleansed, on the thumb of their right hand and on the big toe of their right foot, on top of the blood of the guilt offering. 18 The rest of the oil in his palm the priest shall put on the head of the one to be cleansed and make atonement for them before the Lord.
+
+19 “Then the priest is to sacrifice the sin offering and make atonement for the one to be cleansed from their uncleanness. After that, the priest shall slaughter the burnt offering 20 and offer it on the altar, together with the grain offering, and make atonement for them, and they will be clean.
+
+21 “If, however, they are poor and cannot afford these, they must take one male lamb as a guilt offering to be waved to make atonement for them, together with a tenth of an ephah[e] of the finest flour mixed with olive oil for a grain offering, a log of oil, 22 and two doves or two young pigeons, such as they can afford, one for a sin offering and the other for a burnt offering.
+
+23 “On the eighth day they must bring them for their cleansing to the priest at the entrance to the tent of meeting, before the Lord. 24 The priest is to take the lamb for the guilt offering, together with the log of oil, and wave them before the Lord as a wave offering. 25 He shall slaughter the lamb for the guilt offering and take some of its blood and put it on the lobe of the right ear of the one to be cleansed, on the thumb of their right hand and on the big toe of their right foot. 26 The priest is to pour some of the oil into the palm of his own left hand, 27 and with his right forefinger sprinkle some of the oil from his palm seven times before the Lord. 28 Some of the oil in his palm he is to put on the same places he put the blood of the guilt offering—on the lobe of the right ear of the one to be cleansed, on the thumb of their right hand and on the big toe of their right foot. 29 The rest of the oil in his palm the priest shall put on the head of the one to be cleansed, to make atonement for them before the Lord. 30 Then he shall sacrifice the doves or the young pigeons, such as the person can afford, 31 one as a sin offering and the other as a burnt offering, together with the grain offering. In this way the priest will make atonement before the Lord on behalf of the one to be cleansed.”
+
+32 These are the regulations for anyone who has a defiling skin disease and who cannot afford the regular offerings for their cleansing.
+
+Cleansing From Defiling Molds
+33 The Lord said to Moses and Aaron, 34 “When you enter the land of Canaan, which I am giving you as your possession, and I put a spreading mold in a house in that land, 35 the owner of the house must go and tell the priest, ‘I have seen something that looks like a defiling mold in my house.’ 36 The priest is to order the house to be emptied before he goes in to examine the mold, so that nothing in the house will be pronounced unclean. After this the priest is to go in and inspect the house. 37 He is to examine the mold on the walls, and if it has greenish or reddish depressions that appear to be deeper than the surface of the wall, 38 the priest shall go out the doorway of the house and close it up for seven days. 39 On the seventh day the priest shall return to inspect the house. If the mold has spread on the walls, 40 he is to order that the contaminated stones be torn out and thrown into an unclean place outside the town. 41 He must have all the inside walls of the house scraped and the material that is scraped off dumped into an unclean place outside the town. 42 Then they are to take other stones to replace these and take new clay and plaster the house.
+
+43 “If the defiling mold reappears in the house after the stones have been torn out and the house scraped and plastered, 44 the priest is to go and examine it and, if the mold has spread in the house, it is a persistent defiling mold; the house is unclean. 45 It must be torn down—its stones, timbers and all the plaster—and taken out of the town to an unclean place.
+
+46 “Anyone who goes into the house while it is closed up will be unclean till evening. 47 Anyone who sleeps or eats in the house must wash their clothes.
+
+48 “But if the priest comes to examine it and the mold has not spread after the house has been plastered, he shall pronounce the house clean, because the defiling mold is gone. 49 To purify the house he is to take two birds and some cedar wood, scarlet yarn and hyssop. 50 He shall kill one of the birds over fresh water in a clay pot. 51 Then he is to take the cedar wood, the hyssop, the scarlet yarn and the live bird, dip them into the blood of the dead bird and the fresh water, and sprinkle the house seven times. 52 He shall purify the house with the bird’s blood, the fresh water, the live bird, the cedar wood, the hyssop and the scarlet yarn. 53 Then he is to release the live bird in the open fields outside the town. In this way he will make atonement for the house, and it will be clean.”
+
+54 These are the regulations for any defiling skin disease, for a sore, 55 for defiling molds in fabric or in a house, 56 and for a swelling, a rash or a shiny spot, 57 to determine when something is clean or unclean.
+
+These are the regulations for defiling skin diseases and defiling molds.
+
+  
                            </p>
   </div>
 
@@ -4334,8 +4419,40 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter}>Leviticus Chapter XV</h2>
                                 <p>
- <h4 className={styles.h4}>              </h4> 
+ <h4 className={styles.h4}>Discharges Causing Uncleanness</h4> 
 
+
+15 The Lord said to Moses and Aaron, 2 “Speak to the Israelites and say to them: ‘When any man has an unusual bodily discharge, such a discharge is unclean. 3 Whether it continues flowing from his body or is blocked, it will make him unclean. This is how his discharge will bring about uncleanness:
+
+4 “‘Any bed the man with a discharge lies on will be unclean, and anything he sits on will be unclean. 5 Anyone who touches his bed must wash their clothes and bathe with water, and they will be unclean till evening. 6 Whoever sits on anything that the man with a discharge sat on must wash their clothes and bathe with water, and they will be unclean till evening.
+
+7 “‘Whoever touches the man who has a discharge must wash their clothes and bathe with water, and they will be unclean till evening.
+
+8 “‘If the man with the discharge spits on anyone who is clean, they must wash their clothes and bathe with water, and they will be unclean till evening.
+
+9 “‘Everything the man sits on when riding will be unclean, 10 and whoever touches any of the things that were under him will be unclean till evening; whoever picks up those things must wash their clothes and bathe with water, and they will be unclean till evening.
+
+11 “‘Anyone the man with a discharge touches without rinsing his hands with water must wash their clothes and bathe with water, and they will be unclean till evening.
+
+12 “‘A clay pot that the man touches must be broken, and any wooden article is to be rinsed with water.
+
+13 “‘When a man is cleansed from his discharge, he is to count off seven days for his ceremonial cleansing; he must wash his clothes and bathe himself with fresh water, and he will be clean. 14 On the eighth day he must take two doves or two young pigeons and come before the Lord to the entrance to the tent of meeting and give them to the priest. 15 The priest is to sacrifice them, the one for a sin offering[a] and the other for a burnt offering. In this way he will make atonement before the Lord for the man because of his discharge.
+
+16 “‘When a man has an emission of semen, he must bathe his whole body with water, and he will be unclean till evening. 17 Any clothing or leather that has semen on it must be washed with water, and it will be unclean till evening. 18 When a man has sexual relations with a woman and there is an emission of semen, both of them must bathe with water, and they will be unclean till evening.
+
+19 “‘When a woman has her regular flow of blood, the impurity of her monthly period will last seven days, and anyone who touches her will be unclean till evening.
+
+20 “‘Anything she lies on during her period will be unclean, and anything she sits on will be unclean. 21 Anyone who touches her bed will be unclean; they must wash their clothes and bathe with water, and they will be unclean till evening. 22 Anyone who touches anything she sits on will be unclean; they must wash their clothes and bathe with water, and they will be unclean till evening. 23 Whether it is the bed or anything she was sitting on, when anyone touches it, they will be unclean till evening.
+
+24 “‘If a man has sexual relations with her and her monthly flow touches him, he will be unclean for seven days; any bed he lies on will be unclean.
+
+25 “‘When a woman has a discharge of blood for many days at a time other than her monthly period or has a discharge that continues beyond her period, she will be unclean as long as she has the discharge, just as in the days of her period. 26 Any bed she lies on while her discharge continues will be unclean, as is her bed during her monthly period, and anything she sits on will be unclean, as during her period. 27 Anyone who touches them will be unclean; they must wash their clothes and bathe with water, and they will be unclean till evening.
+
+28 “‘When she is cleansed from her discharge, she must count off seven days, and after that she will be ceremonially clean. 29 On the eighth day she must take two doves or two young pigeons and bring them to the priest at the entrance to the tent of meeting. 30 The priest is to sacrifice one for a sin offering and the other for a burnt offering. In this way he will make atonement for her before the Lord for the uncleanness of her discharge.
+
+31 “‘You must keep the Israelites separate from things that make them unclean, so they will not die in their uncleanness for defiling my dwelling place,[b] which is among them.’”
+
+32 These are the regulations for a man with a discharge, for anyone made unclean by an emission of semen, 33 for a woman in her monthly period, for a man or a woman with a discharge, and for a man who has sexual relations with a woman who is ceremonially unclean.  
                            </p>
   </div>
 
@@ -4344,9 +4461,33 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XVI</h2>
                                 <p>
- <h4 className={styles.h4}>              </h4> 
+ <h4 className={styles.h4}>The Day of Atonement</h4> 
 
 
+16 The Lord spoke to Moses after the death of the two sons of Aaron who died when they approached the Lord. 2 The Lord said to Moses: “Tell your brother Aaron that he is not to come whenever he chooses into the Most Holy Place behind the curtain in front of the atonement cover on the ark, or else he will die. For I will appear in the cloud over the atonement cover.
+
+3 “This is how Aaron is to enter the Most Holy Place: He must first bring a young bull for a sin offering[a] and a ram for a burnt offering. 4 He is to put on the sacred linen tunic, with linen undergarments next to his body; he is to tie the linen sash around him and put on the linen turban. These are sacred garments; so he must bathe himself with water before he puts them on. 5 From the Israelite community he is to take two male goats for a sin offering and a ram for a burnt offering.
+
+6 “Aaron is to offer the bull for his own sin offering to make atonement for himself and his household. 7 Then he is to take the two goats and present them before the Lord at the entrance to the tent of meeting. 8 He is to cast lots for the two goats—one lot for the Lord and the other for the scapegoat.[b] 9 Aaron shall bring the goat whose lot falls to the Lord and sacrifice it for a sin offering. 10 But the goat chosen by lot as the scapegoat shall be presented alive before the Lord to be used for making atonement by sending it into the wilderness as a scapegoat.
+
+11 “Aaron shall bring the bull for his own sin offering to make atonement for himself and his household, and he is to slaughter the bull for his own sin offering. 12 He is to take a censer full of burning coals from the altar before the Lord and two handfuls of finely ground fragrant incense and take them behind the curtain. 13 He is to put the incense on the fire before the Lord, and the smoke of the incense will conceal the atonement cover above the tablets of the covenant law, so that he will not die. 14 He is to take some of the bull’s blood and with his finger sprinkle it on the front of the atonement cover; then he shall sprinkle some of it with his finger seven times before the atonement cover.
+
+15 “He shall then slaughter the goat for the sin offering for the people and take its blood behind the curtain and do with it as he did with the bull’s blood: He shall sprinkle it on the atonement cover and in front of it. 16 In this way he will make atonement for the Most Holy Place because of the uncleanness and rebellion of the Israelites, whatever their sins have been. He is to do the same for the tent of meeting, which is among them in the midst of their uncleanness. 17 No one is to be in the tent of meeting from the time Aaron goes in to make atonement in the Most Holy Place until he comes out, having made atonement for himself, his household and the whole community of Israel.
+
+18 “Then he shall come out to the altar that is before the Lord and make atonement for it. He shall take some of the bull’s blood and some of the goat’s blood and put it on all the horns of the altar. 19 He shall sprinkle some of the blood on it with his finger seven times to cleanse it and to consecrate it from the uncleanness of the Israelites.
+
+20 “When Aaron has finished making atonement for the Most Holy Place, the tent of meeting and the altar, he shall bring forward the live goat. 21 He is to lay both hands on the head of the live goat and confess over it all the wickedness and rebellion of the Israelites—all their sins—and put them on the goat’s head. He shall send the goat away into the wilderness in the care of someone appointed for the task. 22 The goat will carry on itself all their sins to a remote place; and the man shall release it in the wilderness.
+
+23 “Then Aaron is to go into the tent of meeting and take off the linen garments he put on before he entered the Most Holy Place, and he is to leave them there. 24 He shall bathe himself with water in the sanctuary area and put on his regular garments. Then he shall come out and sacrifice the burnt offering for himself and the burnt offering for the people, to make atonement for himself and for the people. 25 He shall also burn the fat of the sin offering on the altar.
+
+26 “The man who releases the goat as a scapegoat must wash his clothes and bathe himself with water; afterward he may come into the camp. 27 The bull and the goat for the sin offerings, whose blood was brought into the Most Holy Place to make atonement, must be taken outside the camp; their hides, flesh and intestines are to be burned up. 28 The man who burns them must wash his clothes and bathe himself with water; afterward he may come into the camp.
+
+29 “This is to be a lasting ordinance for you: On the tenth day of the seventh month you must deny yourselves[c] and not do any work—whether native-born or a foreigner residing among you— 30 because on this day atonement will be made for you, to cleanse you. Then, before the Lord, you will be clean from all your sins. 31 It is a day of sabbath rest, and you must deny yourselves; it is a lasting ordinance. 32 The priest who is anointed and ordained to succeed his father as high priest is to make atonement. He is to put on the sacred linen garments 33 and make atonement for the Most Holy Place, for the tent of meeting and the altar, and for the priests and all the members of the community.
+
+34 “This is to be a lasting ordinance for you: Atonement is to be made once a year for all the sins of the Israelites.”
+
+And it was done, as the Lord commanded Moses.
+  
                                 </p>
   </div>
 
@@ -4354,9 +4495,18 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter}>Leviticus Chapter  XVII</h2>
                                 <p>
- <h4 className={styles.h4}>              </h4> 
+ <h4 className={styles.h4}>Eating Blood Forbidden</h4> 
 
 
+17 The Lord said to Moses, 2 “Speak to Aaron and his sons and to all the Israelites and say to them: ‘This is what the Lord has commanded: 3 Any Israelite who sacrifices an ox,[a] a lamb or a goat in the camp or outside of it 4 instead of bringing it to the entrance to the tent of meeting to present it as an offering to the Lord in front of the tabernacle of the Lord—that person shall be considered guilty of bloodshed; they have shed blood and must be cut off from their people. 5 This is so the Israelites will bring to the Lord the sacrifices they are now making in the open fields. They must bring them to the priest, that is, to the Lord, at the entrance to the tent of meeting and sacrifice them as fellowship offerings. 6 The priest is to splash the blood against the altar of the Lord at the entrance to the tent of meeting and burn the fat as an aroma pleasing to the Lord. 7 They must no longer offer any of their sacrifices to the goat idols[b] to whom they prostitute themselves. This is to be a lasting ordinance for them and for the generations to come.’
+
+8 “Say to them: ‘Any Israelite or any foreigner residing among them who offers a burnt offering or sacrifice 9 and does not bring it to the entrance to the tent of meeting to sacrifice it to the Lord must be cut off from the people of Israel.
+
+10 “‘I will set my face against any Israelite or any foreigner residing among them who eats blood, and I will cut them off from the people. 11 For the life of a creature is in the blood, and I have given it to you to make atonement for yourselves on the altar; it is the blood that makes atonement for one’s life.[c] 12 Therefore I say to the Israelites, “None of you may eat blood, nor may any foreigner residing among you eat blood.”
+
+13 “‘Any Israelite or any foreigner residing among you who hunts any animal or bird that may be eaten must drain out the blood and cover it with earth, 14 because the life of every creature is its blood. That is why I have said to the Israelites, “You must not eat the blood of any creature, because the life of every creature is its blood; anyone who eats it must be cut off.”
+
+15 “‘Anyone, whether native-born or foreigner, who eats anything found dead or torn by wild animals must wash their clothes and bathe with water, and they will be ceremonially unclean till evening; then they will be clean. 16 But if they do not wash their clothes and bathe themselves, they will be held responsible.’”  
   
                                 </p>
   </div>
@@ -4366,10 +4516,50 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XVIII</h2>
                                 <p>
- <h4 className={styles.h4}>            </h4> 
+ <h4 className={styles.h4}>Unlawful Sexual Relations</h4> 
 
 
+18 The Lord said to Moses, 2 “Speak to the Israelites and say to them: ‘I am the Lord your God. 3 You must not do as they do in Egypt, where you used to live, and you must not do as they do in the land of Canaan, where I am bringing you. Do not follow their practices. 4 You must obey my laws and be careful to follow my decrees. I am the Lord your God. 5 Keep my decrees and laws, for the person who obeys them will live by them. I am the Lord.
 
+6 “‘No one is to approach any close relative to have sexual relations. I am the Lord.
+
+7 “‘Do not dishonor your father by having sexual relations with your mother. She is your mother; do not have relations with her.
+
+8 “‘Do not have sexual relations with your father’s wife; that would dishonor your father.
+
+9 “‘Do not have sexual relations with your sister, either your father’s daughter or your mother’s daughter, whether she was born in the same home or elsewhere.
+
+10 “‘Do not have sexual relations with your son’s daughter or your daughter’s daughter; that would dishonor you.
+
+11 “‘Do not have sexual relations with the daughter of your father’s wife, born to your father; she is your sister.
+
+12 “‘Do not have sexual relations with your father’s sister; she is your father’s close relative.
+
+13 “‘Do not have sexual relations with your mother’s sister, because she is your mother’s close relative.
+
+14 “‘Do not dishonor your father’s brother by approaching his wife to have sexual relations; she is your aunt.
+
+15 “‘Do not have sexual relations with your daughter-in-law. She is your son’s wife; do not have relations with her.
+
+16 “‘Do not have sexual relations with your brother’s wife; that would dishonor your brother.
+
+17 “‘Do not have sexual relations with both a woman and her daughter. Do not have sexual relations with either her son’s daughter or her daughter’s daughter; they are her close relatives. That is wickedness.
+
+18 “‘Do not take your wife’s sister as a rival wife and have sexual relations with her while your wife is living.
+
+19 “‘Do not approach a woman to have sexual relations during the uncleanness of her monthly period.
+
+20 “‘Do not have sexual relations with your neighbor’s wife and defile yourself with her.
+
+21 “‘Do not give any of your children to be sacrificed to Molek, for you must not profane the name of your God. I am the Lord.
+
+22 “‘Do not have sexual relations with a man as one does with a woman; that is detestable.
+
+23 “‘Do not have sexual relations with an animal and defile yourself with it. A woman must not present herself to an animal to have sexual relations with it; that is a perversion.
+
+24 “‘Do not defile yourselves in any of these ways, because this is how the nations that I am going to drive out before you became defiled. 25 Even the land was defiled; so I punished it for its sin, and the land vomited out its inhabitants. 26 But you must keep my decrees and my laws. The native-born and the foreigners residing among you must not do any of these detestable things, 27 for all these things were done by the people who lived in the land before you, and the land became defiled. 28 And if you defile the land, it will vomit you out as it vomited out the nations that were before you.
+
+29 “‘Everyone who does any of these detestable things—such persons must be cut off from their people. 30 Keep my requirements and do not follow any of the detestable customs that were practiced before you came and do not defile yourselves with them. I am the Lord your God.’”
   
 
                                 </p>
@@ -4380,8 +4570,76 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter}>Leviticus Chapter XIX </h2>
                                 <p>
- <h4 className={styles.h4}>         </h4> 
+ <h4 className={styles.h4}>Various Laws</h4> 
 
+
+19 The Lord said to Moses, 2 “Speak to the entire assembly of Israel and say to them: ‘Be holy because I, the Lord your God, am holy.
+
+3 “‘Each of you must respect your mother and father, and you must observe my Sabbaths. I am the Lord your God.
+
+4 “‘Do not turn to idols or make metal gods for yourselves. I am the Lord your God.
+
+5 “‘When you sacrifice a fellowship offering to the Lord, sacrifice it in such a way that it will be accepted on your behalf. 6 It shall be eaten on the day you sacrifice it or on the next day; anything left over until the third day must be burned up. 7 If any of it is eaten on the third day, it is impure and will not be accepted. 8 Whoever eats it will be held responsible because they have desecrated what is holy to the Lord; they must be cut off from their people.
+
+9 “‘When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings of your harvest. 10 Do not go over your vineyard a second time or pick up the grapes that have fallen. Leave them for the poor and the foreigner. I am the Lord your God.
+
+11 “‘Do not steal.
+
+“‘Do not lie.
+
+“‘Do not deceive one another.
+
+12 “‘Do not swear falsely by my name and so profane the name of your God. I am the Lord.
+
+13 “‘Do not defraud or rob your neighbor.
+
+“‘Do not hold back the wages of a hired worker overnight.
+
+14 “‘Do not curse the deaf or put a stumbling block in front of the blind, but fear your God. I am the Lord.
+
+15 “‘Do not pervert justice; do not show partiality to the poor or favoritism to the great, but judge your neighbor fairly.
+
+16 “‘Do not go about spreading slander among your people.
+
+“‘Do not do anything that endangers your neighbor’s life. I am the Lord.
+
+17 “‘Do not hate a fellow Israelite in your heart. Rebuke your neighbor frankly so you will not share in their guilt.
+
+18 “‘Do not seek revenge or bear a grudge against anyone among your people, but love your neighbor as yourself. I am the Lord.
+
+19 “‘Keep my decrees.
+
+“‘Do not mate different kinds of animals.
+
+“‘Do not plant your field with two kinds of seed.
+
+“‘Do not wear clothing woven of two kinds of material.
+
+20 “‘If a man sleeps with a female slave who is promised to another man but who has not been ransomed or given her freedom, there must be due punishment.[a] Yet they are not to be put to death, because she had not been freed. 21 The man, however, must bring a ram to the entrance to the tent of meeting for a guilt offering to the Lord. 22 With the ram of the guilt offering the priest is to make atonement for him before the Lord for the sin he has committed, and his sin will be forgiven.
+
+23 “‘When you enter the land and plant any kind of fruit tree, regard its fruit as forbidden.[b] For three years you are to consider it forbidden[c]; it must not be eaten. 24 In the fourth year all its fruit will be holy, an offering of praise to the Lord. 25 But in the fifth year you may eat its fruit. In this way your harvest will be increased. I am the Lord your God.
+
+26 “‘Do not eat any meat with the blood still in it.
+
+“‘Do not practice divination or seek omens.
+
+27 “‘Do not cut the hair at the sides of your head or clip off the edges of your beard.
+
+28 “‘Do not cut your bodies for the dead or put tattoo marks on yourselves. I am the Lord.
+
+29 “‘Do not degrade your daughter by making her a prostitute, or the land will turn to prostitution and be filled with wickedness.
+
+30 “‘Observe my Sabbaths and have reverence for my sanctuary. I am the Lord.
+
+31 “‘Do not turn to mediums or seek out spiritists, for you will be defiled by them. I am the Lord your God.
+
+32 “‘Stand up in the presence of the aged, show respect for the elderly and revere your God. I am the Lord.
+
+33 “‘When a foreigner resides among you in your land, do not mistreat them. 34 The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt. I am the Lord your God.
+
+35 “‘Do not use dishonest standards when measuring length, weight or quantity. 36 Use honest scales and honest weights, an honest ephah[d] and an honest hin.[e] I am the Lord your God, who brought you out of Egypt.
+
+37 “‘Keep all my decrees and all my laws and follow them. I am the Lord.’”
 
 
                                 </p>
@@ -4391,8 +4649,47 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter2}>Leviticus Chapter  XX</h2>
                                 <p>
- <h4 className={styles.h4}>           </h4> 
+ <h4 className={styles.h4}>Punishments for Sin</h4> 
 
+
+20 The Lord said to Moses, 2 “Say to the Israelites: ‘Any Israelite or any foreigner residing in Israel who sacrifices any of his children to Molek is to be put to death. The members of the community are to stone him. 3 I myself will set my face against him and will cut him off from his people; for by sacrificing his children to Molek, he has defiled my sanctuary and profaned my holy name. 4 If the members of the community close their eyes when that man sacrifices one of his children to Molek and if they fail to put him to death, 5 I myself will set my face against him and his family and will cut them off from their people together with all who follow him in prostituting themselves to Molek.
+
+6 “‘I will set my face against anyone who turns to mediums and spiritists to prostitute themselves by following them, and I will cut them off from their people.
+
+7 “‘Consecrate yourselves and be holy, because I am the Lord your God. 8 Keep my decrees and follow them. I am the Lord, who makes you holy.
+
+9 “‘Anyone who curses their father or mother is to be put to death. Because they have cursed their father or mother, their blood will be on their own head.
+
+10 “‘If a man commits adultery with another man’s wife—with the wife of his neighbor—both the adulterer and the adulteress are to be put to death.
+
+11 “‘If a man has sexual relations with his father’s wife, he has dishonored his father. Both the man and the woman are to be put to death; their blood will be on their own heads.
+
+12 “‘If a man has sexual relations with his daughter-in-law, both of them are to be put to death. What they have done is a perversion; their blood will be on their own heads.
+
+13 “‘If a man has sexual relations with a man as one does with a woman, both of them have done what is detestable. They are to be put to death; their blood will be on their own heads.
+
+14 “‘If a man marries both a woman and her mother, it is wicked. Both he and they must be burned in the fire, so that no wickedness will be among you.
+
+15 “‘If a man has sexual relations with an animal, he is to be put to death, and you must kill the animal.
+
+16 “‘If a woman approaches an animal to have sexual relations with it, kill both the woman and the animal. They are to be put to death; their blood will be on their own heads.
+
+17 “‘If a man marries his sister, the daughter of either his father or his mother, and they have sexual relations, it is a disgrace. They are to be publicly removed from their people. He has dishonored his sister and will be held responsible.
+
+18 “‘If a man has sexual relations with a woman during her monthly period, he has exposed the source of her flow, and she has also uncovered it. Both of them are to be cut off from their people.
+
+19 “‘Do not have sexual relations with the sister of either your mother or your father, for that would dishonor a close relative; both of you would be held responsible.
+
+20 “‘If a man has sexual relations with his aunt, he has dishonored his uncle. They will be held responsible; they will die childless.
+
+21 “‘If a man marries his brother’s wife, it is an act of impurity; he has dishonored his brother. They will be childless.
+
+22 “‘Keep all my decrees and laws and follow them, so that the land where I am bringing you to live may not vomit you out. 23 You must not live according to the customs of the nations I am going to drive out before you. Because they did all these things, I abhorred them. 24 But I said to you, “You will possess their land; I will give it to you as an inheritance, a land flowing with milk and honey.” I am the Lord your God, who has set you apart from the nations.
+
+25 “‘You must therefore make a distinction between clean and unclean animals and between unclean and clean birds. Do not defile yourselves by any animal or bird or anything that moves along the ground—those that I have set apart as unclean for you. 26 You are to be holy to me because I, the Lord, am holy, and I have set you apart from the nations to be my own.
+
+27 “‘A man or woman who is a medium or spiritist among you must be put to death. You are to stone them; their blood will be on their own heads.’”
+  
                                 </p>
  </div>
 
@@ -4401,9 +4698,25 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter}>Leviticus Chapter XXI </h2>
                                 <p>
- <h4 className={styles.h4}>         </h4> 
+ <h4 className={styles.h4}>Rules for Priests</h4> 
 
 
+
+21 The Lord said to Moses, “Speak to the priests, the sons of Aaron, and say to them: ‘A priest must not make himself ceremonially unclean for any of his people who die, 2 except for a close relative, such as his mother or father, his son or daughter, his brother, 3 or an unmarried sister who is dependent on him since she has no husband—for her he may make himself unclean. 4 He must not make himself unclean for people related to him by marriage,[a] and so defile himself.
+
+5 “‘Priests must not shave their heads or shave off the edges of their beards or cut their bodies. 6 They must be holy to their God and must not profane the name of their God. Because they present the food offerings to the Lord, the food of their God, they are to be holy.
+
+7 “‘They must not marry women defiled by prostitution or divorced from their husbands, because priests are holy to their God. 8 Regard them as holy, because they offer up the food of your God. Consider them holy, because I the Lord am holy—I who make you holy.
+
+9 “‘If a priest’s daughter defiles herself by becoming a prostitute, she disgraces her father; she must be burned in the fire.
+
+10 “‘The high priest, the one among his brothers who has had the anointing oil poured on his head and who has been ordained to wear the priestly garments, must not let his hair become unkempt[b] or tear his clothes. 11 He must not enter a place where there is a dead body. He must not make himself unclean, even for his father or mother, 12 nor leave the sanctuary of his God or desecrate it, because he has been dedicated by the anointing oil of his God. I am the Lord.
+
+13 “‘The woman he marries must be a virgin. 14 He must not marry a widow, a divorced woman, or a woman defiled by prostitution, but only a virgin from his own people, 15 so that he will not defile his offspring among his people. I am the Lord, who makes him holy.’”
+
+16 The Lord said to Moses, 17 “Say to Aaron: ‘For the generations to come none of your descendants who has a defect may come near to offer the food of his God. 18 No man who has any defect may come near: no man who is blind or lame, disfigured or deformed; 19 no man with a crippled foot or hand, 20 or who is a hunchback or a dwarf, or who has any eye defect, or who has festering or running sores or damaged testicles. 21 No descendant of Aaron the priest who has any defect is to come near to present the food offerings to the Lord. He has a defect; he must not come near to offer the food of his God. 22 He may eat the most holy food of his God, as well as the holy food; 23 yet because of his defect, he must not go near the curtain or approach the altar, and so desecrate my sanctuary. I am the Lord, who makes them holy.’”
+
+24 So Moses told this to Aaron and his sons and to all the Israelites.  
                                 </p>
   </div>
 
@@ -4412,8 +4725,28 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XXII </h2>
                                 <p>
- <h4 className={styles.h4}>             </h4> 
+ <h4 className={styles.h4}>The Lord said to Moses</h4> 
 
+22 , 2 “Tell Aaron and his sons to treat with respect the sacred offerings the Israelites consecrate to me, so they will not profane my holy name. I am the Lord.
+
+3 “Say to them: ‘For the generations to come, if any of your descendants is ceremonially unclean and yet comes near the sacred offerings that the Israelites consecrate to the Lord, that person must be cut off from my presence. I am the Lord.
+
+4 “‘If a descendant of Aaron has a defiling skin disease[a] or a bodily discharge, he may not eat the sacred offerings until he is cleansed. He will also be unclean if he touches something defiled by a corpse or by anyone who has an emission of semen, 5 or if he touches any crawling thing that makes him unclean, or any person who makes him unclean, whatever the uncleanness may be. 6 The one who touches any such thing will be unclean till evening. He must not eat any of the sacred offerings unless he has bathed himself with water. 7 When the sun goes down, he will be clean, and after that he may eat the sacred offerings, for they are his food. 8 He must not eat anything found dead or torn by wild animals, and so become unclean through it. I am the Lord.
+
+9 “‘The priests are to perform my service in such a way that they do not become guilty and die for treating it with contempt. I am the Lord, who makes them holy.
+
+10 “‘No one outside a priest’s family may eat the sacred offering, nor may the guest of a priest or his hired worker eat it. 11 But if a priest buys a slave with money, or if slaves are born in his household, they may eat his food. 12 If a priest’s daughter marries anyone other than a priest, she may not eat any of the sacred contributions. 13 But if a priest’s daughter becomes a widow or is divorced, yet has no children, and she returns to live in her father’s household as in her youth, she may eat her father’s food. No unauthorized person, however, may eat it.
+
+14 “‘Anyone who eats a sacred offering by mistake must make restitution to the priest for the offering and add a fifth of the value to it. 15 The priests must not desecrate the sacred offerings the Israelites present to the Lord 16 by allowing them to eat the sacred offerings and so bring upon them guilt requiring payment. I am the Lord, who makes them holy.’”
+
+Unacceptable Sacrifices
+17 The Lord said to Moses, 18 “Speak to Aaron and his sons and to all the Israelites and say to them: ‘If any of you—whether an Israelite or a foreigner residing in Israel—presents a gift for a burnt offering to the Lord, either to fulfill a vow or as a freewill offering, 19 you must present a male without defect from the cattle, sheep or goats in order that it may be accepted on your behalf. 20 Do not bring anything with a defect, because it will not be accepted on your behalf. 21 When anyone brings from the herd or flock a fellowship offering to the Lord to fulfill a special vow or as a freewill offering, it must be without defect or blemish to be acceptable. 22 Do not offer to the Lord the blind, the injured or the maimed, or anything with warts or festering or running sores. Do not place any of these on the altar as a food offering presented to the Lord. 23 You may, however, present as a freewill offering an ox[b] or a sheep that is deformed or stunted, but it will not be accepted in fulfillment of a vow. 24 You must not offer to the Lord an animal whose testicles are bruised, crushed, torn or cut. You must not do this in your own land, 25 and you must not accept such animals from the hand of a foreigner and offer them as the food of your God. They will not be accepted on your behalf, because they are deformed and have defects.’”
+
+26 The Lord said to Moses, 27 “When a calf, a lamb or a goat is born, it is to remain with its mother for seven days. From the eighth day on, it will be acceptable as a food offering presented to the Lord. 28 Do not slaughter a cow or a sheep and its young on the same day.
+
+29 “When you sacrifice a thank offering to the Lord, sacrifice it in such a way that it will be accepted on your behalf. 30 It must be eaten that same day; leave none of it till morning. I am the Lord.
+
+31 “Keep my commands and follow them. I am the Lord. 32 Do not profane my holy name, for I must be acknowledged as holy by the Israelites. I am the Lord, who made you holy 33 and who brought you out of Egypt to be your God. I am the Lord.”  
 
                                 </p>
   </div>
@@ -4423,8 +4756,40 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter}>Leviticus Chapter XXIII </h2>
                                 <p>
- <h4 className={styles.h4}>          </h4> 
+ <h4 className={styles.h4}>The Appointed Festivals</h4> 
 
+
+23 The Lord said to Moses, 2 “Speak to the Israelites and say to them: ‘These are my appointed festivals, the appointed festivals of the Lord, which you are to proclaim as sacred assemblies.
+
+The Sabbath
+3 “‘There are six days when you may work, but the seventh day is a day of sabbath rest, a day of sacred assembly. You are not to do any work; wherever you live, it is a sabbath to the Lord.
+
+The Passover and the Festival of Unleavened Bread
+4 “‘These are the Lord’s appointed festivals, the sacred assemblies you are to proclaim at their appointed times: 5 The Lord’s Passover begins at twilight on the fourteenth day of the first month. 6 On the fifteenth day of that month the Lord’s Festival of Unleavened Bread begins; for seven days you must eat bread made without yeast. 7 On the first day hold a sacred assembly and do no regular work. 8 For seven days present a food offering to the Lord. And on the seventh day hold a sacred assembly and do no regular work.’”
+
+Offering the Firstfruits
+9 The Lord said to Moses, 10 “Speak to the Israelites and say to them: ‘When you enter the land I am going to give you and you reap its harvest, bring to the priest a sheaf of the first grain you harvest. 11 He is to wave the sheaf before the Lord so it will be accepted on your behalf; the priest is to wave it on the day after the Sabbath. 12 On the day you wave the sheaf, you must sacrifice as a burnt offering to the Lord a lamb a year old without defect, 13 together with its grain offering of two-tenths of an ephah[a] of the finest flour mixed with olive oil—a food offering presented to the Lord, a pleasing aroma—and its drink offering of a quarter of a hin[b] of wine. 14 You must not eat any bread, or roasted or new grain, until the very day you bring this offering to your God. This is to be a lasting ordinance for the generations to come, wherever you live.
+
+The Festival of Weeks
+15 “‘From the day after the Sabbath, the day you brought the sheaf of the wave offering, count off seven full weeks. 16 Count off fifty days up to the day after the seventh Sabbath, and then present an offering of new grain to the Lord. 17 From wherever you live, bring two loaves made of two-tenths of an ephah of the finest flour, baked with yeast, as a wave offering of firstfruits to the Lord. 18 Present with this bread seven male lambs, each a year old and without defect, one young bull and two rams. They will be a burnt offering to the Lord, together with their grain offerings and drink offerings—a food offering, an aroma pleasing to the Lord. 19 Then sacrifice one male goat for a sin offering[c] and two lambs, each a year old, for a fellowship offering. 20 The priest is to wave the two lambs before the Lord as a wave offering, together with the bread of the firstfruits. They are a sacred offering to the Lord for the priest. 21 On that same day you are to proclaim a sacred assembly and do no regular work. This is to be a lasting ordinance for the generations to come, wherever you live.
+
+22 “‘When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings of your harvest. Leave them for the poor and for the foreigner residing among you. I am the Lord your God.’”
+
+The Festival of Trumpets
+23 The Lord said to Moses, 24 “Say to the Israelites: ‘On the first day of the seventh month you are to have a day of sabbath rest, a sacred assembly commemorated with trumpet blasts. 25 Do no regular work, but present a food offering to the Lord.’”
+
+The Day of Atonement
+26 The Lord said to Moses, 27 “The tenth day of this seventh month is the Day of Atonement. Hold a sacred assembly and deny yourselves,[d] and present a food offering to the Lord. 28 Do not do any work on that day, because it is the Day of Atonement, when atonement is made for you before the Lord your God. 29 Those who do not deny themselves on that day must be cut off from their people. 30 I will destroy from among their people anyone who does any work on that day. 31 You shall do no work at all. This is to be a lasting ordinance for the generations to come, wherever you live. 32 It is a day of sabbath rest for you, and you must deny yourselves. From the evening of the ninth day of the month until the following evening you are to observe your sabbath.”
+
+The Festival of Tabernacles
+33 The Lord said to Moses, 34 “Say to the Israelites: ‘On the fifteenth day of the seventh month the Lord’s Festival of Tabernacles begins, and it lasts for seven days. 35 The first day is a sacred assembly; do no regular work. 36 For seven days present food offerings to the Lord, and on the eighth day hold a sacred assembly and present a food offering to the Lord. It is the closing special assembly; do no regular work.
+
+37 (“‘These are the Lord’s appointed festivals, which you are to proclaim as sacred assemblies for bringing food offerings to the Lord—the burnt offerings and grain offerings, sacrifices and drink offerings required for each day. 38 These offerings are in addition to those for the Lord’s Sabbaths and[e] in addition to your gifts and whatever you have vowed and all the freewill offerings you give to the Lord.)
+
+39 “‘So beginning with the fifteenth day of the seventh month, after you have gathered the crops of the land, celebrate the festival to the Lord for seven days; the first day is a day of sabbath rest, and the eighth day also is a day of sabbath rest. 40 On the first day you are to take branches from luxuriant trees—from palms, willows and other leafy trees—and rejoice before the Lord your God for seven days. 41 Celebrate this as a festival to the Lord for seven days each year. This is to be a lasting ordinance for the generations to come; celebrate it in the seventh month. 42 Live in temporary shelters for seven days: All native-born Israelites are to live in such shelters 43 so your descendants will know that I had the Israelites live in temporary shelters when I brought them out of Egypt. I am the Lord your God.’”
+
+44 So Moses announced to the Israelites the appointed festivals of the Lord.
+  
  
                                 </p>
   </div>
@@ -4434,8 +4799,23 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XXIV </h2>
                                 <p>
- <h4 className={styles.h4}>           </h4> 
-      
+ <h4 className={styles.h4}>Olive Oil and Bread Set Before the Lord</h4> 
+
+
+24 The Lord said to Moses, 2 “Command the Israelites to bring you clear oil of pressed olives for the light so that the lamps may be kept burning continually. 3 Outside the curtain that shields the ark of the covenant law in the tent of meeting, Aaron is to tend the lamps before the Lord from evening till morning, continually. This is to be a lasting ordinance for the generations to come. 4 The lamps on the pure gold lampstand before the Lord must be tended continually.
+
+5 “Take the finest flour and bake twelve loaves of bread, using two-tenths of an ephah[a] for each loaf. 6 Arrange them in two stacks, six in each stack, on the table of pure gold before the Lord. 7 By each stack put some pure incense as a memorial[b] portion to represent the bread and to be a food offering presented to the Lord. 8 This bread is to be set out before the Lord regularly, Sabbath after Sabbath, on behalf of the Israelites, as a lasting covenant. 9 It belongs to Aaron and his sons, who are to eat it in the sanctuary area, because it is a most holy part of their perpetual share of the food offerings presented to the Lord.”
+
+A Blasphemer Put to Death
+10 Now the son of an Israelite mother and an Egyptian father went out among the Israelites, and a fight broke out in the camp between him and an Israelite. 11 The son of the Israelite woman blasphemed the Name with a curse; so they brought him to Moses. (His mother’s name was Shelomith, the daughter of Dibri the Danite.) 12 They put him in custody until the will of the Lord should be made clear to them.
+
+13 Then the Lord said to Moses: 14 “Take the blasphemer outside the camp. All those who heard him are to lay their hands on his head, and the entire assembly is to stone him. 15 Say to the Israelites: ‘Anyone who curses their God will be held responsible; 16 anyone who blasphemes the name of the Lord is to be put to death. The entire assembly must stone them. Whether foreigner or native-born, when they blaspheme the Name they are to be put to death.
+
+17 “‘Anyone who takes the life of a human being is to be put to death. 18 Anyone who takes the life of someone’s animal must make restitution—life for life. 19 Anyone who injures their neighbor is to be injured in the same manner: 20 fracture for fracture, eye for eye, tooth for tooth. The one who has inflicted the injury must suffer the same injury. 21 Whoever kills an animal must make restitution, but whoever kills a human being is to be put to death. 22 You are to have the same law for the foreigner and the native-born. I am the Lord your God.’”
+
+23 Then Moses spoke to the Israelites, and they took the blasphemer outside the camp and stoned him. The Israelites did as the Lord commanded Moses.
+
+  
                                   </p>
   </div>
 
@@ -4444,8 +4824,37 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter}>Leviticus Chapter XXV </h2>
                                 <p>
- <h4 className={styles.h4}>         </h4> 
+ <h4 className={styles.h4}>The Sabbath Year</h4> 
 
+
+25 The Lord said to Moses at Mount Sinai, 2 “Speak to the Israelites and say to them: ‘When you enter the land I am going to give you, the land itself must observe a sabbath to the Lord. 3 For six years sow your fields, and for six years prune your vineyards and gather their crops. 4 But in the seventh year the land is to have a year of sabbath rest, a sabbath to the Lord. Do not sow your fields or prune your vineyards. 5 Do not reap what grows of itself or harvest the grapes of your untended vines. The land is to have a year of rest. 6 Whatever the land yields during the sabbath year will be food for you—for yourself, your male and female servants, and the hired worker and temporary resident who live among you, 7 as well as for your livestock and the wild animals in your land. Whatever the land produces may be eaten.
+
+The Year of Jubilee
+8 “‘Count off seven sabbath years—seven times seven years—so that the seven sabbath years amount to a period of forty-nine years. 9 Then have the trumpet sounded everywhere on the tenth day of the seventh month; on the Day of Atonement sound the trumpet throughout your land. 10 Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you; each of you is to return to your family property and to your own clan. 11 The fiftieth year shall be a jubilee for you; do not sow and do not reap what grows of itself or harvest the untended vines. 12 For it is a jubilee and is to be holy for you; eat only what is taken directly from the fields.
+
+13 “‘In this Year of Jubilee everyone is to return to their own property.
+
+14 “‘If you sell land to any of your own people or buy land from them, do not take advantage of each other. 15 You are to buy from your own people on the basis of the number of years since the Jubilee. And they are to sell to you on the basis of the number of years left for harvesting crops. 16 When the years are many, you are to increase the price, and when the years are few, you are to decrease the price, because what is really being sold to you is the number of crops. 17 Do not take advantage of each other, but fear your God. I am the Lord your God.
+
+18 “‘Follow my decrees and be careful to obey my laws, and you will live safely in the land. 19 Then the land will yield its fruit, and you will eat your fill and live there in safety. 20 You may ask, “What will we eat in the seventh year if we do not plant or harvest our crops?” 21 I will send you such a blessing in the sixth year that the land will yield enough for three years. 22 While you plant during the eighth year, you will eat from the old crop and will continue to eat from it until the harvest of the ninth year comes in.
+
+23 “‘The land must not be sold permanently, because the land is mine and you reside in my land as foreigners and strangers. 24 Throughout the land that you hold as a possession, you must provide for the redemption of the land.
+
+25 “‘If one of your fellow Israelites becomes poor and sells some of their property, their nearest relative is to come and redeem what they have sold. 26 If, however, there is no one to redeem it for them but later on they prosper and acquire sufficient means to redeem it themselves, 27 they are to determine the value for the years since they sold it and refund the balance to the one to whom they sold it; they can then go back to their own property. 28 But if they do not acquire the means to repay, what was sold will remain in the possession of the buyer until the Year of Jubilee. It will be returned in the Jubilee, and they can then go back to their property.
+
+29 “‘Anyone who sells a house in a walled city retains the right of redemption a full year after its sale. During that time the seller may redeem it. 30 If it is not redeemed before a full year has passed, the house in the walled city shall belong permanently to the buyer and the buyer’s descendants. It is not to be returned in the Jubilee. 31 But houses in villages without walls around them are to be considered as belonging to the open country. They can be redeemed, and they are to be returned in the Jubilee.
+
+32 “‘The Levites always have the right to redeem their houses in the Levitical towns, which they possess. 33 So the property of the Levites is redeemable—that is, a house sold in any town they hold—and is to be returned in the Jubilee, because the houses in the towns of the Levites are their property among the Israelites. 34 But the pastureland belonging to their towns must not be sold; it is their permanent possession.
+
+35 “‘If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you. 36 Do not take interest or any profit from them, but fear your God, so that they may continue to live among you. 37 You must not lend them money at interest or sell them food at a profit. 38 I am the Lord your God, who brought you out of Egypt to give you the land of Canaan and to be your God.
+
+39 “‘If any of your fellow Israelites become poor and sell themselves to you, do not make them work as slaves. 40 They are to be treated as hired workers or temporary residents among you; they are to work for you until the Year of Jubilee. 41 Then they and their children are to be released, and they will go back to their own clans and to the property of their ancestors. 42 Because the Israelites are my servants, whom I brought out of Egypt, they must not be sold as slaves. 43 Do not rule over them ruthlessly, but fear your God.
+
+44 “‘Your male and female slaves are to come from the nations around you; from them you may buy slaves. 45 You may also buy some of the temporary residents living among you and members of their clans born in your country, and they will become your property. 46 You can bequeath them to your children as inherited property and can make them slaves for life, but you must not rule over your fellow Israelites ruthlessly.
+
+47 “‘If a foreigner residing among you becomes rich and any of your fellow Israelites become poor and sell themselves to the foreigner or to a member of the foreigner’s clan, 48 they retain the right of redemption after they have sold themselves. One of their relatives may redeem them: 49 An uncle or a cousin or any blood relative in their clan may redeem them. Or if they prosper, they may redeem themselves. 50 They and their buyer are to count the time from the year they sold themselves up to the Year of Jubilee. The price for their release is to be based on the rate paid to a hired worker for that number of years. 51 If many years remain, they must pay for their redemption a larger share of the price paid for them. 52 If only a few years remain until the Year of Jubilee, they are to compute that and pay for their redemption accordingly. 53 They are to be treated as workers hired from year to year; you must see to it that those to whom they owe service do not rule over them ruthlessly.
+
+54 “‘Even if someone is not redeemed in any of these ways, they and their children are to be released in the Year of Jubilee, 55 for the Israelites belong to me as servants. They are my servants, whom I brought out of Egypt. I am the Lord your God.  
                                 </p>
   </div>
 
@@ -4453,8 +4862,35 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XXVI </h2>
                  <p>
- <h4 className={styles.h4}>  </h4> 
+ <h4 className={styles.h4}>Reward for Obedience</h4> 
 
+
+26 “‘Do not make idols or set up an image or a sacred stone for yourselves, and do not place a carved stone in your land to bow down before it. I am the Lord your God.
+
+2 “‘Observe my Sabbaths and have reverence for my sanctuary. I am the Lord.
+
+3 “‘If you follow my decrees and are careful to obey my commands, 4 I will send you rain in its season, and the ground will yield its crops and the trees their fruit. 5 Your threshing will continue until grape harvest and the grape harvest will continue until planting, and you will eat all the food you want and live in safety in your land.
+
+6 “‘I will grant peace in the land, and you will lie down and no one will make you afraid. I will remove wild beasts from the land, and the sword will not pass through your country. 7 You will pursue your enemies, and they will fall by the sword before you. 8 Five of you will chase a hundred, and a hundred of you will chase ten thousand, and your enemies will fall by the sword before you.
+
+9 “‘I will look on you with favor and make you fruitful and increase your numbers, and I will keep my covenant with you. 10 You will still be eating last year’s harvest when you will have to move it out to make room for the new. 11 I will put my dwelling place[a] among you, and I will not abhor you. 12 I will walk among you and be your God, and you will be my people. 13 I am the Lord your God, who brought you out of Egypt so that you would no longer be slaves to the Egyptians; I broke the bars of your yoke and enabled you to walk with heads held high.
+
+Punishment for Disobedience
+14 “‘But if you will not listen to me and carry out all these commands, 15 and if you reject my decrees and abhor my laws and fail to carry out all my commands and so violate my covenant, 16 then I will do this to you: I will bring on you sudden terror, wasting diseases and fever that will destroy your sight and sap your strength. You will plant seed in vain, because your enemies will eat it. 17 I will set my face against you so that you will be defeated by your enemies; those who hate you will rule over you, and you will flee even when no one is pursuing you.
+
+18 “‘If after all this you will not listen to me, I will punish you for your sins seven times over. 19 I will break down your stubborn pride and make the sky above you like iron and the ground beneath you like bronze. 20 Your strength will be spent in vain, because your soil will not yield its crops, nor will the trees of your land yield their fruit.
+
+21 “‘If you remain hostile toward me and refuse to listen to me, I will multiply your afflictions seven times over, as your sins deserve. 22 I will send wild animals against you, and they will rob you of your children, destroy your cattle and make you so few in number that your roads will be deserted.
+
+23 “‘If in spite of these things you do not accept my correction but continue to be hostile toward me, 24 I myself will be hostile toward you and will afflict you for your sins seven times over. 25 And I will bring the sword on you to avenge the breaking of the covenant. When you withdraw into your cities, I will send a plague among you, and you will be given into enemy hands. 26 When I cut off your supply of bread, ten women will be able to bake your bread in one oven, and they will dole out the bread by weight. You will eat, but you will not be satisfied.
+
+27 “‘If in spite of this you still do not listen to me but continue to be hostile toward me, 28 then in my anger I will be hostile toward you, and I myself will punish you for your sins seven times over. 29 You will eat the flesh of your sons and the flesh of your daughters. 30 I will destroy your high places, cut down your incense altars and pile your dead bodies[b] on the lifeless forms of your idols, and I will abhor you. 31 I will turn your cities into ruins and lay waste your sanctuaries, and I will take no delight in the pleasing aroma of your offerings. 32 I myself will lay waste the land, so that your enemies who live there will be appalled. 33 I will scatter you among the nations and will draw out my sword and pursue you. Your land will be laid waste, and your cities will lie in ruins. 34 Then the land will enjoy its sabbath years all the time that it lies desolate and you are in the country of your enemies; then the land will rest and enjoy its sabbaths. 35 All the time that it lies desolate, the land will have the rest it did not have during the sabbaths you lived in it.
+
+36 “‘As for those of you who are left, I will make their hearts so fearful in the lands of their enemies that the sound of a windblown leaf will put them to flight. They will run as though fleeing from the sword, and they will fall, even though no one is pursuing them. 37 They will stumble over one another as though fleeing from the sword, even though no one is pursuing them. So you will not be able to stand before your enemies. 38 You will perish among the nations; the land of your enemies will devour you. 39 Those of you who are left will waste away in the lands of their enemies because of their sins; also because of their ancestors’ sins they will waste away.
+
+40 “‘But if they will confess their sins and the sins of their ancestors—their unfaithfulness and their hostility toward me, 41 which made me hostile toward them so that I sent them into the land of their enemies—then when their uncircumcised hearts are humbled and they pay for their sin, 42 I will remember my covenant with Jacob and my covenant with Isaac and my covenant with Abraham, and I will remember the land. 43 For the land will be deserted by them and will enjoy its sabbaths while it lies desolate without them. They will pay for their sins because they rejected my laws and abhorred my decrees. 44 Yet in spite of this, when they are in the land of their enemies, I will not reject them or abhor them so as to destroy them completely, breaking my covenant with them. I am the Lord their God. 45 But for their sake I will remember the covenant with their ancestors whom I brought out of Egypt in the sight of the nations to be their God. I am the Lord.’”
+
+46 These are the decrees, the laws and the regulations that the Lord established at Mount Sinai between himself and the Israelites through Moses.  
                 </p>
                 </div>
   
@@ -4462,8 +4898,28 @@ Aaron remained silent.
           >
             <h2 className={styles.chapter}>Leviticus Chapter XXVII </h2>
                                 <p>
- <h4 className={styles.h4}>    </h4> 
+ <h4 className={styles.h4}>Redeeming What Is the Lord’s</h4> 
 
+
+27 The Lord said to Moses, 2 “Speak to the Israelites and say to them: ‘If anyone makes a special vow to dedicate a person to the Lord by giving the equivalent value, 3 set the value of a male between the ages of twenty and sixty at fifty shekels[a] of silver, according to the sanctuary shekel[b]; 4 for a female, set her value at thirty shekels[c]; 5 for a person between the ages of five and twenty, set the value of a male at twenty shekels[d] and of a female at ten shekels[e]; 6 for a person between one month and five years, set the value of a male at five shekels[f] of silver and that of a female at three shekels[g] of silver; 7 for a person sixty years old or more, set the value of a male at fifteen shekels[h] and of a female at ten shekels. 8 If anyone making the vow is too poor to pay the specified amount, the person being dedicated is to be presented to the priest, who will set the value according to what the one making the vow can afford.
+
+9 “‘If what they vowed is an animal that is acceptable as an offering to the Lord, such an animal given to the Lord becomes holy. 10 They must not exchange it or substitute a good one for a bad one, or a bad one for a good one; if they should substitute one animal for another, both it and the substitute become holy. 11 If what they vowed is a ceremonially unclean animal—one that is not acceptable as an offering to the Lord—the animal must be presented to the priest, 12 who will judge its quality as good or bad. Whatever value the priest then sets, that is what it will be. 13 If the owner wishes to redeem the animal, a fifth must be added to its value.
+
+14 “‘If anyone dedicates their house as something holy to the Lord, the priest will judge its quality as good or bad. Whatever value the priest then sets, so it will remain. 15 If the one who dedicates their house wishes to redeem it, they must add a fifth to its value, and the house will again become theirs.
+
+16 “‘If anyone dedicates to the Lord part of their family land, its value is to be set according to the amount of seed required for it—fifty shekels of silver to a homer[i] of barley seed. 17 If they dedicate a field during the Year of Jubilee, the value that has been set remains. 18 But if they dedicate a field after the Jubilee, the priest will determine the value according to the number of years that remain until the next Year of Jubilee, and its set value will be reduced. 19 If the one who dedicates the field wishes to redeem it, they must add a fifth to its value, and the field will again become theirs. 20 If, however, they do not redeem the field, or if they have sold it to someone else, it can never be redeemed. 21 When the field is released in the Jubilee, it will become holy, like a field devoted to the Lord; it will become priestly property.
+
+22 “‘If anyone dedicates to the Lord a field they have bought, which is not part of their family land, 23 the priest will determine its value up to the Year of Jubilee, and the owner must pay its value on that day as something holy to the Lord. 24 In the Year of Jubilee the field will revert to the person from whom it was bought, the one whose land it was. 25 Every value is to be set according to the sanctuary shekel, twenty gerahs to the shekel.
+
+26 “‘No one, however, may dedicate the firstborn of an animal, since the firstborn already belongs to the Lord; whether an ox[j] or a sheep, it is the Lord’s. 27 If it is one of the unclean animals, it may be bought back at its set value, adding a fifth of the value to it. If it is not redeemed, it is to be sold at its set value.
+
+28 “‘But nothing that a person owns and devotes[k] to the Lord—whether a human being or an animal or family land—may be sold or redeemed; everything so devoted is most holy to the Lord.
+
+29 “‘No person devoted to destruction[l] may be ransomed; they are to be put to death.
+
+30 “‘A tithe of everything from the land, whether grain from the soil or fruit from the trees, belongs to the Lord; it is holy to the Lord. 31 Whoever would redeem any of their tithe must add a fifth of the value to it. 32 Every tithe of the herd and flock—every tenth animal that passes under the shepherd’s rod—will be holy to the Lord. 33 No one may pick out the good from the bad or make any substitution. If anyone does make a substitution, both the animal and its substitute become holy and cannot be redeemed.’”
+
+34 These are the commands the Lord gave Moses at Mount Sinai for the Israelites.
 
 
 
