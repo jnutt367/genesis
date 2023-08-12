@@ -3967,6 +3967,410 @@ The Glory of the Lord
         </p>
       </main>
 
+<main id="leviticus" className={styles.main}>
+       
+        <div className={styles.hero}>
+                <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        <h1 className={styles.title}>
+       LEVITICUS
+        </h1>
+          <div className={styles.image}>
+                           <Image 
+                                                    src="/exodus.png"
+                                                    alt="hero image for Thessalonians"
+                                                    height={900}
+                                                    width={2000}
+                                                    priority
+                                                  />
+                          
+
+                        </div>
+    <p className={styles.parables}>
+
+           Leviticus will have a description coming soon
+</p>                                                      
+                  <div className={styles.nav2}>           
+      <a href="https://mytorah.vercel.app/#genesis">
+             <Image 
+                                src="/previous.webp"
+                                alt="prev"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+        
+      <a href="https://cash.app/$JNutt367">
+              <Image className={styles.arrow}
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+         <a href="https://mytorah.vercel.app/#leviticus">
+           <Image 
+                                src="/next.webp"
+                                alt="next"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+                                 <div className={styles.iframe}> 
+                                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/jH_aojNJM3E?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                  </div>
+                                  
+                              
+        <div className={styles.grid2}>
+          
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter I </h2>
+                                <p>
+ <h4 className={styles.h4}>       </h4> 
+
+
+
+                                  </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter II </h2>
+                                <p>
+ <h4 className={styles.h4}>          </h4> 
+ 
+  
+                                </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter III </h2>
+                                <p>
+ <h4 className={styles.h4}>         </h4> 
+
+
+
+
+                                  
+                                </p>
+  </div>
+
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter IV </h2>
+                                <p>
+ <h4 className={styles.h4}>            </h4> 
+
+ 
+                                  </p>
+  </div>
+
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter V </h2>
+                                <p>
+ <h4 className={styles.h4}>          </h4> 
+
+
+
+                                  </p>
+  </div>
+
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter VI </h2>
+                                <p>
+ <h4 className={styles.h4}>               </h4> 
+
+
+
+
+                               </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter VII </h2>
+                                <p>
+ <h4 className={styles.h4}>             </h4> 
+
+
+
+                                  
+                                </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter VIII </h2>
+                                <p>
+ <h4 className={styles.h4}>              </h4> 
+
+
+
+                                  </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter IX </h2>
+                                <p>
+ <h4 className={styles.h4}>               </h4> 
+
+                                </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter X </h2>
+                                <p>
+ <h4 className={styles.h4}>          </h4> 
+                              </p>
+  </div>
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XI </h2>
+                                <p>
+ <h4 className={styles.h4}>            </h4> 
+
+
+                                  </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XII</h2>
+                                <p>
+ <h4 className={styles.h4}>         </h4> 
+
+
+                         </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XIII</h2>
+                                <p>
+ <h4 className={styles.h4}>          </h4> 
+
+
+
+                                </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XIV</h2>
+                                <p>
+ <h4 className={styles.h4}>              </h4> 
+
+                           </p>
+  </div>
+
+
+  
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XV</h2>
+                                <p>
+ <h4 className={styles.h4}>              </h4> 
+
+                           </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XVI</h2>
+                                <p>
+ <h4 className={styles.h4}>The Tabernacle</h4> 
+
+
+                                </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter  XVII</h2>
+                                <p>
+ <h4 className={styles.h4}>              </h4> 
+
+
+  
+                                </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XVIII</h2>
+                                <p>
+ <h4 className={styles.h4}>            </h4> 
+
+
+
+  
+
+                                </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XIX </h2>
+                                <p>
+ <h4 className={styles.h4}>         </h4> 
+
+
+
+                                </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter  XX</h2>
+                                <p>
+ <h4 className={styles.h4}>           </h4> 
+
+                                </p>
+ </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XXI </h2>
+                                <p>
+ <h4 className={styles.h4}>         </h4> 
+
+
+                                </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XXII </h2>
+                                <p>
+ <h4 className={styles.h4}>             </h4> 
+
+
+                                </p>
+  </div>
+
+
+   <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XXIII </h2>
+                                <p>
+ <h4 className={styles.h4}>          </h4> 
+
+ 
+                                </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XXIV </h2>
+                                <p>
+ <h4 className={styles.h4}>           </h4> 
+      
+                                  </p>
+  </div>
+
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XXV </h2>
+                                <p>
+ <h4 className={styles.h4}>         </h4> 
+
+                                </p>
+  </div>
+
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XXVI </h2>
+                 <p>
+ <h4 className={styles.h4}>  </h4> 
+
+                </p>
+                </div>
+  
+ <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>Leviticus Chapter XXVII </h2>
+                                <p>
+ <h4 className={styles.h4}>    </h4> 
+
+
+
+
+                                    </p>
+                                  </div>
+
+
+
+  
+
+
+  
+          <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
+            <p>
+            
+            <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
+            This is the beginning of the Old Testament and it will contain the 5 books of the Torah or Pentateuch...
+              <h4>Genesis Completed</h4>
+               <h4>Exodus is Completed</h4>
+               <h4>Leviticus is Completed</h4>
+               <h4>...Numbers next</h4>
+               <h4> And lastly Deuteronomy</h4>
+              
+              The meaning of “Torah” is often restricted to signify the first five books of the Hebrew Bible (Old Testament), also called the Law (or the Pentateuch, 
+              in Christianity). 
+              These are the books traditionally ascribed to Moses, the recipient of the original revelation from God on Mount Sinai.
+              More to come on the layout...!
+     </p>
+          </div>
+
+
+     
+
+        </div>
+</div>
+        <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
+      </main>                
+
 
   
   </div>   
