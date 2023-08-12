@@ -4030,15 +4030,23 @@ The Glory of the Lord
                                   </div>
                                   
                               
-        <div className={styles.grid2}>
+        <div className={styles.grid}>
           
 
-   <div className={styles.card2}
+   <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter I </h2>
                                 <p>
- <h4 className={styles.h4}>       </h4> 
+ <h4 className={styles.h4}>The Burnt Offering</h4> 
 
+
+1 The Lord called to Moses and spoke to him from the tent of meeting. He said, 2 “Speak to the Israelites and say to them: ‘When anyone among you brings an offering to the Lord, bring as your offering an animal from either the herd or the flock.
+
+3 “‘If the offering is a burnt offering from the herd, you are to offer a male without defect. You must present it at the entrance to the tent of meeting so that it will be acceptable to the Lord. 4 You are to lay your hand on the head of the burnt offering, and it will be accepted on your behalf to make atonement for you. 5 You are to slaughter the young bull before the Lord, and then Aaron’s sons the priests shall bring the blood and splash it against the sides of the altar at the entrance to the tent of meeting. 6 You are to skin the burnt offering and cut it into pieces. 7 The sons of Aaron the priest are to put fire on the altar and arrange wood on the fire. 8 Then Aaron’s sons the priests shall arrange the pieces, including the head and the fat, on the wood that is burning on the altar. 9 You are to wash the internal organs and the legs with water, and the priest is to burn all of it on the altar. It is a burnt offering, a food offering, an aroma pleasing to the Lord.
+
+10 “‘If the offering is a burnt offering from the flock, from either the sheep or the goats, you are to offer a male without defect. 11 You are to slaughter it at the north side of the altar before the Lord, and Aaron’s sons the priests shall splash its blood against the sides of the altar. 12 You are to cut it into pieces, and the priest shall arrange them, including the head and the fat, on the wood that is burning on the altar. 13 You are to wash the internal organs and the legs with water, and the priest is to bring all of them and burn them on the altar. It is a burnt offering, a food offering, an aroma pleasing to the Lord.
+
+14 “‘If the offering to the Lord is a burnt offering of birds, you are to offer a dove or a young pigeon. 15 The priest shall bring it to the altar, wring off the head and burn it on the altar; its blood shall be drained out on the side of the altar. 16 He is to remove the crop and the feathers[a] and throw them down east of the altar where the ashes are. 17 He shall tear it open by the wings, not dividing it completely, and then the priest shall burn it on the wood that is burning on the altar. It is a burnt offering, a food offering, an aroma pleasing to the Lord.
 
 
                                   </p>
@@ -4049,21 +4057,34 @@ The Glory of the Lord
           >
             <h2 className={styles.chapter2}>Leviticus Chapter II </h2>
                                 <p>
- <h4 className={styles.h4}>          </h4> 
+ <h4 className={styles.h4}>  The Grain Offering</h4> 
  
-  
-                                </p>
+
+2 “‘When anyone brings a grain offering to the Lord, their offering is to be of the finest flour. They are to pour olive oil on it, put incense on it 2 and take it to Aaron’s sons the priests. The priest shall take a handful of the flour and oil, together with all the incense, and burn this as a memorial[a] portion on the altar, a food offering, an aroma pleasing to the Lord. 3 The rest of the grain offering belongs to Aaron and his sons; it is a most holy part of the food offerings presented to the Lord.
+
+4 “‘If you bring a grain offering baked in an oven, it is to consist of the finest flour: either thick loaves made without yeast and with olive oil mixed in or thin loaves made without yeast and brushed with olive oil. 5 If your grain offering is prepared on a griddle, it is to be made of the finest flour mixed with oil, and without yeast. 6 Crumble it and pour oil on it; it is a grain offering. 7 If your grain offering is cooked in a pan, it is to be made of the finest flour and some olive oil. 8 Bring the grain offering made of these things to the Lord; present it to the priest, who shall take it to the altar. 9 He shall take out the memorial portion from the grain offering and burn it on the altar as a food offering, an aroma pleasing to the Lord. 10 The rest of the grain offering belongs to Aaron and his sons; it is a most holy part of the food offerings presented to the Lord.
+
+11 “‘Every grain offering you bring to the Lord must be made without yeast, for you are not to burn any yeast or honey in a food offering presented to the Lord. 12 You may bring them to the Lord as an offering of the firstfruits, but they are not to be offered on the altar as a pleasing aroma. 13 Season all your grain offerings with salt. Do not leave the salt of the covenant of your God out of your grain offerings; add salt to all your offerings.
+
+14 “‘If you bring a grain offering of firstfruits to the Lord, offer crushed heads of new grain roasted in the fire. 15 Put oil and incense on it; it is a grain offering. 16 The priest shall burn the memorial portion of the crushed grain and the oil, together with all the incense, as a food offering presented to the Lord.
+  </p>
   </div>
 
 
- <div className={styles.card2}
+ <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter III </h2>
                                 <p>
- <h4 className={styles.h4}>         </h4> 
+ <h4 className={styles.h4}>The Fellowship Offering</h4> 
 
 
+3 “‘If your offering is a fellowship offering, and you offer an animal from the herd, whether male or female, you are to present before the Lord an animal without defect. 2 You are to lay your hand on the head of your offering and slaughter it at the entrance to the tent of meeting. Then Aaron’s sons the priests shall splash the blood against the sides of the altar. 3 From the fellowship offering you are to bring a food offering to the Lord: the internal organs and all the fat that is connected to them, 4 both kidneys with the fat on them near the loins, and the long lobe of the liver, which you will remove with the kidneys. 5 Then Aaron’s sons are to burn it on the altar on top of the burnt offering that is lying on the burning wood; it is a food offering, an aroma pleasing to the Lord.
 
+6 “‘If you offer an animal from the flock as a fellowship offering to the Lord, you are to offer a male or female without defect. 7 If you offer a lamb, you are to present it before the Lord, 8 lay your hand on its head and slaughter it in front of the tent of meeting. Then Aaron’s sons shall splash its blood against the sides of the altar. 9 From the fellowship offering you are to bring a food offering to the Lord: its fat, the entire fat tail cut off close to the backbone, the internal organs and all the fat that is connected to them, 10 both kidneys with the fat on them near the loins, and the long lobe of the liver, which you will remove with the kidneys. 11 The priest shall burn them on the altar as a food offering presented to the Lord.
+
+12 “‘If your offering is a goat, you are to present it before the Lord, 13 lay your hand on its head and slaughter it in front of the tent of meeting. Then Aaron’s sons shall splash its blood against the sides of the altar. 14 From what you offer you are to present this food offering to the Lord: the internal organs and all the fat that is connected to them, 15 both kidneys with the fat on them near the loins, and the long lobe of the liver, which you will remove with the kidneys. 16 The priest shall burn them on the altar as a food offering, a pleasing aroma. All the fat is the Lord’s.
+
+17 “‘This is a lasting ordinance for the generations to come, wherever you live: You must not eat any fat or any blood.’”
 
                                   
                                 </p>
@@ -4075,22 +4096,45 @@ The Glory of the Lord
           >
             <h2 className={styles.chapter2}>Leviticus Chapter IV </h2>
                                 <p>
- <h4 className={styles.h4}>            </h4> 
+ <h4 className={styles.h4}>The Sin Offering</h4> 
 
- 
+
+4 The Lord said to Moses, 2 “Say to the Israelites: ‘When anyone sins unintentionally and does what is forbidden in any of the Lord’s commands—
+
+3 “‘If the anointed priest sins, bringing guilt on the people, he must bring to the Lord a young bull without defect as a sin offering[a] for the sin he has committed. 4 He is to present the bull at the entrance to the tent of meeting before the Lord. He is to lay his hand on its head and slaughter it there before the Lord. 5 Then the anointed priest shall take some of the bull’s blood and carry it into the tent of meeting. 6 He is to dip his finger into the blood and sprinkle some of it seven times before the Lord, in front of the curtain of the sanctuary. 7 The priest shall then put some of the blood on the horns of the altar of fragrant incense that is before the Lord in the tent of meeting. The rest of the bull’s blood he shall pour out at the base of the altar of burnt offering at the entrance to the tent of meeting. 8 He shall remove all the fat from the bull of the sin offering—all the fat that is connected to the internal organs, 9 both kidneys with the fat on them near the loins, and the long lobe of the liver, which he will remove with the kidneys— 10 just as the fat is removed from the ox[b] sacrificed as a fellowship offering. Then the priest shall burn them on the altar of burnt offering. 11 But the hide of the bull and all its flesh, as well as the head and legs, the internal organs and the intestines— 12 that is, all the rest of the bull—he must take outside the camp to a place ceremonially clean, where the ashes are thrown, and burn it there in a wood fire on the ash heap.
+
+13 “‘If the whole Israelite community sins unintentionally and does what is forbidden in any of the Lord’s commands, even though the community is unaware of the matter, when they realize their guilt 14 and the sin they committed becomes known, the assembly must bring a young bull as a sin offering and present it before the tent of meeting. 15 The elders of the community are to lay their hands on the bull’s head before the Lord, and the bull shall be slaughtered before the Lord. 16 Then the anointed priest is to take some of the bull’s blood into the tent of meeting. 17 He shall dip his finger into the blood and sprinkle it before the Lord seven times in front of the curtain. 18 He is to put some of the blood on the horns of the altar that is before the Lord in the tent of meeting. The rest of the blood he shall pour out at the base of the altar of burnt offering at the entrance to the tent of meeting. 19 He shall remove all the fat from it and burn it on the altar, 20 and do with this bull just as he did with the bull for the sin offering. In this way the priest will make atonement for the community, and they will be forgiven. 21 Then he shall take the bull outside the camp and burn it as he burned the first bull. This is the sin offering for the community.
+
+22 “‘When a leader sins unintentionally and does what is forbidden in any of the commands of the Lord his God, when he realizes his guilt 23 and the sin he has committed becomes known, he must bring as his offering a male goat without defect. 24 He is to lay his hand on the goat’s head and slaughter it at the place where the burnt offering is slaughtered before the Lord. It is a sin offering. 25 Then the priest shall take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering and pour out the rest of the blood at the base of the altar. 26 He shall burn all the fat on the altar as he burned the fat of the fellowship offering. In this way the priest will make atonement for the leader’s sin, and he will be forgiven.
+
+27 “‘If any member of the community sins unintentionally and does what is forbidden in any of the Lord’s commands, when they realize their guilt 28 and the sin they have committed becomes known, they must bring as their offering for the sin they committed a female goat without defect. 29 They are to lay their hand on the head of the sin offering and slaughter it at the place of the burnt offering. 30 Then the priest is to take some of the blood with his finger and put it on the horns of the altar of burnt offering and pour out the rest of the blood at the base of the altar. 31 They shall remove all the fat, just as the fat is removed from the fellowship offering, and the priest shall burn it on the altar as an aroma pleasing to the Lord. In this way the priest will make atonement for them, and they will be forgiven.
+
+32 “‘If someone brings a lamb as their sin offering, they are to bring a female without defect. 33 They are to lay their hand on its head and slaughter it for a sin offering at the place where the burnt offering is slaughtered. 34 Then the priest shall take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering and pour out the rest of the blood at the base of the altar. 35 They shall remove all the fat, just as the fat is removed from the lamb of the fellowship offering, and the priest shall burn it on the altar on top of the food offerings presented to the Lord. In this way the priest will make atonement for them for the sin they have committed, and they will be forgiven.
+  
+  
                                   </p>
   </div>
 
 
 
-   <div className={styles.card2}
+   <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter V </h2>
                                 <p>
- <h4 className={styles.h4}>          </h4> 
+ <h4 className={styles.h4}>Leviticus V</h4> 
 
+5 “‘If anyone sins because they do not speak up when they hear a public charge to testify regarding something they have seen or learned about, they will be held responsible.
 
+2 “‘If anyone becomes aware that they are guilty—if they unwittingly touch anything ceremonially unclean (whether the carcass of an unclean animal, wild or domestic, or of any unclean creature that moves along the ground) and they are unaware that they have become unclean, but then they come to realize their guilt; 3 or if they touch human uncleanness (anything that would make them unclean) even though they are unaware of it, but then they learn of it and realize their guilt; 4 or if anyone thoughtlessly takes an oath to do anything, whether good or evil (in any matter one might carelessly swear about) even though they are unaware of it, but then they learn of it and realize their guilt— 5 when anyone becomes aware that they are guilty in any of these matters, they must confess in what way they have sinned. 6 As a penalty for the sin they have committed, they must bring to the Lord a female lamb or goat from the flock as a sin offering[a]; and the priest shall make atonement for them for their sin.
 
+7 “‘Anyone who cannot afford a lamb is to bring two doves or two young pigeons to the Lord as a penalty for their sin—one for a sin offering and the other for a burnt offering. 8 They are to bring them to the priest, who shall first offer the one for the sin offering. He is to wring its head from its neck, not dividing it completely, 9 and is to splash some of the blood of the sin offering against the side of the altar; the rest of the blood must be drained out at the base of the altar. It is a sin offering. 10 The priest shall then offer the other as a burnt offering in the prescribed way and make atonement for them for the sin they have committed, and they will be forgiven.
+
+11 “‘If, however, they cannot afford two doves or two young pigeons, they are to bring as an offering for their sin a tenth of an ephah[b] of the finest flour for a sin offering. They must not put olive oil or incense on it, because it is a sin offering. 12 They are to bring it to the priest, who shall take a handful of it as a memorial[c] portion and burn it on the altar on top of the food offerings presented to the Lord. It is a sin offering. 13 In this way the priest will make atonement for them for any of these sins they have committed, and they will be forgiven. The rest of the offering will belong to the priest, as in the case of the grain offering.’”
+
+The Guilt Offering
+14 The Lord said to Moses: 15 “When anyone is unfaithful to the Lord by sinning unintentionally in regard to any of the Lord’s holy things, they are to bring to the Lord as a penalty a ram from the flock, one without defect and of the proper value in silver, according to the sanctuary shekel.[d] It is a guilt offering. 16 They must make restitution for what they have failed to do in regard to the holy things, pay an additional penalty of a fifth of its value and give it all to the priest. The priest will make atonement for them with the ram as a guilt offering, and they will be forgiven.
+
+17 “If anyone sins and does what is forbidden in any of the Lord’s commands, even though they do not know it, they are guilty and will be held responsible. 18 They are to bring to the priest as a guilt offering a ram from the flock, one without defect and of the proper value. In this way the priest will make atonement for them for the wrong they have committed unintentionally, and they will be forgiven. 19 It is a guilt offering; they have been guilty of[e] wrongdoing against the Lord.”
                                   </p>
   </div>
 
@@ -4100,15 +4144,25 @@ The Glory of the Lord
           >
             <h2 className={styles.chapter2}>Leviticus Chapter VI </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>Leviticus VI</h4> 
 
 
+6 [a]The Lord said to Moses: 2 “If anyone sins and is unfaithful to the Lord by deceiving a neighbor about something entrusted to them or left in their care or about something stolen, or if they cheat their neighbor, 3 or if they find lost property and lie about it, or if they swear falsely about any such sin that people may commit— 4 when they sin in any of these ways and realize their guilt, they must return what they have stolen or taken by extortion, or what was entrusted to them, or the lost property they found, 5 or whatever it was they swore falsely about. They must make restitution in full, add a fifth of the value to it and give it all to the owner on the day they present their guilt offering. 6 And as a penalty they must bring to the priest, that is, to the Lord, their guilt offering, a ram from the flock, one without defect and of the proper value. 7 In this way the priest will make atonement for them before the Lord, and they will be forgiven for any of the things they did that made them guilty.”
 
+The Burnt Offering
+8 The Lord said to Moses: 9 “Give Aaron and his sons this command: ‘These are the regulations for the burnt offering: The burnt offering is to remain on the altar hearth throughout the night, till morning, and the fire must be kept burning on the altar. 10 The priest shall then put on his linen clothes, with linen undergarments next to his body, and shall remove the ashes of the burnt offering that the fire has consumed on the altar and place them beside the altar. 11 Then he is to take off these clothes and put on others, and carry the ashes outside the camp to a place that is ceremonially clean. 12 The fire on the altar must be kept burning; it must not go out. Every morning the priest is to add firewood and arrange the burnt offering on the fire and burn the fat of the fellowship offerings on it. 13 The fire must be kept burning on the altar continuously; it must not go out.
 
+The Grain Offering
+14 “‘These are the regulations for the grain offering: Aaron’s sons are to bring it before the Lord, in front of the altar. 15 The priest is to take a handful of the finest flour and some olive oil, together with all the incense on the grain offering, and burn the memorial[b] portion on the altar as an aroma pleasing to the Lord. 16 Aaron and his sons shall eat the rest of it, but it is to be eaten without yeast in the sanctuary area; they are to eat it in the courtyard of the tent of meeting. 17 It must not be baked with yeast; I have given it as their share of the food offerings presented to me. Like the sin offering[c] and the guilt offering, it is most holy. 18 Any male descendant of Aaron may eat it. For all generations to come it is his perpetual share of the food offerings presented to the Lord. Whatever touches them will become holy.[d]’”
+
+19 The Lord also said to Moses, 20 “This is the offering Aaron and his sons are to bring to the Lord on the day he[e] is anointed: a tenth of an ephah[f] of the finest flour as a regular grain offering, half of it in the morning and half in the evening. 21 It must be prepared with oil on a griddle; bring it well-mixed and present the grain offering broken[g] in pieces as an aroma pleasing to the Lord. 22 The son who is to succeed him as anointed priest shall prepare it. It is the Lord’s perpetual share and is to be burned completely. 23 Every grain offering of a priest shall be burned completely; it must not be eaten.”
+
+The Sin Offering
+24 The Lord said to Moses, 25 “Say to Aaron and his sons: ‘These are the regulations for the sin offering: The sin offering is to be slaughtered before the Lord in the place the burnt offering is slaughtered; it is most holy. 26 The priest who offers it shall eat it; it is to be eaten in the sanctuary area, in the courtyard of the tent of meeting. 27 Whatever touches any of the flesh will become holy, and if any of the blood is spattered on a garment, you must wash it in the sanctuary area. 28 The clay pot the meat is cooked in must be broken; but if it is cooked in a bronze pot, the pot is to be scoured and rinsed with water. 29 Any male in a priest’s family may eat it; it is most holy. 30 But any sin offering whose blood is brought into the tent of meeting to make atonement in the Holy Place must not be eaten; it must be burned up.
                                </p>
   </div>
 
- <div className={styles.card2}
+ <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter VII </h2>
                                 <p>
@@ -4132,7 +4186,7 @@ The Glory of the Lord
                                   </p>
   </div>
 
- <div className={styles.card2}
+ <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter IX </h2>
                                 <p>
@@ -4150,7 +4204,7 @@ The Glory of the Lord
                               </p>
   </div>
 
-   <div className={styles.card2}
+   <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XI </h2>
                                 <p>
@@ -4171,7 +4225,7 @@ The Glory of the Lord
   </div>
 
 
-   <div className={styles.card2}
+   <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XIII</h2>
                                 <p>
@@ -4193,7 +4247,7 @@ The Glory of the Lord
 
 
   
- <div className={styles.card2}
+ <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XV</h2>
                                 <p>
@@ -4207,13 +4261,13 @@ The Glory of the Lord
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XVI</h2>
                                 <p>
- <h4 className={styles.h4}>The Tabernacle</h4> 
+ <h4 className={styles.h4}>              </h4> 
 
 
                                 </p>
   </div>
 
- <div className={styles.card2}
+ <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter  XVII</h2>
                                 <p>
@@ -4239,7 +4293,7 @@ The Glory of the Lord
   </div>
 
 
-   <div className={styles.card2}
+   <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XIX </h2>
                                 <p>
@@ -4260,7 +4314,7 @@ The Glory of the Lord
  </div>
 
 
-   <div className={styles.card2}
+   <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XXI </h2>
                                 <p>
@@ -4282,7 +4336,7 @@ The Glory of the Lord
   </div>
 
 
-   <div className={styles.card2}
+   <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XXIII </h2>
                                 <p>
@@ -4303,7 +4357,7 @@ The Glory of the Lord
   </div>
 
 
- <div className={styles.card2}
+ <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XXV </h2>
                                 <p>
@@ -4321,7 +4375,7 @@ The Glory of the Lord
                 </p>
                 </div>
   
- <div className={styles.card2}
+ <div className={styles.card}
           >
             <h2 className={styles.chapter2}>Leviticus Chapter XXVII </h2>
                                 <p>
