@@ -3942,11 +3942,11 @@ The Glory of the Lord
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
             This is the beginning of the Old Testament and it will contain the 5 books of the Torah or Pentateuch...
-              <h4>Genesis Completed</h4>
-               <h4>Exodus is Completed</h4>
-               <h4>Leviticus coming soon</h4>
-               <h4>...Numbers next</h4>
-               <h4> And lastly Deuteronomy</h4>
+              <h4 className={styles.h4}>Genesis Completed</h4>
+               <h4 className={styles.h4}>Exodus is Completed</h4>
+               <h4 className={styles.h4}>Leviticus coming soon</h4>
+               <h4 className={styles.h4}>...Numbers next</h4>
+              <h4 className={styles.h4}> And lastly Deuteronomy</h4>
               
               The meaning of “Torah” is often restricted to signify the first five books of the Hebrew Bible (Old Testament), also called the Law (or the Pentateuch, 
               in Christianity). 
@@ -4939,11 +4939,11 @@ Punishment for Disobedience
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
             This is the beginning of the Old Testament and it will contain the 5 books of the Torah or Pentateuch...
-              <h4>Genesis Completed</h4>
-               <h4>Exodus is Completed</h4>
-               <h4>Leviticus is Completed</h4>
-               <h4>...Numbers next</h4>
-               <h4> And lastly Deuteronomy</h4>
+              <h4 className={styles.h4}>Genesis Completed</h4>
+               <h4 className={styles.h4}>Exodus is Completed</h4>
+              <h4 className={styles.h4}>Leviticus is Completed</h4>
+               <h4 className={styles.h4}>...Numbers next</h4>
+               <h4 className={styles.h4}> And lastly Deuteronomy</h4>
               
               The meaning of “Torah” is often restricted to signify the first five books of the Hebrew Bible (Old Testament), also called the Law (or the Pentateuch, 
               in Christianity). 
