@@ -3979,8 +3979,8 @@ The Glory of the Lord
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/exodus.png"
-                                                    alt="hero image for Thessalonians"
+                                                    src="/leviticus.png"
+                                                    alt="hero image for Leviticus"
                                                     height={900}
                                                     width={2000}
                                                     priority
@@ -4026,7 +4026,7 @@ The Glory of the Lord
          
                </div>
                                  <div className={styles.iframe}> 
-                                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/jH_aojNJM3E?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/IJ-FekWUZzE?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>
                                   
                               
