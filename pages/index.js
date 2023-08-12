@@ -3990,7 +3990,7 @@ The Glory of the Lord
                         </div>
     <p className={styles.parables}>
 
-           Leviticus will have a description coming soon
+           Leviticus means "about the Levites" and it details the regulations for their holy living as God's people.
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#genesis">
