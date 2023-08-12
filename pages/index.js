@@ -3992,7 +3992,7 @@ The Glory of the Lord
 
            Leviticus will have a description coming soon
 </p>                                                      
-                  <div className={styles.nav2}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#genesis">
              <Image 
                                 src="/previous.webp"
@@ -4035,7 +4035,7 @@ The Glory of the Lord
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter I </h2>
+            <h2 className={styles.chapter}>Leviticus Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>The Burnt Offering</h4> 
 
@@ -4073,7 +4073,7 @@ The Glory of the Lord
 
  <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter III </h2>
+            <h2 className={styles.chapter}>Leviticus Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>The Fellowship Offering</h4> 
 
@@ -4119,7 +4119,7 @@ The Glory of the Lord
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter V </h2>
+            <h2 className={styles.chapter}>Leviticus Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>Leviticus V</h4> 
 
@@ -4164,13 +4164,34 @@ The Sin Offering
 
  <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter VII </h2>
+            <h2 className={styles.chapter}>Leviticus Chapter VII </h2>
                                 <p>
- <h4 className={styles.h4}>             </h4> 
+ <h4 className={styles.h4}>The Guilt Offering</h4> 
 
 
 
-                                  
+7 “‘These are the regulations for the guilt offering, which is most holy: 2 The guilt offering is to be slaughtered in the place where the burnt offering is slaughtered, and its blood is to be splashed against the sides of the altar. 3 All its fat shall be offered: the fat tail and the fat that covers the internal organs, 4 both kidneys with the fat on them near the loins, and the long lobe of the liver, which is to be removed with the kidneys. 5 The priest shall burn them on the altar as a food offering presented to the Lord. It is a guilt offering. 6 Any male in a priest’s family may eat it, but it must be eaten in the sanctuary area; it is most holy.
+
+7 “‘The same law applies to both the sin offering[a] and the guilt offering: They belong to the priest who makes atonement with them. 8 The priest who offers a burnt offering for anyone may keep its hide for himself. 9 Every grain offering baked in an oven or cooked in a pan or on a griddle belongs to the priest who offers it, 10 and every grain offering, whether mixed with olive oil or dry, belongs equally to all the sons of Aaron.
+
+The Fellowship Offering
+11 “‘These are the regulations for the fellowship offering anyone may present to the Lord:
+
+12 “‘If they offer it as an expression of thankfulness, then along with this thank offering they are to offer thick loaves made without yeast and with olive oil mixed in, thin loaves made without yeast and brushed with oil, and thick loaves of the finest flour well-kneaded and with oil mixed in. 13 Along with their fellowship offering of thanksgiving they are to present an offering with thick loaves of bread made with yeast. 14 They are to bring one of each kind as an offering, a contribution to the Lord; it belongs to the priest who splashes the blood of the fellowship offering against the altar. 15 The meat of their fellowship offering of thanksgiving must be eaten on the day it is offered; they must leave none of it till morning.
+
+16 “‘If, however, their offering is the result of a vow or is a freewill offering, the sacrifice shall be eaten on the day they offer it, but anything left over may be eaten on the next day. 17 Any meat of the sacrifice left over till the third day must be burned up. 18 If any meat of the fellowship offering is eaten on the third day, the one who offered it will not be accepted. It will not be reckoned to their credit, for it has become impure; the person who eats any of it will be held responsible.
+
+19 “‘Meat that touches anything ceremonially unclean must not be eaten; it must be burned up. As for other meat, anyone ceremonially clean may eat it. 20 But if anyone who is unclean eats any meat of the fellowship offering belonging to the Lord, they must be cut off from their people. 21 Anyone who touches something unclean—whether human uncleanness or an unclean animal or any unclean creature that moves along the ground[b]—and then eats any of the meat of the fellowship offering belonging to the Lord must be cut off from their people.’”
+
+Eating Fat and Blood Forbidden
+22 The Lord said to Moses, 23 “Say to the Israelites: ‘Do not eat any of the fat of cattle, sheep or goats. 24 The fat of an animal found dead or torn by wild animals may be used for any other purpose, but you must not eat it. 25 Anyone who eats the fat of an animal from which a food offering may be[c] presented to the Lord must be cut off from their people. 26 And wherever you live, you must not eat the blood of any bird or animal. 27 Anyone who eats blood must be cut off from their people.’”
+
+The Priests’ Share
+28 The Lord said to Moses, 29 “Say to the Israelites: ‘Anyone who brings a fellowship offering to the Lord is to bring part of it as their sacrifice to the Lord. 30 With their own hands they are to present the food offering to the Lord; they are to bring the fat, together with the breast, and wave the breast before the Lord as a wave offering. 31 The priest shall burn the fat on the altar, but the breast belongs to Aaron and his sons. 32 You are to give the right thigh of your fellowship offerings to the priest as a contribution. 33 The son of Aaron who offers the blood and the fat of the fellowship offering shall have the right thigh as his share. 34 From the fellowship offerings of the Israelites, I have taken the breast that is waved and the thigh that is presented and have given them to Aaron the priest and his sons as their perpetual share from the Israelites.’”
+
+35 This is the portion of the food offerings presented to the Lord that were allotted to Aaron and his sons on the day they were presented to serve the Lord as priests. 36 On the day they were anointed, the Lord commanded that the Israelites give this to them as their perpetual share for the generations to come.
+
+37 These, then, are the regulations for the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering and the fellowship offering, 38 which the Lord gave Moses at Mount Sinai in the Desert of Sinai on the day he commanded the Israelites to bring their offerings to the Lord.                                  
                                 </p>
   </div>
 
@@ -4179,8 +4200,26 @@ The Sin Offering
           >
             <h2 className={styles.chapter2}>Leviticus Chapter VIII </h2>
                                 <p>
- <h4 className={styles.h4}>              </h4> 
+ <h4 className={styles.h4}>The Ordination of Aaron and His Sons</h4> 
 
+
+8 The Lord said to Moses, 2 “Bring Aaron and his sons, their garments, the anointing oil, the bull for the sin offering,[a] the two rams and the basket containing bread made without yeast, 3 and gather the entire assembly at the entrance to the tent of meeting.” 4 Moses did as the Lord commanded him, and the assembly gathered at the entrance to the tent of meeting.
+
+5 Moses said to the assembly, “This is what the Lord has commanded to be done.” 6 Then Moses brought Aaron and his sons forward and washed them with water. 7 He put the tunic on Aaron, tied the sash around him, clothed him with the robe and put the ephod on him. He also fastened the ephod with a decorative waistband, which he tied around him. 8 He placed the breastpiece on him and put the Urim and Thummim in the breastpiece. 9 Then he placed the turban on Aaron’s head and set the gold plate, the sacred emblem, on the front of it, as the Lord commanded Moses.
+
+10 Then Moses took the anointing oil and anointed the tabernacle and everything in it, and so consecrated them. 11 He sprinkled some of the oil on the altar seven times, anointing the altar and all its utensils and the basin with its stand, to consecrate them. 12 He poured some of the anointing oil on Aaron’s head and anointed him to consecrate him. 13 Then he brought Aaron’s sons forward, put tunics on them, tied sashes around them and fastened caps on them, as the Lord commanded Moses.
+
+14 He then presented the bull for the sin offering, and Aaron and his sons laid their hands on its head. 15 Moses slaughtered the bull and took some of the blood, and with his finger he put it on all the horns of the altar to purify the altar. He poured out the rest of the blood at the base of the altar. So he consecrated it to make atonement for it. 16 Moses also took all the fat around the internal organs, the long lobe of the liver, and both kidneys and their fat, and burned it on the altar. 17 But the bull with its hide and its flesh and its intestines he burned up outside the camp, as the Lord commanded Moses.
+
+18 He then presented the ram for the burnt offering, and Aaron and his sons laid their hands on its head. 19 Then Moses slaughtered the ram and splashed the blood against the sides of the altar. 20 He cut the ram into pieces and burned the head, the pieces and the fat. 21 He washed the internal organs and the legs with water and burned the whole ram on the altar. It was a burnt offering, a pleasing aroma, a food offering presented to the Lord, as the Lord commanded Moses.
+
+22 He then presented the other ram, the ram for the ordination, and Aaron and his sons laid their hands on its head. 23 Moses slaughtered the ram and took some of its blood and put it on the lobe of Aaron’s right ear, on the thumb of his right hand and on the big toe of his right foot. 24 Moses also brought Aaron’s sons forward and put some of the blood on the lobes of their right ears, on the thumbs of their right hands and on the big toes of their right feet. Then he splashed blood against the sides of the altar. 25 After that, he took the fat, the fat tail, all the fat around the internal organs, the long lobe of the liver, both kidneys and their fat and the right thigh. 26 And from the basket of bread made without yeast, which was before the Lord, he took one thick loaf, one thick loaf with olive oil mixed in, and one thin loaf, and he put these on the fat portions and on the right thigh. 27 He put all these in the hands of Aaron and his sons, and they waved them before the Lord as a wave offering. 28 Then Moses took them from their hands and burned them on the altar on top of the burnt offering as an ordination offering, a pleasing aroma, a food offering presented to the Lord. 29 Moses also took the breast, which was his share of the ordination ram, and waved it before the Lord as a wave offering, as the Lord commanded Moses.
+
+30 Then Moses took some of the anointing oil and some of the blood from the altar and sprinkled them on Aaron and his garments and on his sons and their garments. So he consecrated Aaron and his garments and his sons and their garments.
+
+31 Moses then said to Aaron and his sons, “Cook the meat at the entrance to the tent of meeting and eat it there with the bread from the basket of ordination offerings, as I was commanded: ‘Aaron and his sons are to eat it.’ 32 Then burn up the rest of the meat and the bread. 33 Do not leave the entrance to the tent of meeting for seven days, until the days of your ordination are completed, for your ordination will last seven days. 34 What has been done today was commanded by the Lord to make atonement for you. 35 You must stay at the entrance to the tent of meeting day and night for seven days and do what the Lord requires, so you will not die; for that is what I have been commanded.”
+
+36 So Aaron and his sons did everything the Lord commanded through Moses.
 
 
                                   </p>
@@ -4188,10 +4227,30 @@ The Sin Offering
 
  <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter IX </h2>
+            <h2 className={styles.chapter}>Leviticus Chapter IX </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>The Priests Begin Their Ministry</h4> 
 
+9 On the eighth day Moses summoned Aaron and his sons and the elders of Israel. 2 He said to Aaron, “Take a bull calf for your sin offering[a] and a ram for your burnt offering, both without defect, and present them before the Lord. 3 Then say to the Israelites: ‘Take a male goat for a sin offering, a calf and a lamb—both a year old and without defect—for a burnt offering, 4 and an ox[b] and a ram for a fellowship offering to sacrifice before the Lord, together with a grain offering mixed with olive oil. For today the Lord will appear to you.’”
+
+5 They took the things Moses commanded to the front of the tent of meeting, and the entire assembly came near and stood before the Lord. 6 Then Moses said, “This is what the Lord has commanded you to do, so that the glory of the Lord may appear to you.”
+
+7 Moses said to Aaron, “Come to the altar and sacrifice your sin offering and your burnt offering and make atonement for yourself and the people; sacrifice the offering that is for the people and make atonement for them, as the Lord has commanded.”
+
+8 So Aaron came to the altar and slaughtered the calf as a sin offering for himself. 9 His sons brought the blood to him, and he dipped his finger into the blood and put it on the horns of the altar; the rest of the blood he poured out at the base of the altar. 10 On the altar he burned the fat, the kidneys and the long lobe of the liver from the sin offering, as the Lord commanded Moses; 11 the flesh and the hide he burned up outside the camp.
+
+12 Then he slaughtered the burnt offering. His sons handed him the blood, and he splashed it against the sides of the altar. 13 They handed him the burnt offering piece by piece, including the head, and he burned them on the altar. 14 He washed the internal organs and the legs and burned them on top of the burnt offering on the altar.
+
+15 Aaron then brought the offering that was for the people. He took the goat for the people’s sin offering and slaughtered it and offered it for a sin offering as he did with the first one.
+
+16 He brought the burnt offering and offered it in the prescribed way. 17 He also brought the grain offering, took a handful of it and burned it on the altar in addition to the morning’s burnt offering.
+
+18 He slaughtered the ox and the ram as the fellowship offering for the people. His sons handed him the blood, and he splashed it against the sides of the altar. 19 But the fat portions of the ox and the ram—the fat tail, the layer of fat, the kidneys and the long lobe of the liver— 20 these they laid on the breasts, and then Aaron burned the fat on the altar. 21 Aaron waved the breasts and the right thigh before the Lord as a wave offering, as Moses commanded.
+
+22 Then Aaron lifted his hands toward the people and blessed them. And having sacrificed the sin offering, the burnt offering and the fellowship offering, he stepped down.
+
+23 Moses and Aaron then went into the tent of meeting. When they came out, they blessed the people; and the glory of the Lord appeared to all the people. 24 Fire came out from the presence of the Lord and consumed the burnt offering and the fat portions on the altar. And when all the people saw it, they shouted for joy and fell facedown.
+  
                                 </p>
   </div>
 
@@ -4200,13 +4259,37 @@ The Sin Offering
           >
             <h2 className={styles.chapter2}>Leviticus Chapter X </h2>
                                 <p>
- <h4 className={styles.h4}>          </h4> 
+ <h4 className={styles.h4}>The Death of Nadab and Abihu</h4> 
+
+10 Aaron’s sons Nadab and Abihu took their censers, put fire in them and added incense; and they offered unauthorized fire before the Lord, contrary to his command. 2 So fire came out from the presence of the Lord and consumed them, and they died before the Lord. 3 Moses then said to Aaron, “This is what the Lord spoke of when he said:
+
+“‘Among those who approach me
+    I will be proved holy;
+in the sight of all the people
+    I will be honored.’”
+
+Aaron remained silent.
+
+4 Moses summoned Mishael and Elzaphan, sons of Aaron’s uncle Uzziel, and said to them, “Come here; carry your cousins outside the camp, away from the front of the sanctuary.” 5 So they came and carried them, still in their tunics, outside the camp, as Moses ordered.
+
+6 Then Moses said to Aaron and his sons Eleazar and Ithamar, “Do not let your hair become unkempt[a] and do not tear your clothes, or you will die and the Lord will be angry with the whole community. But your relatives, all the Israelites, may mourn for those the Lord has destroyed by fire. 7 Do not leave the entrance to the tent of meeting or you will die, because the Lord’s anointing oil is on you.” So they did as Moses said.
+
+8 Then the Lord said to Aaron, 9 “You and your sons are not to drink wine or other fermented drink whenever you go into the tent of meeting, or you will die. This is a lasting ordinance for the generations to come, 10 so that you can distinguish between the holy and the common, between the unclean and the clean, 11 and so you can teach the Israelites all the decrees the Lord has given them through Moses.”
+
+12 Moses said to Aaron and his remaining sons, Eleazar and Ithamar, “Take the grain offering left over from the food offerings prepared without yeast and presented to the Lord and eat it beside the altar, for it is most holy. 13 Eat it in the sanctuary area, because it is your share and your sons’ share of the food offerings presented to the Lord; for so I have been commanded. 14 But you and your sons and your daughters may eat the breast that was waved and the thigh that was presented. Eat them in a ceremonially clean place; they have been given to you and your children as your share of the Israelites’ fellowship offerings. 15 The thigh that was presented and the breast that was waved must be brought with the fat portions of the food offerings, to be waved before the Lord as a wave offering. This will be the perpetual share for you and your children, as the Lord has commanded.”
+
+16 When Moses inquired about the goat of the sin offering[b] and found that it had been burned up, he was angry with Eleazar and Ithamar, Aaron’s remaining sons, and asked, 17 “Why didn’t you eat the sin offering in the sanctuary area? It is most holy; it was given to you to take away the guilt of the community by making atonement for them before the Lord. 18 Since its blood was not taken into the Holy Place, you should have eaten the goat in the sanctuary area, as I commanded.”
+
+19 Aaron replied to Moses, “Today they sacrificed their sin offering and their burnt offering before the Lord, but such things as this have happened to me. Would the Lord have been pleased if I had eaten the sin offering today?” 20 When Moses heard this, he was satisfied.
+
+
+  
                               </p>
   </div>
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter XI </h2>
+            <h2 className={styles.chapter}>Leviticus Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>            </h4> 
 
@@ -4227,7 +4310,7 @@ The Sin Offering
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter XIII</h2>
+            <h2 className={styles.chapter}>Leviticus Chapter XIII</h2>
                                 <p>
  <h4 className={styles.h4}>          </h4> 
 
@@ -4249,7 +4332,7 @@ The Sin Offering
   
  <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter XV</h2>
+            <h2 className={styles.chapter}>Leviticus Chapter XV</h2>
                                 <p>
  <h4 className={styles.h4}>              </h4> 
 
@@ -4269,7 +4352,7 @@ The Sin Offering
 
  <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter  XVII</h2>
+            <h2 className={styles.chapter}>Leviticus Chapter  XVII</h2>
                                 <p>
  <h4 className={styles.h4}>              </h4> 
 
@@ -4295,7 +4378,7 @@ The Sin Offering
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter XIX </h2>
+            <h2 className={styles.chapter}>Leviticus Chapter XIX </h2>
                                 <p>
  <h4 className={styles.h4}>         </h4> 
 
@@ -4316,7 +4399,7 @@ The Sin Offering
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter XXI </h2>
+            <h2 className={styles.chapter}>Leviticus Chapter XXI </h2>
                                 <p>
  <h4 className={styles.h4}>         </h4> 
 
@@ -4338,7 +4421,7 @@ The Sin Offering
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter XXIII </h2>
+            <h2 className={styles.chapter}>Leviticus Chapter XXIII </h2>
                                 <p>
  <h4 className={styles.h4}>          </h4> 
 
@@ -4359,7 +4442,7 @@ The Sin Offering
 
  <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter XXV </h2>
+            <h2 className={styles.chapter}>Leviticus Chapter XXV </h2>
                                 <p>
  <h4 className={styles.h4}>         </h4> 
 
@@ -4377,7 +4460,7 @@ The Sin Offering
   
  <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>Leviticus Chapter XXVII </h2>
+            <h2 className={styles.chapter}>Leviticus Chapter XXVII </h2>
                                 <p>
  <h4 className={styles.h4}>    </h4> 
 
