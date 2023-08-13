@@ -5243,7 +5243,7 @@ These were the Levite clans, according to their families.
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter IV </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>The Kohathites</h4> 
 
