@@ -5364,8 +5364,68 @@ The Priestly Blessing
           >
             <h2 className={styles.chapter3}>Numbers Chapter VII </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Offerings at the Dedication of the Tabernacle</h4> 
 
+
+7 When Moses finished setting up the tabernacle, he anointed and consecrated it and all its furnishings. He also anointed and consecrated the altar and all its utensils. 2 Then the leaders of Israel, the heads of families who were the tribal leaders in charge of those who were counted, made offerings. 3 They brought as their gifts before the Lord six covered carts and twelve oxen—an ox from each leader and a cart from every two. These they presented before the tabernacle.
+
+4 The Lord said to Moses, 5 “Accept these from them, that they may be used in the work at the tent of meeting. Give them to the Levites as each man’s work requires.”
+
+6 So Moses took the carts and oxen and gave them to the Levites. 7 He gave two carts and four oxen to the Gershonites, as their work required, 8 and he gave four carts and eight oxen to the Merarites, as their work required. They were all under the direction of Ithamar son of Aaron, the priest. 9 But Moses did not give any to the Kohathites, because they were to carry on their shoulders the holy things, for which they were responsible.
+
+10 When the altar was anointed, the leaders brought their offerings for its dedication and presented them before the altar. 11 For the Lord had said to Moses, “Each day one leader is to bring his offering for the dedication of the altar.”
+
+12 The one who brought his offering on the first day was Nahshon son of Amminadab of the tribe of Judah.
+
+13 His offering was one silver plate weighing a hundred and thirty shekels[a] and one silver sprinkling bowl weighing seventy shekels,[b] both according to the sanctuary shekel, each filled with the finest flour mixed with olive oil as a grain offering; 14 one gold dish weighing ten shekels,[c] filled with incense; 15 one young bull, one ram and one male lamb a year old for a burnt offering; 16 one male goat for a sin offering[d]; 17 and two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Nahshon son of Amminadab.
+
+18 On the second day Nethanel son of Zuar, the leader of Issachar, brought his offering.
+
+19 The offering he brought was one silver plate weighing a hundred and thirty shekels and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with the finest flour mixed with olive oil as a grain offering; 20 one gold dish weighing ten shekels, filled with incense; 21 one young bull, one ram and one male lamb a year old for a burnt offering; 22 one male goat for a sin offering; 23 and two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Nethanel son of Zuar.
+
+24 On the third day, Eliab son of Helon, the leader of the people of Zebulun, brought his offering.
+
+25 His offering was one silver plate weighing a hundred and thirty shekels and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with the finest flour mixed with olive oil as a grain offering; 26 one gold dish weighing ten shekels, filled with incense; 27 one young bull, one ram and one male lamb a year old for a burnt offering; 28 one male goat for a sin offering; 29 and two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Eliab son of Helon.
+
+30 On the fourth day Elizur son of Shedeur, the leader of the people of Reuben, brought his offering.
+
+31 His offering was one silver plate weighing a hundred and thirty shekels and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with the finest flour mixed with olive oil as a grain offering; 32 one gold dish weighing ten shekels, filled with incense; 33 one young bull, one ram and one male lamb a year old for a burnt offering; 34 one male goat for a sin offering; 35 and two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Elizur son of Shedeur.
+
+36 On the fifth day Shelumiel son of Zurishaddai, the leader of the people of Simeon, brought his offering.
+
+37 His offering was one silver plate weighing a hundred and thirty shekels and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with the finest flour mixed with olive oil as a grain offering; 38 one gold dish weighing ten shekels, filled with incense; 39 one young bull, one ram and one male lamb a year old for a burnt offering; 40 one male goat for a sin offering; 41 and two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Shelumiel son of Zurishaddai.
+
+42 On the sixth day Eliasaph son of Deuel, the leader of the people of Gad, brought his offering.
+
+43 His offering was one silver plate weighing a hundred and thirty shekels and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with the finest flour mixed with olive oil as a grain offering; 44 one gold dish weighing ten shekels, filled with incense; 45 one young bull, one ram and one male lamb a year old for a burnt offering; 46 one male goat for a sin offering; 47 and two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Eliasaph son of Deuel.
+
+48 On the seventh day Elishama son of Ammihud, the leader of the people of Ephraim, brought his offering.
+
+49 His offering was one silver plate weighing a hundred and thirty shekels and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with the finest flour mixed with olive oil as a grain offering; 50 one gold dish weighing ten shekels, filled with incense; 51 one young bull, one ram and one male lamb a year old for a burnt offering; 52 one male goat for a sin offering; 53 and two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Elishama son of Ammihud.
+
+54 On the eighth day Gamaliel son of Pedahzur, the leader of the people of Manasseh, brought his offering.
+
+55 His offering was one silver plate weighing a hundred and thirty shekels and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with the finest flour mixed with olive oil as a grain offering; 56 one gold dish weighing ten shekels, filled with incense; 57 one young bull, one ram and one male lamb a year old for a burnt offering; 58 one male goat for a sin offering; 59 and two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Gamaliel son of Pedahzur.
+
+60 On the ninth day Abidan son of Gideoni, the leader of the people of Benjamin, brought his offering.
+
+61 His offering was one silver plate weighing a hundred and thirty shekels and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with the finest flour mixed with olive oil as a grain offering; 62 one gold dish weighing ten shekels, filled with incense; 63 one young bull, one ram and one male lamb a year old for a burnt offering; 64 one male goat for a sin offering; 65 and two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Abidan son of Gideoni.
+
+66 On the tenth day Ahiezer son of Ammishaddai, the leader of the people of Dan, brought his offering.
+
+67 His offering was one silver plate weighing a hundred and thirty shekels and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with the finest flour mixed with olive oil as a grain offering; 68 one gold dish weighing ten shekels, filled with incense; 69 one young bull, one ram and one male lamb a year old for a burnt offering; 70 one male goat for a sin offering; 71 and two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Ahiezer son of Ammishaddai.
+
+72 On the eleventh day Pagiel son of Okran, the leader of the people of Asher, brought his offering.
+
+73 His offering was one silver plate weighing a hundred and thirty shekels and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with the finest flour mixed with olive oil as a grain offering; 74 one gold dish weighing ten shekels, filled with incense; 75 one young bull, one ram and one male lamb a year old for a burnt offering; 76 one male goat for a sin offering; 77 and two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Pagiel son of Okran.
+
+78 On the twelfth day Ahira son of Enan, the leader of the people of Naphtali, brought his offering.
+
+79 His offering was one silver plate weighing a hundred and thirty shekels and one silver sprinkling bowl weighing seventy shekels, both according to the sanctuary shekel, each filled with the finest flour mixed with olive oil as a grain offering; 80 one gold dish weighing ten shekels, filled with incense; 81 one young bull, one ram and one male lamb a year old for a burnt offering; 82 one male goat for a sin offering; 83 and two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Ahira son of Enan.
+
+84 These were the offerings of the Israelite leaders for the dedication of the altar when it was anointed: twelve silver plates, twelve silver sprinkling bowls and twelve gold dishes. 85 Each silver plate weighed a hundred and thirty shekels, and each sprinkling bowl seventy shekels. Altogether, the silver dishes weighed two thousand four hundred shekels,[e] according to the sanctuary shekel. 86 The twelve gold dishes filled with incense weighed ten shekels each, according to the sanctuary shekel. Altogether, the gold dishes weighed a hundred and twenty shekels.[f] 87 The total number of animals for the burnt offering came to twelve young bulls, twelve rams and twelve male lambs a year old, together with their grain offering. Twelve male goats were used for the sin offering. 88 The total number of animals for the sacrifice of the fellowship offering came to twenty-four oxen, sixty rams, sixty male goats and sixty male lambs a year old. These were the offerings for the dedication of the altar after it was anointed.
+
+89 When Moses entered the tent of meeting to speak with the Lord, he heard the voice speaking to him from between the two cherubim above the atonement cover on the ark of the covenant law. In this way the Lord spoke to him.
 
 
 
@@ -5377,11 +5437,24 @@ The Priestly Blessing
           >
             <h2 className={styles.chapter3}>Numbers Chapter VIII </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Setting Up the Lamps</h4> 
 
 
 
+8 The Lord said to Moses, 2 “Speak to Aaron and say to him, ‘When you set up the lamps, see that all seven light up the area in front of the lampstand.’”
 
+3 Aaron did so; he set up the lamps so that they faced forward on the lampstand, just as the Lord commanded Moses. 4 This is how the lampstand was made: It was made of hammered gold—from its base to its blossoms. The lampstand was made exactly like the pattern the Lord had shown Moses.
+
+The Setting Apart of the Levites
+5 The Lord said to Moses: 6 “Take the Levites from among all the Israelites and make them ceremonially clean. 7 To purify them, do this: Sprinkle the water of cleansing on them; then have them shave their whole bodies and wash their clothes. And so they will purify themselves. 8 Have them take a young bull with its grain offering of the finest flour mixed with olive oil; then you are to take a second young bull for a sin offering.[a] 9 Bring the Levites to the front of the tent of meeting and assemble the whole Israelite community. 10 You are to bring the Levites before the Lord, and the Israelites are to lay their hands on them. 11 Aaron is to present the Levites before the Lord as a wave offering from the Israelites, so that they may be ready to do the work of the Lord.
+
+12 “Then the Levites are to lay their hands on the heads of the bulls, using one for a sin offering to the Lord and the other for a burnt offering, to make atonement for the Levites. 13 Have the Levites stand in front of Aaron and his sons and then present them as a wave offering to the Lord. 14 In this way you are to set the Levites apart from the other Israelites, and the Levites will be mine.
+
+15 “After you have purified the Levites and presented them as a wave offering, they are to come to do their work at the tent of meeting. 16 They are the Israelites who are to be given wholly to me. I have taken them as my own in place of the firstborn, the first male offspring from every Israelite woman. 17 Every firstborn male in Israel, whether human or animal, is mine. When I struck down all the firstborn in Egypt, I set them apart for myself. 18 And I have taken the Levites in place of all the firstborn sons in Israel. 19 From among all the Israelites, I have given the Levites as gifts to Aaron and his sons to do the work at the tent of meeting on behalf of the Israelites and to make atonement for them so that no plague will strike the Israelites when they go near the sanctuary.”
+
+20 Moses, Aaron and the whole Israelite community did with the Levites just as the Lord commanded Moses. 21 The Levites purified themselves and washed their clothes. Then Aaron presented them as a wave offering before the Lord and made atonement for them to purify them. 22 After that, the Levites came to do their work at the tent of meeting under the supervision of Aaron and his sons. They did with the Levites just as the Lord commanded Moses.
+
+23 The Lord said to Moses, 24 “This applies to the Levites: Men twenty-five years old or more shall come to take part in the work at the tent of meeting, 25 but at the age of fifty, they must retire from their regular service and work no longer. 26 They may assist their brothers in performing their duties at the tent of meeting, but they themselves must not do the work. This, then, is how you are to assign the responsibilities of the Levites.”
 
                                     </p>
                                   </div>
@@ -5390,10 +5463,23 @@ The Priestly Blessing
           >
             <h2 className={styles.chapter3}>Numbers Chapter IX </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The Passover</h4> 
 
 
+9 The Lord spoke to Moses in the Desert of Sinai in the first month of the second year after they came out of Egypt. He said, 2 “Have the Israelites celebrate the Passover at the appointed time. 3 Celebrate it at the appointed time, at twilight on the fourteenth day of this month, in accordance with all its rules and regulations.”
 
+4 So Moses told the Israelites to celebrate the Passover, 5 and they did so in the Desert of Sinai at twilight on the fourteenth day of the first month. The Israelites did everything just as the Lord commanded Moses.
+
+6 But some of them could not celebrate the Passover on that day because they were ceremonially unclean on account of a dead body. So they came to Moses and Aaron that same day 7 and said to Moses, “We have become unclean because of a dead body, but why should we be kept from presenting the Lord’s offering with the other Israelites at the appointed time?”
+
+8 Moses answered them, “Wait until I find out what the Lord commands concerning you.”
+
+9 Then the Lord said to Moses, 10 “Tell the Israelites: ‘When any of you or your descendants are unclean because of a dead body or are away on a journey, they are still to celebrate the Lord’s Passover, 11 but they are to do it on the fourteenth day of the second month at twilight. They are to eat the lamb, together with unleavened bread and bitter herbs. 12 They must not leave any of it till morning or break any of its bones. When they celebrate the Passover, they must follow all the regulations. 13 But if anyone who is ceremonially clean and not on a journey fails to celebrate the Passover, they must be cut off from their people for not presenting the Lord’s offering at the appointed time. They will bear the consequences of their sin.
+
+14 “‘A foreigner residing among you is also to celebrate the Lord’s Passover in accordance with its rules and regulations. You must have the same regulations for both the foreigner and the native-born.’”
+
+The Cloud Above the Tabernacle
+15 On the day the tabernacle, the tent of the covenant law, was set up, the cloud covered it. From evening till morning the cloud above the tabernacle looked like fire. 16 That is how it continued to be; the cloud covered it, and at night it looked like fire. 17 Whenever the cloud lifted from above the tent, the Israelites set out; wherever the cloud settled, the Israelites encamped. 18 At the Lord’s command the Israelites set out, and at his command they encamped. As long as the cloud stayed over the tabernacle, they remained in camp. 19 When the cloud remained over the tabernacle a long time, the Israelites obeyed the Lord’s order and did not set out. 20 Sometimes the cloud was over the tabernacle only a few days; at the Lord’s command they would encamp, and then at his command they would set out. 21 Sometimes the cloud stayed only from evening till morning, and when it lifted in the morning, they set out. Whether by day or by night, whenever the cloud lifted, they set out. 22 Whether the cloud stayed over the tabernacle for two days or a month or a year, the Israelites would remain in camp and not set out; but when it lifted, they would set out. 23 At the Lord’s command they encamped, and at the Lord’s command they set out. They obeyed the Lord’s order, in accordance with his command through Moses.
 
 
                                     </p>
@@ -5406,11 +5492,42 @@ The Priestly Blessing
           >
             <h2 className={styles.chapter3}>Numbers Chapter X </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The Silver Trumpets</h4> 
 
 
+10 The Lord said to Moses: 2 “Make two trumpets of hammered silver, and use them for calling the community together and for having the camps set out. 3 When both are sounded, the whole community is to assemble before you at the entrance to the tent of meeting. 4 If only one is sounded, the leaders—the heads of the clans of Israel—are to assemble before you. 5 When a trumpet blast is sounded, the tribes camping on the east are to set out. 6 At the sounding of a second blast, the camps on the south are to set out. The blast will be the signal for setting out. 7 To gather the assembly, blow the trumpets, but not with the signal for setting out.
 
+8 “The sons of Aaron, the priests, are to blow the trumpets. This is to be a lasting ordinance for you and the generations to come. 9 When you go into battle in your own land against an enemy who is oppressing you, sound a blast on the trumpets. Then you will be remembered by the Lord your God and rescued from your enemies. 10 Also at your times of rejoicing—your appointed festivals and New Moon feasts—you are to sound the trumpets over your burnt offerings and fellowship offerings, and they will be a memorial for you before your God. I am the Lord your God.”
 
+The Israelites Leave Sinai
+11 On the twentieth day of the second month of the second year, the cloud lifted from above the tabernacle of the covenant law. 12 Then the Israelites set out from the Desert of Sinai and traveled from place to place until the cloud came to rest in the Desert of Paran. 13 They set out, this first time, at the Lord’s command through Moses.
+
+14 The divisions of the camp of Judah went first, under their standard. Nahshon son of Amminadab was in command. 15 Nethanel son of Zuar was over the division of the tribe of Issachar, 16 and Eliab son of Helon was over the division of the tribe of Zebulun. 17 Then the tabernacle was taken down, and the Gershonites and Merarites, who carried it, set out.
+
+18 The divisions of the camp of Reuben went next, under their standard. Elizur son of Shedeur was in command. 19 Shelumiel son of Zurishaddai was over the division of the tribe of Simeon, 20 and Eliasaph son of Deuel was over the division of the tribe of Gad. 21 Then the Kohathites set out, carrying the holy things. The tabernacle was to be set up before they arrived.
+
+22 The divisions of the camp of Ephraim went next, under their standard. Elishama son of Ammihud was in command. 23 Gamaliel son of Pedahzur was over the division of the tribe of Manasseh, 24 and Abidan son of Gideoni was over the division of the tribe of Benjamin.
+
+25 Finally, as the rear guard for all the units, the divisions of the camp of Dan set out under their standard. Ahiezer son of Ammishaddai was in command. 26 Pagiel son of Okran was over the division of the tribe of Asher, 27 and Ahira son of Enan was over the division of the tribe of Naphtali. 28 This was the order of march for the Israelite divisions as they set out.
+
+29 Now Moses said to Hobab son of Reuel the Midianite, Moses’ father-in-law, “We are setting out for the place about which the Lord said, ‘I will give it to you.’ Come with us and we will treat you well, for the Lord has promised good things to Israel.”
+
+30 He answered, “No, I will not go; I am going back to my own land and my own people.”
+
+31 But Moses said, “Please do not leave us. You know where we should camp in the wilderness, and you can be our eyes. 32 If you come with us, we will share with you whatever good things the Lord gives us.”
+
+33 So they set out from the mountain of the Lord and traveled for three days. The ark of the covenant of the Lord went before them during those three days to find them a place to rest. 34 The cloud of the Lord was over them by day when they set out from the camp.
+
+35 Whenever the ark set out, Moses said,
+
+“Rise up, Lord!
+    May your enemies be scattered;
+    may your foes flee before you.”
+
+36 Whenever it came to rest, he said,
+
+“Return, Lord,
+    to the countless thousands of Israel.”
 
                                     </p>
                                   </div>
@@ -5419,9 +5536,38 @@ The Priestly Blessing
           >
             <h2 className={styles.chapter3}>Numbers Chapter XI </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Fire From the Lord</h4> 
 
 
+
+11 Now the people complained about their hardships in the hearing of the Lord, and when he heard them his anger was aroused. Then fire from the Lord burned among them and consumed some of the outskirts of the camp. 2 When the people cried out to Moses, he prayed to the Lord and the fire died down. 3 So that place was called Taberah,[a] because fire from the Lord had burned among them.
+
+Quail From the Lord
+4 The rabble with them began to crave other food, and again the Israelites started wailing and said, “If only we had meat to eat! 5 We remember the fish we ate in Egypt at no cost—also the cucumbers, melons, leeks, onions and garlic. 6 But now we have lost our appetite; we never see anything but this manna!”
+
+7 The manna was like coriander seed and looked like resin. 8 The people went around gathering it, and then ground it in a hand mill or crushed it in a mortar. They cooked it in a pot or made it into loaves. And it tasted like something made with olive oil. 9 When the dew settled on the camp at night, the manna also came down.
+
+10 Moses heard the people of every family wailing at the entrance to their tents. The Lord became exceedingly angry, and Moses was troubled. 11 He asked the Lord, “Why have you brought this trouble on your servant? What have I done to displease you that you put the burden of all these people on me? 12 Did I conceive all these people? Did I give them birth? Why do you tell me to carry them in my arms, as a nurse carries an infant, to the land you promised on oath to their ancestors? 13 Where can I get meat for all these people? They keep wailing to me, ‘Give us meat to eat!’ 14 I cannot carry all these people by myself; the burden is too heavy for me. 15 If this is how you are going to treat me, please go ahead and kill me—if I have found favor in your eyes—and do not let me face my own ruin.”
+
+16 The Lord said to Moses: “Bring me seventy of Israel’s elders who are known to you as leaders and officials among the people. Have them come to the tent of meeting, that they may stand there with you. 17 I will come down and speak with you there, and I will take some of the power of the Spirit that is on you and put it on them. They will share the burden of the people with you so that you will not have to carry it alone.
+
+18 “Tell the people: ‘Consecrate yourselves in preparation for tomorrow, when you will eat meat. The Lord heard you when you wailed, “If only we had meat to eat! We were better off in Egypt!” Now the Lord will give you meat, and you will eat it. 19 You will not eat it for just one day, or two days, or five, ten or twenty days, 20 but for a whole month—until it comes out of your nostrils and you loathe it—because you have rejected the Lord, who is among you, and have wailed before him, saying, “Why did we ever leave Egypt?”’”
+
+21 But Moses said, “Here I am among six hundred thousand men on foot, and you say, ‘I will give them meat to eat for a whole month!’ 22 Would they have enough if flocks and herds were slaughtered for them? Would they have enough if all the fish in the sea were caught for them?”
+
+23 The Lord answered Moses, “Is the Lord’s arm too short? Now you will see whether or not what I say will come true for you.”
+
+24 So Moses went out and told the people what the Lord had said. He brought together seventy of their elders and had them stand around the tent. 25 Then the Lord came down in the cloud and spoke with him, and he took some of the power of the Spirit that was on him and put it on the seventy elders. When the Spirit rested on them, they prophesied—but did not do so again.
+
+26 However, two men, whose names were Eldad and Medad, had remained in the camp. They were listed among the elders, but did not go out to the tent. Yet the Spirit also rested on them, and they prophesied in the camp. 27 A young man ran and told Moses, “Eldad and Medad are prophesying in the camp.”
+
+28 Joshua son of Nun, who had been Moses’ aide since youth, spoke up and said, “Moses, my lord, stop them!”
+
+29 But Moses replied, “Are you jealous for my sake? I wish that all the Lord’s people were prophets and that the Lord would put his Spirit on them!” 30 Then Moses and the elders of Israel returned to the camp.
+
+31 Now a wind went out from the Lord and drove quail in from the sea. It scattered them up to two cubits[b] deep all around the camp, as far as a day’s walk in any direction. 32 All that day and night and all the next day the people went out and gathered quail. No one gathered less than ten homers.[c] Then they spread them out all around the camp. 33 But while the meat was still between their teeth and before it could be consumed, the anger of the Lord burned against the people, and he struck them with a severe plague. 34 Therefore the place was named Kibroth Hattaavah,[d] because there they buried the people who had craved other food.
+
+35 From Kibroth Hattaavah the people traveled to Hazeroth and stayed there.
 
 
 
@@ -5432,8 +5578,35 @@ The Priestly Blessing
           >
             <h2 className={styles.chapter3}>Numbers Chapter XII </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Miriam and Aaron Oppose Moses</h4> 
 
+
+12 Miriam and Aaron began to talk against Moses because of his Cushite wife, for he had married a Cushite. 2 “Has the Lord spoken only through Moses?” they asked. “Hasn’t he also spoken through us?” And the Lord heard this.
+
+3 (Now Moses was a very humble man, more humble than anyone else on the face of the earth.)
+
+4 At once the Lord said to Moses, Aaron and Miriam, “Come out to the tent of meeting, all three of you.” So the three of them went out. 5 Then the Lord came down in a pillar of cloud; he stood at the entrance to the tent and summoned Aaron and Miriam. When the two of them stepped forward, 6 he said, “Listen to my words:
+
+“When there is a prophet among you,
+    I, the Lord, reveal myself to them in visions,
+    I speak to them in dreams.
+7 But this is not true of my servant Moses;
+    he is faithful in all my house.
+8 With him I speak face to face,
+    clearly and not in riddles;
+    he sees the form of the Lord.
+Why then were you not afraid
+    to speak against my servant Moses?”
+
+9 The anger of the Lord burned against them, and he left them.
+
+10 When the cloud lifted from above the tent, Miriam’s skin was leprous[a]—it became as white as snow. Aaron turned toward her and saw that she had a defiling skin disease, 11 and he said to Moses, “Please, my lord, I ask you not to hold against us the sin we have so foolishly committed. 12 Do not let her be like a stillborn infant coming from its mother’s womb with its flesh half eaten away.”
+
+13 So Moses cried out to the Lord, “Please, God, heal her!”
+
+14 The Lord replied to Moses, “If her father had spit in her face, would she not have been in disgrace for seven days? Confine her outside the camp for seven days; after that she can be brought back.” 15 So Miriam was confined outside the camp for seven days, and the people did not move on till she was brought back.
+
+16 After that, the people left Hazeroth and encamped in the Desert of Paran.
 
 
 
