@@ -5707,10 +5707,31 @@ Report on the Exploration
           >
             <h2 className={styles.chapter3}>Numbers Chapter XV </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Supplementary Offerings</h4> 
 
 
+15 The Lord said to Moses, 2 “Speak to the Israelites and say to them: ‘After you enter the land I am giving you as a home 3 and you present to the Lord food offerings from the herd or the flock, as an aroma pleasing to the Lord—whether burnt offerings or sacrifices, for special vows or freewill offerings or festival offerings— 4 then the person who brings an offering shall present to the Lord a grain offering of a tenth of an ephah[a] of the finest flour mixed with a quarter of a hin[b] of olive oil. 5 With each lamb for the burnt offering or the sacrifice, prepare a quarter of a hin of wine as a drink offering.
 
+6 “‘With a ram prepare a grain offering of two-tenths of an ephah[c] of the finest flour mixed with a third of a hin[d] of olive oil, 7 and a third of a hin of wine as a drink offering. Offer it as an aroma pleasing to the Lord.
+
+8 “‘When you prepare a young bull as a burnt offering or sacrifice, for a special vow or a fellowship offering to the Lord, 9 bring with the bull a grain offering of three-tenths of an ephah[e] of the finest flour mixed with half a hin[f] of olive oil, 10 and also bring half a hin of wine as a drink offering. This will be a food offering, an aroma pleasing to the Lord. 11 Each bull or ram, each lamb or young goat, is to be prepared in this manner. 12 Do this for each one, for as many as you prepare.
+
+13 “‘Everyone who is native-born must do these things in this way when they present a food offering as an aroma pleasing to the Lord. 14 For the generations to come, whenever a foreigner or anyone else living among you presents a food offering as an aroma pleasing to the Lord, they must do exactly as you do. 15 The community is to have the same rules for you and for the foreigner residing among you; this is a lasting ordinance for the generations to come. You and the foreigner shall be the same before the Lord: 16 The same laws and regulations will apply both to you and to the foreigner residing among you.’”
+
+17 The Lord said to Moses, 18 “Speak to the Israelites and say to them: ‘When you enter the land to which I am taking you 19 and you eat the food of the land, present a portion as an offering to the Lord. 20 Present a loaf from the first of your ground meal and present it as an offering from the threshing floor. 21 Throughout the generations to come you are to give this offering to the Lord from the first of your ground meal.
+
+Offerings for Unintentional Sins
+22 “‘Now if you as a community unintentionally fail to keep any of these commands the Lord gave Moses— 23 any of the Lord’s commands to you through him, from the day the Lord gave them and continuing through the generations to come— 24 and if this is done unintentionally without the community being aware of it, then the whole community is to offer a young bull for a burnt offering as an aroma pleasing to the Lord, along with its prescribed grain offering and drink offering, and a male goat for a sin offering.[g] 25 The priest is to make atonement for the whole Israelite community, and they will be forgiven, for it was not intentional and they have presented to the Lord for their wrong a food offering and a sin offering. 26 The whole Israelite community and the foreigners residing among them will be forgiven, because all the people were involved in the unintentional wrong.
+
+27 “‘But if just one person sins unintentionally, that person must bring a year-old female goat for a sin offering. 28 The priest is to make atonement before the Lord for the one who erred by sinning unintentionally, and when atonement has been made, that person will be forgiven. 29 One and the same law applies to everyone who sins unintentionally, whether a native-born Israelite or a foreigner residing among you.
+
+30 “‘But anyone who sins defiantly, whether native-born or foreigner, blasphemes the Lord and must be cut off from the people of Israel. 31 Because they have despised the Lord’s word and broken his commands, they must surely be cut off; their guilt remains on them.’”
+
+The Sabbath-Breaker Put to Death
+32 While the Israelites were in the wilderness, a man was found gathering wood on the Sabbath day. 33 Those who found him gathering wood brought him to Moses and Aaron and the whole assembly, 34 and they kept him in custody, because it was not clear what should be done to him. 35 Then the Lord said to Moses, “The man must die. The whole assembly must stone him outside the camp.” 36 So the assembly took him outside the camp and stoned him to death, as the Lord commanded Moses.
+
+Tassels on Garments
+37 The Lord said to Moses, 38 “Speak to the Israelites and say to them: ‘Throughout the generations to come you are to make tassels on the corners of your garments, with a blue cord on each tassel. 39 You will have these tassels to look at and so you will remember all the commands of the Lord, that you may obey them and not prostitute yourselves by chasing after the lusts of your own hearts and eyes. 40 Then you will remember to obey all my commands and will be consecrated to your God. 41 I am the Lord your God, who brought you out of Egypt to be your God. I am the Lord your God.’”
 
 
                                     </p>
@@ -5720,9 +5741,43 @@ Report on the Exploration
           >
             <h2 className={styles.chapter3}>Numbers Chapter XVI </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Korah, Dathan and Abiram</h4> 
 
 
+
+16 Korah son of Izhar, the son of Kohath, the son of Levi, and certain Reubenites—Dathan and Abiram, sons of Eliab, and On son of Peleth—became insolent[a] 2 and rose up against Moses. With them were 250 Israelite men, well-known community leaders who had been appointed members of the council. 3 They came as a group to oppose Moses and Aaron and said to them, “You have gone too far! The whole community is holy, every one of them, and the Lord is with them. Why then do you set yourselves above the Lord’s assembly?”
+
+4 When Moses heard this, he fell facedown. 5 Then he said to Korah and all his followers: “In the morning the Lord will show who belongs to him and who is holy, and he will have that person come near him. The man he chooses he will cause to come near him. 6 You, Korah, and all your followers are to do this: Take censers 7 and tomorrow put burning coals and incense in them before the Lord. The man the Lord chooses will be the one who is holy. You Levites have gone too far!”
+
+8 Moses also said to Korah, “Now listen, you Levites! 9 Isn’t it enough for you that the God of Israel has separated you from the rest of the Israelite community and brought you near himself to do the work at the Lord’s tabernacle and to stand before the community and minister to them? 10 He has brought you and all your fellow Levites near himself, but now you are trying to get the priesthood too. 11 It is against the Lord that you and all your followers have banded together. Who is Aaron that you should grumble against him?”
+
+12 Then Moses summoned Dathan and Abiram, the sons of Eliab. But they said, “We will not come! 13 Isn’t it enough that you have brought us up out of a land flowing with milk and honey to kill us in the wilderness? And now you also want to lord it over us! 14 Moreover, you haven’t brought us into a land flowing with milk and honey or given us an inheritance of fields and vineyards. Do you want to treat these men like slaves[b]? No, we will not come!”
+
+15 Then Moses became very angry and said to the Lord, “Do not accept their offering. I have not taken so much as a donkey from them, nor have I wronged any of them.”
+
+16 Moses said to Korah, “You and all your followers are to appear before the Lord tomorrow—you and they and Aaron. 17 Each man is to take his censer and put incense in it—250 censers in all—and present it before the Lord. You and Aaron are to present your censers also.” 18 So each of them took his censer, put burning coals and incense in it, and stood with Moses and Aaron at the entrance to the tent of meeting. 19 When Korah had gathered all his followers in opposition to them at the entrance to the tent of meeting, the glory of the Lord appeared to the entire assembly. 20 The Lord said to Moses and Aaron, 21 “Separate yourselves from this assembly so I can put an end to them at once.”
+
+22 But Moses and Aaron fell facedown and cried out, “O God, the God who gives breath to all living things, will you be angry with the entire assembly when only one man sins?”
+
+23 Then the Lord said to Moses, 24 “Say to the assembly, ‘Move away from the tents of Korah, Dathan and Abiram.’”
+
+25 Moses got up and went to Dathan and Abiram, and the elders of Israel followed him. 26 He warned the assembly, “Move back from the tents of these wicked men! Do not touch anything belonging to them, or you will be swept away because of all their sins.” 27 So they moved away from the tents of Korah, Dathan and Abiram. Dathan and Abiram had come out and were standing with their wives, children and little ones at the entrances to their tents.
+
+28 Then Moses said, “This is how you will know that the Lord has sent me to do all these things and that it was not my idea: 29 If these men die a natural death and suffer the fate of all mankind, then the Lord has not sent me. 30 But if the Lord brings about something totally new, and the earth opens its mouth and swallows them, with everything that belongs to them, and they go down alive into the realm of the dead, then you will know that these men have treated the Lord with contempt.”
+
+31 As soon as he finished saying all this, the ground under them split apart 32 and the earth opened its mouth and swallowed them and their households, and all those associated with Korah, together with their possessions. 33 They went down alive into the realm of the dead, with everything they owned; the earth closed over them, and they perished and were gone from the community. 34 At their cries, all the Israelites around them fled, shouting, “The earth is going to swallow us too!”
+
+35 And fire came out from the Lord and consumed the 250 men who were offering the incense.
+
+36 The Lord said to Moses, 37 “Tell Eleazar son of Aaron, the priest, to remove the censers from the charred remains and scatter the coals some distance away, for the censers are holy— 38 the censers of the men who sinned at the cost of their lives. Hammer the censers into sheets to overlay the altar, for they were presented before the Lord and have become holy. Let them be a sign to the Israelites.”
+
+39 So Eleazar the priest collected the bronze censers brought by those who had been burned to death, and he had them hammered out to overlay the altar, 40 as the Lord directed him through Moses. This was to remind the Israelites that no one except a descendant of Aaron should come to burn incense before the Lord, or he would become like Korah and his followers.
+
+41 The next day the whole Israelite community grumbled against Moses and Aaron. “You have killed the Lord’s people,” they said.
+
+42 But when the assembly gathered in opposition to Moses and Aaron and turned toward the tent of meeting, suddenly the cloud covered it and the glory of the Lord appeared. 43 Then Moses and Aaron went to the front of the tent of meeting, 44 and the Lord said to Moses, 45 “Get away from this assembly so I can put an end to them at once.” And they fell facedown.
+
+46 Then Moses said to Aaron, “Take your censer and put incense in it, along with burning coals from the altar, and hurry to the assembly to make atonement for them. Wrath has come out from the Lord; the plague has started.” 47 So Aaron did as Moses said, and ran into the midst of the assembly. The plague had already started among the people, but Aaron offered the incense and made atonement for them. 48 He stood between the living and the dead, and the plague stopped. 49 But 14,700 people died from the plague, in addition to those who had died because of Korah. 50 Then Aaron returned to Moses at the entrance to the tent of meeting, for the plague had stopped.[c]
 
 
 
@@ -5733,10 +5788,18 @@ Report on the Exploration
           >
             <h2 className={styles.chapter3}>Numbers Chapter XVII </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The Budding of Aaron’s Staff</h4> 
 
 
+17 [a]The Lord said to Moses, 2 “Speak to the Israelites and get twelve staffs from them, one from the leader of each of their ancestral tribes. Write the name of each man on his staff. 3 On the staff of Levi write Aaron’s name, for there must be one staff for the head of each ancestral tribe. 4 Place them in the tent of meeting in front of the ark of the covenant law, where I meet with you. 5 The staff belonging to the man I choose will sprout, and I will rid myself of this constant grumbling against you by the Israelites.”
 
+6 So Moses spoke to the Israelites, and their leaders gave him twelve staffs, one for the leader of each of their ancestral tribes, and Aaron’s staff was among them. 7 Moses placed the staffs before the Lord in the tent of the covenant law.
+
+8 The next day Moses entered the tent and saw that Aaron’s staff, which represented the tribe of Levi, had not only sprouted but had budded, blossomed and produced almonds. 9 Then Moses brought out all the staffs from the Lord’s presence to all the Israelites. They looked at them, and each of the leaders took his own staff.
+
+10 The Lord said to Moses, “Put back Aaron’s staff in front of the ark of the covenant law, to be kept as a sign to the rebellious. This will put an end to their grumbling against me, so that they will not die.” 11 Moses did just as the Lord commanded him.
+
+12 The Israelites said to Moses, “We will die! We are lost, we are all lost! 13 Anyone who even comes near the tabernacle of the Lord will die. Are we all going to die?”
 
 
                                     </p>
