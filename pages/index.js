@@ -5618,10 +5618,49 @@ Why then were you not afraid
           >
             <h2 className={styles.chapter3}>Numbers Chapter XIII </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Exploring Canaan</h4> 
 
 
+13 The Lord said to Moses, 2 “Send some men to explore the land of Canaan, which I am giving to the Israelites. From each ancestral tribe send one of its leaders.”
 
+3 So at the Lord’s command Moses sent them out from the Desert of Paran. All of them were leaders of the Israelites. 4 These are their names:
+
+from the tribe of Reuben, Shammua son of Zakkur;
+
+5 from the tribe of Simeon, Shaphat son of Hori;
+
+6 from the tribe of Judah, Caleb son of Jephunneh;
+
+7 from the tribe of Issachar, Igal son of Joseph;
+
+8 from the tribe of Ephraim, Hoshea son of Nun;
+
+9 from the tribe of Benjamin, Palti son of Raphu;
+
+10 from the tribe of Zebulun, Gaddiel son of Sodi;
+
+11 from the tribe of Manasseh (a tribe of Joseph), Gaddi son of Susi;
+
+12 from the tribe of Dan, Ammiel son of Gemalli;
+
+13 from the tribe of Asher, Sethur son of Michael;
+
+14 from the tribe of Naphtali, Nahbi son of Vophsi;
+
+15 from the tribe of Gad, Geuel son of Maki.
+
+16 These are the names of the men Moses sent to explore the land. (Moses gave Hoshea son of Nun the name Joshua.)
+
+17 When Moses sent them to explore Canaan, he said, “Go up through the Negev and on into the hill country. 18 See what the land is like and whether the people who live there are strong or weak, few or many. 19 What kind of land do they live in? Is it good or bad? What kind of towns do they live in? Are they unwalled or fortified? 20 How is the soil? Is it fertile or poor? Are there trees in it or not? Do your best to bring back some of the fruit of the land.” (It was the season for the first ripe grapes.)
+
+21 So they went up and explored the land from the Desert of Zin as far as Rehob, toward Lebo Hamath. 22 They went up through the Negev and came to Hebron, where Ahiman, Sheshai and Talmai, the descendants of Anak, lived. (Hebron had been built seven years before Zoan in Egypt.) 23 When they reached the Valley of Eshkol,[a] they cut off a branch bearing a single cluster of grapes. Two of them carried it on a pole between them, along with some pomegranates and figs. 24 That place was called the Valley of Eshkol because of the cluster of grapes the Israelites cut off there. 25 At the end of forty days they returned from exploring the land.
+
+Report on the Exploration
+26 They came back to Moses and Aaron and the whole Israelite community at Kadesh in the Desert of Paran. There they reported to them and to the whole assembly and showed them the fruit of the land. 27 They gave Moses this account: “We went into the land to which you sent us, and it does flow with milk and honey! Here is its fruit. 28 But the people who live there are powerful, and the cities are fortified and very large. We even saw descendants of Anak there. 29 The Amalekites live in the Negev; the Hittites, Jebusites and Amorites live in the hill country; and the Canaanites live near the sea and along the Jordan.”
+
+30 Then Caleb silenced the people before Moses and said, “We should go up and take possession of the land, for we can certainly do it.”
+
+31 But the men who had gone up with him said, “We can’t attack those people; they are stronger than we are.” 32 And they spread among the Israelites a bad report about the land they had explored. They said, “The land we explored devours those living in it. All the people we saw there are of great size. 33 We saw the Nephilim there (the descendants of Anak come from the Nephilim). We seemed like grasshoppers in our own eyes, and we looked the same to them.”
 
 
                                     </p>
@@ -5633,8 +5672,30 @@ Why then were you not afraid
           >
             <h2 className={styles.chapter3}>Numbers Chapter XIV </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The People Rebel</h4> 
 
+
+14 That night all the members of the community raised their voices and wept aloud. 2 All the Israelites grumbled against Moses and Aaron, and the whole assembly said to them, “If only we had died in Egypt! Or in this wilderness! 3 Why is the Lord bringing us to this land only to let us fall by the sword? Our wives and children will be taken as plunder. Wouldn’t it be better for us to go back to Egypt?” 4 And they said to each other, “We should choose a leader and go back to Egypt.”
+
+5 Then Moses and Aaron fell facedown in front of the whole Israelite assembly gathered there. 6 Joshua son of Nun and Caleb son of Jephunneh, who were among those who had explored the land, tore their clothes 7 and said to the entire Israelite assembly, “The land we passed through and explored is exceedingly good. 8 If the Lord is pleased with us, he will lead us into that land, a land flowing with milk and honey, and will give it to us. 9 Only do not rebel against the Lord. And do not be afraid of the people of the land, because we will devour them. Their protection is gone, but the Lord is with us. Do not be afraid of them.”
+
+10 But the whole assembly talked about stoning them. Then the glory of the Lord appeared at the tent of meeting to all the Israelites. 11 The Lord said to Moses, “How long will these people treat me with contempt? How long will they refuse to believe in me, in spite of all the signs I have performed among them? 12 I will strike them down with a plague and destroy them, but I will make you into a nation greater and stronger than they.”
+
+13 Moses said to the Lord, “Then the Egyptians will hear about it! By your power you brought these people up from among them. 14 And they will tell the inhabitants of this land about it. They have already heard that you, Lord, are with these people and that you, Lord, have been seen face to face, that your cloud stays over them, and that you go before them in a pillar of cloud by day and a pillar of fire by night. 15 If you put all these people to death, leaving none alive, the nations who have heard this report about you will say, 16 ‘The Lord was not able to bring these people into the land he promised them on oath, so he slaughtered them in the wilderness.’
+
+17 “Now may the Lord’s strength be displayed, just as you have declared: 18 ‘The Lord is slow to anger, abounding in love and forgiving sin and rebellion. Yet he does not leave the guilty unpunished; he punishes the children for the sin of the parents to the third and fourth generation.’ 19 In accordance with your great love, forgive the sin of these people, just as you have pardoned them from the time they left Egypt until now.”
+
+20 The Lord replied, “I have forgiven them, as you asked. 21 Nevertheless, as surely as I live and as surely as the glory of the Lord fills the whole earth, 22 not one of those who saw my glory and the signs I performed in Egypt and in the wilderness but who disobeyed me and tested me ten times— 23 not one of them will ever see the land I promised on oath to their ancestors. No one who has treated me with contempt will ever see it. 24 But because my servant Caleb has a different spirit and follows me wholeheartedly, I will bring him into the land he went to, and his descendants will inherit it. 25 Since the Amalekites and the Canaanites are living in the valleys, turn back tomorrow and set out toward the desert along the route to the Red Sea.[a]”
+
+26 The Lord said to Moses and Aaron: 27 “How long will this wicked community grumble against me? I have heard the complaints of these grumbling Israelites. 28 So tell them, ‘As surely as I live, declares the Lord, I will do to you the very thing I heard you say: 29 In this wilderness your bodies will fall—every one of you twenty years old or more who was counted in the census and who has grumbled against me. 30 Not one of you will enter the land I swore with uplifted hand to make your home, except Caleb son of Jephunneh and Joshua son of Nun. 31 As for your children that you said would be taken as plunder, I will bring them in to enjoy the land you have rejected. 32 But as for you, your bodies will fall in this wilderness. 33 Your children will be shepherds here for forty years, suffering for your unfaithfulness, until the last of your bodies lies in the wilderness. 34 For forty years—one year for each of the forty days you explored the land—you will suffer for your sins and know what it is like to have me against you.’ 35 I, the Lord, have spoken, and I will surely do these things to this whole wicked community, which has banded together against me. They will meet their end in this wilderness; here they will die.”
+
+36 So the men Moses had sent to explore the land, who returned and made the whole community grumble against him by spreading a bad report about it— 37 these men who were responsible for spreading the bad report about the land were struck down and died of a plague before the Lord. 38 Of the men who went to explore the land, only Joshua son of Nun and Caleb son of Jephunneh survived.
+
+39 When Moses reported this to all the Israelites, they mourned bitterly. 40 Early the next morning they set out for the highest point in the hill country, saying, “Now we are ready to go up to the land the Lord promised. Surely we have sinned!”
+
+41 But Moses said, “Why are you disobeying the Lord’s command? This will not succeed! 42 Do not go up, because the Lord is not with you. You will be defeated by your enemies, 43 for the Amalekites and the Canaanites will face you there. Because you have turned away from the Lord, he will not be with you and you will fall by the sword.”
+
+44 Nevertheless, in their presumption they went up toward the highest point in the hill country, though neither Moses nor the ark of the Lord’s covenant moved from the camp. 45 Then the Amalekites and the Canaanites who lived in that hill country came down and attacked them and beat them down all the way to Hormah.
 
 
 
