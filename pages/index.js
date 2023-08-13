@@ -6066,10 +6066,83 @@ Balaam’s Donkey
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXIII </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Balaam’s First Message</h4> 
 
 
+23 Balaam said, “Build me seven altars here, and prepare seven bulls and seven rams for me.” 2 Balak did as Balaam said, and the two of them offered a bull and a ram on each altar.
 
+3 Then Balaam said to Balak, “Stay here beside your offering while I go aside. Perhaps the Lord will come to meet with me. Whatever he reveals to me I will tell you.” Then he went off to a barren height.
+
+4 God met with him, and Balaam said, “I have prepared seven altars, and on each altar I have offered a bull and a ram.”
+
+5 The Lord put a word in Balaam’s mouth and said, “Go back to Balak and give him this word.”
+
+6 So he went back to him and found him standing beside his offering, with all the Moabite officials. 7 Then Balaam spoke his message:
+
+“Balak brought me from Aram,
+    the king of Moab from the eastern mountains.
+‘Come,’ he said, ‘curse Jacob for me;
+    come, denounce Israel.’
+8 How can I curse
+    those whom God has not cursed?
+How can I denounce
+    those whom the Lord has not denounced?
+9 From the rocky peaks I see them,
+    from the heights I view them.
+I see a people who live apart
+    and do not consider themselves one of the nations.
+10 Who can count the dust of Jacob
+    or number even a fourth of Israel?
+Let me die the death of the righteous,
+    and may my final end be like theirs!”
+
+11 Balak said to Balaam, “What have you done to me? I brought you to curse my enemies, but you have done nothing but bless them!”
+
+12 He answered, “Must I not speak what the Lord puts in my mouth?”
+
+Balaam’s Second Message
+13 Then Balak said to him, “Come with me to another place where you can see them; you will not see them all but only the outskirts of their camp. And from there, curse them for me.” 14 So he took him to the field of Zophim on the top of Pisgah, and there he built seven altars and offered a bull and a ram on each altar.
+
+15 Balaam said to Balak, “Stay here beside your offering while I meet with him over there.”
+
+16 The Lord met with Balaam and put a word in his mouth and said, “Go back to Balak and give him this word.”
+
+17 So he went to him and found him standing beside his offering, with the Moabite officials. Balak asked him, “What did the Lord say?”
+
+18 Then he spoke his message:
+
+“Arise, Balak, and listen;
+    hear me, son of Zippor.
+19 God is not human, that he should lie,
+    not a human being, that he should change his mind.
+Does he speak and then not act?
+    Does he promise and not fulfill?
+20 I have received a command to bless;
+    he has blessed, and I cannot change it.
+
+21 “No misfortune is seen in Jacob,
+    no misery observed[a] in Israel.
+The Lord their God is with them;
+    the shout of the King is among them.
+22 God brought them out of Egypt;
+    they have the strength of a wild ox.
+23 There is no divination against[b] Jacob,
+    no evil omens against[c] Israel.
+It will now be said of Jacob
+    and of Israel, ‘See what God has done!’
+24 The people rise like a lioness;
+    they rouse themselves like a lion
+that does not rest till it devours its prey
+    and drinks the blood of its victims.”
+
+25 Then Balak said to Balaam, “Neither curse them at all nor bless them at all!”
+
+26 Balaam answered, “Did I not tell you I must do whatever the Lord says?”
+
+Balaam’s Third Message
+27 Then Balak said to Balaam, “Come, let me take you to another place. Perhaps it will please God to let you curse them for me from there.” 28 And Balak took Balaam to the top of Peor, overlooking the wasteland.
+
+29 Balaam said, “Build me seven altars here, and prepare seven bulls and seven rams for me.” 30 Balak did as Balaam had said, and offered a bull and a ram on each altar.
 
 
                                     </p>
@@ -6079,9 +6152,89 @@ Balaam’s Donkey
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXIV </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Chapter XXIV </h4> 
 
+24 Now when Balaam saw that it pleased the Lord to bless Israel, he did not resort to divination as at other times, but turned his face toward the wilderness. 2 When Balaam looked out and saw Israel encamped tribe by tribe, the Spirit of God came on him 3 and he spoke his message:
 
+“The prophecy of Balaam son of Beor,
+    the prophecy of one whose eye sees clearly,
+4 the prophecy of one who hears the words of God,
+    who sees a vision from the Almighty,[a]
+    who falls prostrate, and whose eyes are opened:
+
+5 “How beautiful are your tents, Jacob,
+    your dwelling places, Israel!
+
+6 “Like valleys they spread out,
+    like gardens beside a river,
+like aloes planted by the Lord,
+    like cedars beside the waters.
+7 Water will flow from their buckets;
+    their seed will have abundant water.
+
+“Their king will be greater than Agag;
+    their kingdom will be exalted.
+
+8 “God brought them out of Egypt;
+    they have the strength of a wild ox.
+They devour hostile nations
+    and break their bones in pieces;
+    with their arrows they pierce them.
+9 Like a lion they crouch and lie down,
+    like a lioness—who dares to rouse them?
+
+“May those who bless you be blessed
+    and those who curse you be cursed!”
+
+10 Then Balak’s anger burned against Balaam. He struck his hands together and said to him, “I summoned you to curse my enemies, but you have blessed them these three times. 11 Now leave at once and go home! I said I would reward you handsomely, but the Lord has kept you from being rewarded.”
+
+12 Balaam answered Balak, “Did I not tell the messengers you sent me, 13 ‘Even if Balak gave me all the silver and gold in his palace, I could not do anything of my own accord, good or bad, to go beyond the command of the Lord—and I must say only what the Lord says’? 14 Now I am going back to my people, but come, let me warn you of what this people will do to your people in days to come.”
+
+Balaam’s Fourth Message
+15 Then he spoke his message:
+
+“The prophecy of Balaam son of Beor,
+    the prophecy of one whose eye sees clearly,
+16 the prophecy of one who hears the words of God,
+    who has knowledge from the Most High,
+who sees a vision from the Almighty,
+    who falls prostrate, and whose eyes are opened:
+
+17 “I see him, but not now;
+    I behold him, but not near.
+A star will come out of Jacob;
+    a scepter will rise out of Israel.
+He will crush the foreheads of Moab,
+    the skulls[b] of[c] all the people of Sheth.[d]
+18 Edom will be conquered;
+    Seir, his enemy, will be conquered,
+    but Israel will grow strong.
+19 A ruler will come out of Jacob
+    and destroy the survivors of the city.”
+
+Balaam’s Fifth Message
+20 Then Balaam saw Amalek and spoke his message:
+
+“Amalek was first among the nations,
+    but their end will be utter destruction.”
+
+Balaam’s Sixth Message
+21 Then he saw the Kenites and spoke his message:
+
+“Your dwelling place is secure,
+    your nest is set in a rock;
+22 yet you Kenites will be destroyed
+    when Ashur takes you captive.”
+
+Balaam’s Seventh Message
+23 Then he spoke his message:
+
+“Alas! Who can live when God does this?[e]
+24     Ships will come from the shores of Cyprus;
+they will subdue Ashur and Eber,
+    but they too will come to ruin.”
+
+25 Then Balaam got up and returned home, and Balak went his own way.
 
 
 
@@ -6092,9 +6245,21 @@ Balaam’s Donkey
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXV </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Moab Seduces Israel</h4> 
 
+25 While Israel was staying in Shittim, the men began to indulge in sexual immorality with Moabite women, 2 who invited them to the sacrifices to their gods. The people ate the sacrificial meal and bowed down before these gods. 3 So Israel yoked themselves to the Baal of Peor. And the Lord’s anger burned against them.
 
+4 The Lord said to Moses, “Take all the leaders of these people, kill them and expose them in broad daylight before the Lord, so that the Lord’s fierce anger may turn away from Israel.”
+
+5 So Moses said to Israel’s judges, “Each of you must put to death those of your people who have yoked themselves to the Baal of Peor.”
+
+6 Then an Israelite man brought into the camp a Midianite woman right before the eyes of Moses and the whole assembly of Israel while they were weeping at the entrance to the tent of meeting. 7 When Phinehas son of Eleazar, the son of Aaron, the priest, saw this, he left the assembly, took a spear in his hand 8 and followed the Israelite into the tent. He drove the spear into both of them, right through the Israelite man and into the woman’s stomach. Then the plague against the Israelites was stopped; 9 but those who died in the plague numbered 24,000.
+
+10 The Lord said to Moses, 11 “Phinehas son of Eleazar, the son of Aaron, the priest, has turned my anger away from the Israelites. Since he was as zealous for my honor among them as I am, I did not put an end to them in my zeal. 12 Therefore tell him I am making my covenant of peace with him. 13 He and his descendants will have a covenant of a lasting priesthood, because he was zealous for the honor of his God and made atonement for the Israelites.”
+
+14 The name of the Israelite who was killed with the Midianite woman was Zimri son of Salu, the leader of a Simeonite family. 15 And the name of the Midianite woman who was put to death was Kozbi daughter of Zur, a tribal chief of a Midianite family.
+
+16 The Lord said to Moses, 17 “Treat the Midianites as enemies and kill them. 18 They treated you as enemies when they deceived you in the Peor incident involving their sister Kozbi, the daughter of a Midianite leader, the woman who was killed when the plague came as a result of that incident.”
 
 
 
@@ -6107,10 +6272,226 @@ Balaam’s Donkey
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXVI </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The Second Census</h4> 
 
 
+26 After the plague the Lord said to Moses and Eleazar son of Aaron, the priest, 2 “Take a census of the whole Israelite community by families—all those twenty years old or more who are able to serve in the army of Israel.” 3 So on the plains of Moab by the Jordan across from Jericho, Moses and Eleazar the priest spoke with them and said, 4 “Take a census of the men twenty years old or more, as the Lord commanded Moses.”
 
+These were the Israelites who came out of Egypt:
+
+5 The descendants of Reuben, the firstborn son of Israel, were:
+
+through Hanok, the Hanokite clan;
+
+through Pallu, the Palluite clan;
+
+6 through Hezron, the Hezronite clan;
+
+through Karmi, the Karmite clan.
+
+7 These were the clans of Reuben; those numbered were 43,730.
+
+8 The son of Pallu was Eliab, 9 and the sons of Eliab were Nemuel, Dathan and Abiram. The same Dathan and Abiram were the community officials who rebelled against Moses and Aaron and were among Korah’s followers when they rebelled against the Lord. 10 The earth opened its mouth and swallowed them along with Korah, whose followers died when the fire devoured the 250 men. And they served as a warning sign. 11 The line of Korah, however, did not die out.
+
+12 The descendants of Simeon by their clans were:
+
+through Nemuel, the Nemuelite clan;
+
+through Jamin, the Jaminite clan;
+
+through Jakin, the Jakinite clan;
+
+13 through Zerah, the Zerahite clan;
+
+through Shaul, the Shaulite clan.
+
+14 These were the clans of Simeon; those numbered were 22,200.
+
+15 The descendants of Gad by their clans were:
+
+through Zephon, the Zephonite clan;
+
+through Haggi, the Haggite clan;
+
+through Shuni, the Shunite clan;
+
+16 through Ozni, the Oznite clan;
+
+through Eri, the Erite clan;
+
+17 through Arodi,[a] the Arodite clan;
+
+through Areli, the Arelite clan.
+
+18 These were the clans of Gad; those numbered were 40,500.
+
+19 Er and Onan were sons of Judah, but they died in Canaan.
+
+20 The descendants of Judah by their clans were:
+
+through Shelah, the Shelanite clan;
+
+through Perez, the Perezite clan;
+
+through Zerah, the Zerahite clan.
+
+21 The descendants of Perez were:
+
+through Hezron, the Hezronite clan;
+
+through Hamul, the Hamulite clan.
+
+22 These were the clans of Judah; those numbered were 76,500.
+
+23 The descendants of Issachar by their clans were:
+
+through Tola, the Tolaite clan;
+
+through Puah, the Puite[b] clan;
+
+24 through Jashub, the Jashubite clan;
+
+through Shimron, the Shimronite clan.
+
+25 These were the clans of Issachar; those numbered were 64,300.
+
+26 The descendants of Zebulun by their clans were:
+
+through Sered, the Seredite clan;
+
+through Elon, the Elonite clan;
+
+through Jahleel, the Jahleelite clan.
+
+27 These were the clans of Zebulun; those numbered were 60,500.
+
+28 The descendants of Joseph by their clans through Manasseh and Ephraim were:
+
+29 The descendants of Manasseh:
+
+through Makir, the Makirite clan (Makir was the father of Gilead);
+
+through Gilead, the Gileadite clan.
+
+30 These were the descendants of Gilead:
+
+through Iezer, the Iezerite clan;
+
+through Helek, the Helekite clan;
+
+31 through Asriel, the Asrielite clan;
+
+through Shechem, the Shechemite clan;
+
+32 through Shemida, the Shemidaite clan;
+
+through Hepher, the Hepherite clan.
+
+33 (Zelophehad son of Hepher had no sons; he had only daughters, whose names were Mahlah, Noah, Hoglah, Milkah and Tirzah.)
+
+34 These were the clans of Manasseh; those numbered were 52,700.
+
+35 These were the descendants of Ephraim by their clans:
+
+through Shuthelah, the Shuthelahite clan;
+
+through Beker, the Bekerite clan;
+
+through Tahan, the Tahanite clan.
+
+36 These were the descendants of Shuthelah:
+
+through Eran, the Eranite clan.
+
+37 These were the clans of Ephraim; those numbered were 32,500.
+
+These were the descendants of Joseph by their clans.
+
+38 The descendants of Benjamin by their clans were:
+
+through Bela, the Belaite clan;
+
+through Ashbel, the Ashbelite clan;
+
+through Ahiram, the Ahiramite clan;
+
+39 through Shupham,[c] the Shuphamite clan;
+
+through Hupham, the Huphamite clan.
+
+40 The descendants of Bela through Ard and Naaman were:
+
+through Ard,[d] the Ardite clan;
+
+through Naaman, the Naamite clan.
+
+41 These were the clans of Benjamin; those numbered were 45,600.
+
+42 These were the descendants of Dan by their clans:
+
+through Shuham, the Shuhamite clan.
+
+These were the clans of Dan: 43 All of them were Shuhamite clans; and those numbered were 64,400.
+
+44 The descendants of Asher by their clans were:
+
+through Imnah, the Imnite clan;
+
+through Ishvi, the Ishvite clan;
+
+through Beriah, the Beriite clan;
+
+45 and through the descendants of Beriah:
+
+through Heber, the Heberite clan;
+
+through Malkiel, the Malkielite clan.
+
+46 (Asher had a daughter named Serah.)
+
+47 These were the clans of Asher; those numbered were 53,400.
+
+48 The descendants of Naphtali by their clans were:
+
+through Jahzeel, the Jahzeelite clan;
+
+through Guni, the Gunite clan;
+
+49 through Jezer, the Jezerite clan;
+
+through Shillem, the Shillemite clan.
+
+50 These were the clans of Naphtali; those numbered were 45,400.
+
+51 The total number of the men of Israel was 601,730.
+
+52 The Lord said to Moses, 53 “The land is to be allotted to them as an inheritance based on the number of names. 54 To a larger group give a larger inheritance, and to a smaller group a smaller one; each is to receive its inheritance according to the number of those listed. 55 Be sure that the land is distributed by lot. What each group inherits will be according to the names for its ancestral tribe. 56 Each inheritance is to be distributed by lot among the larger and smaller groups.”
+
+57 These were the Levites who were counted by their clans:
+
+through Gershon, the Gershonite clan;
+
+through Kohath, the Kohathite clan;
+
+through Merari, the Merarite clan.
+
+58 These also were Levite clans:
+
+the Libnite clan,
+
+the Hebronite clan,
+
+the Mahlite clan,
+
+the Mushite clan,
+
+the Korahite clan.
+
+(Kohath was the forefather of Amram; 59 the name of Amram’s wife was Jochebed, a descendant of Levi, who was born to the Levites[e] in Egypt. To Amram she bore Aaron, Moses and their sister Miriam. 60 Aaron was the father of Nadab and Abihu, Eleazar and Ithamar. 61 But Nadab and Abihu died when they made an offering before the Lord with unauthorized fire.)
+
+62 All the male Levites a month old or more numbered 23,000. They were not counted along with the other Israelites because they received no inheritance among them.
+
+63 These are the ones counted by Moses and Eleazar the priest when they counted the Israelites on the plains of Moab by the Jordan across from Jericho. 64 Not one of them was among those counted by Moses and Aaron the priest when they counted the Israelites in the Desert of Sinai. 65 For the Lord had told those Israelites they would surely die in the wilderness, and not one of them was left except Caleb son of Jephunneh and Joshua son of Nun.
 
 
                                     </p>
@@ -6120,10 +6501,23 @@ Balaam’s Donkey
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXVII </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Zelophehad’s Daughters</h4> 
 
 
+27 The daughters of Zelophehad son of Hepher, the son of Gilead, the son of Makir, the son of Manasseh, belonged to the clans of Manasseh son of Joseph. The names of the daughters were Mahlah, Noah, Hoglah, Milkah and Tirzah. They came forward 2 and stood before Moses, Eleazar the priest, the leaders and the whole assembly at the entrance to the tent of meeting and said, 3 “Our father died in the wilderness. He was not among Korah’s followers, who banded together against the Lord, but he died for his own sin and left no sons. 4 Why should our father’s name disappear from his clan because he had no son? Give us property among our father’s relatives.”
 
+5 So Moses brought their case before the Lord, 6 and the Lord said to him, 7 “What Zelophehad’s daughters are saying is right. You must certainly give them property as an inheritance among their father’s relatives and give their father’s inheritance to them.
+
+8 “Say to the Israelites, ‘If a man dies and leaves no son, give his inheritance to his daughter. 9 If he has no daughter, give his inheritance to his brothers. 10 If he has no brothers, give his inheritance to his father’s brothers. 11 If his father had no brothers, give his inheritance to the nearest relative in his clan, that he may possess it. This is to have the force of law for the Israelites, as the Lord commanded Moses.’”
+
+Joshua to Succeed Moses
+12 Then the Lord said to Moses, “Go up this mountain in the Abarim Range and see the land I have given the Israelites. 13 After you have seen it, you too will be gathered to your people, as your brother Aaron was, 14 for when the community rebelled at the waters in the Desert of Zin, both of you disobeyed my command to honor me as holy before their eyes.” (These were the waters of Meribah Kadesh, in the Desert of Zin.)
+
+15 Moses said to the Lord, 16 “May the Lord, the God who gives breath to all living things, appoint someone over this community 17 to go out and come in before them, one who will lead them out and bring them in, so the Lord’s people will not be like sheep without a shepherd.”
+
+18 So the Lord said to Moses, “Take Joshua son of Nun, a man in whom is the spirit of leadership,[a] and lay your hand on him. 19 Have him stand before Eleazar the priest and the entire assembly and commission him in their presence. 20 Give him some of your authority so the whole Israelite community will obey him. 21 He is to stand before Eleazar the priest, who will obtain decisions for him by inquiring of the Urim before the Lord. At his command he and the entire community of the Israelites will go out, and at his command they will come in.”
+
+22 Moses did as the Lord commanded him. He took Joshua and had him stand before Eleazar the priest and the whole assembly. 23 Then he laid his hands on him and commissioned him, as the Lord instructed through Moses.
 
 
                                     </p>
@@ -6133,10 +6527,22 @@ Balaam’s Donkey
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXVIII </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Daily Offerings</h4> 
 
 
+28 The Lord said to Moses, 2 “Give this command to the Israelites and say to them: ‘Make sure that you present to me at the appointed time my food offerings, as an aroma pleasing to me.’ 3 Say to them: ‘This is the food offering you are to present to the Lord: two lambs a year old without defect, as a regular burnt offering each day. 4 Offer one lamb in the morning and the other at twilight, 5 together with a grain offering of a tenth of an ephah[a] of the finest flour mixed with a quarter of a hin[b] of oil from pressed olives. 6 This is the regular burnt offering instituted at Mount Sinai as a pleasing aroma, a food offering presented to the Lord. 7 The accompanying drink offering is to be a quarter of a hin of fermented drink with each lamb. Pour out the drink offering to the Lord at the sanctuary. 8 Offer the second lamb at twilight, along with the same kind of grain offering and drink offering that you offer in the morning. This is a food offering, an aroma pleasing to the Lord.
 
+Sabbath Offerings
+9 “‘On the Sabbath day, make an offering of two lambs a year old without defect, together with its drink offering and a grain offering of two-tenths of an ephah[c] of the finest flour mixed with olive oil. 10 This is the burnt offering for every Sabbath, in addition to the regular burnt offering and its drink offering.
+
+Monthly Offerings
+11 “‘On the first of every month, present to the Lord a burnt offering of two young bulls, one ram and seven male lambs a year old, all without defect. 12 With each bull there is to be a grain offering of three-tenths of an ephah[d] of the finest flour mixed with oil; with the ram, a grain offering of two-tenths of an ephah of the finest flour mixed with oil; 13 and with each lamb, a grain offering of a tenth of an ephah of the finest flour mixed with oil. This is for a burnt offering, a pleasing aroma, a food offering presented to the Lord. 14 With each bull there is to be a drink offering of half a hin[e] of wine; with the ram, a third of a hin[f]; and with each lamb, a quarter of a hin. This is the monthly burnt offering to be made at each new moon during the year. 15 Besides the regular burnt offering with its drink offering, one male goat is to be presented to the Lord as a sin offering.[g]
+
+The Passover
+16 “‘On the fourteenth day of the first month the Lord’s Passover is to be held. 17 On the fifteenth day of this month there is to be a festival; for seven days eat bread made without yeast. 18 On the first day hold a sacred assembly and do no regular work. 19 Present to the Lord a food offering consisting of a burnt offering of two young bulls, one ram and seven male lambs a year old, all without defect. 20 With each bull offer a grain offering of three-tenths of an ephah of the finest flour mixed with oil; with the ram, two-tenths; 21 and with each of the seven lambs, one-tenth. 22 Include one male goat as a sin offering to make atonement for you. 23 Offer these in addition to the regular morning burnt offering. 24 In this way present the food offering every day for seven days as an aroma pleasing to the Lord; it is to be offered in addition to the regular burnt offering and its drink offering. 25 On the seventh day hold a sacred assembly and do no regular work.
+
+The Festival of Weeks
+26 “‘On the day of firstfruits, when you present to the Lord an offering of new grain during the Festival of Weeks, hold a sacred assembly and do no regular work. 27 Present a burnt offering of two young bulls, one ram and seven male lambs a year old as an aroma pleasing to the Lord. 28 With each bull there is to be a grain offering of three-tenths of an ephah of the finest flour mixed with oil; with the ram, two-tenths; 29 and with each of the seven lambs, one-tenth. 30 Include one male goat to make atonement for you. 31 Offer these together with their drink offerings, in addition to the regular burnt offering and its grain offering. Be sure the animals are without defect.
 
 
                                     </p>
@@ -6146,8 +6552,34 @@ Balaam’s Donkey
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXIX </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The Festival of Trumpets</h4> 
 
+
+29 “‘On the first day of the seventh month hold a sacred assembly and do no regular work. It is a day for you to sound the trumpets. 2 As an aroma pleasing to the Lord, offer a burnt offering of one young bull, one ram and seven male lambs a year old, all without defect. 3 With the bull offer a grain offering of three-tenths of an ephah[a] of the finest flour mixed with olive oil; with the ram, two-tenths[b]; 4 and with each of the seven lambs, one-tenth.[c] 5 Include one male goat as a sin offering[d] to make atonement for you. 6 These are in addition to the monthly and daily burnt offerings with their grain offerings and drink offerings as specified. They are food offerings presented to the Lord, a pleasing aroma.
+
+The Day of Atonement
+7 “‘On the tenth day of this seventh month hold a sacred assembly. You must deny yourselves[e] and do no work. 8 Present as an aroma pleasing to the Lord a burnt offering of one young bull, one ram and seven male lambs a year old, all without defect. 9 With the bull offer a grain offering of three-tenths of an ephah of the finest flour mixed with oil; with the ram, two-tenths; 10 and with each of the seven lambs, one-tenth. 11 Include one male goat as a sin offering, in addition to the sin offering for atonement and the regular burnt offering with its grain offering, and their drink offerings.
+
+The Festival of Tabernacles
+12 “‘On the fifteenth day of the seventh month, hold a sacred assembly and do no regular work. Celebrate a festival to the Lord for seven days. 13 Present as an aroma pleasing to the Lord a food offering consisting of a burnt offering of thirteen young bulls, two rams and fourteen male lambs a year old, all without defect. 14 With each of the thirteen bulls offer a grain offering of three-tenths of an ephah of the finest flour mixed with oil; with each of the two rams, two-tenths; 15 and with each of the fourteen lambs, one-tenth. 16 Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.
+
+17 “‘On the second day offer twelve young bulls, two rams and fourteen male lambs a year old, all without defect. 18 With the bulls, rams and lambs, offer their grain offerings and drink offerings according to the number specified. 19 Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering, and their drink offerings.
+
+20 “‘On the third day offer eleven bulls, two rams and fourteen male lambs a year old, all without defect. 21 With the bulls, rams and lambs, offer their grain offerings and drink offerings according to the number specified. 22 Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.
+
+23 “‘On the fourth day offer ten bulls, two rams and fourteen male lambs a year old, all without defect. 24 With the bulls, rams and lambs, offer their grain offerings and drink offerings according to the number specified. 25 Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.
+
+26 “‘On the fifth day offer nine bulls, two rams and fourteen male lambs a year old, all without defect. 27 With the bulls, rams and lambs, offer their grain offerings and drink offerings according to the number specified. 28 Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.
+
+29 “‘On the sixth day offer eight bulls, two rams and fourteen male lambs a year old, all without defect. 30 With the bulls, rams and lambs, offer their grain offerings and drink offerings according to the number specified. 31 Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.
+
+32 “‘On the seventh day offer seven bulls, two rams and fourteen male lambs a year old, all without defect. 33 With the bulls, rams and lambs, offer their grain offerings and drink offerings according to the number specified. 34 Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.
+
+35 “‘On the eighth day hold a closing special assembly and do no regular work. 36 Present as an aroma pleasing to the Lord a food offering consisting of a burnt offering of one bull, one ram and seven male lambs a year old, all without defect. 37 With the bull, the ram and the lambs, offer their grain offerings and drink offerings according to the number specified. 38 Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.
+
+39 “‘In addition to what you vow and your freewill offerings, offer these to the Lord at your appointed festivals: your burnt offerings, grain offerings, drink offerings and fellowship offerings.’”
+
+40 Moses told the Israelites all that the Lord commanded him.[f]
 
 
 
@@ -6160,8 +6592,20 @@ Balaam’s Donkey
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXX </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Vows</h4> 
 
+
+30 [a]Moses said to the heads of the tribes of Israel: “This is what the Lord commands: 2 When a man makes a vow to the Lord or takes an oath to obligate himself by a pledge, he must not break his word but must do everything he said.
+
+3 “When a young woman still living in her father’s household makes a vow to the Lord or obligates herself by a pledge 4 and her father hears about her vow or pledge but says nothing to her, then all her vows and every pledge by which she obligated herself will stand. 5 But if her father forbids her when he hears about it, none of her vows or the pledges by which she obligated herself will stand; the Lord will release her because her father has forbidden her.
+
+6 “If she marries after she makes a vow or after her lips utter a rash promise by which she obligates herself 7 and her husband hears about it but says nothing to her, then her vows or the pledges by which she obligated herself will stand. 8 But if her husband forbids her when he hears about it, he nullifies the vow that obligates her or the rash promise by which she obligates herself, and the Lord will release her.
+
+9 “Any vow or obligation taken by a widow or divorced woman will be binding on her.
+
+10 “If a woman living with her husband makes a vow or obligates herself by a pledge under oath 11 and her husband hears about it but says nothing to her and does not forbid her, then all her vows or the pledges by which she obligated herself will stand. 12 But if her husband nullifies them when he hears about them, then none of the vows or pledges that came from her lips will stand. Her husband has nullified them, and the Lord will release her. 13 Her husband may confirm or nullify any vow she makes or any sworn pledge to deny herself.[b] 14 But if her husband says nothing to her about it from day to day, then he confirms all her vows or the pledges binding on her. He confirms them by saying nothing to her when he hears about them. 15 If, however, he nullifies them some time after he hears about them, then he must bear the consequences of her wrongdoing.”
+
+16 These are the regulations the Lord gave Moses concerning relationships between a man and his wife, and between a father and his young daughter still living at home.
 
 
 
@@ -6173,11 +6617,46 @@ Balaam’s Donkey
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXXI </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Vengeance on the Midianites</h4> 
 
 
 
+31 The Lord said to Moses, 2 “Take vengeance on the Midianites for the Israelites. After that, you will be gathered to your people.”
 
+3 So Moses said to the people, “Arm some of your men to go to war against the Midianites so that they may carry out the Lord’s vengeance on them. 4 Send into battle a thousand men from each of the tribes of Israel.” 5 So twelve thousand men armed for battle, a thousand from each tribe, were supplied from the clans of Israel. 6 Moses sent them into battle, a thousand from each tribe, along with Phinehas son of Eleazar, the priest, who took with him articles from the sanctuary and the trumpets for signaling.
+
+7 They fought against Midian, as the Lord commanded Moses, and killed every man. 8 Among their victims were Evi, Rekem, Zur, Hur and Reba—the five kings of Midian. They also killed Balaam son of Beor with the sword. 9 The Israelites captured the Midianite women and children and took all the Midianite herds, flocks and goods as plunder. 10 They burned all the towns where the Midianites had settled, as well as all their camps. 11 They took all the plunder and spoils, including the people and animals, 12 and brought the captives, spoils and plunder to Moses and Eleazar the priest and the Israelite assembly at their camp on the plains of Moab, by the Jordan across from Jericho.
+
+13 Moses, Eleazar the priest and all the leaders of the community went to meet them outside the camp. 14 Moses was angry with the officers of the army—the commanders of thousands and commanders of hundreds—who returned from the battle.
+
+15 “Have you allowed all the women to live?” he asked them. 16 “They were the ones who followed Balaam’s advice and enticed the Israelites to be unfaithful to the Lord in the Peor incident, so that a plague struck the Lord’s people. 17 Now kill all the boys. And kill every woman who has slept with a man, 18 but save for yourselves every girl who has never slept with a man.
+
+19 “Anyone who has killed someone or touched someone who was killed must stay outside the camp seven days. On the third and seventh days you must purify yourselves and your captives. 20 Purify every garment as well as everything made of leather, goat hair or wood.”
+
+21 Then Eleazar the priest said to the soldiers who had gone into battle, “This is what is required by the law that the Lord gave Moses: 22 Gold, silver, bronze, iron, tin, lead 23 and anything else that can withstand fire must be put through the fire, and then it will be clean. But it must also be purified with the water of cleansing. And whatever cannot withstand fire must be put through that water. 24 On the seventh day wash your clothes and you will be clean. Then you may come into the camp.”
+
+Dividing the Spoils
+25 The Lord said to Moses, 26 “You and Eleazar the priest and the family heads of the community are to count all the people and animals that were captured. 27 Divide the spoils equally between the soldiers who took part in the battle and the rest of the community. 28 From the soldiers who fought in the battle, set apart as tribute for the Lord one out of every five hundred, whether people, cattle, donkeys or sheep. 29 Take this tribute from their half share and give it to Eleazar the priest as the Lord’s part. 30 From the Israelites’ half, select one out of every fifty, whether people, cattle, donkeys, sheep or other animals. Give them to the Levites, who are responsible for the care of the Lord’s tabernacle.” 31 So Moses and Eleazar the priest did as the Lord commanded Moses.
+
+32 The plunder remaining from the spoils that the soldiers took was 675,000 sheep, 33 72,000 cattle, 34 61,000 donkeys 35 and 32,000 women who had never slept with a man.
+
+36 The half share of those who fought in the battle was:
+
+337,500 sheep, 37 of which the tribute for the Lord was 675;
+
+38 36,000 cattle, of which the tribute for the Lord was 72;
+
+39 30,500 donkeys, of which the tribute for the Lord was 61;
+
+40 16,000 people, of whom the tribute for the Lord was 32.
+
+41 Moses gave the tribute to Eleazar the priest as the Lord’s part, as the Lord commanded Moses.
+
+42 The half belonging to the Israelites, which Moses set apart from that of the fighting men— 43 the community’s half—was 337,500 sheep, 44 36,000 cattle, 45 30,500 donkeys 46 and 16,000 people. 47 From the Israelites’ half, Moses selected one out of every fifty people and animals, as the Lord commanded him, and gave them to the Levites, who were responsible for the care of the Lord’s tabernacle.
+
+48 Then the officers who were over the units of the army—the commanders of thousands and commanders of hundreds—went to Moses 49 and said to him, “Your servants have counted the soldiers under our command, and not one is missing. 50 So we have brought as an offering to the Lord the gold articles each of us acquired—armlets, bracelets, signet rings, earrings and necklaces—to make atonement for ourselves before the Lord.”
+
+51 Moses and Eleazar the priest accepted from them the gold—all the crafted articles. 52 All the gold from the commanders of thousands and commanders of hundreds that Moses and Eleazar presented as a gift to the Lord weighed 16,750 shekels.[a] 53 Each soldier had taken plunder for himself. 54 Moses and Eleazar the priest accepted the gold from the commanders of thousands and commanders of hundreds and brought it into the tent of meeting as a memorial for the Israelites before the Lord.
 
                                     </p>
                                   </div>
@@ -6186,9 +6665,31 @@ Balaam’s Donkey
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXXII </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The Transjordan Tribes</h4> 
 
+32 The Reubenites and Gadites, who had very large herds and flocks, saw that the lands of Jazer and Gilead were suitable for livestock. 2 So they came to Moses and Eleazar the priest and to the leaders of the community, and said, 3 “Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo and Beon— 4 the land the Lord subdued before the people of Israel—are suitable for livestock, and your servants have livestock. 5 If we have found favor in your eyes,” they said, “let this land be given to your servants as our possession. Do not make us cross the Jordan.”
 
+6 Moses said to the Gadites and Reubenites, “Should your fellow Israelites go to war while you sit here? 7 Why do you discourage the Israelites from crossing over into the land the Lord has given them? 8 This is what your fathers did when I sent them from Kadesh Barnea to look over the land. 9 After they went up to the Valley of Eshkol and viewed the land, they discouraged the Israelites from entering the land the Lord had given them. 10 The Lord’s anger was aroused that day and he swore this oath: 11 ‘Because they have not followed me wholeheartedly, not one of those who were twenty years old or more when they came up out of Egypt will see the land I promised on oath to Abraham, Isaac and Jacob— 12 not one except Caleb son of Jephunneh the Kenizzite and Joshua son of Nun, for they followed the Lord wholeheartedly.’ 13 The Lord’s anger burned against Israel and he made them wander in the wilderness forty years, until the whole generation of those who had done evil in his sight was gone.
+
+14 “And here you are, a brood of sinners, standing in the place of your fathers and making the Lord even more angry with Israel. 15 If you turn away from following him, he will again leave all this people in the wilderness, and you will be the cause of their destruction.”
+
+16 Then they came up to him and said, “We would like to build pens here for our livestock and cities for our women and children. 17 But we will arm ourselves for battle[a] and go ahead of the Israelites until we have brought them to their place. Meanwhile our women and children will live in fortified cities, for protection from the inhabitants of the land. 18 We will not return to our homes until each of the Israelites has received their inheritance. 19 We will not receive any inheritance with them on the other side of the Jordan, because our inheritance has come to us on the east side of the Jordan.”
+
+20 Then Moses said to them, “If you will do this—if you will arm yourselves before the Lord for battle 21 and if all of you who are armed cross over the Jordan before the Lord until he has driven his enemies out before him— 22 then when the land is subdued before the Lord, you may return and be free from your obligation to the Lord and to Israel. And this land will be your possession before the Lord.
+
+23 “But if you fail to do this, you will be sinning against the Lord; and you may be sure that your sin will find you out. 24 Build cities for your women and children, and pens for your flocks, but do what you have promised.”
+
+25 The Gadites and Reubenites said to Moses, “We your servants will do as our lord commands. 26 Our children and wives, our flocks and herds will remain here in the cities of Gilead. 27 But your servants, every man who is armed for battle, will cross over to fight before the Lord, just as our lord says.”
+
+28 Then Moses gave orders about them to Eleazar the priest and Joshua son of Nun and to the family heads of the Israelite tribes. 29 He said to them, “If the Gadites and Reubenites, every man armed for battle, cross over the Jordan with you before the Lord, then when the land is subdued before you, you must give them the land of Gilead as their possession. 30 But if they do not cross over with you armed, they must accept their possession with you in Canaan.”
+
+31 The Gadites and Reubenites answered, “Your servants will do what the Lord has said. 32 We will cross over before the Lord into Canaan armed, but the property we inherit will be on this side of the Jordan.”
+
+33 Then Moses gave to the Gadites, the Reubenites and the half-tribe of Manasseh son of Joseph the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan—the whole land with its cities and the territory around them.
+
+34 The Gadites built up Dibon, Ataroth, Aroer, 35 Atroth Shophan, Jazer, Jogbehah, 36 Beth Nimrah and Beth Haran as fortified cities, and built pens for their flocks. 37 And the Reubenites rebuilt Heshbon, Elealeh and Kiriathaim, 38 as well as Nebo and Baal Meon (these names were changed) and Sibmah. They gave names to the cities they rebuilt.
+
+39 The descendants of Makir son of Manasseh went to Gilead, captured it and drove out the Amorites who were there. 40 So Moses gave Gilead to the Makirites, the descendants of Manasseh, and they settled there. 41 Jair, a descendant of Manasseh, captured their settlements and called them Havvoth Jair.[b] 42 And Nobah captured Kenath and its surrounding settlements and called it Nobah after himself.
 
 
 
@@ -6199,10 +6700,100 @@ Balaam’s Donkey
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXXIII </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Stages in Israel’s Journey</h4> 
 
 
+33 Here are the stages in the journey of the Israelites when they came out of Egypt by divisions under the leadership of Moses and Aaron. 2 At the Lord’s command Moses recorded the stages in their journey. This is their journey by stages:
 
+3 The Israelites set out from Rameses on the fifteenth day of the first month, the day after the Passover. They marched out defiantly in full view of all the Egyptians, 4 who were burying all their firstborn, whom the Lord had struck down among them; for the Lord had brought judgment on their gods.
+
+5 The Israelites left Rameses and camped at Sukkoth.
+
+6 They left Sukkoth and camped at Etham, on the edge of the desert.
+
+7 They left Etham, turned back to Pi Hahiroth, to the east of Baal Zephon, and camped near Migdol.
+
+8 They left Pi Hahiroth[a] and passed through the sea into the desert, and when they had traveled for three days in the Desert of Etham, they camped at Marah.
+
+9 They left Marah and went to Elim, where there were twelve springs and seventy palm trees, and they camped there.
+
+10 They left Elim and camped by the Red Sea.[b]
+
+11 They left the Red Sea and camped in the Desert of Sin.
+
+12 They left the Desert of Sin and camped at Dophkah.
+
+13 They left Dophkah and camped at Alush.
+
+14 They left Alush and camped at Rephidim, where there was no water for the people to drink.
+
+15 They left Rephidim and camped in the Desert of Sinai.
+
+16 They left the Desert of Sinai and camped at Kibroth Hattaavah.
+
+17 They left Kibroth Hattaavah and camped at Hazeroth.
+
+18 They left Hazeroth and camped at Rithmah.
+
+19 They left Rithmah and camped at Rimmon Perez.
+
+20 They left Rimmon Perez and camped at Libnah.
+
+21 They left Libnah and camped at Rissah.
+
+22 They left Rissah and camped at Kehelathah.
+
+23 They left Kehelathah and camped at Mount Shepher.
+
+24 They left Mount Shepher and camped at Haradah.
+
+25 They left Haradah and camped at Makheloth.
+
+26 They left Makheloth and camped at Tahath.
+
+27 They left Tahath and camped at Terah.
+
+28 They left Terah and camped at Mithkah.
+
+29 They left Mithkah and camped at Hashmonah.
+
+30 They left Hashmonah and camped at Moseroth.
+
+31 They left Moseroth and camped at Bene Jaakan.
+
+32 They left Bene Jaakan and camped at Hor Haggidgad.
+
+33 They left Hor Haggidgad and camped at Jotbathah.
+
+34 They left Jotbathah and camped at Abronah.
+
+35 They left Abronah and camped at Ezion Geber.
+
+36 They left Ezion Geber and camped at Kadesh, in the Desert of Zin.
+
+37 They left Kadesh and camped at Mount Hor, on the border of Edom. 38 At the Lord’s command Aaron the priest went up Mount Hor, where he died on the first day of the fifth month of the fortieth year after the Israelites came out of Egypt. 39 Aaron was a hundred and twenty-three years old when he died on Mount Hor.
+
+40 The Canaanite king of Arad, who lived in the Negev of Canaan, heard that the Israelites were coming.
+
+41 They left Mount Hor and camped at Zalmonah.
+
+42 They left Zalmonah and camped at Punon.
+
+43 They left Punon and camped at Oboth.
+
+44 They left Oboth and camped at Iye Abarim, on the border of Moab.
+
+45 They left Iye Abarim and camped at Dibon Gad.
+
+46 They left Dibon Gad and camped at Almon Diblathaim.
+
+47 They left Almon Diblathaim and camped in the mountains of Abarim, near Nebo.
+
+48 They left the mountains of Abarim and camped on the plains of Moab by the Jordan across from Jericho. 49 There on the plains of Moab they camped along the Jordan from Beth Jeshimoth to Abel Shittim.
+
+50 On the plains of Moab by the Jordan across from Jericho the Lord said to Moses, 51 “Speak to the Israelites and say to them: ‘When you cross the Jordan into Canaan, 52 drive out all the inhabitants of the land before you. Destroy all their carved images and their cast idols, and demolish all their high places. 53 Take possession of the land and settle in it, for I have given you the land to possess. 54 Distribute the land by lot, according to your clans. To a larger group give a larger inheritance, and to a smaller group a smaller one. Whatever falls to them by lot will be theirs. Distribute it according to your ancestral tribes.
+
+55 “‘But if you do not drive out the inhabitants of the land, those you allow to remain will become barbs in your eyes and thorns in your sides. They will give you trouble in the land where you will live. 56 And then I will do to you what I plan to do to them.’”
 
 
                                     </p>
@@ -6212,16 +6803,123 @@ Balaam’s Donkey
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXXIV </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Boundaries of Canaan</h4> 
 
 
+34 The Lord said to Moses, 2 “Command the Israelites and say to them: ‘When you enter Canaan, the land that will be allotted to you as an inheritance is to have these boundaries:
 
+3 “‘Your southern side will include some of the Desert of Zin along the border of Edom. Your southern boundary will start in the east from the southern end of the Dead Sea, 4 cross south of Scorpion Pass, continue on to Zin and go south of Kadesh Barnea. Then it will go to Hazar Addar and over to Azmon, 5 where it will turn, join the Wadi of Egypt and end at the Mediterranean Sea.
 
+6 “‘Your western boundary will be the coast of the Mediterranean Sea. This will be your boundary on the west.
 
+7 “‘For your northern boundary, run a line from the Mediterranean Sea to Mount Hor 8 and from Mount Hor to Lebo Hamath. Then the boundary will go to Zedad, 9 continue to Ziphron and end at Hazar Enan. This will be your boundary on the north.
+
+10 “‘For your eastern boundary, run a line from Hazar Enan to Shepham. 11 The boundary will go down from Shepham to Riblah on the east side of Ain and continue along the slopes east of the Sea of Galilee.[a] 12 Then the boundary will go down along the Jordan and end at the Dead Sea.
+
+“‘This will be your land, with its boundaries on every side.’”
+
+13 Moses commanded the Israelites: “Assign this land by lot as an inheritance. The Lord has ordered that it be given to the nine and a half tribes, 14 because the families of the tribe of Reuben, the tribe of Gad and the half-tribe of Manasseh have received their inheritance. 15 These two and a half tribes have received their inheritance east of the Jordan across from Jericho, toward the sunrise.”
+
+16 The Lord said to Moses, 17 “These are the names of the men who are to assign the land for you as an inheritance: Eleazar the priest and Joshua son of Nun. 18 And appoint one leader from each tribe to help assign the land. 19 These are their names:
+
+Caleb son of Jephunneh,
+
+from the tribe of Judah;
+
+20 Shemuel son of Ammihud,
+
+from the tribe of Simeon;
+
+21 Elidad son of Kislon,
+
+from the tribe of Benjamin;
+
+22 Bukki son of Jogli,
+
+the leader from the tribe of Dan;
+
+23 Hanniel son of Ephod,
+
+the leader from the tribe of Manasseh son of Joseph;
+
+24 Kemuel son of Shiphtan,
+
+the leader from the tribe of Ephraim son of Joseph;
+
+25 Elizaphan son of Parnak,
+
+the leader from the tribe of Zebulun;
+
+26 Paltiel son of Azzan,
+
+the leader from the tribe of Issachar;
+
+27 Ahihud son of Shelomi,
+
+the leader from the tribe of Asher;
+
+28 Pedahel son of Ammihud,
+
+the leader from the tribe of Naphtali.”
+
+29 These are the men the Lord commanded to assign the inheritance to the Israelites in the land of Canaan.
                                     </p>
                                   </div>
 
-   
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter3}>Numbers Chapter XXXV </h2>
+                                <p>
+ <h4 className={styles.h4}>Towns for the Levites</h4> 
+
+
+35 On the plains of Moab by the Jordan across from Jericho, the Lord said to Moses, 2 “Command the Israelites to give the Levites towns to live in from the inheritance the Israelites will possess. And give them pasturelands around the towns. 3 Then they will have towns to live in and pasturelands for the cattle they own and all their other animals.
+
+4 “The pasturelands around the towns that you give the Levites will extend a thousand cubits[a] from the town wall. 5 Outside the town, measure two thousand cubits[b] on the east side, two thousand on the south side, two thousand on the west and two thousand on the north, with the town in the center. They will have this area as pastureland for the towns.
+
+Cities of Refuge
+6 “Six of the towns you give the Levites will be cities of refuge, to which a person who has killed someone may flee. In addition, give them forty-two other towns. 7 In all you must give the Levites forty-eight towns, together with their pasturelands. 8 The towns you give the Levites from the land the Israelites possess are to be given in proportion to the inheritance of each tribe: Take many towns from a tribe that has many, but few from one that has few.”
+
+9 Then the Lord said to Moses: 10 “Speak to the Israelites and say to them: ‘When you cross the Jordan into Canaan, 11 select some towns to be your cities of refuge, to which a person who has killed someone accidentally may flee. 12 They will be places of refuge from the avenger, so that anyone accused of murder may not die before they stand trial before the assembly. 13 These six towns you give will be your cities of refuge. 14 Give three on this side of the Jordan and three in Canaan as cities of refuge. 15 These six towns will be a place of refuge for Israelites and for foreigners residing among them, so that anyone who has killed another accidentally can flee there.
+
+16 “‘If anyone strikes someone a fatal blow with an iron object, that person is a murderer; the murderer is to be put to death. 17 Or if anyone is holding a stone and strikes someone a fatal blow with it, that person is a murderer; the murderer is to be put to death. 18 Or if anyone is holding a wooden object and strikes someone a fatal blow with it, that person is a murderer; the murderer is to be put to death. 19 The avenger of blood shall put the murderer to death; when the avenger comes upon the murderer, the avenger shall put the murderer to death. 20 If anyone with malice aforethought shoves another or throws something at them intentionally so that they die 21 or if out of enmity one person hits another with their fist so that the other dies, that person is to be put to death; that person is a murderer. The avenger of blood shall put the murderer to death when they meet.
+
+22 “‘But if without enmity someone suddenly pushes another or throws something at them unintentionally 23 or, without seeing them, drops on them a stone heavy enough to kill them, and they die, then since that other person was not an enemy and no harm was intended, 24 the assembly must judge between the accused and the avenger of blood according to these regulations. 25 The assembly must protect the one accused of murder from the avenger of blood and send the accused back to the city of refuge to which they fled. The accused must stay there until the death of the high priest, who was anointed with the holy oil.
+
+26 “‘But if the accused ever goes outside the limits of the city of refuge to which they fled 27 and the avenger of blood finds them outside the city, the avenger of blood may kill the accused without being guilty of murder. 28 The accused must stay in the city of refuge until the death of the high priest; only after the death of the high priest may they return to their own property.
+
+29 “‘This is to have the force of law for you throughout the generations to come, wherever you live.
+
+30 “‘Anyone who kills a person is to be put to death as a murderer only on the testimony of witnesses. But no one is to be put to death on the testimony of only one witness.
+
+31 “‘Do not accept a ransom for the life of a murderer, who deserves to die. They are to be put to death.
+
+32 “‘Do not accept a ransom for anyone who has fled to a city of refuge and so allow them to go back and live on their own land before the death of the high priest.
+
+33 “‘Do not pollute the land where you are. Bloodshed pollutes the land, and atonement cannot be made for the land on which blood has been shed, except by the blood of the one who shed it. 34 Do not defile the land where you live and where I dwell, for I, the Lord, dwell among the Israelites.’”
+  
+                                 </p>
+                                
+  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter3}>Numbers Chapter XXXVI </h2>
+                                <p>
+ <h4 className={styles.h4}>Inheritance of Zelophehad’s Daughters</h4> 
+
+
+36 The family heads of the clan of Gilead son of Makir, the son of Manasseh, who were from the clans of the descendants of Joseph, came and spoke before Moses and the leaders, the heads of the Israelite families. 2 They said, “When the Lord commanded my lord to give the land as an inheritance to the Israelites by lot, he ordered you to give the inheritance of our brother Zelophehad to his daughters. 3 Now suppose they marry men from other Israelite tribes; then their inheritance will be taken from our ancestral inheritance and added to that of the tribe they marry into. And so part of the inheritance allotted to us will be taken away. 4 When the Year of Jubilee for the Israelites comes, their inheritance will be added to that of the tribe into which they marry, and their property will be taken from the tribal inheritance of our ancestors.”
+
+5 Then at the Lord’s command Moses gave this order to the Israelites: “What the tribe of the descendants of Joseph is saying is right. 6 This is what the Lord commands for Zelophehad’s daughters: They may marry anyone they please as long as they marry within their father’s tribal clan. 7 No inheritance in Israel is to pass from one tribe to another, for every Israelite shall keep the tribal inheritance of their ancestors. 8 Every daughter who inherits land in any Israelite tribe must marry someone in her father’s tribal clan, so that every Israelite will possess the inheritance of their ancestors. 9 No inheritance may pass from one tribe to another, for each Israelite tribe is to keep the land it inherits.”
+
+10 So Zelophehad’s daughters did as the Lord commanded Moses. 11 Zelophehad’s daughters—Mahlah, Tirzah, Hoglah, Milkah and Noah—married their cousins on their father’s side. 12 They married within the clans of the descendants of Manasseh son of Joseph, and their inheritance remained in their father’s tribe and clan.
+
+13 These are the commands and regulations the Lord gave through Moses to the Israelites on the plains of Moab by the Jordan across from Jericho.  
+                                             </p>
+                                
+  </div>
+
   
           <div className={styles.card2}
           >
@@ -6233,8 +6931,8 @@ Balaam’s Donkey
               <h4 className={styles.h4}>Genesis Completed</h4>
                <h4 className={styles.h4}>Exodus is Completed</h4>
               <h4 className={styles.h4}>Leviticus is Completed</h4>
-               <h4 className={styles.h4}>Numbers is being coded...</h4>
-               <h4 className={styles.h4}> And lastly Deuteronomy</h4>
+               <h4 className={styles.h4}>Numbers is Completed</h4>
+               <h4 className={styles.h4}> And lastly Deuteronomy is being coded out!</h4>
               
               The meaning of “Torah” is often restricted to signify the first five books of the Hebrew Bible (Old Testament), also called the Law (or the Pentateuch, 
               in Christianity). 
