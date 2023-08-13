@@ -5810,11 +5810,32 @@ Tassels on Garments
           >
             <h2 className={styles.chapter3}>Numbers Chapter XVIII </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Duties of Priests and Levites</h4> 
 
 
 
+18 The Lord said to Aaron, “You, your sons and your family are to bear the responsibility for offenses connected with the sanctuary, and you and your sons alone are to bear the responsibility for offenses connected with the priesthood. 2 Bring your fellow Levites from your ancestral tribe to join you and assist you when you and your sons minister before the tent of the covenant law. 3 They are to be responsible to you and are to perform all the duties of the tent, but they must not go near the furnishings of the sanctuary or the altar. Otherwise both they and you will die. 4 They are to join you and be responsible for the care of the tent of meeting—all the work at the tent—and no one else may come near where you are.
 
+5 “You are to be responsible for the care of the sanctuary and the altar, so that my wrath will not fall on the Israelites again. 6 I myself have selected your fellow Levites from among the Israelites as a gift to you, dedicated to the Lord to do the work at the tent of meeting. 7 But only you and your sons may serve as priests in connection with everything at the altar and inside the curtain. I am giving you the service of the priesthood as a gift. Anyone else who comes near the sanctuary is to be put to death.”
+
+Offerings for Priests and Levites
+8 Then the Lord said to Aaron, “I myself have put you in charge of the offerings presented to me; all the holy offerings the Israelites give me I give to you and your sons as your portion, your perpetual share. 9 You are to have the part of the most holy offerings that is kept from the fire. From all the gifts they bring me as most holy offerings, whether grain or sin[a] or guilt offerings, that part belongs to you and your sons. 10 Eat it as something most holy; every male shall eat it. You must regard it as holy.
+
+11 “This also is yours: whatever is set aside from the gifts of all the wave offerings of the Israelites. I give this to you and your sons and daughters as your perpetual share. Everyone in your household who is ceremonially clean may eat it.
+
+12 “I give you all the finest olive oil and all the finest new wine and grain they give the Lord as the firstfruits of their harvest. 13 All the land’s firstfruits that they bring to the Lord will be yours. Everyone in your household who is ceremonially clean may eat it.
+
+14 “Everything in Israel that is devoted[b] to the Lord is yours. 15 The first offspring of every womb, both human and animal, that is offered to the Lord is yours. But you must redeem every firstborn son and every firstborn male of unclean animals. 16 When they are a month old, you must redeem them at the redemption price set at five shekels[c] of silver, according to the sanctuary shekel, which weighs twenty gerahs.
+
+17 “But you must not redeem the firstborn of a cow, a sheep or a goat; they are holy. Splash their blood against the altar and burn their fat as a food offering, an aroma pleasing to the Lord. 18 Their meat is to be yours, just as the breast of the wave offering and the right thigh are yours. 19 Whatever is set aside from the holy offerings the Israelites present to the Lord I give to you and your sons and daughters as your perpetual share. It is an everlasting covenant of salt before the Lord for both you and your offspring.”
+
+20 The Lord said to Aaron, “You will have no inheritance in their land, nor will you have any share among them; I am your share and your inheritance among the Israelites.
+
+21 “I give to the Levites all the tithes in Israel as their inheritance in return for the work they do while serving at the tent of meeting. 22 From now on the Israelites must not go near the tent of meeting, or they will bear the consequences of their sin and will die. 23 It is the Levites who are to do the work at the tent of meeting and bear the responsibility for any offenses they commit against it. This is a lasting ordinance for the generations to come. They will receive no inheritance among the Israelites. 24 Instead, I give to the Levites as their inheritance the tithes that the Israelites present as an offering to the Lord. That is why I said concerning them: ‘They will have no inheritance among the Israelites.’”
+
+25 The Lord said to Moses, 26 “Speak to the Levites and say to them: ‘When you receive from the Israelites the tithe I give you as your inheritance, you must present a tenth of that tithe as the Lord’s offering. 27 Your offering will be reckoned to you as grain from the threshing floor or juice from the winepress. 28 In this way you also will present an offering to the Lord from all the tithes you receive from the Israelites. From these tithes you must give the Lord’s portion to Aaron the priest. 29 You must present as the Lord’s portion the best and holiest part of everything given to you.’
+
+30 “Say to the Levites: ‘When you present the best part, it will be reckoned to you as the product of the threshing floor or the winepress. 31 You and your households may eat the rest of it anywhere, for it is your wages for your work at the tent of meeting. 32 By presenting the best part of it you will not be guilty in this matter; then you will not defile the holy offerings of the Israelites, and you will not die.’”
 
                                     </p>
                                   </div>
@@ -5823,10 +5844,22 @@ Tassels on Garments
           >
             <h2 className={styles.chapter3}>Numbers Chapter XIX </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The Water of Cleansing</h4> 
 
 
+19 The Lord said to Moses and Aaron: 2 “This is a requirement of the law that the Lord has commanded: Tell the Israelites to bring you a red heifer without defect or blemish and that has never been under a yoke. 3 Give it to Eleazar the priest; it is to be taken outside the camp and slaughtered in his presence. 4 Then Eleazar the priest is to take some of its blood on his finger and sprinkle it seven times toward the front of the tent of meeting. 5 While he watches, the heifer is to be burned—its hide, flesh, blood and intestines. 6 The priest is to take some cedar wood, hyssop and scarlet wool and throw them onto the burning heifer. 7 After that, the priest must wash his clothes and bathe himself with water. He may then come into the camp, but he will be ceremonially unclean till evening. 8 The man who burns it must also wash his clothes and bathe with water, and he too will be unclean till evening.
 
+9 “A man who is clean shall gather up the ashes of the heifer and put them in a ceremonially clean place outside the camp. They are to be kept by the Israelite community for use in the water of cleansing; it is for purification from sin. 10 The man who gathers up the ashes of the heifer must also wash his clothes, and he too will be unclean till evening. This will be a lasting ordinance both for the Israelites and for the foreigners residing among them.
+
+11 “Whoever touches a human corpse will be unclean for seven days. 12 They must purify themselves with the water on the third day and on the seventh day; then they will be clean. But if they do not purify themselves on the third and seventh days, they will not be clean. 13 If they fail to purify themselves after touching a human corpse, they defile the Lord’s tabernacle. They must be cut off from Israel. Because the water of cleansing has not been sprinkled on them, they are unclean; their uncleanness remains on them.
+
+14 “This is the law that applies when a person dies in a tent: Anyone who enters the tent and anyone who is in it will be unclean for seven days, 15 and every open container without a lid fastened on it will be unclean.
+
+16 “Anyone out in the open who touches someone who has been killed with a sword or someone who has died a natural death, or anyone who touches a human bone or a grave, will be unclean for seven days.
+
+17 “For the unclean person, put some ashes from the burned purification offering into a jar and pour fresh water over them. 18 Then a man who is ceremonially clean is to take some hyssop, dip it in the water and sprinkle the tent and all the furnishings and the people who were there. He must also sprinkle anyone who has touched a human bone or a grave or anyone who has been killed or anyone who has died a natural death. 19 The man who is clean is to sprinkle those who are unclean on the third and seventh days, and on the seventh day he is to purify them. Those who are being cleansed must wash their clothes and bathe with water, and that evening they will be clean. 20 But if those who are unclean do not purify themselves, they must be cut off from the community, because they have defiled the sanctuary of the Lord. The water of cleansing has not been sprinkled on them, and they are unclean. 21 This is a lasting ordinance for them.
+
+“The man who sprinkles the water of cleansing must also wash his clothes, and anyone who touches the water of cleansing will be unclean till evening. 22 Anything that an unclean person touches becomes unclean, and anyone who touches it becomes unclean till evening.”
 
 
                                     </p>
@@ -5836,8 +5869,46 @@ Tassels on Garments
           >
             <h2 className={styles.chapter3}>Numbers Chapter XX </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Water From the Rock</h4> 
 
+
+20 In the first month the whole Israelite community arrived at the Desert of Zin, and they stayed at Kadesh. There Miriam died and was buried.
+
+2 Now there was no water for the community, and the people gathered in opposition to Moses and Aaron. 3 They quarreled with Moses and said, “If only we had died when our brothers fell dead before the Lord! 4 Why did you bring the Lord’s community into this wilderness, that we and our livestock should die here? 5 Why did you bring us up out of Egypt to this terrible place? It has no grain or figs, grapevines or pomegranates. And there is no water to drink!”
+
+6 Moses and Aaron went from the assembly to the entrance to the tent of meeting and fell facedown, and the glory of the Lord appeared to them. 7 The Lord said to Moses, 8 “Take the staff, and you and your brother Aaron gather the assembly together. Speak to that rock before their eyes and it will pour out its water. You will bring water out of the rock for the community so they and their livestock can drink.”
+
+9 So Moses took the staff from the Lord’s presence, just as he commanded him. 10 He and Aaron gathered the assembly together in front of the rock and Moses said to them, “Listen, you rebels, must we bring you water out of this rock?” 11 Then Moses raised his arm and struck the rock twice with his staff. Water gushed out, and the community and their livestock drank.
+
+12 But the Lord said to Moses and Aaron, “Because you did not trust in me enough to honor me as holy in the sight of the Israelites, you will not bring this community into the land I give them.”
+
+13 These were the waters of Meribah,[a] where the Israelites quarreled with the Lord and where he was proved holy among them.
+
+Edom Denies Israel Passage
+14 Moses sent messengers from Kadesh to the king of Edom, saying:
+
+“This is what your brother Israel says: You know about all the hardships that have come on us. 15 Our ancestors went down into Egypt, and we lived there many years. The Egyptians mistreated us and our ancestors, 16 but when we cried out to the Lord, he heard our cry and sent an angel and brought us out of Egypt.
+
+“Now we are here at Kadesh, a town on the edge of your territory. 17 Please let us pass through your country. We will not go through any field or vineyard, or drink water from any well. We will travel along the King’s Highway and not turn to the right or to the left until we have passed through your territory.”
+
+18 But Edom answered:
+
+“You may not pass through here; if you try, we will march out and attack you with the sword.”
+
+19 The Israelites replied:
+
+“We will go along the main road, and if we or our livestock drink any of your water, we will pay for it. We only want to pass through on foot—nothing else.”
+
+20 Again they answered:
+
+“You may not pass through.”
+
+Then Edom came out against them with a large and powerful army. 21 Since Edom refused to let them go through their territory, Israel turned away from them.
+
+The Death of Aaron
+22 The whole Israelite community set out from Kadesh and came to Mount Hor. 23 At Mount Hor, near the border of Edom, the Lord said to Moses and Aaron, 24 “Aaron will be gathered to his people. He will not enter the land I give the Israelites, because both of you rebelled against my command at the waters of Meribah. 25 Get Aaron and his son Eleazar and take them up Mount Hor. 26 Remove Aaron’s garments and put them on his son Eleazar, for Aaron will be gathered to his people; he will die there.”
+
+27 Moses did as the Lord commanded: They went up Mount Hor in the sight of the whole community. 28 Moses removed Aaron’s garments and put them on his son Eleazar. And Aaron died there on top of the mountain. Then Moses and Eleazar came down from the mountain, 29 and when the whole community learned that Aaron had died, all the Israelites mourned for him thirty days.
 
 
 
@@ -5849,10 +5920,72 @@ Tassels on Garments
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXI </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Arad Destroyed</h4> 
 
 
+21 When the Canaanite king of Arad, who lived in the Negev, heard that Israel was coming along the road to Atharim, he attacked the Israelites and captured some of them. 2 Then Israel made this vow to the Lord: “If you will deliver these people into our hands, we will totally destroy[a] their cities.” 3 The Lord listened to Israel’s plea and gave the Canaanites over to them. They completely destroyed them and their towns; so the place was named Hormah.[b]
 
+The Bronze Snake
+4 They traveled from Mount Hor along the route to the Red Sea,[c] to go around Edom. But the people grew impatient on the way; 5 they spoke against God and against Moses, and said, “Why have you brought us up out of Egypt to die in the wilderness? There is no bread! There is no water! And we detest this miserable food!”
+
+6 Then the Lord sent venomous snakes among them; they bit the people and many Israelites died. 7 The people came to Moses and said, “We sinned when we spoke against the Lord and against you. Pray that the Lord will take the snakes away from us.” So Moses prayed for the people.
+
+8 The Lord said to Moses, “Make a snake and put it up on a pole; anyone who is bitten can look at it and live.” 9 So Moses made a bronze snake and put it up on a pole. Then when anyone was bitten by a snake and looked at the bronze snake, they lived.
+
+The Journey to Moab
+10 The Israelites moved on and camped at Oboth. 11 Then they set out from Oboth and camped in Iye Abarim, in the wilderness that faces Moab toward the sunrise. 12 From there they moved on and camped in the Zered Valley. 13 They set out from there and camped alongside the Arnon, which is in the wilderness extending into Amorite territory. The Arnon is the border of Moab, between Moab and the Amorites. 14 That is why the Book of the Wars of the Lord says:
+
+“. . . Zahab[d] in Suphah and the ravines,
+    the Arnon 15 and[e] the slopes of the ravines
+that lead to the settlement of Ar
+    and lie along the border of Moab.”
+
+16 From there they continued on to Beer, the well where the Lord said to Moses, “Gather the people together and I will give them water.”
+
+17 Then Israel sang this song:
+
+“Spring up, O well!
+    Sing about it,
+18 about the well that the princes dug,
+    that the nobles of the people sank—
+    the nobles with scepters and staffs.”
+
+Then they went from the wilderness to Mattanah, 19 from Mattanah to Nahaliel, from Nahaliel to Bamoth, 20 and from Bamoth to the valley in Moab where the top of Pisgah overlooks the wasteland.
+
+Defeat of Sihon and Og
+21 Israel sent messengers to say to Sihon king of the Amorites:
+
+22 “Let us pass through your country. We will not turn aside into any field or vineyard, or drink water from any well. We will travel along the King’s Highway until we have passed through your territory.”
+
+23 But Sihon would not let Israel pass through his territory. He mustered his entire army and marched out into the wilderness against Israel. When he reached Jahaz, he fought with Israel. 24 Israel, however, put him to the sword and took over his land from the Arnon to the Jabbok, but only as far as the Ammonites, because their border was fortified. 25 Israel captured all the cities of the Amorites and occupied them, including Heshbon and all its surrounding settlements. 26 Heshbon was the city of Sihon king of the Amorites, who had fought against the former king of Moab and had taken from him all his land as far as the Arnon.
+
+27 That is why the poets say:
+
+“Come to Heshbon and let it be rebuilt;
+    let Sihon’s city be restored.
+
+28 “Fire went out from Heshbon,
+    a blaze from the city of Sihon.
+It consumed Ar of Moab,
+    the citizens of Arnon’s heights.
+29 Woe to you, Moab!
+    You are destroyed, people of Chemosh!
+He has given up his sons as fugitives
+    and his daughters as captives
+    to Sihon king of the Amorites.
+
+30 “But we have overthrown them;
+    Heshbon’s dominion has been destroyed all the way to Dibon.
+We have demolished them as far as Nophah,
+    which extends to Medeba.”
+
+31 So Israel settled in the land of the Amorites.
+
+32 After Moses had sent spies to Jazer, the Israelites captured its surrounding settlements and drove out the Amorites who were there. 33 Then they turned and went up along the road toward Bashan, and Og king of Bashan and his whole army marched out to meet them in battle at Edrei.
+
+34 The Lord said to Moses, “Do not be afraid of him, for I have delivered him into your hands, along with his whole army and his land. Do to him what you did to Sihon king of the Amorites, who reigned in Heshbon.”
+
+35 So they struck him down, together with his sons and his whole army, leaving them no survivors. And they took possession of his land.
 
 
                                     </p>
@@ -5863,9 +5996,66 @@ Tassels on Garments
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXII </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>Balak Summons Balaam</h4> 
 
+22 Then the Israelites traveled to the plains of Moab and camped along the Jordan across from Jericho.
 
+2 Now Balak son of Zippor saw all that Israel had done to the Amorites, 3 and Moab was terrified because there were so many people. Indeed, Moab was filled with dread because of the Israelites.
+
+4 The Moabites said to the elders of Midian, “This horde is going to lick up everything around us, as an ox licks up the grass of the field.”
+
+So Balak son of Zippor, who was king of Moab at that time, 5 sent messengers to summon Balaam son of Beor, who was at Pethor, near the Euphrates River, in his native land. Balak said:
+
+“A people has come out of Egypt; they cover the face of the land and have settled next to me. 6 Now come and put a curse on these people, because they are too powerful for me. Perhaps then I will be able to defeat them and drive them out of the land. For I know that whoever you bless is blessed, and whoever you curse is cursed.”
+
+7 The elders of Moab and Midian left, taking with them the fee for divination. When they came to Balaam, they told him what Balak had said.
+
+8 “Spend the night here,” Balaam said to them, “and I will report back to you with the answer the Lord gives me.” So the Moabite officials stayed with him.
+
+9 God came to Balaam and asked, “Who are these men with you?”
+
+10 Balaam said to God, “Balak son of Zippor, king of Moab, sent me this message: 11 ‘A people that has come out of Egypt covers the face of the land. Now come and put a curse on them for me. Perhaps then I will be able to fight them and drive them away.’”
+
+12 But God said to Balaam, “Do not go with them. You must not put a curse on those people, because they are blessed.”
+
+13 The next morning Balaam got up and said to Balak’s officials, “Go back to your own country, for the Lord has refused to let me go with you.”
+
+14 So the Moabite officials returned to Balak and said, “Balaam refused to come with us.”
+
+15 Then Balak sent other officials, more numerous and more distinguished than the first. 16 They came to Balaam and said:
+
+“This is what Balak son of Zippor says: Do not let anything keep you from coming to me, 17 because I will reward you handsomely and do whatever you say. Come and put a curse on these people for me.”
+
+18 But Balaam answered them, “Even if Balak gave me all the silver and gold in his palace, I could not do anything great or small to go beyond the command of the Lord my God. 19 Now spend the night here so that I can find out what else the Lord will tell me.”
+
+20 That night God came to Balaam and said, “Since these men have come to summon you, go with them, but do only what I tell you.”
+
+Balaam’s Donkey
+21 Balaam got up in the morning, saddled his donkey and went with the Moabite officials. 22 But God was very angry when he went, and the angel of the Lord stood in the road to oppose him. Balaam was riding on his donkey, and his two servants were with him. 23 When the donkey saw the angel of the Lord standing in the road with a drawn sword in his hand, it turned off the road into a field. Balaam beat it to get it back on the road.
+
+24 Then the angel of the Lord stood in a narrow path through the vineyards, with walls on both sides. 25 When the donkey saw the angel of the Lord, it pressed close to the wall, crushing Balaam’s foot against it. So he beat the donkey again.
+
+26 Then the angel of the Lord moved on ahead and stood in a narrow place where there was no room to turn, either to the right or to the left. 27 When the donkey saw the angel of the Lord, it lay down under Balaam, and he was angry and beat it with his staff. 28 Then the Lord opened the donkey’s mouth, and it said to Balaam, “What have I done to you to make you beat me these three times?”
+
+29 Balaam answered the donkey, “You have made a fool of me! If only I had a sword in my hand, I would kill you right now.”
+
+30 The donkey said to Balaam, “Am I not your own donkey, which you have always ridden, to this day? Have I been in the habit of doing this to you?”
+
+“No,” he said.
+
+31 Then the Lord opened Balaam’s eyes, and he saw the angel of the Lord standing in the road with his sword drawn. So he bowed low and fell facedown.
+
+32 The angel of the Lord asked him, “Why have you beaten your donkey these three times? I have come here to oppose you because your path is a reckless one before me.[a] 33 The donkey saw me and turned away from me these three times. If it had not turned away, I would certainly have killed you by now, but I would have spared it.”
+
+34 Balaam said to the angel of the Lord, “I have sinned. I did not realize you were standing in the road to oppose me. Now if you are displeased, I will go back.”
+
+35 The angel of the Lord said to Balaam, “Go with the men, but speak only what I tell you.” So Balaam went with Balak’s officials.
+
+36 When Balak heard that Balaam was coming, he went out to meet him at the Moabite town on the Arnon border, at the edge of his territory. 37 Balak said to Balaam, “Did I not send you an urgent summons? Why didn’t you come to me? Am I really not able to reward you?”
+
+38 “Well, I have come to you now,” Balaam replied. “But I can’t say whatever I please. I must speak only what God puts in my mouth.”
+
+39 Then Balaam went with Balak to Kiriath Huzoth. 40 Balak sacrificed cattle and sheep, and gave some to Balaam and the officials who were with him. 41 The next morning Balak took Balaam up to Bamoth Baal, and from there he could see the outskirts of the Israelite camp.
 
 
 
