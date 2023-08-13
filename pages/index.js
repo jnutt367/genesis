@@ -4990,7 +4990,7 @@ Punishment for Disobedience
 
            This is Numbers! It begins with a census of all the men of the Israelites 20 years old or more, able to serve in the army.
 </p>                                                      
-                  <div className={styles.nav}>           
+                  <div className={styles.nav3}>           
       <a href="https://mytorah.vercel.app/#leviticus">
              <Image 
                                 src="/previous.webp"
