@@ -4965,6 +4965,650 @@ Punishment for Disobedience
       </main>                
 
 
+<main id="numbers" className={styles.main}>
+       
+        <div className={styles.hero}>
+                <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        <h1 className={styles.title}>
+      NUMBERS
+        </h1>
+          <div className={styles.image}>
+                           <Image 
+                                                    src="/leviticus.png"
+                                                    alt="hero image for Leviticus"
+                                                    height={900}
+                                                    width={2000}
+                                                    priority
+                                                  />
+                          
+
+                        </div>
+    <p className={styles.parables}>
+
+           This is Numbers! It begins with a census of all the men of the Israelites 20 years old or more, able to serve in the army.
+</p>                                                      
+                  <div className={styles.nav}>           
+      <a href="https://mytorah.vercel.app/#leviticus">
+             <Image 
+                                src="/previous.webp"
+                                alt="prev"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+        
+      <a href="https://cash.app/$JNutt367">
+              <Image className={styles.arrow}
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+         <a href="https://mytorah.vercel.app/#deuteronomy">
+           <Image 
+                                src="/next.webp"
+                                alt="next"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+                                 <div className={styles.iframe}> 
+                                       <iframe width="100%" height="315" src="https://www.youtube.com/embed/tp5MIrMZFqo?autoply=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                  </div>
+                                  
+                              
+        <div className={styles.grid2}>
+          
+
+   <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter I </h2>
+                                <p>
+ <h4 className={styles.h4}>The Census</h4> 
+
+
+
+1 The Lord spoke to Moses in the tent of meeting in the Desert of Sinai on the first day of the second month of the second year after the Israelites came out of Egypt. He said: 2 “Take a census of the whole Israelite community by their clans and families, listing every man by name, one by one. 3 You and Aaron are to count according to their divisions all the men in Israel who are twenty years old or more and able to serve in the army. 4 One man from each tribe, each of them the head of his family, is to help you. 5 These are the names of the men who are to assist you:
+
+from Reuben, Elizur son of Shedeur;
+
+6 from Simeon, Shelumiel son of Zurishaddai;
+
+7 from Judah, Nahshon son of Amminadab;
+
+8 from Issachar, Nethanel son of Zuar;
+
+9 from Zebulun, Eliab son of Helon;
+
+10 from the sons of Joseph:
+
+from Ephraim, Elishama son of Ammihud;
+
+from Manasseh, Gamaliel son of Pedahzur;
+
+11 from Benjamin, Abidan son of Gideoni;
+
+12 from Dan, Ahiezer son of Ammishaddai;
+
+13 from Asher, Pagiel son of Okran;
+
+14 from Gad, Eliasaph son of Deuel;
+
+15 from Naphtali, Ahira son of Enan.”
+
+16 These were the men appointed from the community, the leaders of their ancestral tribes. They were the heads of the clans of Israel.
+
+17 Moses and Aaron took these men whose names had been specified, 18 and they called the whole community together on the first day of the second month. The people registered their ancestry by their clans and families, and the men twenty years old or more were listed by name, one by one, 19 as the Lord commanded Moses. And so he counted them in the Desert of Sinai:
+
+20 From the descendants of Reuben the firstborn son of Israel:
+
+All the men twenty years old or more who were able to serve in the army were listed by name, one by one, according to the records of their clans and families. 21 The number from the tribe of Reuben was 46,500.
+
+22 From the descendants of Simeon:
+
+All the men twenty years old or more who were able to serve in the army were counted and listed by name, one by one, according to the records of their clans and families. 23 The number from the tribe of Simeon was 59,300.
+
+24 From the descendants of Gad:
+
+All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families. 25 The number from the tribe of Gad was 45,650.
+
+26 From the descendants of Judah:
+
+All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families. 27 The number from the tribe of Judah was 74,600.
+
+28 From the descendants of Issachar:
+
+All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families. 29 The number from the tribe of Issachar was 54,400.
+
+30 From the descendants of Zebulun:
+
+All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families. 31 The number from the tribe of Zebulun was 57,400.
+
+32 From the sons of Joseph:
+
+From the descendants of Ephraim:
+
+All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families. 33 The number from the tribe of Ephraim was 40,500.
+
+34 From the descendants of Manasseh:
+
+All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families. 35 The number from the tribe of Manasseh was 32,200.
+
+36 From the descendants of Benjamin:
+
+All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families. 37 The number from the tribe of Benjamin was 35,400.
+
+38 From the descendants of Dan:
+
+All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families. 39 The number from the tribe of Dan was 62,700.
+
+40 From the descendants of Asher:
+
+All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families. 41 The number from the tribe of Asher was 41,500.
+
+42 From the descendants of Naphtali:
+
+All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families. 43 The number from the tribe of Naphtali was 53,400.
+
+44 These were the men counted by Moses and Aaron and the twelve leaders of Israel, each one representing his family. 45 All the Israelites twenty years old or more who were able to serve in Israel’s army were counted according to their families. 46 The total number was 603,550.
+
+47 The ancestral tribe of the Levites, however, was not counted along with the others. 48 The Lord had said to Moses: 49 “You must not count the tribe of Levi or include them in the census of the other Israelites. 50 Instead, appoint the Levites to be in charge of the tabernacle of the covenant law—over all its furnishings and everything belonging to it. They are to carry the tabernacle and all its furnishings; they are to take care of it and encamp around it. 51 Whenever the tabernacle is to move, the Levites are to take it down, and whenever the tabernacle is to be set up, the Levites shall do it. Anyone else who approaches it is to be put to death. 52 The Israelites are to set up their tents by divisions, each of them in their own camp under their standard. 53 The Levites, however, are to set up their tents around the tabernacle of the covenant law so that my wrath will not fall on the Israelite community. The Levites are to be responsible for the care of the tabernacle of the covenant law.”
+
+54 The Israelites did all this just as the Lord commanded Moses.
+
+
+  
+
+                                  </p>
+  </div>
+
+ <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter II </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter III </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+   <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter IV </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter V </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+  
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter VI </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter VII </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+   <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter VIII </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter IX </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+
+
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter X </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XI </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+   <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XII </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XIII </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XIV </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XV </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+   <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XVI </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XVII </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+
+  <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XVIII </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XIX </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+   <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XX </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXI </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXII </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXIII </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+   <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXIV </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXV </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+
+
+  <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXVI </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXVII </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+   <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXVIII </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXIX </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXX </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+   <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXXI </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXXII </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+  <div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXXIII </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card}
+          >
+            <h2 className={styles.chapter}>Numbers Chapter XXXIV </h2>
+                                <p>
+ <h4 className={styles.h4}>Chapter II</h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+   
+  
+          <div className={styles.card2}
+          >
+            <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
+            <p>
+            
+            <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
+            This is the beginning of the Old Testament and it will contain the 5 books of the Torah or Pentateuch...
+              <h4 className={styles.h4}>Genesis Completed</h4>
+               <h4 className={styles.h4}>Exodus is Completed</h4>
+              <h4 className={styles.h4}>Leviticus is Completed</h4>
+               <h4 className={styles.h4}>Numbers is being coded...</h4>
+               <h4 className={styles.h4}> And lastly Deuteronomy</h4>
+              
+              The meaning of “Torah” is often restricted to signify the first five books of the Hebrew Bible (Old Testament), also called the Law (or the Pentateuch, 
+              in Christianity). 
+              These are the books traditionally ascribed to Moses, the recipient of the original revelation from God on Mount Sinai.
+              More to come on the layout...!
+     </p>
+          </div>
+
+
+     
+
+        </div>
+</div>
+        <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
+      </main>   
+  
+                
+
   
   </div>   
   )
