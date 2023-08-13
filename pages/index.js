@@ -5028,12 +5028,12 @@ Punishment for Disobedience
                                   </div>
                                   
                               
-        <div className={styles.grid2}>
+        <div className={styles.grid3}>
           
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter I </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>The Census</h4> 
 
@@ -5135,12 +5135,50 @@ All the men twenty years old or more who were able to serve in the army were lis
 
  <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter II </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter II </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The Arrangement of the Tribal Camps</h4> 
 
 
+2 The Lord said to Moses and Aaron: 2 “The Israelites are to camp around the tent of meeting some distance from it, each of them under their standard and holding the banners of their family.”
 
+3 On the east, toward the sunrise, the divisions of the camp of Judah are to encamp under their standard. The leader of the people of Judah is Nahshon son of Amminadab. 4 His division numbers 74,600.
+
+5 The tribe of Issachar will camp next to them. The leader of the people of Issachar is Nethanel son of Zuar. 6 His division numbers 54,400.
+
+7 The tribe of Zebulun will be next. The leader of the people of Zebulun is Eliab son of Helon. 8 His division numbers 57,400.
+
+9 All the men assigned to the camp of Judah, according to their divisions, number 186,400. They will set out first.
+
+10 On the south will be the divisions of the camp of Reuben under their standard. The leader of the people of Reuben is Elizur son of Shedeur. 11 His division numbers 46,500.
+
+12 The tribe of Simeon will camp next to them. The leader of the people of Simeon is Shelumiel son of Zurishaddai. 13 His division numbers 59,300.
+
+14 The tribe of Gad will be next. The leader of the people of Gad is Eliasaph son of Deuel.[a] 15 His division numbers 45,650.
+
+16 All the men assigned to the camp of Reuben, according to their divisions, number 151,450. They will set out second.
+
+17 Then the tent of meeting and the camp of the Levites will set out in the middle of the camps. They will set out in the same order as they encamp, each in their own place under their standard.
+
+18 On the west will be the divisions of the camp of Ephraim under their standard. The leader of the people of Ephraim is Elishama son of Ammihud. 19 His division numbers 40,500.
+
+20 The tribe of Manasseh will be next to them. The leader of the people of Manasseh is Gamaliel son of Pedahzur. 21 His division numbers 32,200.
+
+22 The tribe of Benjamin will be next. The leader of the people of Benjamin is Abidan son of Gideoni. 23 His division numbers 35,400.
+
+24 All the men assigned to the camp of Ephraim, according to their divisions, number 108,100. They will set out third.
+
+25 On the north will be the divisions of the camp of Dan under their standard. The leader of the people of Dan is Ahiezer son of Ammishaddai. 26 His division numbers 62,700.
+
+27 The tribe of Asher will camp next to them. The leader of the people of Asher is Pagiel son of Okran. 28 His division numbers 41,500.
+
+29 The tribe of Naphtali will be next. The leader of the people of Naphtali is Ahira son of Enan. 30 His division numbers 53,400.
+
+31 All the men assigned to the camp of Dan number 157,600. They will set out last, under their standards.
+
+32 These are the Israelites, counted according to their families. All the men in the camps, by their divisions, number 603,550. 33 The Levites, however, were not counted along with the other Israelites, as the Lord commanded Moses.
+
+34 So the Israelites did everything the Lord commanded Moses; that is the way they encamped under their standards, and that is the way they set out, each of them with their clan and family.
 
 
                                     </p>
@@ -5148,12 +5186,56 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter III </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter III </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The Levites</h4> 
 
 
+3 This is the account of the family of Aaron and Moses at the time the Lord spoke to Moses at Mount Sinai.
 
+2 The names of the sons of Aaron were Nadab the firstborn and Abihu, Eleazar and Ithamar. 3 Those were the names of Aaron’s sons, the anointed priests, who were ordained to serve as priests. 4 Nadab and Abihu, however, died before the Lord when they made an offering with unauthorized fire before him in the Desert of Sinai. They had no sons, so Eleazar and Ithamar served as priests during the lifetime of their father Aaron.
+
+5 The Lord said to Moses, 6 “Bring the tribe of Levi and present them to Aaron the priest to assist him. 7 They are to perform duties for him and for the whole community at the tent of meeting by doing the work of the tabernacle. 8 They are to take care of all the furnishings of the tent of meeting, fulfilling the obligations of the Israelites by doing the work of the tabernacle. 9 Give the Levites to Aaron and his sons; they are the Israelites who are to be given wholly to him.[a] 10 Appoint Aaron and his sons to serve as priests; anyone else who approaches the sanctuary is to be put to death.”
+
+11 The Lord also said to Moses, 12 “I have taken the Levites from among the Israelites in place of the first male offspring of every Israelite woman. The Levites are mine, 13 for all the firstborn are mine. When I struck down all the firstborn in Egypt, I set apart for myself every firstborn in Israel, whether human or animal. They are to be mine. I am the Lord.”
+
+14 The Lord said to Moses in the Desert of Sinai, 15 “Count the Levites by their families and clans. Count every male a month old or more.” 16 So Moses counted them, as he was commanded by the word of the Lord.
+
+17 These were the names of the sons of Levi:
+
+Gershon, Kohath and Merari.
+
+18 These were the names of the Gershonite clans:
+
+Libni and Shimei.
+
+19 The Kohathite clans:
+
+Amram, Izhar, Hebron and Uzziel.
+
+20 The Merarite clans:
+
+Mahli and Mushi.
+
+These were the Levite clans, according to their families.
+
+21 To Gershon belonged the clans of the Libnites and Shimeites; these were the Gershonite clans. 22 The number of all the males a month old or more who were counted was 7,500. 23 The Gershonite clans were to camp on the west, behind the tabernacle. 24 The leader of the families of the Gershonites was Eliasaph son of Lael. 25 At the tent of meeting the Gershonites were responsible for the care of the tabernacle and tent, its coverings, the curtain at the entrance to the tent of meeting, 26 the curtains of the courtyard, the curtain at the entrance to the courtyard surrounding the tabernacle and altar, and the ropes—and everything related to their use.
+
+27 To Kohath belonged the clans of the Amramites, Izharites, Hebronites and Uzzielites; these were the Kohathite clans. 28 The number of all the males a month old or more was 8,600.[b] The Kohathites were responsible for the care of the sanctuary. 29 The Kohathite clans were to camp on the south side of the tabernacle. 30 The leader of the families of the Kohathite clans was Elizaphan son of Uzziel. 31 They were responsible for the care of the ark, the table, the lampstand, the altars, the articles of the sanctuary used in ministering, the curtain, and everything related to their use. 32 The chief leader of the Levites was Eleazar son of Aaron, the priest. He was appointed over those who were responsible for the care of the sanctuary.
+
+33 To Merari belonged the clans of the Mahlites and the Mushites; these were the Merarite clans. 34 The number of all the males a month old or more who were counted was 6,200. 35 The leader of the families of the Merarite clans was Zuriel son of Abihail; they were to camp on the north side of the tabernacle. 36 The Merarites were appointed to take care of the frames of the tabernacle, its crossbars, posts, bases, all its equipment, and everything related to their use, 37 as well as the posts of the surrounding courtyard with their bases, tent pegs and ropes.
+
+38 Moses and Aaron and his sons were to camp to the east of the tabernacle, toward the sunrise, in front of the tent of meeting. They were responsible for the care of the sanctuary on behalf of the Israelites. Anyone else who approached the sanctuary was to be put to death.
+
+39 The total number of Levites counted at the Lord’s command by Moses and Aaron according to their clans, including every male a month old or more, was 22,000.
+
+40 The Lord said to Moses, “Count all the firstborn Israelite males who are a month old or more and make a list of their names. 41 Take the Levites for me in place of all the firstborn of the Israelites, and the livestock of the Levites in place of all the firstborn of the livestock of the Israelites. I am the Lord.”
+
+42 So Moses counted all the firstborn of the Israelites, as the Lord commanded him. 43 The total number of firstborn males a month old or more, listed by name, was 22,273.
+
+44 The Lord also said to Moses, 45 “Take the Levites in place of all the firstborn of Israel, and the livestock of the Levites in place of their livestock. The Levites are to be mine. I am the Lord. 46 To redeem the 273 firstborn Israelites who exceed the number of the Levites, 47 collect five shekels[c] for each one, according to the sanctuary shekel, which weighs twenty gerahs. 48 Give the money for the redemption of the additional Israelites to Aaron and his sons.”
+
+49 So Moses collected the redemption money from those who exceeded the number redeemed by the Levites. 50 From the firstborn of the Israelites he collected silver weighing 1,365 shekels,[d] according to the sanctuary shekel. 51 Moses gave the redemption money to Aaron and his sons, as he was commanded by the word of the Lord.
 
 
                                     </p>
@@ -5163,10 +5245,47 @@ All the men twenty years old or more who were able to serve in the army were lis
           >
             <h2 className={styles.chapter}>Numbers Chapter IV </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The Kohathites</h4> 
 
 
+4 The Lord said to Moses and Aaron: 2 “Take a census of the Kohathite branch of the Levites by their clans and families. 3 Count all the men from thirty to fifty years of age who come to serve in the work at the tent of meeting.
 
+4 “This is the work of the Kohathites at the tent of meeting: the care of the most holy things. 5 When the camp is to move, Aaron and his sons are to go in and take down the shielding curtain and put it over the ark of the covenant law. 6 Then they are to cover the curtain with a durable leather,[a] spread a cloth of solid blue over that and put the poles in place.
+
+7 “Over the table of the Presence they are to spread a blue cloth and put on it the plates, dishes and bowls, and the jars for drink offerings; the bread that is continually there is to remain on it. 8 They are to spread a scarlet cloth over them, cover that with the durable leather and put the poles in place.
+
+9 “They are to take a blue cloth and cover the lampstand that is for light, together with its lamps, its wick trimmers and trays, and all its jars for the olive oil used to supply it. 10 Then they are to wrap it and all its accessories in a covering of the durable leather and put it on a carrying frame.
+
+11 “Over the gold altar they are to spread a blue cloth and cover that with the durable leather and put the poles in place.
+
+12 “They are to take all the articles used for ministering in the sanctuary, wrap them in a blue cloth, cover that with the durable leather and put them on a carrying frame.
+
+13 “They are to remove the ashes from the bronze altar and spread a purple cloth over it. 14 Then they are to place on it all the utensils used for ministering at the altar, including the firepans, meat forks, shovels and sprinkling bowls. Over it they are to spread a covering of the durable leather and put the poles in place.
+
+15 “After Aaron and his sons have finished covering the holy furnishings and all the holy articles, and when the camp is ready to move, only then are the Kohathites to come and do the carrying. But they must not touch the holy things or they will die. The Kohathites are to carry those things that are in the tent of meeting.
+
+16 “Eleazar son of Aaron, the priest, is to have charge of the oil for the light, the fragrant incense, the regular grain offering and the anointing oil. He is to be in charge of the entire tabernacle and everything in it, including its holy furnishings and articles.”
+
+17 The Lord said to Moses and Aaron, 18 “See that the Kohathite tribal clans are not destroyed from among the Levites. 19 So that they may live and not die when they come near the most holy things, do this for them: Aaron and his sons are to go into the sanctuary and assign to each man his work and what he is to carry. 20 But the Kohathites must not go in to look at the holy things, even for a moment, or they will die.”
+
+The Gershonites
+21 The Lord said to Moses, 22 “Take a census also of the Gershonites by their families and clans. 23 Count all the men from thirty to fifty years of age who come to serve in the work at the tent of meeting.
+
+24 “This is the service of the Gershonite clans in their carrying and their other work: 25 They are to carry the curtains of the tabernacle, that is, the tent of meeting, its covering and its outer covering of durable leather, the curtains for the entrance to the tent of meeting, 26 the curtains of the courtyard surrounding the tabernacle and altar, the curtain for the entrance to the courtyard, the ropes and all the equipment used in the service of the tent. The Gershonites are to do all that needs to be done with these things. 27 All their service, whether carrying or doing other work, is to be done under the direction of Aaron and his sons. You shall assign to them as their responsibility all they are to carry. 28 This is the service of the Gershonite clans at the tent of meeting. Their duties are to be under the direction of Ithamar son of Aaron, the priest.
+
+The Merarites
+29 “Count the Merarites by their clans and families. 30 Count all the men from thirty to fifty years of age who come to serve in the work at the tent of meeting. 31 As part of all their service at the tent, they are to carry the frames of the tabernacle, its crossbars, posts and bases, 32 as well as the posts of the surrounding courtyard with their bases, tent pegs, ropes, all their equipment and everything related to their use. Assign to each man the specific things he is to carry. 33 This is the service of the Merarite clans as they work at the tent of meeting under the direction of Ithamar son of Aaron, the priest.”
+
+The Numbering of the Levite Clans
+34 Moses, Aaron and the leaders of the community counted the Kohathites by their clans and families. 35 All the men from thirty to fifty years of age who came to serve in the work at the tent of meeting, 36 counted by clans, were 2,750. 37 This was the total of all those in the Kohathite clans who served at the tent of meeting. Moses and Aaron counted them according to the Lord’s command through Moses.
+
+38 The Gershonites were counted by their clans and families. 39 All the men from thirty to fifty years of age who came to serve in the work at the tent of meeting, 40 counted by their clans and families, were 2,630. 41 This was the total of those in the Gershonite clans who served at the tent of meeting. Moses and Aaron counted them according to the Lord’s command.
+
+42 The Merarites were counted by their clans and families. 43 All the men from thirty to fifty years of age who came to serve in the work at the tent of meeting, 44 counted by their clans, were 3,200. 45 This was the total of those in the Merarite clans. Moses and Aaron counted them according to the Lord’s command through Moses.
+
+46 So Moses, Aaron and the leaders of Israel counted all the Levites by their clans and families. 47 All the men from thirty to fifty years of age who came to do the work of serving and carrying the tent of meeting 48 numbered 8,580. 49 At the Lord’s command through Moses, each was assigned his work and told what to carry.
+
+Thus they were counted, as the Lord commanded Moses.
 
 
                                     </p>
@@ -5174,12 +5293,26 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter V </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter V </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The Purity of the Camp</h4> 
 
 
+5 The Lord said to Moses, 2 “Command the Israelites to send away from the camp anyone who has a defiling skin disease[a] or a discharge of any kind, or who is ceremonially unclean because of a dead body. 3 Send away male and female alike; send them outside the camp so they will not defile their camp, where I dwell among them.” 4 The Israelites did so; they sent them outside the camp. They did just as the Lord had instructed Moses.
 
+Restitution for Wrongs
+5 The Lord said to Moses, 6 “Say to the Israelites: ‘Any man or woman who wrongs another in any way[b] and so is unfaithful to the Lord is guilty 7 and must confess the sin they have committed. They must make full restitution for the wrong they have done, add a fifth of the value to it and give it all to the person they have wronged. 8 But if that person has no close relative to whom restitution can be made for the wrong, the restitution belongs to the Lord and must be given to the priest, along with the ram with which atonement is made for the wrongdoer. 9 All the sacred contributions the Israelites bring to a priest will belong to him. 10 Sacred things belong to their owners, but what they give to the priest will belong to the priest.’”
+
+The Test for an Unfaithful Wife
+11 Then the Lord said to Moses, 12 “Speak to the Israelites and say to them: ‘If a man’s wife goes astray and is unfaithful to him 13 so that another man has sexual relations with her, and this is hidden from her husband and her impurity is undetected (since there is no witness against her and she has not been caught in the act), 14 and if feelings of jealousy come over her husband and he suspects his wife and she is impure—or if he is jealous and suspects her even though she is not impure— 15 then he is to take his wife to the priest. He must also take an offering of a tenth of an ephah[c] of barley flour on her behalf. He must not pour olive oil on it or put incense on it, because it is a grain offering for jealousy, a reminder-offering to draw attention to wrongdoing.
+
+16 “‘The priest shall bring her and have her stand before the Lord. 17 Then he shall take some holy water in a clay jar and put some dust from the tabernacle floor into the water. 18 After the priest has had the woman stand before the Lord, he shall loosen her hair and place in her hands the reminder-offering, the grain offering for jealousy, while he himself holds the bitter water that brings a curse. 19 Then the priest shall put the woman under oath and say to her, “If no other man has had sexual relations with you and you have not gone astray and become impure while married to your husband, may this bitter water that brings a curse not harm you. 20 But if you have gone astray while married to your husband and you have made yourself impure by having sexual relations with a man other than your husband”— 21 here the priest is to put the woman under this curse—“may the Lord cause you to become a curse[d] among your people when he makes your womb miscarry and your abdomen swell. 22 May this water that brings a curse enter your body so that your abdomen swells or your womb miscarries.”
+
+“‘Then the woman is to say, “Amen. So be it.”
+
+23 “‘The priest is to write these curses on a scroll and then wash them off into the bitter water. 24 He shall make the woman drink the bitter water that brings a curse, and this water that brings a curse and causes bitter suffering will enter her. 25 The priest is to take from her hands the grain offering for jealousy, wave it before the Lord and bring it to the altar. 26 The priest is then to take a handful of the grain offering as a memorial[e] offering and burn it on the altar; after that, he is to have the woman drink the water. 27 If she has made herself impure and been unfaithful to her husband, this will be the result: When she is made to drink the water that brings a curse and causes bitter suffering, it will enter her, her abdomen will swell and her womb will miscarry, and she will become a curse. 28 If, however, the woman has not made herself impure, but is clean, she will be cleared of guilt and will be able to have children.
+
+29 “‘This, then, is the law of jealousy when a woman goes astray and makes herself impure while married to her husband, 30 or when feelings of jealousy come over a man because he suspects his wife. The priest is to have her stand before the Lord and is to apply this entire law to her. 31 The husband will be innocent of any wrongdoing, but the woman will bear the consequences of her sin.’”
 
 
                                     </p>
@@ -5188,12 +5321,40 @@ All the men twenty years old or more who were able to serve in the army were lis
   
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter VI </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter VI </h2>
                                 <p>
- <h4 className={styles.h4}>Chapter II</h4> 
+ <h4 className={styles.h4}>The Nazirite</h4> 
 
 
+6 The Lord said to Moses, 2 “Speak to the Israelites and say to them: ‘If a man or woman wants to make a special vow, a vow of dedication to the Lord as a Nazirite, 3 they must abstain from wine and other fermented drink and must not drink vinegar made from wine or other fermented drink. They must not drink grape juice or eat grapes or raisins. 4 As long as they remain under their Nazirite vow, they must not eat anything that comes from the grapevine, not even the seeds or skins.
 
+5 “‘During the entire period of their Nazirite vow, no razor may be used on their head. They must be holy until the period of their dedication to the Lord is over; they must let their hair grow long.
+
+6 “‘Throughout the period of their dedication to the Lord, the Nazirite must not go near a dead body. 7 Even if their own father or mother or brother or sister dies, they must not make themselves ceremonially unclean on account of them, because the symbol of their dedication to God is on their head. 8 Throughout the period of their dedication, they are consecrated to the Lord.
+
+9 “‘If someone dies suddenly in the Nazirite’s presence, thus defiling the hair that symbolizes their dedication, they must shave their head on the seventh day—the day of their cleansing. 10 Then on the eighth day they must bring two doves or two young pigeons to the priest at the entrance to the tent of meeting. 11 The priest is to offer one as a sin offering[a] and the other as a burnt offering to make atonement for the Nazirite because they sinned by being in the presence of the dead body. That same day they are to consecrate their head again. 12 They must rededicate themselves to the Lord for the same period of dedication and must bring a year-old male lamb as a guilt offering. The previous days do not count, because they became defiled during their period of dedication.
+
+13 “‘Now this is the law of the Nazirite when the period of their dedication is over. They are to be brought to the entrance to the tent of meeting. 14 There they are to present their offerings to the Lord: a year-old male lamb without defect for a burnt offering, a year-old ewe lamb without defect for a sin offering, a ram without defect for a fellowship offering, 15 together with their grain offerings and drink offerings, and a basket of bread made with the finest flour and without yeast—thick loaves with olive oil mixed in, and thin loaves brushed with olive oil.
+
+16 “‘The priest is to present all these before the Lord and make the sin offering and the burnt offering. 17 He is to present the basket of unleavened bread and is to sacrifice the ram as a fellowship offering to the Lord, together with its grain offering and drink offering.
+
+18 “‘Then at the entrance to the tent of meeting, the Nazirite must shave off the hair that symbolizes their dedication. They are to take the hair and put it in the fire that is under the sacrifice of the fellowship offering.
+
+19 “‘After the Nazirite has shaved off the hair that symbolizes their dedication, the priest is to place in their hands a boiled shoulder of the ram, and one thick loaf and one thin loaf from the basket, both made without yeast. 20 The priest shall then wave these before the Lord as a wave offering; they are holy and belong to the priest, together with the breast that was waved and the thigh that was presented. After that, the Nazirite may drink wine.
+
+21 “‘This is the law of the Nazirite who vows offerings to the Lord in accordance with their dedication, in addition to whatever else they can afford. They must fulfill the vows they have made, according to the law of the Nazirite.’”
+
+The Priestly Blessing
+22 The Lord said to Moses, 23 “Tell Aaron and his sons, ‘This is how you are to bless the Israelites. Say to them:
+
+24 “‘“The Lord bless you
+    and keep you;
+25 the Lord make his face shine on you
+    and be gracious to you;
+26 the Lord turn his face toward you
+    and give you peace.”’
+
+27 “So they will put my name on the Israelites, and I will bless them.”
 
 
                                     </p>
@@ -5201,7 +5362,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter VII </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5214,7 +5375,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter VIII </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5227,7 +5388,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter IX </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5243,7 +5404,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter X </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5256,7 +5417,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XI </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5269,7 +5430,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XII </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5282,7 +5443,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XIII </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XIII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5297,7 +5458,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XIV </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XIV </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5310,7 +5471,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XV </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XV </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5323,7 +5484,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XVI </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XVI </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5336,7 +5497,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XVII </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XVII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5350,7 +5511,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
   <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XVIII </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XVIII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5363,7 +5524,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XIX </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XIX </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5376,7 +5537,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XX </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XX </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5389,7 +5550,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXI </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXI </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5403,7 +5564,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXII </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5416,7 +5577,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXIII </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXIII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5429,7 +5590,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXIV </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXIV </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5442,7 +5603,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXV </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXV </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5457,7 +5618,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
   <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXVI </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXVI </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5470,7 +5631,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXVII </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXVII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5483,7 +5644,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXVIII </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXVIII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5496,7 +5657,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXIX </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXIX </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5510,7 +5671,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXX </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXX </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5523,7 +5684,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXXI </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXXI </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5536,7 +5697,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXXII </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXXII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5549,7 +5710,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
   <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXXIII </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXXIII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5562,7 +5723,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter}>Numbers Chapter XXXIV </h2>
+            <h2 className={styles.chapter3}>Numbers Chapter XXXIV </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter II</h4> 
 
@@ -5577,7 +5738,7 @@ All the men twenty years old or more who were able to serve in the army were lis
   
           <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
