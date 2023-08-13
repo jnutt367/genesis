@@ -293,7 +293,7 @@
 }
 
 .nav3 {
-    background-color: #C82698;
+    background-color: #26C86D;
     color: white;
     opacity: 1;
     padding: 5px;
@@ -316,7 +316,7 @@
      scale: 1.1;
     background-color: black;
     opacity: 0.8;
-    border: 2px dotted whitesmoke;
+    border: 2px dotted #26C86D;
     border-radius: 50%;
 }
 
@@ -365,7 +365,7 @@
 }
 
 .grid3 {
-    background-color: #C82698;
+    background-color: #26C86D;
     color: white;
     display: flex;
     align-items: center;
@@ -495,7 +495,7 @@
 
 .chapter3 {
 
-    background-color: #C82698;
+    background-color: #26C86D;
     color: white;
     opacity: 0.8;
     opacity: 1;
