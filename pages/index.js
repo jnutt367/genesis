@@ -7137,9 +7137,35 @@ Moses Forbidden to Cross the Jordan
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter IV </h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
+ <h4 className={styles.h4}>Obedience Commanded</h4> 
 
+4 Now, Israel, hear the decrees and laws I am about to teach you. Follow them so that you may live and may go in and take possession of the land the Lord, the God of your ancestors, is giving you. 2 Do not add to what I command you and do not subtract from it, but keep the commands of the Lord your God that I give you.
 
+3 You saw with your own eyes what the Lord did at Baal Peor. The Lord your God destroyed from among you everyone who followed the Baal of Peor, 4 but all of you who held fast to the Lord your God are still alive today.
+
+5 See, I have taught you decrees and laws as the Lord my God commanded me, so that you may follow them in the land you are entering to take possession of it. 6 Observe them carefully, for this will show your wisdom and understanding to the nations, who will hear about all these decrees and say, “Surely this great nation is a wise and understanding people.” 7 What other nation is so great as to have their gods near them the way the Lord our God is near us whenever we pray to him? 8 And what other nation is so great as to have such righteous decrees and laws as this body of laws I am setting before you today?
+
+9 Only be careful, and watch yourselves closely so that you do not forget the things your eyes have seen or let them fade from your heart as long as you live. Teach them to your children and to their children after them. 10 Remember the day you stood before the Lord your God at Horeb, when he said to me, “Assemble the people before me to hear my words so that they may learn to revere me as long as they live in the land and may teach them to their children.” 11 You came near and stood at the foot of the mountain while it blazed with fire to the very heavens, with black clouds and deep darkness. 12 Then the Lord spoke to you out of the fire. You heard the sound of words but saw no form; there was only a voice. 13 He declared to you his covenant, the Ten Commandments, which he commanded you to follow and then wrote them on two stone tablets. 14 And the Lord directed me at that time to teach you the decrees and laws you are to follow in the land that you are crossing the Jordan to possess.
+
+Idolatry Forbidden
+15 You saw no form of any kind the day the Lord spoke to you at Horeb out of the fire. Therefore watch yourselves very carefully, 16 so that you do not become corrupt and make for yourselves an idol, an image of any shape, whether formed like a man or a woman, 17 or like any animal on earth or any bird that flies in the air, 18 or like any creature that moves along the ground or any fish in the waters below. 19 And when you look up to the sky and see the sun, the moon and the stars—all the heavenly array—do not be enticed into bowing down to them and worshiping things the Lord your God has apportioned to all the nations under heaven. 20 But as for you, the Lord took you and brought you out of the iron-smelting furnace, out of Egypt, to be the people of his inheritance, as you now are.
+
+21 The Lord was angry with me because of you, and he solemnly swore that I would not cross the Jordan and enter the good land the Lord your God is giving you as your inheritance. 22 I will die in this land; I will not cross the Jordan; but you are about to cross over and take possession of that good land. 23 Be careful not to forget the covenant of the Lord your God that he made with you; do not make for yourselves an idol in the form of anything the Lord your God has forbidden. 24 For the Lord your God is a consuming fire, a jealous God.
+
+25 After you have had children and grandchildren and have lived in the land a long time—if you then become corrupt and make any kind of idol, doing evil in the eyes of the Lord your God and arousing his anger, 26 I call the heavens and the earth as witnesses against you this day that you will quickly perish from the land that you are crossing the Jordan to possess. You will not live there long but will certainly be destroyed. 27 The Lord will scatter you among the peoples, and only a few of you will survive among the nations to which the Lord will drive you. 28 There you will worship man-made gods of wood and stone, which cannot see or hear or eat or smell. 29 But if from there you seek the Lord your God, you will find him if you seek him with all your heart and with all your soul. 30 When you are in distress and all these things have happened to you, then in later days you will return to the Lord your God and obey him. 31 For the Lord your God is a merciful God; he will not abandon or destroy you or forget the covenant with your ancestors, which he confirmed to them by oath.
+
+The Lord Is God
+32 Ask now about the former days, long before your time, from the day God created human beings on the earth; ask from one end of the heavens to the other. Has anything so great as this ever happened, or has anything like it ever been heard of? 33 Has any other people heard the voice of God[a] speaking out of fire, as you have, and lived? 34 Has any god ever tried to take for himself one nation out of another nation, by testings, by signs and wonders, by war, by a mighty hand and an outstretched arm, or by great and awesome deeds, like all the things the Lord your God did for you in Egypt before your very eyes?
+
+35 You were shown these things so that you might know that the Lord is God; besides him there is no other. 36 From heaven he made you hear his voice to discipline you. On earth he showed you his great fire, and you heard his words from out of the fire. 37 Because he loved your ancestors and chose their descendants after them, he brought you out of Egypt by his Presence and his great strength, 38 to drive out before you nations greater and stronger than you and to bring you into their land to give it to you for your inheritance, as it is today.
+
+39 Acknowledge and take to heart this day that the Lord is God in heaven above and on the earth below. There is no other. 40 Keep his decrees and commands, which I am giving you today, so that it may go well with you and your children after you and that you may live long in the land the Lord your God gives you for all time.
+
+Cities of Refuge
+41 Then Moses set aside three cities east of the Jordan, 42 to which anyone who had killed a person could flee if they had unintentionally killed a neighbor without malice aforethought. They could flee into one of these cities and save their life. 43 The cities were these: Bezer in the wilderness plateau, for the Reubenites; Ramoth in Gilead, for the Gadites; and Golan in Bashan, for the Manassites.
+
+Introduction to the Law
+44 This is the law Moses set before the Israelites. 45 These are the stipulations, decrees and laws Moses gave them when they came out of Egypt 46 and were in the valley near Beth Peor east of the Jordan, in the land of Sihon king of the Amorites, who reigned in Heshbon and was defeated by Moses and the Israelites as they came out of Egypt. 47 They took possession of his land and the land of Og king of Bashan, the two Amorite kings east of the Jordan. 48 This land extended from Aroer on the rim of the Arnon Gorge to Mount Sirion[b] (that is, Hermon), 49 and included all the Arabah east of the Jordan, as far as the Dead Sea,[c] below the slopes of Pisgah.
                                     </p>
                                   </div>
 
@@ -7147,9 +7173,43 @@ Moses Forbidden to Cross the Jordan
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter V </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>The Ten Commandments</h4> 
 
+5 Moses summoned all Israel and said:
 
+Hear, Israel, the decrees and laws I declare in your hearing today. Learn them and be sure to follow them. 2 The Lord our God made a covenant with us at Horeb. 3 It was not with our ancestors[a] that the Lord made this covenant, but with us, with all of us who are alive here today. 4 The Lord spoke to you face to face out of the fire on the mountain. 5 (At that time I stood between the Lord and you to declare to you the word of the Lord, because you were afraid of the fire and did not go up the mountain.) And he said:
+
+6 “I am the Lord your God, who brought you out of Egypt, out of the land of slavery.
+
+7 “You shall have no other gods before[b] me.
+
+8 “You shall not make for yourself an image in the form of anything in heaven above or on the earth beneath or in the waters below. 9 You shall not bow down to them or worship them; for I, the Lord your God, am a jealous God, punishing the children for the sin of the parents to the third and fourth generation of those who hate me, 10 but showing love to a thousand generations of those who love me and keep my commandments.
+
+11 “You shall not misuse the name of the Lord your God, for the Lord will not hold anyone guiltless who misuses his name.
+
+12 “Observe the Sabbath day by keeping it holy, as the Lord your God has commanded you. 13 Six days you shall labor and do all your work, 14 but the seventh day is a sabbath to the Lord your God. On it you shall not do any work, neither you, nor your son or daughter, nor your male or female servant, nor your ox, your donkey or any of your animals, nor any foreigner residing in your towns, so that your male and female servants may rest, as you do. 15 Remember that you were slaves in Egypt and that the Lord your God brought you out of there with a mighty hand and an outstretched arm. Therefore the Lord your God has commanded you to observe the Sabbath day.
+
+16 “Honor your father and your mother, as the Lord your God has commanded you, so that you may live long and that it may go well with you in the land the Lord your God is giving you.
+
+17 “You shall not murder.
+
+18 “You shall not commit adultery.
+
+19 “You shall not steal.
+
+20 “You shall not give false testimony against your neighbor.
+
+21 “You shall not covet your neighbor’s wife. You shall not set your desire on your neighbor’s house or land, his male or female servant, his ox or donkey, or anything that belongs to your neighbor.”
+
+22 These are the commandments the Lord proclaimed in a loud voice to your whole assembly there on the mountain from out of the fire, the cloud and the deep darkness; and he added nothing more. Then he wrote them on two stone tablets and gave them to me.
+
+23 When you heard the voice out of the darkness, while the mountain was ablaze with fire, all the leaders of your tribes and your elders came to me. 24 And you said, “The Lord our God has shown us his glory and his majesty, and we have heard his voice from the fire. Today we have seen that a person can live even if God speaks with them. 25 But now, why should we die? This great fire will consume us, and we will die if we hear the voice of the Lord our God any longer. 26 For what mortal has ever heard the voice of the living God speaking out of fire, as we have, and survived? 27 Go near and listen to all that the Lord our God says. Then tell us whatever the Lord our God tells you. We will listen and obey.”
+
+28 The Lord heard you when you spoke to me, and the Lord said to me, “I have heard what this people said to you. Everything they said was good. 29 Oh, that their hearts would be inclined to fear me and keep all my commands always, so that it might go well with them and their children forever!
+
+30 “Go, tell them to return to their tents. 31 But you stay here with me so that I may give you all the commands, decrees and laws you are to teach them to follow in the land I am giving them to possess.”
+
+32 So be careful to do what the Lord your God has commanded you; do not turn aside to the right or to the left. 33 Walk in obedience to all that the Lord your God has commanded you, so that you may live and prosper and prolong your days in the land that you will possess.
                                     </p>
                                   </div>
 
@@ -7158,8 +7218,18 @@ Moses Forbidden to Cross the Jordan
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter VI </h2>
                                 <p>
- <h4 className={styles.h4}>              </h4> 
+ <h4 className={styles.h4}>Love the Lord Your God</h4> 
 
+
+6 These are the commands, decrees and laws the Lord your God directed me to teach you to observe in the land that you are crossing the Jordan to possess, 2 so that you, your children and their children after them may fear the Lord your God as long as you live by keeping all his decrees and commands that I give you, and so that you may enjoy long life. 3 Hear, Israel, and be careful to obey so that it may go well with you and that you may increase greatly in a land flowing with milk and honey, just as the Lord, the God of your ancestors, promised you.
+
+4 Hear, O Israel: The Lord our God, the Lord is one.[a] 5 Love the Lord your God with all your heart and with all your soul and with all your strength. 6 These commandments that I give you today are to be on your hearts. 7 Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up. 8 Tie them as symbols on your hands and bind them on your foreheads. 9 Write them on the doorframes of your houses and on your gates.
+
+10 When the Lord your God brings you into the land he swore to your fathers, to Abraham, Isaac and Jacob, to give you—a land with large, flourishing cities you did not build, 11 houses filled with all kinds of good things you did not provide, wells you did not dig, and vineyards and olive groves you did not plant—then when you eat and are satisfied, 12 be careful that you do not forget the Lord, who brought you out of Egypt, out of the land of slavery.
+
+13 Fear the Lord your God, serve him only and take your oaths in his name. 14 Do not follow other gods, the gods of the peoples around you; 15 for the Lord your God, who is among you, is a jealous God and his anger will burn against you, and he will destroy you from the face of the land. 16 Do not put the Lord your God to the test as you did at Massah. 17 Be sure to keep the commands of the Lord your God and the stipulations and decrees he has given you. 18 Do what is right and good in the Lord’s sight, so that it may go well with you and you may go in and take over the good land the Lord promised on oath to your ancestors, 19 thrusting out all your enemies before you, as the Lord said.
+
+20 In the future, when your son asks you, “What is the meaning of the stipulations, decrees and laws the Lord our God has commanded you?” 21 tell him: “We were slaves of Pharaoh in Egypt, but the Lord brought us out of Egypt with a mighty hand. 22 Before our eyes the Lord sent signs and wonders—great and terrible—on Egypt and Pharaoh and his whole household. 23 But he brought us out from there to bring us in and give us the land he promised on oath to our ancestors. 24 The Lord commanded us to obey all these decrees and to fear the Lord our God, so that we might always prosper and be kept alive, as is the case today. 25 And if we are careful to obey all this law before the Lord our God, as he has commanded us, that will be our righteousness.”
 
 
                                     </p>
@@ -7169,10 +7239,21 @@ Moses Forbidden to Cross the Jordan
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter VII </h2>
                                 <p>
- <h4 className={styles.h4}>              </h4> 
+ <h4 className={styles.h4}>Driving Out the Nations</h4> 
 
 
+7 When the Lord your God brings you into the land you are entering to possess and drives out before you many nations—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites and Jebusites, seven nations larger and stronger than you— 2 and when the Lord your God has delivered them over to you and you have defeated them, then you must destroy them totally.[a] Make no treaty with them, and show them no mercy. 3 Do not intermarry with them. Do not give your daughters to their sons or take their daughters for your sons, 4 for they will turn your children away from following me to serve other gods, and the Lord’s anger will burn against you and will quickly destroy you. 5 This is what you are to do to them: Break down their altars, smash their sacred stones, cut down their Asherah poles[b] and burn their idols in the fire. 6 For you are a people holy to the Lord your God. The Lord your God has chosen you out of all the peoples on the face of the earth to be his people, his treasured possession.
 
+7 The Lord did not set his affection on you and choose you because you were more numerous than other peoples, for you were the fewest of all peoples. 8 But it was because the Lord loved you and kept the oath he swore to your ancestors that he brought you out with a mighty hand and redeemed you from the land of slavery, from the power of Pharaoh king of Egypt. 9 Know therefore that the Lord your God is God; he is the faithful God, keeping his covenant of love to a thousand generations of those who love him and keep his commandments. 10 But
+
+those who hate him he will repay to their face by destruction;
+    he will not be slow to repay to their face those who hate him.
+
+11 Therefore, take care to follow the commands, decrees and laws I give you today.
+
+12 If you pay attention to these laws and are careful to follow them, then the Lord your God will keep his covenant of love with you, as he swore to your ancestors. 13 He will love you and bless you and increase your numbers. He will bless the fruit of your womb, the crops of your land—your grain, new wine and olive oil—the calves of your herds and the lambs of your flocks in the land he swore to your ancestors to give you. 14 You will be blessed more than any other people; none of your men or women will be childless, nor will any of your livestock be without young. 15 The Lord will keep you free from every disease. He will not inflict on you the horrible diseases you knew in Egypt, but he will inflict them on all who hate you. 16 You must destroy all the peoples the Lord your God gives over to you. Do not look on them with pity and do not serve their gods, for that will be a snare to you.
+
+17 You may say to yourselves, “These nations are stronger than we are. How can we drive them out?” 18 But do not be afraid of them; remember well what the Lord your God did to Pharaoh and to all Egypt. 19 You saw with your own eyes the great trials, the signs and wonders, the mighty hand and outstretched arm, with which the Lord your God brought you out. The Lord your God will do the same to all the peoples you now fear. 20 Moreover, the Lord your God will send the hornet among them until even the survivors who hide from you have perished. 21 Do not be terrified by them, for the Lord your God, who is among you, is a great and awesome God. 22 The Lord your God will drive out those nations before you, little by little. You will not be allowed to eliminate them all at once, or the wild animals will multiply around you. 23 But the Lord your God will deliver them over to you, throwing them into great confusion until they are destroyed. 24 He will give their kings into your hand, and you will wipe out their names from under heaven. No one will be able to stand up against you; you will destroy them. 25 The images of their gods you are to burn in the fire. Do not covet the silver and gold on them, and do not take it for yourselves, or you will be ensnared by it, for it is detestable to the Lord your God. 26 Do not bring a detestable thing into your house or you, like it, will be set apart for destruction. Regard it as vile and utterly detest it, for it is set apart for destruction.
                                     </p>
                                   </div>
 
@@ -7180,9 +7261,14 @@ Moses Forbidden to Cross the Jordan
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter VIII </h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
+ <h4 className={styles.h4}>Do Not Forget the Lord</h4> 
+8 Be careful to follow every command I am giving you today, so that you may live and increase and may enter and possess the land the Lord promised on oath to your ancestors. 2 Remember how the Lord your God led you all the way in the wilderness these forty years, to humble and test you in order to know what was in your heart, whether or not you would keep his commands. 3 He humbled you, causing you to hunger and then feeding you with manna, which neither you nor your ancestors had known, to teach you that man does not live on bread alone but on every word that comes from the mouth of the Lord. 4 Your clothes did not wear out and your feet did not swell during these forty years. 5 Know then in your heart that as a man disciplines his son, so the Lord your God disciplines you.
 
+6 Observe the commands of the Lord your God, walking in obedience to him and revering him. 7 For the Lord your God is bringing you into a good land—a land with brooks, streams, and deep springs gushing out into the valleys and hills; 8 a land with wheat and barley, vines and fig trees, pomegranates, olive oil and honey; 9 a land where bread will not be scarce and you will lack nothing; a land where the rocks are iron and you can dig copper out of the hills.
 
+10 When you have eaten and are satisfied, praise the Lord your God for the good land he has given you. 11 Be careful that you do not forget the Lord your God, failing to observe his commands, his laws and his decrees that I am giving you this day. 12 Otherwise, when you eat and are satisfied, when you build fine houses and settle down, 13 and when your herds and flocks grow large and your silver and gold increase and all you have is multiplied, 14 then your heart will become proud and you will forget the Lord your God, who brought you out of Egypt, out of the land of slavery. 15 He led you through the vast and dreadful wilderness, that thirsty and waterless land, with its venomous snakes and scorpions. He brought you water out of hard rock. 16 He gave you manna to eat in the wilderness, something your ancestors had never known, to humble and test you so that in the end it might go well with you. 17 You may say to yourself, “My power and the strength of my hands have produced this wealth for me.” 18 But remember the Lord your God, for it is he who gives you the ability to produce wealth, and so confirms his covenant, which he swore to your ancestors, as it is today.
+
+19 If you ever forget the Lord your God and follow other gods and worship and bow down to them, I testify against you today that you will surely be destroyed. 20 Like the nations the Lord destroyed before you, so you will be destroyed for not obeying the Lord your God.
                                     </p>
                                   </div>
 
