@@ -7013,7 +7013,7 @@ Cities of Refuge
          
                </div>
                                  <div className={styles.iframe}> 
-                                       <iframe width="100%" height="315" src="https://www.youtube.com/embed/tp5MIrMZFqo?autoply=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                       <iframe width="100%" height="315" src="https://www.youtube.com/embed/NMhmDPWeftw?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>
                                   
                               
@@ -7024,9 +7024,48 @@ Cities of Refuge
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter I </h2>
                                 <p>
- <h4 className={styles.h4}>              </h4> 
+ <h4 className={styles.h4}>The Appointment of Leaders</h4> 
 
-  
+  The Command to Leave Horeb
+1 These are the words Moses spoke to all Israel in the wilderness east of the Jordan—that is, in the Arabah—opposite Suph, between Paran and Tophel, Laban, Hazeroth and Dizahab. 2 (It takes eleven days to go from Horeb to Kadesh Barnea by the Mount Seir road.)
+
+3 In the fortieth year, on the first day of the eleventh month, Moses proclaimed to the Israelites all that the Lord had commanded him concerning them. 4 This was after he had defeated Sihon king of the Amorites, who reigned in Heshbon, and at Edrei had defeated Og king of Bashan, who reigned in Ashtaroth.
+
+5 East of the Jordan in the territory of Moab, Moses began to expound this law, saying:
+
+6 The Lord our God said to us at Horeb, “You have stayed long enough at this mountain. 7 Break camp and advance into the hill country of the Amorites; go to all the neighboring peoples in the Arabah, in the mountains, in the western foothills, in the Negev and along the coast, to the land of the Canaanites and to Lebanon, as far as the great river, the Euphrates. 8 See, I have given you this land. Go in and take possession of the land the Lord swore he would give to your fathers—to Abraham, Isaac and Jacob—and to their descendants after them.”
+
+
+9 At that time I said to you, “You are too heavy a burden for me to carry alone. 10 The Lord your God has increased your numbers so that today you are as numerous as the stars in the sky. 11 May the Lord, the God of your ancestors, increase you a thousand times and bless you as he has promised! 12 But how can I bear your problems and your burdens and your disputes all by myself? 13 Choose some wise, understanding and respected men from each of your tribes, and I will set them over you.”
+
+14 You answered me, “What you propose to do is good.”
+
+15 So I took the leading men of your tribes, wise and respected men, and appointed them to have authority over you—as commanders of thousands, of hundreds, of fifties and of tens and as tribal officials. 16 And I charged your judges at that time, “Hear the disputes between your people and judge fairly, whether the case is between two Israelites or between an Israelite and a foreigner residing among you. 17 Do not show partiality in judging; hear both small and great alike. Do not be afraid of anyone, for judgment belongs to God. Bring me any case too hard for you, and I will hear it.” 18 And at that time I told you everything you were to do.
+
+Spies Sent Out
+19 Then, as the Lord our God commanded us, we set out from Horeb and went toward the hill country of the Amorites through all that vast and dreadful wilderness that you have seen, and so we reached Kadesh Barnea. 20 Then I said to you, “You have reached the hill country of the Amorites, which the Lord our God is giving us. 21 See, the Lord your God has given you the land. Go up and take possession of it as the Lord, the God of your ancestors, told you. Do not be afraid; do not be discouraged.”
+
+22 Then all of you came to me and said, “Let us send men ahead to spy out the land for us and bring back a report about the route we are to take and the towns we will come to.”
+
+23 The idea seemed good to me; so I selected twelve of you, one man from each tribe. 24 They left and went up into the hill country, and came to the Valley of Eshkol and explored it. 25 Taking with them some of the fruit of the land, they brought it down to us and reported, “It is a good land that the Lord our God is giving us.”
+
+Rebellion Against the Lord
+26 But you were unwilling to go up; you rebelled against the command of the Lord your God. 27 You grumbled in your tents and said, “The Lord hates us; so he brought us out of Egypt to deliver us into the hands of the Amorites to destroy us. 28 Where can we go? Our brothers have made our hearts melt in fear. They say, ‘The people are stronger and taller than we are; the cities are large, with walls up to the sky. We even saw the Anakites there.’”
+
+29 Then I said to you, “Do not be terrified; do not be afraid of them. 30 The Lord your God, who is going before you, will fight for you, as he did for you in Egypt, before your very eyes, 31 and in the wilderness. There you saw how the Lord your God carried you, as a father carries his son, all the way you went until you reached this place.”
+
+32 In spite of this, you did not trust in the Lord your God, 33 who went ahead of you on your journey, in fire by night and in a cloud by day, to search out places for you to camp and to show you the way you should go.
+
+34 When the Lord heard what you said, he was angry and solemnly swore: 35 “No one from this evil generation shall see the good land I swore to give your ancestors, 36 except Caleb son of Jephunneh. He will see it, and I will give him and his descendants the land he set his feet on, because he followed the Lord wholeheartedly.”
+
+37 Because of you the Lord became angry with me also and said, “You shall not enter it, either. 38 But your assistant, Joshua son of Nun, will enter it. Encourage him, because he will lead Israel to inherit it. 39 And the little ones that you said would be taken captive, your children who do not yet know good from bad—they will enter the land. I will give it to them and they will take possession of it. 40 But as for you, turn around and set out toward the desert along the route to the Red Sea.[a]”
+
+41 Then you replied, “We have sinned against the Lord. We will go up and fight, as the Lord our God commanded us.” So every one of you put on his weapons, thinking it easy to go up into the hill country.
+
+42 But the Lord said to me, “Tell them, ‘Do not go up and fight, because I will not be with you. You will be defeated by your enemies.’”
+
+43 So I told you, but you would not listen. You rebelled against the Lord’s command and in your arrogance you marched up into the hill country. 44 The Amorites who lived in those hills came out against you; they chased you like a swarm of bees and beat you down from Seir all the way to Hormah. 45 You came back and wept before the Lord, but he paid no attention to your weeping and turned a deaf ear to you. 46 And so you stayed in Kadesh many days—all the time you spent there.
+
 
                                   </p>
   </div>
@@ -7035,9 +7074,36 @@ Cities of Refuge
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter II </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>Wanderings in the Wilderness</h4> 
 
+2 Then we turned back and set out toward the wilderness along the route to the Red Sea,[a] as the Lord had directed me. For a long time we made our way around the hill country of Seir.
 
+2 Then the Lord said to me, 3 “You have made your way around this hill country long enough; now turn north. 4 Give the people these orders: ‘You are about to pass through the territory of your relatives the descendants of Esau, who live in Seir. They will be afraid of you, but be very careful. 5 Do not provoke them to war, for I will not give you any of their land, not even enough to put your foot on. I have given Esau the hill country of Seir as his own. 6 You are to pay them in silver for the food you eat and the water you drink.’”
+
+7 The Lord your God has blessed you in all the work of your hands. He has watched over your journey through this vast wilderness. These forty years the Lord your God has been with you, and you have not lacked anything.
+
+8 So we went on past our relatives the descendants of Esau, who live in Seir. We turned from the Arabah road, which comes up from Elath and Ezion Geber, and traveled along the desert road of Moab.
+
+9 Then the Lord said to me, “Do not harass the Moabites or provoke them to war, for I will not give you any part of their land. I have given Ar to the descendants of Lot as a possession.”
+
+10 (The Emites used to live there—a people strong and numerous, and as tall as the Anakites. 11 Like the Anakites, they too were considered Rephaites, but the Moabites called them Emites. 12 Horites used to live in Seir, but the descendants of Esau drove them out. They destroyed the Horites from before them and settled in their place, just as Israel did in the land the Lord gave them as their possession.)
+
+13 And the Lord said, “Now get up and cross the Zered Valley.” So we crossed the valley.
+
+14 Thirty-eight years passed from the time we left Kadesh Barnea until we crossed the Zered Valley. By then, that entire generation of fighting men had perished from the camp, as the Lord had sworn to them. 15 The Lord’s hand was against them until he had completely eliminated them from the camp.
+
+16 Now when the last of these fighting men among the people had died, 17 the Lord said to me, 18 “Today you are to pass by the region of Moab at Ar. 19 When you come to the Ammonites, do not harass them or provoke them to war, for I will not give you possession of any land belonging to the Ammonites. I have given it as a possession to the descendants of Lot.”
+
+20 (That too was considered a land of the Rephaites, who used to live there; but the Ammonites called them Zamzummites. 21 They were a people strong and numerous, and as tall as the Anakites. The Lord destroyed them from before the Ammonites, who drove them out and settled in their place. 22 The Lord had done the same for the descendants of Esau, who lived in Seir, when he destroyed the Horites from before them. They drove them out and have lived in their place to this day. 23 And as for the Avvites who lived in villages as far as Gaza, the Caphtorites coming out from Caphtor[b] destroyed them and settled in their place.)
+
+Defeat of Sihon King of Heshbon
+24 “Set out now and cross the Arnon Gorge. See, I have given into your hand Sihon the Amorite, king of Heshbon, and his country. Begin to take possession of it and engage him in battle. 25 This very day I will begin to put the terror and fear of you on all the nations under heaven. They will hear reports of you and will tremble and be in anguish because of you.”
+
+26 From the Desert of Kedemoth I sent messengers to Sihon king of Heshbon offering peace and saying, 27 “Let us pass through your country. We will stay on the main road; we will not turn aside to the right or to the left. 28 Sell us food to eat and water to drink for their price in silver. Only let us pass through on foot— 29 as the descendants of Esau, who live in Seir, and the Moabites, who live in Ar, did for us—until we cross the Jordan into the land the Lord our God is giving us.” 30 But Sihon king of Heshbon refused to let us pass through. For the Lord your God had made his spirit stubborn and his heart obstinate in order to give him into your hands, as he has now done.
+
+31 The Lord said to me, “See, I have begun to deliver Sihon and his country over to you. Now begin to conquer and possess his land.”
+
+32 When Sihon and all his army came out to meet us in battle at Jahaz, 33 the Lord our God delivered him over to us and we struck him down, together with his sons and his whole army. 34 At that time we took all his towns and completely destroyed[c] them—men, women and children. We left no survivors. 35 But the livestock and the plunder from the towns we had captured we carried off for ourselves. 36 From Aroer on the rim of the Arnon Gorge, and from the town in the gorge, even as far as Gilead, not one town was too strong for us. The Lord our God gave us all of them. 37 But in accordance with the command of the Lord our God, you did not encroach on any of the land of the Ammonites, neither the land along the course of the Jabbok nor that around the towns in the hills.
                                     </p>
                                   </div>
 
@@ -7045,9 +7111,25 @@ Cities of Refuge
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter III </h2>
                                 <p>
- <h4 className={styles.h4}>              </h4> 
+ <h4 className={styles.h4}>Defeat of Og King of Bashan</h4> 
 
+3 Next we turned and went up along the road toward Bashan, and Og king of Bashan with his whole army marched out to meet us in battle at Edrei. 2 The Lord said to me, “Do not be afraid of him, for I have delivered him into your hands, along with his whole army and his land. Do to him what you did to Sihon king of the Amorites, who reigned in Heshbon.”
 
+3 So the Lord our God also gave into our hands Og king of Bashan and all his army. We struck them down, leaving no survivors. 4 At that time we took all his cities. There was not one of the sixty cities that we did not take from them—the whole region of Argob, Og’s kingdom in Bashan. 5 All these cities were fortified with high walls and with gates and bars, and there were also a great many unwalled villages. 6 We completely destroyed[a] them, as we had done with Sihon king of Heshbon, destroying[b] every city—men, women and children. 7 But all the livestock and the plunder from their cities we carried off for ourselves.
+
+8 So at that time we took from these two kings of the Amorites the territory east of the Jordan, from the Arnon Gorge as far as Mount Hermon. 9 (Hermon is called Sirion by the Sidonians; the Amorites call it Senir.) 10 We took all the towns on the plateau, and all Gilead, and all Bashan as far as Salekah and Edrei, towns of Og’s kingdom in Bashan. 11 (Og king of Bashan was the last of the Rephaites. His bed was decorated with iron and was more than nine cubits long and four cubits wide.[c] It is still in Rabbah of the Ammonites.)
+
+Division of the Land
+12 Of the land that we took over at that time, I gave the Reubenites and the Gadites the territory north of Aroer by the Arnon Gorge, including half the hill country of Gilead, together with its towns. 13 The rest of Gilead and also all of Bashan, the kingdom of Og, I gave to the half-tribe of Manasseh. (The whole region of Argob in Bashan used to be known as a land of the Rephaites. 14 Jair, a descendant of Manasseh, took the whole region of Argob as far as the border of the Geshurites and the Maakathites; it was named after him, so that to this day Bashan is called Havvoth Jair.[d]) 15 And I gave Gilead to Makir. 16 But to the Reubenites and the Gadites I gave the territory extending from Gilead down to the Arnon Gorge (the middle of the gorge being the border) and out to the Jabbok River, which is the border of the Ammonites. 17 Its western border was the Jordan in the Arabah, from Kinnereth to the Sea of the Arabah (that is, the Dead Sea), below the slopes of Pisgah.
+
+18 I commanded you at that time: “The Lord your God has given you this land to take possession of it. But all your able-bodied men, armed for battle, must cross over ahead of the other Israelites. 19 However, your wives, your children and your livestock (I know you have much livestock) may stay in the towns I have given you, 20 until the Lord gives rest to your fellow Israelites as he has to you, and they too have taken over the land that the Lord your God is giving them across the Jordan. After that, each of you may go back to the possession I have given you.”
+
+Moses Forbidden to Cross the Jordan
+21 At that time I commanded Joshua: “You have seen with your own eyes all that the Lord your God has done to these two kings. The Lord will do the same to all the kingdoms over there where you are going. 22 Do not be afraid of them; the Lord your God himself will fight for you.”
+
+23 At that time I pleaded with the Lord: 24 “Sovereign Lord, you have begun to show to your servant your greatness and your strong hand. For what god is there in heaven or on earth who can do the deeds and mighty works you do? 25 Let me go over and see the good land beyond the Jordan—that fine hill country and Lebanon.”
+
+26 But because of you the Lord was angry with me and would not listen to me. “That is enough,” the Lord said. “Do not speak to me anymore about this matter. 27 Go up to the top of Pisgah and look west and north and south and east. Look at the land with your own eyes, since you are not going to cross this Jordan. 28 But commission Joshua, and encourage and strengthen him, for he will lead this people across and will cause them to inherit the land that you will see.” 29 So we stayed in the valley near Beth Peor.
                                     </p>
                                   </div>
 
