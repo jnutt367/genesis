@@ -7276,10 +7276,29 @@ those who hate him he will repay to their face by destruction;
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter IX </h2>
                                 <p>
- <h4 className={styles.h4}>                  </h4> 
+ <h4 className={styles.h4}>Not Because of Israel’s Righteousness</h4> 
 
 
+9 Hear, Israel: You are now about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities that have walls up to the sky. 2 The people are strong and tall—Anakites! You know about them and have heard it said: “Who can stand up against the Anakites?” 3 But be assured today that the Lord your God is the one who goes across ahead of you like a devouring fire. He will destroy them; he will subdue them before you. And you will drive them out and annihilate them quickly, as the Lord has promised you.
 
+4 After the Lord your God has driven them out before you, do not say to yourself, “The Lord has brought me here to take possession of this land because of my righteousness.” No, it is on account of the wickedness of these nations that the Lord is going to drive them out before you. 5 It is not because of your righteousness or your integrity that you are going in to take possession of their land; but on account of the wickedness of these nations, the Lord your God will drive them out before you, to accomplish what he swore to your fathers, to Abraham, Isaac and Jacob. 6 Understand, then, that it is not because of your righteousness that the Lord your God is giving you this good land to possess, for you are a stiff-necked people.
+
+The Golden Calf
+7 Remember this and never forget how you aroused the anger of the Lord your God in the wilderness. From the day you left Egypt until you arrived here, you have been rebellious against the Lord. 8 At Horeb you aroused the Lord’s wrath so that he was angry enough to destroy you. 9 When I went up on the mountain to receive the tablets of stone, the tablets of the covenant that the Lord had made with you, I stayed on the mountain forty days and forty nights; I ate no bread and drank no water. 10 The Lord gave me two stone tablets inscribed by the finger of God. On them were all the commandments the Lord proclaimed to you on the mountain out of the fire, on the day of the assembly.
+
+11 At the end of the forty days and forty nights, the Lord gave me the two stone tablets, the tablets of the covenant. 12 Then the Lord told me, “Go down from here at once, because your people whom you brought out of Egypt have become corrupt. They have turned away quickly from what I commanded them and have made an idol for themselves.”
+
+13 And the Lord said to me, “I have seen this people, and they are a stiff-necked people indeed! 14 Let me alone, so that I may destroy them and blot out their name from under heaven. And I will make you into a nation stronger and more numerous than they.”
+
+15 So I turned and went down from the mountain while it was ablaze with fire. And the two tablets of the covenant were in my hands. 16 When I looked, I saw that you had sinned against the Lord your God; you had made for yourselves an idol cast in the shape of a calf. You had turned aside quickly from the way that the Lord had commanded you. 17 So I took the two tablets and threw them out of my hands, breaking them to pieces before your eyes.
+
+18 Then once again I fell prostrate before the Lord for forty days and forty nights; I ate no bread and drank no water, because of all the sin you had committed, doing what was evil in the Lord’s sight and so arousing his anger. 19 I feared the anger and wrath of the Lord, for he was angry enough with you to destroy you. But again the Lord listened to me. 20 And the Lord was angry enough with Aaron to destroy him, but at that time I prayed for Aaron too. 21 Also I took that sinful thing of yours, the calf you had made, and burned it in the fire. Then I crushed it and ground it to powder as fine as dust and threw the dust into a stream that flowed down the mountain.
+
+22 You also made the Lord angry at Taberah, at Massah and at Kibroth Hattaavah.
+
+23 And when the Lord sent you out from Kadesh Barnea, he said, “Go up and take possession of the land I have given you.” But you rebelled against the command of the Lord your God. You did not trust him or obey him. 24 You have been rebellious against the Lord ever since I have known you.
+
+25 I lay prostrate before the Lord those forty days and forty nights because the Lord had said he would destroy you. 26 I prayed to the Lord and said, “Sovereign Lord, do not destroy your people, your own inheritance that you redeemed by your great power and brought out of Egypt with a mighty hand. 27 Remember your servants Abraham, Isaac and Jacob. Overlook the stubbornness of this people, their wickedness and their sin. 28 Otherwise, the country from which you brought us will say, ‘Because the Lord was not able to take them into the land he had promised them, and because he hated them, he brought them out to put them to death in the wilderness.’ 29 But they are your people, your inheritance that you brought out by your great power and your outstretched arm.”
                                     </p>
                                   </div>
 
@@ -7290,9 +7309,20 @@ those who hate him he will repay to their face by destruction;
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter X </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>Tablets Like the First Ones</h4> 
 
+10 At that time the Lord said to me, “Chisel out two stone tablets like the first ones and come up to me on the mountain. Also make a wooden ark.[a] 2 I will write on the tablets the words that were on the first tablets, which you broke. Then you are to put them in the ark.”
 
+3 So I made the ark out of acacia wood and chiseled out two stone tablets like the first ones, and I went up on the mountain with the two tablets in my hands. 4 The Lord wrote on these tablets what he had written before, the Ten Commandments he had proclaimed to you on the mountain, out of the fire, on the day of the assembly. And the Lord gave them to me. 5 Then I came back down the mountain and put the tablets in the ark I had made, as the Lord commanded me, and they are there now.
+
+6 (The Israelites traveled from the wells of Bene Jaakan to Moserah. There Aaron died and was buried, and Eleazar his son succeeded him as priest. 7 From there they traveled to Gudgodah and on to Jotbathah, a land with streams of water. 8 At that time the Lord set apart the tribe of Levi to carry the ark of the covenant of the Lord, to stand before the Lord to minister and to pronounce blessings in his name, as they still do today. 9 That is why the Levites have no share or inheritance among their fellow Israelites; the Lord is their inheritance, as the Lord your God told them.)
+
+10 Now I had stayed on the mountain forty days and forty nights, as I did the first time, and the Lord listened to me at this time also. It was not his will to destroy you. 11 “Go,” the Lord said to me, “and lead the people on their way, so that they may enter and possess the land I swore to their ancestors to give them.”
+
+Fear the Lord
+12 And now, Israel, what does the Lord your God ask of you but to fear the Lord your God, to walk in obedience to him, to love him, to serve the Lord your God with all your heart and with all your soul, 13 and to observe the Lord’s commands and decrees that I am giving you today for your own good?
+
+14 To the Lord your God belong the heavens, even the highest heavens, the earth and everything in it. 15 Yet the Lord set his affection on your ancestors and loved them, and he chose you, their descendants, above all the nations—as it is today. 16 Circumcise your hearts, therefore, and do not be stiff-necked any longer. 17 For the Lord your God is God of gods and Lord of lords, the great God, mighty and awesome, who shows no partiality and accepts no bribes. 18 He defends the cause of the fatherless and the widow, and loves the foreigner residing among you, giving them food and clothing. 19 And you are to love those who are foreigners, for you yourselves were foreigners in Egypt. 20 Fear the Lord your God and serve him. Hold fast to him and take your oaths in his name. 21 He is the one you praise; he is your God, who performed for you those great and awesome wonders you saw with your own eyes. 22 Your ancestors who went down into Egypt were seventy in all, and now the Lord your God has made you as numerous as the stars in the sky.
 
                                     </p>
                                   </div>
@@ -7301,10 +7331,20 @@ those who hate him he will repay to their face by destruction;
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XI </h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
+ <h4 className={styles.h4}>Love and Obey the Lord</h4> 
 
 
+11 Love the Lord your God and keep his requirements, his decrees, his laws and his commands always. 2 Remember today that your children were not the ones who saw and experienced the discipline of the Lord your God: his majesty, his mighty hand, his outstretched arm; 3 the signs he performed and the things he did in the heart of Egypt, both to Pharaoh king of Egypt and to his whole country; 4 what he did to the Egyptian army, to its horses and chariots, how he overwhelmed them with the waters of the Red Sea[a] as they were pursuing you, and how the Lord brought lasting ruin on them. 5 It was not your children who saw what he did for you in the wilderness until you arrived at this place, 6 and what he did to Dathan and Abiram, sons of Eliab the Reubenite, when the earth opened its mouth right in the middle of all Israel and swallowed them up with their households, their tents and every living thing that belonged to them. 7 But it was your own eyes that saw all these great things the Lord has done.
 
+8 Observe therefore all the commands I am giving you today, so that you may have the strength to go in and take over the land that you are crossing the Jordan to possess, 9 and so that you may live long in the land the Lord swore to your ancestors to give to them and their descendants, a land flowing with milk and honey. 10 The land you are entering to take over is not like the land of Egypt, from which you have come, where you planted your seed and irrigated it by foot as in a vegetable garden. 11 But the land you are crossing the Jordan to take possession of is a land of mountains and valleys that drinks rain from heaven. 12 It is a land the Lord your God cares for; the eyes of the Lord your God are continually on it from the beginning of the year to its end.
+
+13 So if you faithfully obey the commands I am giving you today—to love the Lord your God and to serve him with all your heart and with all your soul— 14 then I will send rain on your land in its season, both autumn and spring rains, so that you may gather in your grain, new wine and olive oil. 15 I will provide grass in the fields for your cattle, and you will eat and be satisfied.
+
+16 Be careful, or you will be enticed to turn away and worship other gods and bow down to them. 17 Then the Lord’s anger will burn against you, and he will shut up the heavens so that it will not rain and the ground will yield no produce, and you will soon perish from the good land the Lord is giving you. 18 Fix these words of mine in your hearts and minds; tie them as symbols on your hands and bind them on your foreheads. 19 Teach them to your children, talking about them when you sit at home and when you walk along the road, when you lie down and when you get up. 20 Write them on the doorframes of your houses and on your gates, 21 so that your days and the days of your children may be many in the land the Lord swore to give your ancestors, as many as the days that the heavens are above the earth.
+
+22 If you carefully observe all these commands I am giving you to follow—to love the Lord your God, to walk in obedience to him and to hold fast to him— 23 then the Lord will drive out all these nations before you, and you will dispossess nations larger and stronger than you. 24 Every place where you set your foot will be yours: Your territory will extend from the desert to Lebanon, and from the Euphrates River to the Mediterranean Sea. 25 No one will be able to stand against you. The Lord your God, as he promised you, will put the terror and fear of you on the whole land, wherever you go.
+
+26 See, I am setting before you today a blessing and a curse— 27 the blessing if you obey the commands of the Lord your God that I am giving you today; 28 the curse if you disobey the commands of the Lord your God and turn from the way that I command you today by following other gods, which you have not known. 29 When the Lord your God has brought you into the land you are entering to possess, you are to proclaim on Mount Gerizim the blessings, and on Mount Ebal the curses. 30 As you know, these mountains are across the Jordan, westward, toward the setting sun, near the great trees of Moreh, in the territory of those Canaanites living in the Arabah in the vicinity of Gilgal. 31 You are about to cross the Jordan to enter and take possession of the land the Lord your God is giving you. When you have taken it over and are living there, 32 be sure that you obey all the decrees and laws I am setting before you today.
 
 
                                     </p>
@@ -7314,9 +7354,23 @@ those who hate him he will repay to their face by destruction;
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XII </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>The One Place of Worship</h4> 
 
+12 These are the decrees and laws you must be careful to follow in the land that the Lord, the God of your ancestors, has given you to possess—as long as you live in the land. 2 Destroy completely all the places on the high mountains, on the hills and under every spreading tree, where the nations you are dispossessing worship their gods. 3 Break down their altars, smash their sacred stones and burn their Asherah poles in the fire; cut down the idols of their gods and wipe out their names from those places.
 
+4 You must not worship the Lord your God in their way. 5 But you are to seek the place the Lord your God will choose from among all your tribes to put his Name there for his dwelling. To that place you must go; 6 there bring your burnt offerings and sacrifices, your tithes and special gifts, what you have vowed to give and your freewill offerings, and the firstborn of your herds and flocks. 7 There, in the presence of the Lord your God, you and your families shall eat and shall rejoice in everything you have put your hand to, because the Lord your God has blessed you.
+
+8 You are not to do as we do here today, everyone doing as they see fit, 9 since you have not yet reached the resting place and the inheritance the Lord your God is giving you. 10 But you will cross the Jordan and settle in the land the Lord your God is giving you as an inheritance, and he will give you rest from all your enemies around you so that you will live in safety. 11 Then to the place the Lord your God will choose as a dwelling for his Name—there you are to bring everything I command you: your burnt offerings and sacrifices, your tithes and special gifts, and all the choice possessions you have vowed to the Lord. 12 And there rejoice before the Lord your God—you, your sons and daughters, your male and female servants, and the Levites from your towns who have no allotment or inheritance of their own. 13 Be careful not to sacrifice your burnt offerings anywhere you please. 14 Offer them only at the place the Lord will choose in one of your tribes, and there observe everything I command you.
+
+15 Nevertheless, you may slaughter your animals in any of your towns and eat as much of the meat as you want, as if it were gazelle or deer, according to the blessing the Lord your God gives you. Both the ceremonially unclean and the clean may eat it. 16 But you must not eat the blood; pour it out on the ground like water. 17 You must not eat in your own towns the tithe of your grain and new wine and olive oil, or the firstborn of your herds and flocks, or whatever you have vowed to give, or your freewill offerings or special gifts. 18 Instead, you are to eat them in the presence of the Lord your God at the place the Lord your God will choose—you, your sons and daughters, your male and female servants, and the Levites from your towns—and you are to rejoice before the Lord your God in everything you put your hand to. 19 Be careful not to neglect the Levites as long as you live in your land.
+
+20 When the Lord your God has enlarged your territory as he promised you, and you crave meat and say, “I would like some meat,” then you may eat as much of it as you want. 21 If the place where the Lord your God chooses to put his Name is too far away from you, you may slaughter animals from the herds and flocks the Lord has given you, as I have commanded you, and in your own towns you may eat as much of them as you want. 22 Eat them as you would gazelle or deer. Both the ceremonially unclean and the clean may eat. 23 But be sure you do not eat the blood, because the blood is the life, and you must not eat the life with the meat. 24 You must not eat the blood; pour it out on the ground like water. 25 Do not eat it, so that it may go well with you and your children after you, because you will be doing what is right in the eyes of the Lord.
+
+26 But take your consecrated things and whatever you have vowed to give, and go to the place the Lord will choose. 27 Present your burnt offerings on the altar of the Lord your God, both the meat and the blood. The blood of your sacrifices must be poured beside the altar of the Lord your God, but you may eat the meat. 28 Be careful to obey all these regulations I am giving you, so that it may always go well with you and your children after you, because you will be doing what is good and right in the eyes of the Lord your God.
+
+29 The Lord your God will cut off before you the nations you are about to invade and dispossess. But when you have driven them out and settled in their land, 30 and after they have been destroyed before you, be careful not to be ensnared by inquiring about their gods, saying, “How do these nations serve their gods? We will do the same.” 31 You must not worship the Lord your God in their way, because in worshiping their gods, they do all kinds of detestable things the Lord hates. They even burn their sons and daughters in the fire as sacrifices to their gods.
+
+32 See that you do all I command you; do not add to it or take away from it.[a]
 
                                     </p>
                                   </div>
@@ -7325,10 +7379,14 @@ those who hate him he will repay to their face by destruction;
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XIII </h2>
                                 <p>
- <h4 className={styles.h4}>                 </h4> 
+ <h4 className={styles.h4}>Worshiping Other Gods</h4> 
 
 
+13 [a]If a prophet, or one who foretells by dreams, appears among you and announces to you a sign or wonder, 2 and if the sign or wonder spoken of takes place, and the prophet says, “Let us follow other gods” (gods you have not known) “and let us worship them,” 3 you must not listen to the words of that prophet or dreamer. The Lord your God is testing you to find out whether you love him with all your heart and with all your soul. 4 It is the Lord your God you must follow, and him you must revere. Keep his commands and obey him; serve him and hold fast to him. 5 That prophet or dreamer must be put to death for inciting rebellion against the Lord your God, who brought you out of Egypt and redeemed you from the land of slavery. That prophet or dreamer tried to turn you from the way the Lord your God commanded you to follow. You must purge the evil from among you.
 
+6 If your very own brother, or your son or daughter, or the wife you love, or your closest friend secretly entices you, saying, “Let us go and worship other gods” (gods that neither you nor your ancestors have known, 7 gods of the peoples around you, whether near or far, from one end of the land to the other), 8 do not yield to them or listen to them. Show them no pity. Do not spare them or shield them. 9 You must certainly put them to death. Your hand must be the first in putting them to death, and then the hands of all the people. 10 Stone them to death, because they tried to turn you away from the Lord your God, who brought you out of Egypt, out of the land of slavery. 11 Then all Israel will hear and be afraid, and no one among you will do such an evil thing again.
+
+12 If you hear it said about one of the towns the Lord your God is giving you to live in 13 that troublemakers have arisen among you and have led the people of their town astray, saying, “Let us go and worship other gods” (gods you have not known), 14 then you must inquire, probe and investigate it thoroughly. And if it is true and it has been proved that this detestable thing has been done among you, 15 you must certainly put to the sword all who live in that town. You must destroy it completely,[b] both its people and its livestock. 16 You are to gather all the plunder of the town into the middle of the public square and completely burn the town and all its plunder as a whole burnt offering to the Lord your God. That town is to remain a ruin forever, never to be rebuilt, 17 and none of the condemned things[c] are to be found in your hands. Then the Lord will turn from his fierce anger, will show you mercy, and will have compassion on you. He will increase your numbers, as he promised on oath to your ancestors— 18 because you obey the Lord your God by keeping all his commands that I am giving you today and doing what is right in his eyes.
                                     </p>
                                   </div>
 
@@ -7338,10 +7396,27 @@ those who hate him he will repay to their face by destruction;
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XIV </h2>
                                 <p>
- <h4 className={styles.h4}>                     </h4> 
+ <h4 className={styles.h4}>Clean and Unclean Food</h4> 
 
 
+14 You are the children of the Lord your God. Do not cut yourselves or shave the front of your heads for the dead, 2 for you are a people holy to the Lord your God. Out of all the peoples on the face of the earth, the Lord has chosen you to be his treasured possession.
 
+3 Do not eat any detestable thing. 4 These are the animals you may eat: the ox, the sheep, the goat, 5 the deer, the gazelle, the roe deer, the wild goat, the ibex, the antelope and the mountain sheep.[a] 6 You may eat any animal that has a divided hoof and that chews the cud. 7 However, of those that chew the cud or that have a divided hoof you may not eat the camel, the rabbit or the hyrax. Although they chew the cud, they do not have a divided hoof; they are ceremonially unclean for you. 8 The pig is also unclean; although it has a divided hoof, it does not chew the cud. You are not to eat their meat or touch their carcasses.
+
+9 Of all the creatures living in the water, you may eat any that has fins and scales. 10 But anything that does not have fins and scales you may not eat; for you it is unclean.
+
+11 You may eat any clean bird. 12 But these you may not eat: the eagle, the vulture, the black vulture, 13 the red kite, the black kite, any kind of falcon, 14 any kind of raven, 15 the horned owl, the screech owl, the gull, any kind of hawk, 16 the little owl, the great owl, the white owl, 17 the desert owl, the osprey, the cormorant, 18 the stork, any kind of heron, the hoopoe and the bat.
+
+19 All flying insects are unclean to you; do not eat them. 20 But any winged creature that is clean you may eat.
+
+21 Do not eat anything you find already dead. You may give it to the foreigner residing in any of your towns, and they may eat it, or you may sell it to any other foreigner. But you are a people holy to the Lord your God.
+
+Do not cook a young goat in its mother’s milk.
+
+Tithes
+22 Be sure to set aside a tenth of all that your fields produce each year. 23 Eat the tithe of your grain, new wine and olive oil, and the firstborn of your herds and flocks in the presence of the Lord your God at the place he will choose as a dwelling for his Name, so that you may learn to revere the Lord your God always. 24 But if that place is too distant and you have been blessed by the Lord your God and cannot carry your tithe (because the place where the Lord will choose to put his Name is so far away), 25 then exchange your tithe for silver, and take the silver with you and go to the place the Lord your God will choose. 26 Use the silver to buy whatever you like: cattle, sheep, wine or other fermented drink, or anything you wish. Then you and your household shall eat there in the presence of the Lord your God and rejoice. 27 And do not neglect the Levites living in your towns, for they have no allotment or inheritance of their own.
+
+28 At the end of every three years, bring all the tithes of that year’s produce and store it in your towns, 29 so that the Levites (who have no allotment or inheritance of their own) and the foreigners, the fatherless and the widows who live in your towns may come and eat and be satisfied, and so that the Lord your God may bless you in all the work of your hands.
 
                                     </p>
                                   </div>
@@ -7350,9 +7425,21 @@ those who hate him he will repay to their face by destruction;
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XV </h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
+ <h4 className={styles.h4}>The Year for Canceling Debts</h4> 
 
+15 At the end of every seven years you must cancel debts. 2 This is how it is to be done: Every creditor shall cancel any loan they have made to a fellow Israelite. They shall not require payment from anyone among their own people, because the Lord’s time for canceling debts has been proclaimed. 3 You may require payment from a foreigner, but you must cancel any debt your fellow Israelite owes you. 4 However, there need be no poor people among you, for in the land the Lord your God is giving you to possess as your inheritance, he will richly bless you, 5 if only you fully obey the Lord your God and are careful to follow all these commands I am giving you today. 6 For the Lord your God will bless you as he has promised, and you will lend to many nations but will borrow from none. You will rule over many nations but none will rule over you.
 
+7 If anyone is poor among your fellow Israelites in any of the towns of the land the Lord your God is giving you, do not be hardhearted or tightfisted toward them. 8 Rather, be openhanded and freely lend them whatever they need. 9 Be careful not to harbor this wicked thought: “The seventh year, the year for canceling debts, is near,” so that you do not show ill will toward the needy among your fellow Israelites and give them nothing. They may then appeal to the Lord against you, and you will be found guilty of sin. 10 Give generously to them and do so without a grudging heart; then because of this the Lord your God will bless you in all your work and in everything you put your hand to. 11 There will always be poor people in the land. Therefore I command you to be openhanded toward your fellow Israelites who are poor and needy in your land.
+
+Freeing Servants
+12 If any of your people—Hebrew men or women—sell themselves to you and serve you six years, in the seventh year you must let them go free. 13 And when you release them, do not send them away empty-handed. 14 Supply them liberally from your flock, your threshing floor and your winepress. Give to them as the Lord your God has blessed you. 15 Remember that you were slaves in Egypt and the Lord your God redeemed you. That is why I give you this command today.
+
+16 But if your servant says to you, “I do not want to leave you,” because he loves you and your family and is well off with you, 17 then take an awl and push it through his earlobe into the door, and he will become your servant for life. Do the same for your female servant.
+
+18 Do not consider it a hardship to set your servant free, because their service to you these six years has been worth twice as much as that of a hired hand. And the Lord your God will bless you in everything you do.
+
+The Firstborn Animals
+19 Set apart for the Lord your God every firstborn male of your herds and flocks. Do not put the firstborn of your cows to work, and do not shear the firstborn of your sheep. 20 Each year you and your family are to eat them in the presence of the Lord your God at the place he will choose. 21 If an animal has a defect, is lame or blind, or has any serious flaw, you must not sacrifice it to the Lord your God. 22 You are to eat it in your own towns. Both the ceremonially unclean and the clean may eat it, as if it were gazelle or deer. 23 But you must not eat the blood; pour it out on the ground like water.
 
                                     </p>
                                   </div>
@@ -7361,8 +7448,26 @@ those who hate him he will repay to their face by destruction;
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XVI </h2>
                                 <p>
- <h4 className={styles.h4}>           </h4> 
+ <h4 className={styles.h4}>The Passover</h4> 
 
+
+16 Observe the month of Aviv and celebrate the Passover of the Lord your God, because in the month of Aviv he brought you out of Egypt by night. 2 Sacrifice as the Passover to the Lord your God an animal from your flock or herd at the place the Lord will choose as a dwelling for his Name. 3 Do not eat it with bread made with yeast, but for seven days eat unleavened bread, the bread of affliction, because you left Egypt in haste—so that all the days of your life you may remember the time of your departure from Egypt. 4 Let no yeast be found in your possession in all your land for seven days. Do not let any of the meat you sacrifice on the evening of the first day remain until morning.
+
+5 You must not sacrifice the Passover in any town the Lord your God gives you 6 except in the place he will choose as a dwelling for his Name. There you must sacrifice the Passover in the evening, when the sun goes down, on the anniversary[a] of your departure from Egypt. 7 Roast it and eat it at the place the Lord your God will choose. Then in the morning return to your tents. 8 For six days eat unleavened bread and on the seventh day hold an assembly to the Lord your God and do no work.
+
+The Festival of Weeks
+9 Count off seven weeks from the time you begin to put the sickle to the standing grain. 10 Then celebrate the Festival of Weeks to the Lord your God by giving a freewill offering in proportion to the blessings the Lord your God has given you. 11 And rejoice before the Lord your God at the place he will choose as a dwelling for his Name—you, your sons and daughters, your male and female servants, the Levites in your towns, and the foreigners, the fatherless and the widows living among you. 12 Remember that you were slaves in Egypt, and follow carefully these decrees.
+
+The Festival of Tabernacles
+13 Celebrate the Festival of Tabernacles for seven days after you have gathered the produce of your threshing floor and your winepress. 14 Be joyful at your festival—you, your sons and daughters, your male and female servants, and the Levites, the foreigners, the fatherless and the widows who live in your towns. 15 For seven days celebrate the festival to the Lord your God at the place the Lord will choose. For the Lord your God will bless you in all your harvest and in all the work of your hands, and your joy will be complete.
+
+16 Three times a year all your men must appear before the Lord your God at the place he will choose: at the Festival of Unleavened Bread, the Festival of Weeks and the Festival of Tabernacles. No one should appear before the Lord empty-handed: 17 Each of you must bring a gift in proportion to the way the Lord your God has blessed you.
+
+Judges
+18 Appoint judges and officials for each of your tribes in every town the Lord your God is giving you, and they shall judge the people fairly. 19 Do not pervert justice or show partiality. Do not accept a bribe, for a bribe blinds the eyes of the wise and twists the words of the innocent. 20 Follow justice and justice alone, so that you may live and possess the land the Lord your God is giving you.
+
+Worshiping Other Gods
+21 Do not set up any wooden Asherah pole beside the altar you build to the Lord your God, 22 and do not erect a sacred stone, for these the Lord your God hates.
 
 
 
