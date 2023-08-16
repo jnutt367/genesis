@@ -6966,7 +6966,7 @@ Cities of Refuge
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/leviticus.png"
+                                                    src="/gods_mountain.png"
                                                     alt="hero image for Leviticus"
                                                     height={900}
                                                     width={2000}
