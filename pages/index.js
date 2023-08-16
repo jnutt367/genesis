@@ -6954,7 +6954,7 @@ Cities of Refuge
       </main>   
   
                 
-<main id="numbers" className={styles.main}>
+<main id="deuteronomy" className={styles.main}>
        
         <div className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
