@@ -7020,7 +7020,7 @@ Cities of Refuge
         <div className={styles.grid3}>
           
 
-   <div className={styles.card}
+   <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter I </h2>
                                 <p>
@@ -7070,7 +7070,7 @@ Rebellion Against the Lord
                                   </p>
   </div>
 
- <div className={styles.card}
+ <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter II </h2>
                                 <p>
@@ -7107,7 +7107,7 @@ Defeat of Sihon King of Heshbon
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter III </h2>
                                 <p>
@@ -7133,7 +7133,7 @@ Moses Forbidden to Cross the Jordan
                                     </p>
                                   </div>
 
-   <div className={styles.card}
+   <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter IV </h2>
                                 <p>
@@ -7169,7 +7169,7 @@ Introduction to the Law
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter V </h2>
                                 <p>
@@ -7214,7 +7214,7 @@ Hear, Israel, the decrees and laws I declare in your hearing today. Learn them a
                                   </div>
 
   
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter VI </h2>
                                 <p>
@@ -7235,7 +7235,7 @@ Hear, Israel, the decrees and laws I declare in your hearing today. Learn them a
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter VII </h2>
                                 <p>
@@ -7257,7 +7257,7 @@ those who hate him he will repay to their face by destruction;
                                     </p>
                                   </div>
 
-   <div className={styles.card}
+   <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter VIII </h2>
                                 <p>
@@ -7272,7 +7272,7 @@ those who hate him he will repay to their face by destruction;
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter IX </h2>
                                 <p>
@@ -7305,7 +7305,7 @@ The Golden Calf
 
 
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter X </h2>
                                 <p>
@@ -7327,7 +7327,7 @@ Fear the Lord
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XI </h2>
                                 <p>
@@ -7350,7 +7350,7 @@ Fear the Lord
                                     </p>
                                   </div>
 
-   <div className={styles.card}
+   <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XII </h2>
                                 <p>
@@ -7375,7 +7375,7 @@ Fear the Lord
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XIII </h2>
                                 <p>
@@ -7392,7 +7392,7 @@ Fear the Lord
 
 
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XIV </h2>
                                 <p>
@@ -7421,7 +7421,7 @@ Tithes
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XV </h2>
                                 <p>
@@ -7444,7 +7444,7 @@ The Firstborn Animals
                                     </p>
                                   </div>
 
-   <div className={styles.card}
+   <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XVI </h2>
                                 <p>
@@ -7475,7 +7475,7 @@ Worshiping Other Gods
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XVII </h2>
                                 <p>
@@ -7496,7 +7496,7 @@ The King
                                   </div>
 
 
-  <div className={styles.card}
+  <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XVIII </h2>
                                 <p>
@@ -7522,7 +7522,7 @@ The Prophet
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XIX </h2>
                                 <p>
@@ -7546,7 +7546,7 @@ Witnesses
                                     </p>
                                   </div>
 
-   <div className={styles.card}
+   <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XX </h2>
                                 <p>
@@ -7565,7 +7565,7 @@ Witnesses
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXI </h2>
                                 <p>
@@ -7588,7 +7588,7 @@ Various Laws
                                   </div>
 
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXII </h2>
                                 <p>
@@ -7628,7 +7628,7 @@ Marriage Violations
 30 A man is not to marry his father’s wife; he must not dishonor his father’s bed.[d]                                    </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXIII </h2>
                                 <p>
@@ -7660,7 +7660,7 @@ Miscellaneous Laws
                                     </p>
                                   </div>
 
-   <div className={styles.card}
+   <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXIV </h2>
                                 <p>
@@ -7690,7 +7690,7 @@ Miscellaneous Laws
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXV </h2>
                                 <p>
@@ -7714,7 +7714,7 @@ Miscellaneous Laws
 
 
 
-  <div className={styles.card}
+  <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXVI </h2>
                                 <p>
@@ -7730,7 +7730,7 @@ Follow the Lord’s Commands
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXVII </h2>
                                 <p>
@@ -7798,7 +7798,7 @@ Then all the people shall say, “Amen!”
                                     </p>
                                   </div>
 
-   <div className={styles.card}
+   <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXVIII </h2>
                                 <p>
@@ -7859,7 +7859,7 @@ Curses for Disobedience
                                     </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXIX </h2>
                                 <p>
@@ -7889,7 +7889,7 @@ Your eyes have seen all that the Lord did in Egypt to Pharaoh, to all his offici
                                   </div>
 
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXX </h2>
                                 <p>
@@ -7911,7 +7911,7 @@ The Offer of Life or Death
                                     </p>
                                   </div>
 
-   <div className={styles.card}
+   <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Numbers Chapter XXXI </h2>
                                 <p>
@@ -7940,7 +7940,7 @@ The Song of Moses
 30 And Moses recited the words of this song from beginning to end in the hearing of the whole assembly of Israel:                                </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXXII </h2>
                                 <p>
@@ -8112,7 +8112,7 @@ Moses to Die on Mount Nebo
                                     </p>
                                   </div>
 
-  <div className={styles.card}
+  <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXXIII </h2>
                                 <p>
@@ -8254,7 +8254,7 @@ Your enemies will cower before you,
                                </p>
                                   </div>
 
-<div className={styles.card}
+<div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter XXXIV </h2>
                                 <p>
@@ -8272,7 +8272,7 @@ Your enemies will cower before you,
 
 
   
-          <div className={styles.card2}
+          <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
             <p>
