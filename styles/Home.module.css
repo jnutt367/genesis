@@ -456,6 +456,36 @@
     font-family: monospace;
     box-shadow: lightblue 0px 5px 15px;
 }
+
+.card3 {
+    background-image: url(/mt_horeb.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    background-origin: content-box;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    background-repeat: no-repeat;
+    color: transparent;
+    margin: 1.5rem;
+    margin-bottom: 5rem;
+    padding: 0rem;
+    padding-top: -25px;
+    text-align: left;
+    max-height: 400px;
+    max-width: 400px;
+    background-color: black;
+    border-radius: 15px 50px 30px;
+    overflow: hidden;
+    text-decoration: none;
+    border: 3px solid #eaeaea;
+    transition: color 0.15s ease, border-color 0.7s ease;
+    font-family: monospace;
+    box-shadow: lightblue 0px 5px 15px;
+}
+
 .chapter {
     background-color: black;
     color: white;
@@ -571,7 +601,7 @@
 }
 
 
-.card2 h2 {
+.card3 h2 {
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -592,6 +622,52 @@
 .card2 p:hover {
     font-weight: 900;
 }
+
+
+
+
+
+
+
+.card3:hover,
+.card3:focus,
+.card3:active {
+    display: inline;
+    color: black;
+    opacity: 0.9;
+    border: 6px solid black;
+    background-image: url(/paper.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: all-scroll;
+    overflow: scroll;
+    font-family: monospace;
+}
+
+
+.card3 h2 {
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card3 h2:hover {
+    color: black;
+}
+
+.card3 p {
+    margin: 0;
+    padding: 1.5rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    font-family: monospace;
+}
+
+.card3 p:hover {
+    font-weight: 900;
+}
+
+
 
 
 
