@@ -8366,7 +8366,7 @@ This is the beginning of the story of the Israelites crossing the Jordan into th
          
                </div>
                                  <div className={styles.iframe}> 
-                                       <iframe width="100%" height="315" src="https://www.youtube.com/embed/NMhmDPWeftw?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                       <iframe width="100%" height="315" src="https://www.youtube.com/embed/JqOqJlFF_eU?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>
                                   
                               
@@ -8576,8 +8576,31 @@ Then all Israel stoned him, and after they had stoned the rest, they burned them
           >
             <h2 className={styles.chapter3}>Joshua Chapter VIII </h2>
                                 <p>
- <h4 className={styles.h4}>           </h4> 
+ <h4 className={styles.h4}>Ai Destroyed</h4> 
            
+8 Then the Lord said to Joshua, “Do not be afraid; do not be discouraged. Take the whole army with you, and go up and attack Ai. For I have delivered into your hands the king of Ai, his people, his city and his land. 2 You shall do to Ai and its king as you did to Jericho and its king, except that you may carry off their plunder and livestock for yourselves. Set an ambush behind the city.”
+
+3 So Joshua and the whole army moved out to attack Ai. He chose thirty thousand of his best fighting men and sent them out at night 4 with these orders: “Listen carefully. You are to set an ambush behind the city. Don’t go very far from it. All of you be on the alert. 5 I and all those with me will advance on the city, and when the men come out against us, as they did before, we will flee from them. 6 They will pursue us until we have lured them away from the city, for they will say, ‘They are running away from us as they did before.’ So when we flee from them, 7 you are to rise up from ambush and take the city. The Lord your God will give it into your hand. 8 When you have taken the city, set it on fire. Do what the Lord has commanded. See to it; you have my orders.”
+
+9 Then Joshua sent them off, and they went to the place of ambush and lay in wait between Bethel and Ai, to the west of Ai—but Joshua spent that night with the people.
+
+10 Early the next morning Joshua mustered his army, and he and the leaders of Israel marched before them to Ai. 11 The entire force that was with him marched up and approached the city and arrived in front of it. They set up camp north of Ai, with the valley between them and the city. 12 Joshua had taken about five thousand men and set them in ambush between Bethel and Ai, to the west of the city. 13 So the soldiers took up their positions—with the main camp to the north of the city and the ambush to the west of it. That night Joshua went into the valley.
+
+14 When the king of Ai saw this, he and all the men of the city hurried out early in the morning to meet Israel in battle at a certain place overlooking the Arabah. But he did not know that an ambush had been set against him behind the city. 15 Joshua and all Israel let themselves be driven back before them, and they fled toward the wilderness. 16 All the men of Ai were called to pursue them, and they pursued Joshua and were lured away from the city. 17 Not a man remained in Ai or Bethel who did not go after Israel. They left the city open and went in pursuit of Israel.
+
+18 Then the Lord said to Joshua, “Hold out toward Ai the javelin that is in your hand, for into your hand I will deliver the city.” So Joshua held out toward the city the javelin that was in his hand. 19 As soon as he did this, the men in the ambush rose quickly from their position and rushed forward. They entered the city and captured it and quickly set it on fire.
+
+20 The men of Ai looked back and saw the smoke of the city rising up into the sky, but they had no chance to escape in any direction; the Israelites who had been fleeing toward the wilderness had turned back against their pursuers. 21 For when Joshua and all Israel saw that the ambush had taken the city and that smoke was going up from it, they turned around and attacked the men of Ai. 22 Those in the ambush also came out of the city against them, so that they were caught in the middle, with Israelites on both sides. Israel cut them down, leaving them neither survivors nor fugitives. 23 But they took the king of Ai alive and brought him to Joshua.
+
+24 When Israel had finished killing all the men of Ai in the fields and in the wilderness where they had chased them, and when every one of them had been put to the sword, all the Israelites returned to Ai and killed those who were in it. 25 Twelve thousand men and women fell that day—all the people of Ai. 26 For Joshua did not draw back the hand that held out his javelin until he had destroyed[a] all who lived in Ai. 27 But Israel did carry off for themselves the livestock and plunder of this city, as the Lord had instructed Joshua.
+
+28 So Joshua burned Ai[b] and made it a permanent heap of ruins, a desolate place to this day. 29 He impaled the body of the king of Ai on a pole and left it there until evening. At sunset, Joshua ordered them to take the body from the pole and throw it down at the entrance of the city gate. And they raised a large pile of rocks over it, which remains to this day.
+
+The Covenant Renewed at Mount Ebal
+30 Then Joshua built on Mount Ebal an altar to the Lord, the God of Israel, 31 as Moses the servant of the Lord had commanded the Israelites. He built it according to what is written in the Book of the Law of Moses—an altar of uncut stones, on which no iron tool had been used. On it they offered to the Lord burnt offerings and sacrificed fellowship offerings. 32 There, in the presence of the Israelites, Joshua wrote on stones a copy of the law of Moses. 33 All the Israelites, with their elders, officials and judges, were standing on both sides of the ark of the covenant of the Lord, facing the Levitical priests who carried it. Both the foreigners living among them and the native-born were there. Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of the Lord had formerly commanded when he gave instructions to bless the people of Israel.
+
+34 Afterward, Joshua read all the words of the law—the blessings and the curses—just as it is written in the Book of the Law. 35 There was not a word of all that Moses had commanded that Joshua did not read to the whole assembly of Israel, including the women and children, and the foreigners who lived among them.
+
                                      </p>
                                   </div>
 
@@ -8585,9 +8608,31 @@ Then all Israel stoned him, and after they had stoned the rest, they burned them
           >
             <h2 className={styles.chapter3}>Joshua Chapter IX </h2>
                                 <p>
- <h4 className={styles.h4}>                        </h4> 
+ <h4 className={styles.h4}>The Gibeonite Deception</h4> 
 
-                                   </p>
+9 Now when all the kings west of the Jordan heard about these things—the kings in the hill country, in the western foothills, and along the entire coast of the Mediterranean Sea as far as Lebanon (the kings of the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites)— 2 they came together to wage war against Joshua and Israel.
+
+3 However, when the people of Gibeon heard what Joshua had done to Jericho and Ai, 4 they resorted to a ruse: They went as a delegation whose donkeys were loaded[a] with worn-out sacks and old wineskins, cracked and mended. 5 They put worn and patched sandals on their feet and wore old clothes. All the bread of their food supply was dry and moldy. 6 Then they went to Joshua in the camp at Gilgal and said to him and the Israelites, “We have come from a distant country; make a treaty with us.”
+
+7 The Israelites said to the Hivites, “But perhaps you live near us, so how can we make a treaty with you?”
+
+8 “We are your servants,” they said to Joshua.
+
+But Joshua asked, “Who are you and where do you come from?”
+
+9 They answered: “Your servants have come from a very distant country because of the fame of the Lord your God. For we have heard reports of him: all that he did in Egypt, 10 and all that he did to the two kings of the Amorites east of the Jordan—Sihon king of Heshbon, and Og king of Bashan, who reigned in Ashtaroth. 11 And our elders and all those living in our country said to us, ‘Take provisions for your journey; go and meet them and say to them, “We are your servants; make a treaty with us.”’ 12 This bread of ours was warm when we packed it at home on the day we left to come to you. But now see how dry and moldy it is. 13 And these wineskins that we filled were new, but see how cracked they are. And our clothes and sandals are worn out by the very long journey.”
+
+14 The Israelites sampled their provisions but did not inquire of the Lord. 15 Then Joshua made a treaty of peace with them to let them live, and the leaders of the assembly ratified it by oath.
+
+16 Three days after they made the treaty with the Gibeonites, the Israelites heard that they were neighbors, living near them. 17 So the Israelites set out and on the third day came to their cities: Gibeon, Kephirah, Beeroth and Kiriath Jearim. 18 But the Israelites did not attack them, because the leaders of the assembly had sworn an oath to them by the Lord, the God of Israel.
+
+The whole assembly grumbled against the leaders, 19 but all the leaders answered, “We have given them our oath by the Lord, the God of Israel, and we cannot touch them now. 20 This is what we will do to them: We will let them live, so that God’s wrath will not fall on us for breaking the oath we swore to them.” 21 They continued, “Let them live, but let them be woodcutters and water carriers in the service of the whole assembly.” So the leaders’ promise to them was kept.
+
+22 Then Joshua summoned the Gibeonites and said, “Why did you deceive us by saying, ‘We live a long way from you,’ while actually you live near us? 23 You are now under a curse: You will never be released from service as woodcutters and water carriers for the house of my God.”
+
+24 They answered Joshua, “Your servants were clearly told how the Lord your God had commanded his servant Moses to give you the whole land and to wipe out all its inhabitants from before you. So we feared for our lives because of you, and that is why we did this. 25 We are now in your hands. Do to us whatever seems good and right to you.”
+
+26 So Joshua saved them from the Israelites, and they did not kill them. 27 That day he made the Gibeonites woodcutters and water carriers for the assembly, to provide for the needs of the altar of the Lord at the place the Lord would choose. And that is what they are to this day.                                   </p>
                                   </div>
 
 
@@ -8597,17 +8642,83 @@ Then all Israel stoned him, and after they had stoned the rest, they burned them
           >
             <h2 className={styles.chapter3}>Joshua Chapter X </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>The Sun Stands Still</h4> 
     
-                                    </p>
+10 Now Adoni-Zedek king of Jerusalem heard that Joshua had taken Ai and totally destroyed[a] it, doing to Ai and its king as he had done to Jericho and its king, and that the people of Gibeon had made a treaty of peace with Israel and had become their allies. 2 He and his people were very much alarmed at this, because Gibeon was an important city, like one of the royal cities; it was larger than Ai, and all its men were good fighters. 3 So Adoni-Zedek king of Jerusalem appealed to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish and Debir king of Eglon. 4 “Come up and help me attack Gibeon,” he said, “because it has made peace with Joshua and the Israelites.”
+
+5 Then the five kings of the Amorites—the kings of Jerusalem, Hebron, Jarmuth, Lachish and Eglon—joined forces. They moved up with all their troops and took up positions against Gibeon and attacked it.
+
+6 The Gibeonites then sent word to Joshua in the camp at Gilgal: “Do not abandon your servants. Come up to us quickly and save us! Help us, because all the Amorite kings from the hill country have joined forces against us.”
+
+7 So Joshua marched up from Gilgal with his entire army, including all the best fighting men. 8 The Lord said to Joshua, “Do not be afraid of them; I have given them into your hand. Not one of them will be able to withstand you.”
+
+9 After an all-night march from Gilgal, Joshua took them by surprise. 10 The Lord threw them into confusion before Israel, so Joshua and the Israelites defeated them completely at Gibeon. Israel pursued them along the road going up to Beth Horon and cut them down all the way to Azekah and Makkedah. 11 As they fled before Israel on the road down from Beth Horon to Azekah, the Lord hurled large hailstones down on them, and more of them died from the hail than were killed by the swords of the Israelites.
+
+12 On the day the Lord gave the Amorites over to Israel, Joshua said to the Lord in the presence of Israel:
+
+“Sun, stand still over Gibeon,
+    and you, moon, over the Valley of Aijalon.”
+13 So the sun stood still,
+    and the moon stopped,
+    till the nation avenged itself on[b] its enemies,
+
+as it is written in the Book of Jashar.
+
+The sun stopped in the middle of the sky and delayed going down about a full day. 14 There has never been a day like it before or since, a day when the Lord listened to a human being. Surely the Lord was fighting for Israel!
+
+15 Then Joshua returned with all Israel to the camp at Gilgal.
+
+Five Amorite Kings Killed
+16 Now the five kings had fled and hidden in the cave at Makkedah. 17 When Joshua was told that the five kings had been found hiding in the cave at Makkedah, 18 he said, “Roll large rocks up to the mouth of the cave, and post some men there to guard it. 19 But don’t stop; pursue your enemies! Attack them from the rear and don’t let them reach their cities, for the Lord your God has given them into your hand.”
+
+20 So Joshua and the Israelites defeated them completely, but a few survivors managed to reach their fortified cities. 21 The whole army then returned safely to Joshua in the camp at Makkedah, and no one uttered a word against the Israelites.
+
+22 Joshua said, “Open the mouth of the cave and bring those five kings out to me.” 23 So they brought the five kings out of the cave—the kings of Jerusalem, Hebron, Jarmuth, Lachish and Eglon. 24 When they had brought these kings to Joshua, he summoned all the men of Israel and said to the army commanders who had come with him, “Come here and put your feet on the necks of these kings.” So they came forward and placed their feet on their necks.
+
+25 Joshua said to them, “Do not be afraid; do not be discouraged. Be strong and courageous. This is what the Lord will do to all the enemies you are going to fight.” 26 Then Joshua put the kings to death and exposed their bodies on five poles, and they were left hanging on the poles until evening.
+
+27 At sunset Joshua gave the order and they took them down from the poles and threw them into the cave where they had been hiding. At the mouth of the cave they placed large rocks, which are there to this day.
+
+Southern Cities Conquered
+28 That day Joshua took Makkedah. He put the city and its king to the sword and totally destroyed everyone in it. He left no survivors. And he did to the king of Makkedah as he had done to the king of Jericho.
+
+29 Then Joshua and all Israel with him moved on from Makkedah to Libnah and attacked it. 30 The Lord also gave that city and its king into Israel’s hand. The city and everyone in it Joshua put to the sword. He left no survivors there. And he did to its king as he had done to the king of Jericho.
+
+31 Then Joshua and all Israel with him moved on from Libnah to Lachish; he took up positions against it and attacked it. 32 The Lord gave Lachish into Israel’s hands, and Joshua took it on the second day. The city and everyone in it he put to the sword, just as he had done to Libnah. 33 Meanwhile, Horam king of Gezer had come up to help Lachish, but Joshua defeated him and his army—until no survivors were left.
+
+34 Then Joshua and all Israel with him moved on from Lachish to Eglon; they took up positions against it and attacked it. 35 They captured it that same day and put it to the sword and totally destroyed everyone in it, just as they had done to Lachish.
+
+36 Then Joshua and all Israel with him went up from Eglon to Hebron and attacked it. 37 They took the city and put it to the sword, together with its king, its villages and everyone in it. They left no survivors. Just as at Eglon, they totally destroyed it and everyone in it.
+
+38 Then Joshua and all Israel with him turned around and attacked Debir. 39 They took the city, its king and its villages, and put them to the sword. Everyone in it they totally destroyed. They left no survivors. They did to Debir and its king as they had done to Libnah and its king and to Hebron.
+
+40 So Joshua subdued the whole region, including the hill country, the Negev, the western foothills and the mountain slopes, together with all their kings. He left no survivors. He totally destroyed all who breathed, just as the Lord, the God of Israel, had commanded. 41 Joshua subdued them from Kadesh Barnea to Gaza and from the whole region of Goshen to Gibeon. 42 All these kings and their lands Joshua conquered in one campaign, because the Lord, the God of Israel, fought for Israel.
+
+43 Then Joshua returned with all Israel to the camp at Gilgal.                                    </p>
                                   </div>
 
 <div className={styles.card3}
           >
             <h2 className={styles.chapter3}>Joshua Chapter XI </h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
+ <h4 className={styles.h4}>Northern Kings Defeated</h4> 
 
+
+11 When Jabin king of Hazor heard of this, he sent word to Jobab king of Madon, to the kings of Shimron and Akshaph, 2 and to the northern kings who were in the mountains, in the Arabah south of Kinnereth, in the western foothills and in Naphoth Dor on the west; 3 to the Canaanites in the east and west; to the Amorites, Hittites, Perizzites and Jebusites in the hill country; and to the Hivites below Hermon in the region of Mizpah. 4 They came out with all their troops and a large number of horses and chariots—a huge army, as numerous as the sand on the seashore. 5 All these kings joined forces and made camp together at the Waters of Merom to fight against Israel.
+
+6 The Lord said to Joshua, “Do not be afraid of them, because by this time tomorrow I will hand all of them, slain, over to Israel. You are to hamstring their horses and burn their chariots.”
+
+7 So Joshua and his whole army came against them suddenly at the Waters of Merom and attacked them, 8 and the Lord gave them into the hand of Israel. They defeated them and pursued them all the way to Greater Sidon, to Misrephoth Maim, and to the Valley of Mizpah on the east, until no survivors were left. 9 Joshua did to them as the Lord had directed: He hamstrung their horses and burned their chariots.
+
+10 At that time Joshua turned back and captured Hazor and put its king to the sword. (Hazor had been the head of all these kingdoms.) 11 Everyone in it they put to the sword. They totally destroyed[a] them, not sparing anyone that breathed, and he burned Hazor itself.
+
+12 Joshua took all these royal cities and their kings and put them to the sword. He totally destroyed them, as Moses the servant of the Lord had commanded. 13 Yet Israel did not burn any of the cities built on their mounds—except Hazor, which Joshua burned. 14 The Israelites carried off for themselves all the plunder and livestock of these cities, but all the people they put to the sword until they completely destroyed them, not sparing anyone that breathed. 15 As the Lord commanded his servant Moses, so Moses commanded Joshua, and Joshua did it; he left nothing undone of all that the Lord commanded Moses.
+
+16 So Joshua took this entire land: the hill country, all the Negev, the whole region of Goshen, the western foothills, the Arabah and the mountains of Israel with their foothills, 17 from Mount Halak, which rises toward Seir, to Baal Gad in the Valley of Lebanon below Mount Hermon. He captured all their kings and put them to death. 18 Joshua waged war against all these kings for a long time. 19 Except for the Hivites living in Gibeon, not one city made a treaty of peace with the Israelites, who took them all in battle. 20 For it was the Lord himself who hardened their hearts to wage war against Israel, so that he might destroy them totally, exterminating them without mercy, as the Lord had commanded Moses.
+
+21 At that time Joshua went and destroyed the Anakites from the hill country: from Hebron, Debir and Anab, from all the hill country of Judah, and from all the hill country of Israel. Joshua totally destroyed them and their towns. 22 No Anakites were left in Israelite territory; only in Gaza, Gath and Ashdod did any survive.
+
+23 So Joshua took the entire land, just as the Lord had directed Moses, and he gave it as an inheritance to Israel according to their tribal divisions. Then the land had rest from war.
 
 
                                     </p>
@@ -8617,9 +8728,55 @@ Then all Israel stoned him, and after they had stoned the rest, they burned them
           >
             <h2 className={styles.chapter3}>Joshua Chapter XII </h2>
                                 <p>
- <h4 className={styles.h4}>                  </h4> 
+ <h4 className={styles.h4}>List of Defeated Kings</h4> 
 
 
+12 These are the kings of the land whom the Israelites had defeated and whose territory they took over east of the Jordan, from the Arnon Gorge to Mount Hermon, including all the eastern side of the Arabah:
+
+2 Sihon king of the Amorites, who reigned in Heshbon.
+
+He ruled from Aroer on the rim of the Arnon Gorge—from the middle of the gorge—to the Jabbok River, which is the border of the Ammonites. This included half of Gilead. 3 He also ruled over the eastern Arabah from the Sea of Galilee[a] to the Sea of the Arabah (that is, the Dead Sea), to Beth Jeshimoth, and then southward below the slopes of Pisgah.
+
+4 And the territory of Og king of Bashan, one of the last of the Rephaites, who reigned in Ashtaroth and Edrei.
+
+5 He ruled over Mount Hermon, Salekah, all of Bashan to the border of the people of Geshur and Maakah, and half of Gilead to the border of Sihon king of Heshbon.
+
+6 Moses, the servant of the Lord, and the Israelites conquered them. And Moses the servant of the Lord gave their land to the Reubenites, the Gadites and the half-tribe of Manasseh to be their possession.
+
+7 Here is a list of the kings of the land that Joshua and the Israelites conquered on the west side of the Jordan, from Baal Gad in the Valley of Lebanon to Mount Halak, which rises toward Seir. Joshua gave their lands as an inheritance to the tribes of Israel according to their tribal divisions. 8 The lands included the hill country, the western foothills, the Arabah, the mountain slopes, the wilderness and the Negev. These were the lands of the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites. These were the kings:
+
+9 the king of Jericho	one
+the king of Ai (near Bethel)	one
+10 the king of Jerusalem	one
+the king of Hebron	one
+11 the king of Jarmuth	one
+the king of Lachish	one
+12 the king of Eglon	one
+the king of Gezer	one
+13 the king of Debir	one
+the king of Geder	one
+14 the king of Hormah	one
+the king of Arad	one
+15 the king of Libnah	one
+the king of Adullam	one
+16 the king of Makkedah	one
+the king of Bethel	one
+17 the king of Tappuah	one
+the king of Hepher	one
+18 the king of Aphek	one
+the king of Lasharon	one
+19 the king of Madon	one
+the king of Hazor	one
+20 the king of Shimron Meron	one
+the king of Akshaph	one
+21 the king of Taanach	one
+the king of Megiddo	one
+22 the king of Kedesh	one
+the king of Jokneam in Carmel	one
+23 the king of Dor (in Naphoth Dor)	one
+the king of Goyim in Gilgal	one
+24 the king of Tirzah	one
+thirty-one kings in all.
 
                                     </p>
                                   </div>
