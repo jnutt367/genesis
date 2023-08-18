@@ -6962,7 +6962,7 @@ Cities of Refuge
                     <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         <h1 className={styles.title}>
-      JOSHUA
+      DEUTERONOMY
         </h1>
           <div className={styles.image}>
                            <Image 
@@ -6977,7 +6977,7 @@ Cities of Refuge
                         </div>
     <p className={styles.parables}>
 
-            This is the beginning of the Israelites crossing over the Jordan into the promised land. Led by Joshua. 
+             In the fortieth year, on the first day of the eleventh month, Moses proclaimed to the Israelites all that the Lord had commanded him concerning them.
 </p>                                                      
                   <div className={styles.nav3}>           
       <a href="https://mytorah.vercel.app/#numbers">
@@ -8315,7 +8315,7 @@ Your enemies will cower before you,
                     <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         <h1 className={styles.title}>
-      DEUTERONOMY
+          JOSHUA
         </h1>
           <div className={styles.image}>
                            <Image 
@@ -8329,8 +8329,8 @@ Your enemies will cower before you,
 
                         </div>
     <p className={styles.parables}>
-
-            In the fortieth year, on the first day of the eleventh month, Moses proclaimed to the Israelites all that the Lord had commanded him concerning them.
+This is the beginning of the story of the Israelites crossing the Jordan into the promised land led by Joshua
+           
 </p>                                                      
                   <div className={styles.nav3}>           
       <a href="https://mytorah.vercel.app/#numbers">
