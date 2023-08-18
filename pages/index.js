@@ -6954,7 +6954,7 @@ Cities of Refuge
       </main>   
   
                 
-<main id="joshua" className={styles.main}>
+<main id="deuteronomy" className={styles.main}>
        
         <div className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
@@ -8307,7 +8307,7 @@ Your enemies will cower before you,
 
 
 
-<main id="deuteronomy" className={styles.main}>
+<main id="joshua" className={styles.main}>
        
         <div className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
@@ -8452,8 +8452,25 @@ So she sent them away, and they departed. And she tied the scarlet cord in the w
           >
             <h2 className={styles.chapter3}>Joshua Chapter IV </h2>
                                 <p>
- <h4 className={styles.h4}>                 </h4> 
-                               
+ <h4 className={styles.h4}>Choose twelve men from among the people</h4> 
+                               4 When the whole nation had finished crossing the Jordan, the Lord said to Joshua, 2 “Choose twelve men from among the people, one from each tribe, 3 and tell them to take up twelve stones from the middle of the Jordan, from right where the priests are standing, and carry them over with you and put them down at the place where you stay tonight.”
+
+4 So Joshua called together the twelve men he had appointed from the Israelites, one from each tribe, 5 and said to them, “Go over before the ark of the Lord your God into the middle of the Jordan. Each of you is to take up a stone on his shoulder, according to the number of the tribes of the Israelites, 6 to serve as a sign among you. In the future, when your children ask you, ‘What do these stones mean?’ 7 tell them that the flow of the Jordan was cut off before the ark of the covenant of the Lord. When it crossed the Jordan, the waters of the Jordan were cut off. These stones are to be a memorial to the people of Israel forever.”
+
+8 So the Israelites did as Joshua commanded them. They took twelve stones from the middle of the Jordan, according to the number of the tribes of the Israelites, as the Lord had told Joshua; and they carried them over with them to their camp, where they put them down. 9 Joshua set up the twelve stones that had been[a] in the middle of the Jordan at the spot where the priests who carried the ark of the covenant had stood. And they are there to this day.
+
+10 Now the priests who carried the ark remained standing in the middle of the Jordan until everything the Lord had commanded Joshua was done by the people, just as Moses had directed Joshua. The people hurried over, 11 and as soon as all of them had crossed, the ark of the Lord and the priests came to the other side while the people watched. 12 The men of Reuben, Gad and the half-tribe of Manasseh crossed over, ready for battle, in front of the Israelites, as Moses had directed them. 13 About forty thousand armed for battle crossed over before the Lord to the plains of Jericho for war.
+
+14 That day the Lord exalted Joshua in the sight of all Israel; and they stood in awe of him all the days of his life, just as they had stood in awe of Moses.
+
+15 Then the Lord said to Joshua, 16 “Command the priests carrying the ark of the covenant law to come up out of the Jordan.”
+
+17 So Joshua commanded the priests, “Come up out of the Jordan.”
+
+18 And the priests came up out of the river carrying the ark of the covenant of the Lord. No sooner had they set their feet on the dry ground than the waters of the Jordan returned to their place and ran at flood stage as before.
+
+19 On the tenth day of the first month the people went up from the Jordan and camped at Gilgal on the eastern border of Jericho. 20 And Joshua set up at Gilgal the twelve stones they had taken out of the Jordan. 21 He said to the Israelites, “In the future when your descendants ask their parents, ‘What do these stones mean?’ 22 tell them, ‘Israel crossed the Jordan on dry ground.’ 23 For the Lord your God dried up the Jordan before you until you had crossed over. The Lord your God did to the Jordan what he had done to the Red Sea[b] when he dried it up before us until we had crossed over. 24 He did this so that all the peoples of the earth might know that the hand of the Lord is powerful and so that you might always fear the Lord your God.”
+
   
                                   </p>
                                   </div>
@@ -8462,9 +8479,24 @@ So she sent them away, and they departed. And she tied the scarlet cord in the w
           >
             <h2 className={styles.chapter3}>Joshua Chapter V </h2>
                                 <p>
- <h4 className={styles.h4}>                 </h4> 
+ <h4 className={styles.h4}>Circumcision and Passover at Gilgal</h4> 
+5 Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how the Lord had dried up the Jordan before the Israelites until they[a] had crossed over, their hearts melted in fear and they no longer had the courage to face the Israelites.
 
-                              </p>
+Circumcision and Passover at Gilgal
+2 At that time the Lord said to Joshua, “Make flint knives and circumcise the Israelites again.” 3 So Joshua made flint knives and circumcised the Israelites at Gibeath Haaraloth.[b]
+
+4 Now this is why he did so: All those who came out of Egypt—all the men of military age—died in the wilderness on the way after leaving Egypt. 5 All the people that came out had been circumcised, but all the people born in the wilderness during the journey from Egypt had not. 6 The Israelites had moved about in the wilderness forty years until all the men who were of military age when they left Egypt had died, since they had not obeyed the Lord. For the Lord had sworn to them that they would not see the land he had solemnly promised their ancestors to give us, a land flowing with milk and honey. 7 So he raised up their sons in their place, and these were the ones Joshua circumcised. They were still uncircumcised because they had not been circumcised on the way. 8 And after the whole nation had been circumcised, they remained where they were in camp until they were healed.
+
+9 Then the Lord said to Joshua, “Today I have rolled away the reproach of Egypt from you.” So the place has been called Gilgal[c] to this day.
+
+10 On the evening of the fourteenth day of the month, while camped at Gilgal on the plains of Jericho, the Israelites celebrated the Passover. 11 The day after the Passover, that very day, they ate some of the produce of the land: unleavened bread and roasted grain. 12 The manna stopped the day after[d] they ate this food from the land; there was no longer any manna for the Israelites, but that year they ate the produce of Canaan.
+
+The Fall of Jericho
+13 Now when Joshua was near Jericho, he looked up and saw a man standing in front of him with a drawn sword in his hand. Joshua went up to him and asked, “Are you for us or for our enemies?”
+
+14 “Neither,” he replied, “but as commander of the army of the Lord I have now come.” Then Joshua fell facedown to the ground in reverence, and asked him, “What message does my Lord[e] have for his servant?”
+
+15 The commander of the Lord’s army replied, “Take off your sandals, for the place where you are standing is holy.” And Joshua did so.                              </p>
                                   </div>
 
   
@@ -8472,8 +8504,34 @@ So she sent them away, and they departed. And she tied the scarlet cord in the w
           >
             <h2 className={styles.chapter3}>Joshua Chapter VI </h2>
                                 <p>
- <h4 className={styles.h4}>                 </h4> 
+ <h4 className={styles.h4}>See, I have delivered Jericho into your hands</h4> 
 
+6 Now the gates of Jericho were securely barred because of the Israelites. No one went out and no one came in.
+
+2 Then the Lord said to Joshua, “See, I have delivered Jericho into your hands, along with its king and its fighting men. 3 March around the city once with all the armed men. Do this for six days. 4 Have seven priests carry trumpets of rams’ horns in front of the ark. On the seventh day, march around the city seven times, with the priests blowing the trumpets. 5 When you hear them sound a long blast on the trumpets, have the whole army give a loud shout; then the wall of the city will collapse and the army will go up, everyone straight in.”
+
+6 So Joshua son of Nun called the priests and said to them, “Take up the ark of the covenant of the Lord and have seven priests carry trumpets in front of it.” 7 And he ordered the army, “Advance! March around the city, with an armed guard going ahead of the ark of the Lord.”
+
+8 When Joshua had spoken to the people, the seven priests carrying the seven trumpets before the Lord went forward, blowing their trumpets, and the ark of the Lord’s covenant followed them. 9 The armed guard marched ahead of the priests who blew the trumpets, and the rear guard followed the ark. All this time the trumpets were sounding. 10 But Joshua had commanded the army, “Do not give a war cry, do not raise your voices, do not say a word until the day I tell you to shout. Then shout!” 11 So he had the ark of the Lord carried around the city, circling it once. Then the army returned to camp and spent the night there.
+
+12 Joshua got up early the next morning and the priests took up the ark of the Lord. 13 The seven priests carrying the seven trumpets went forward, marching before the ark of the Lord and blowing the trumpets. The armed men went ahead of them and the rear guard followed the ark of the Lord, while the trumpets kept sounding. 14 So on the second day they marched around the city once and returned to the camp. They did this for six days.
+
+15 On the seventh day, they got up at daybreak and marched around the city seven times in the same manner, except that on that day they circled the city seven times. 16 The seventh time around, when the priests sounded the trumpet blast, Joshua commanded the army, “Shout! For the Lord has given you the city! 17 The city and all that is in it are to be devoted[a] to the Lord. Only Rahab the prostitute and all who are with her in her house shall be spared, because she hid the spies we sent. 18 But keep away from the devoted things, so that you will not bring about your own destruction by taking any of them. Otherwise you will make the camp of Israel liable to destruction and bring trouble on it. 19 All the silver and gold and the articles of bronze and iron are sacred to the Lord and must go into his treasury.”
+
+20 When the trumpets sounded, the army shouted, and at the sound of the trumpet, when the men gave a loud shout, the wall collapsed; so everyone charged straight in, and they took the city. 21 They devoted the city to the Lord and destroyed with the sword every living thing in it—men and women, young and old, cattle, sheep and donkeys.
+
+22 Joshua said to the two men who had spied out the land, “Go into the prostitute’s house and bring her out and all who belong to her, in accordance with your oath to her.” 23 So the young men who had done the spying went in and brought out Rahab, her father and mother, her brothers and sisters and all who belonged to her. They brought out her entire family and put them in a place outside the camp of Israel.
+
+24 Then they burned the whole city and everything in it, but they put the silver and gold and the articles of bronze and iron into the treasury of the Lord’s house. 25 But Joshua spared Rahab the prostitute, with her family and all who belonged to her, because she hid the men Joshua had sent as spies to Jericho—and she lives among the Israelites to this day.
+
+26 At that time Joshua pronounced this solemn oath: “Cursed before the Lord is the one who undertakes to rebuild this city, Jericho:
+
+“At the cost of his firstborn son
+    he will lay its foundations;
+at the cost of his youngest
+    he will set up its gates.”
+
+27 So the Lord was with Joshua, and his fame spread throughout the land.
 
                                     </p>
                                   </div>
@@ -8482,7 +8540,33 @@ So she sent them away, and they departed. And she tied the scarlet cord in the w
           >
             <h2 className={styles.chapter3}>Joshua Chapter VII </h2>
                                 <p>
- <h4 className={styles.h4}>            </h4> 
+ <h4 className={styles.h4}>Achan’s Sin</h4> 
+
+7 But the Israelites were unfaithful in regard to the devoted things[a]; Achan son of Karmi, the son of Zimri,[b] the son of Zerah, of the tribe of Judah, took some of them. So the Lord’s anger burned against Israel.
+
+2 Now Joshua sent men from Jericho to Ai, which is near Beth Aven to the east of Bethel, and told them, “Go up and spy out the region.” So the men went up and spied out Ai.
+
+3 When they returned to Joshua, they said, “Not all the army will have to go up against Ai. Send two or three thousand men to take it and do not weary the whole army, for only a few people live there.” 4 So about three thousand went up; but they were routed by the men of Ai, 5 who killed about thirty-six of them. They chased the Israelites from the city gate as far as the stone quarries and struck them down on the slopes. At this the hearts of the people melted in fear and became like water.
+
+6 Then Joshua tore his clothes and fell facedown to the ground before the ark of the Lord, remaining there till evening. The elders of Israel did the same, and sprinkled dust on their heads. 7 And Joshua said, “Alas, Sovereign Lord, why did you ever bring this people across the Jordan to deliver us into the hands of the Amorites to destroy us? If only we had been content to stay on the other side of the Jordan! 8 Pardon your servant, Lord. What can I say, now that Israel has been routed by its enemies? 9 The Canaanites and the other people of the country will hear about this and they will surround us and wipe out our name from the earth. What then will you do for your own great name?”
+
+10 The Lord said to Joshua, “Stand up! What are you doing down on your face? 11 Israel has sinned; they have violated my covenant, which I commanded them to keep. They have taken some of the devoted things; they have stolen, they have lied, they have put them with their own possessions. 12 That is why the Israelites cannot stand against their enemies; they turn their backs and run because they have been made liable to destruction. I will not be with you anymore unless you destroy whatever among you is devoted to destruction.
+
+13 “Go, consecrate the people. Tell them, ‘Consecrate yourselves in preparation for tomorrow; for this is what the Lord, the God of Israel, says: There are devoted things among you, Israel. You cannot stand against your enemies until you remove them.
+
+14 “‘In the morning, present yourselves tribe by tribe. The tribe the Lord chooses shall come forward clan by clan; the clan the Lord chooses shall come forward family by family; and the family the Lord chooses shall come forward man by man. 15 Whoever is caught with the devoted things shall be destroyed by fire, along with all that belongs to him. He has violated the covenant of the Lord and has done an outrageous thing in Israel!’”
+
+16 Early the next morning Joshua had Israel come forward by tribes, and Judah was chosen. 17 The clans of Judah came forward, and the Zerahites were chosen. He had the clan of the Zerahites come forward by families, and Zimri was chosen. 18 Joshua had his family come forward man by man, and Achan son of Karmi, the son of Zimri, the son of Zerah, of the tribe of Judah, was chosen.
+
+19 Then Joshua said to Achan, “My son, give glory to the Lord, the God of Israel, and honor him. Tell me what you have done; do not hide it from me.”
+
+20 Achan replied, “It is true! I have sinned against the Lord, the God of Israel. This is what I have done: 21 When I saw in the plunder a beautiful robe from Babylonia,[c] two hundred shekels[d] of silver and a bar of gold weighing fifty shekels,[e] I coveted them and took them. They are hidden in the ground inside my tent, with the silver underneath.”
+
+22 So Joshua sent messengers, and they ran to the tent, and there it was, hidden in his tent, with the silver underneath. 23 They took the things from the tent, brought them to Joshua and all the Israelites and spread them out before the Lord.
+
+24 Then Joshua, together with all Israel, took Achan son of Zerah, the silver, the robe, the gold bar, his sons and daughters, his cattle, donkeys and sheep, his tent and all that he had, to the Valley of Achor. 25 Joshua said, “Why have you brought this trouble on us? The Lord will bring trouble on you today.”
+
+Then all Israel stoned him, and after they had stoned the rest, they burned them. 26 Over Achan they heaped up a large pile of rocks, which remains to this day. Then the Lord turned from his fierce anger. Therefore that place has been called the Valley of Achor[f] ever since.
 
 
                                    </p>
@@ -8589,17 +8673,6 @@ So she sent them away, and they departed. And she tied the scarlet cord in the w
             <h2 className={styles.chapter3}>Joshua Chapter XVII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter XVII</h4> 
-17 Do not sacrifice to the Lord your God an ox or a sheep that has any defect or flaw in it, for that would be detestable to him.
-
-2 If a man or woman living among you in one of the towns the Lord gives you is found doing evil in the eyes of the Lord your God in violation of his covenant, 3 and contrary to my command has worshiped other gods, bowing down to them or to the sun or the moon or the stars in the sky, 4 and this has been brought to your attention, then you must investigate it thoroughly. If it is true and it has been proved that this detestable thing has been done in Israel, 5 take the man or woman who has done this evil deed to your city gate and stone that person to death. 6 On the testimony of two or three witnesses a person is to be put to death, but no one is to be put to death on the testimony of only one witness. 7 The hands of the witnesses must be the first in putting that person to death, and then the hands of all the people. You must purge the evil from among you.
-
-Law Courts
-8 If cases come before your courts that are too difficult for you to judge—whether bloodshed, lawsuits or assaults—take them to the place the Lord your God will choose. 9 Go to the Levitical priests and to the judge who is in office at that time. Inquire of them and they will give you the verdict. 10 You must act according to the decisions they give you at the place the Lord will choose. Be careful to do everything they instruct you to do. 11 Act according to whatever they teach you and the decisions they give you. Do not turn aside from what they tell you, to the right or to the left. 12 Anyone who shows contempt for the judge or for the priest who stands ministering there to the Lord your God is to be put to death. You must purge the evil from Israel. 13 All the people will hear and be afraid, and will not be contemptuous again.
-
-The King
-14 When you enter the land the Lord your God is giving you and have taken possession of it and settled in it, and you say, “Let us set a king over us like all the nations around us,” 15 be sure to appoint over you a king the Lord your God chooses. He must be from among your fellow Israelites. Do not place a foreigner over you, one who is not an Israelite. 16 The king, moreover, must not acquire great numbers of horses for himself or make the people return to Egypt to get more of them, for the Lord has told you, “You are not to go back that way again.” 17 He must not take many wives, or his heart will be led astray. He must not accumulate large amounts of silver and gold.
-
-18 When he takes the throne of his kingdom, he is to write for himself on a scroll a copy of this law, taken from that of the Levitical priests. 19 It is to be with him, and he is to read it all the days of his life so that he may learn to revere the Lord his God and follow carefully all the words of this law and these decrees 20 and not consider himself better than his fellow Israelites and turn from the law to the right or to the left. Then he and his descendants will reign a long time over his kingdom in Israel.
 
                                     </p>
                                   </div>
