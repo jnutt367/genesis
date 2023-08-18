@@ -8319,7 +8319,7 @@ Your enemies will cower before you,
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/mountain_top.png"
+                                                    src="/the_jordan.png"
                                                     alt="hero image for Leviticus"
                                                     height={900}
                                                     width={2000}
@@ -8373,7 +8373,7 @@ This is the beginning of the story of the Israelites crossing the Jordan into th
         <div className={styles.grid3}>
           
 
-   <div className={styles.card3}
+   <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Joshua Chapter I </h2>
                                 <p>
@@ -8425,7 +8425,7 @@ So she sent them away, and they departed. And she tied the scarlet cord in the w
                                    </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Joshua Chapter III </h2>
                                 <p>
@@ -8475,7 +8475,7 @@ So she sent them away, and they departed. And she tied the scarlet cord in the w
                                   </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Joshua Chapter V </h2>
                                 <p>
@@ -8536,7 +8536,7 @@ at the cost of his youngest
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Joshua Chapter VII </h2>
                                 <p>
@@ -8604,7 +8604,7 @@ The Covenant Renewed at Mount Ebal
                                      </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Joshua Chapter IX </h2>
                                 <p>
@@ -8697,7 +8697,7 @@ Southern Cities Conquered
 43 Then Joshua returned with all Israel to the camp at Gilgal.                                    </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Joshua Chapter XI </h2>
                                 <p>
@@ -8781,7 +8781,7 @@ thirty-one kings in all.
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Joshua Chapter XIII </h2>
                                 <p>
@@ -8841,7 +8841,7 @@ Then the land had rest from war.
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Joshua Chapter XV </h2>
                                 <p>
@@ -8922,7 +8922,7 @@ The boundary of their inheritance went from Ataroth Addar in the east to Upper B
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Joshua Chapter XVII </h2>
                                 <p>
@@ -8985,7 +8985,7 @@ This was the inheritance of Benjamin for its clans.
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Joshua Chapter XIX </h2>
                                 <p>
@@ -9057,7 +9057,7 @@ Allotment for Joshua
                                   </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Joshua Chapter XXI </h2>
                                 <p>
@@ -9176,7 +9176,7 @@ Ramoth in Gilead (a city of refuge for one accused of murder), Mahanaim, 39 Hesh
                              </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Joshua Chapter XXIII </h2>
                                 <p>
@@ -9249,7 +9249,7 @@ Buried in the Promised Land
 
 
   
-          <div className={styles.card3}
+          <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
             <p>
