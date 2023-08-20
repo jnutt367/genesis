@@ -9883,10 +9883,23 @@ From this comes the Israelite tradition 40 that each year the young women of Isr
           >
             <h2 className={styles.chapter3}>Judges Chapter XII </h2>
                                 <p>
- <h4 className={styles.h4}>              </h4> 
+ <h4 className={styles.h4}>Jephthah and Ephraim</h4> 
 
 
-    
+12 The Ephraimite forces were called out, and they crossed over to Zaphon. They said to Jephthah, “Why did you go to fight the Ammonites without calling us to go with you? We’re going to burn down your house over your head.”
+
+2 Jephthah answered, “I and my people were engaged in a great struggle with the Ammonites, and although I called, you didn’t save me out of their hands. 3 When I saw that you wouldn’t help, I took my life in my hands and crossed over to fight the Ammonites, and the Lord gave me the victory over them. Now why have you come up today to fight me?”
+
+4 Jephthah then called together the men of Gilead and fought against Ephraim. The Gileadites struck them down because the Ephraimites had said, “You Gileadites are renegades from Ephraim and Manasseh.” 5 The Gileadites captured the fords of the Jordan leading to Ephraim, and whenever a survivor of Ephraim said, “Let me cross over,” the men of Gilead asked him, “Are you an Ephraimite?” If he replied, “No,” 6 they said, “All right, say ‘Shibboleth.’” If he said, “Sibboleth,” because he could not pronounce the word correctly, they seized him and killed him at the fords of the Jordan. Forty-two thousand Ephraimites were killed at that time.
+
+7 Jephthah led[a] Israel six years. Then Jephthah the Gileadite died and was buried in a town in Gilead.
+
+Ibzan, Elon and Abdon
+8 After him, Ibzan of Bethlehem led Israel. 9 He had thirty sons and thirty daughters. He gave his daughters away in marriage to those outside his clan, and for his sons he brought in thirty young women as wives from outside his clan. Ibzan led Israel seven years. 10 Then Ibzan died and was buried in Bethlehem.
+
+11 After him, Elon the Zebulunite led Israel ten years. 12 Then Elon died and was buried in Aijalon in the land of Zebulun.
+
+13 After him, Abdon son of Hillel, from Pirathon, led Israel. 14 He had forty sons and thirty grandsons, who rode on seventy donkeys. He led Israel eight years. 15 Then Abdon son of Hillel died and was buried at Pirathon in Ephraim, in the hill country of the Amalekites.    
                                     </p>
                                   </div>
 
@@ -9894,10 +9907,40 @@ From this comes the Israelite tradition 40 that each year the young women of Isr
           >
             <h2 className={styles.chapter3}>Judges Chapter XIII </h2>
                                 <p>
- <h4 className={styles.h4}>                    </h4> 
+ <h4 className={styles.h4}>The Birth of Samson</h4> 
 
 
-                              </p>
+13 Again the Israelites did evil in the eyes of the Lord, so the Lord delivered them into the hands of the Philistines for forty years.
+
+2 A certain man of Zorah, named Manoah, from the clan of the Danites, had a wife who was childless, unable to give birth. 3 The angel of the Lord appeared to her and said, “You are barren and childless, but you are going to become pregnant and give birth to a son. 4 Now see to it that you drink no wine or other fermented drink and that you do not eat anything unclean. 5 You will become pregnant and have a son whose head is never to be touched by a razor because the boy is to be a Nazirite, dedicated to God from the womb. He will take the lead in delivering Israel from the hands of the Philistines.”
+
+6 Then the woman went to her husband and told him, “A man of God came to me. He looked like an angel of God, very awesome. I didn’t ask him where he came from, and he didn’t tell me his name. 7 But he said to me, ‘You will become pregnant and have a son. Now then, drink no wine or other fermented drink and do not eat anything unclean, because the boy will be a Nazirite of God from the womb until the day of his death.’”
+
+8 Then Manoah prayed to the Lord: “Pardon your servant, Lord. I beg you to let the man of God you sent to us come again to teach us how to bring up the boy who is to be born.”
+
+9 God heard Manoah, and the angel of God came again to the woman while she was out in the field; but her husband Manoah was not with her. 10 The woman hurried to tell her husband, “He’s here! The man who appeared to me the other day!”
+
+11 Manoah got up and followed his wife. When he came to the man, he said, “Are you the man who talked to my wife?”
+
+“I am,” he said.
+
+12 So Manoah asked him, “When your words are fulfilled, what is to be the rule that governs the boy’s life and work?”
+
+13 The angel of the Lord answered, “Your wife must do all that I have told her. 14 She must not eat anything that comes from the grapevine, nor drink any wine or other fermented drink nor eat anything unclean. She must do everything I have commanded her.”
+
+15 Manoah said to the angel of the Lord, “We would like you to stay until we prepare a young goat for you.”
+
+16 The angel of the Lord replied, “Even though you detain me, I will not eat any of your food. But if you prepare a burnt offering, offer it to the Lord.” (Manoah did not realize that it was the angel of the Lord.)
+
+17 Then Manoah inquired of the angel of the Lord, “What is your name, so that we may honor you when your word comes true?”
+
+18 He replied, “Why do you ask my name? It is beyond understanding.[a]” 19 Then Manoah took a young goat, together with the grain offering, and sacrificed it on a rock to the Lord. And the Lord did an amazing thing while Manoah and his wife watched: 20 As the flame blazed up from the altar toward heaven, the angel of the Lord ascended in the flame. Seeing this, Manoah and his wife fell with their faces to the ground. 21 When the angel of the Lord did not show himself again to Manoah and his wife, Manoah realized that it was the angel of the Lord.
+
+22 “We are doomed to die!” he said to his wife. “We have seen God!”
+
+23 But his wife answered, “If the Lord had meant to kill us, he would not have accepted a burnt offering and grain offering from our hands, nor shown us all these things or now told us this.”
+
+24 The woman gave birth to a boy and named him Samson. He grew and the Lord blessed him, 25 and the Spirit of the Lord began to stir him while he was in Mahaneh Dan, between Zorah and Eshtaol.                              </p>
                                   </div>
 
 
@@ -9906,8 +9949,49 @@ From this comes the Israelite tradition 40 that each year the young women of Isr
           >
             <h2 className={styles.chapter3}>Judges Chapter XIV </h2>
                                 <p>
- <h4 className={styles.h4}>                   </h4> 
+ <h4 className={styles.h4}>Samson’s Marriage</h4> 
 
+
+14 Samson went down to Timnah and saw there a young Philistine woman. 2 When he returned, he said to his father and mother, “I have seen a Philistine woman in Timnah; now get her for me as my wife.”
+
+3 His father and mother replied, “Isn’t there an acceptable woman among your relatives or among all our people? Must you go to the uncircumcised Philistines to get a wife?”
+
+But Samson said to his father, “Get her for me. She’s the right one for me.” 4 (His parents did not know that this was from the Lord, who was seeking an occasion to confront the Philistines; for at that time they were ruling over Israel.)
+
+5 Samson went down to Timnah together with his father and mother. As they approached the vineyards of Timnah, suddenly a young lion came roaring toward him. 6 The Spirit of the Lord came powerfully upon him so that he tore the lion apart with his bare hands as he might have torn a young goat. But he told neither his father nor his mother what he had done. 7 Then he went down and talked with the woman, and he liked her.
+
+8 Some time later, when he went back to marry her, he turned aside to look at the lion’s carcass, and in it he saw a swarm of bees and some honey. 9 He scooped out the honey with his hands and ate as he went along. When he rejoined his parents, he gave them some, and they too ate it. But he did not tell them that he had taken the honey from the lion’s carcass.
+
+10 Now his father went down to see the woman. And there Samson held a feast, as was customary for young men. 11 When the people saw him, they chose thirty men to be his companions.
+
+12 “Let me tell you a riddle,” Samson said to them. “If you can give me the answer within the seven days of the feast, I will give you thirty linen garments and thirty sets of clothes. 13 If you can’t tell me the answer, you must give me thirty linen garments and thirty sets of clothes.”
+
+“Tell us your riddle,” they said. “Let’s hear it.”
+
+14 He replied,
+
+“Out of the eater, something to eat;
+    out of the strong, something sweet.”
+
+For three days they could not give the answer.
+
+15 On the fourth[a] day, they said to Samson’s wife, “Coax your husband into explaining the riddle for us, or we will burn you and your father’s household to death. Did you invite us here to steal our property?”
+
+16 Then Samson’s wife threw herself on him, sobbing, “You hate me! You don’t really love me. You’ve given my people a riddle, but you haven’t told me the answer.”
+
+“I haven’t even explained it to my father or mother,” he replied, “so why should I explain it to you?” 17 She cried the whole seven days of the feast. So on the seventh day he finally told her, because she continued to press him. She in turn explained the riddle to her people.
+
+18 Before sunset on the seventh day the men of the town said to him,
+
+“What is sweeter than honey?
+    What is stronger than a lion?”
+
+Samson said to them,
+
+“If you had not plowed with my heifer,
+    you would not have solved my riddle.”
+
+19 Then the Spirit of the Lord came powerfully upon him. He went down to Ashkelon, struck down thirty of their men, stripped them of everything and gave their clothes to those who had explained the riddle. Burning with anger, he returned to his father’s home. 20 And Samson’s wife was given to one of his companions who had attended him at the feast.
 
   
                                     </p>
@@ -9917,8 +10001,45 @@ From this comes the Israelite tradition 40 that each year the young women of Isr
           >
             <h2 className={styles.chapter3}>Judges Chapter XV </h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
+ <h4 className={styles.h4}>Samson’s Vengeance on the Philistines</h4> 
 
+
+15 Later on, at the time of wheat harvest, Samson took a young goat and went to visit his wife. He said, “I’m going to my wife’s room.” But her father would not let him go in.
+
+2 “I was so sure you hated her,” he said, “that I gave her to your companion. Isn’t her younger sister more attractive? Take her instead.”
+
+3 Samson said to them, “This time I have a right to get even with the Philistines; I will really harm them.” 4 So he went out and caught three hundred foxes and tied them tail to tail in pairs. He then fastened a torch to every pair of tails, 5 lit the torches and let the foxes loose in the standing grain of the Philistines. He burned up the shocks and standing grain, together with the vineyards and olive groves.
+
+6 When the Philistines asked, “Who did this?” they were told, “Samson, the Timnite’s son-in-law, because his wife was given to his companion.”
+
+So the Philistines went up and burned her and her father to death. 7 Samson said to them, “Since you’ve acted like this, I swear that I won’t stop until I get my revenge on you.” 8 He attacked them viciously and slaughtered many of them. Then he went down and stayed in a cave in the rock of Etam.
+
+9 The Philistines went up and camped in Judah, spreading out near Lehi. 10 The people of Judah asked, “Why have you come to fight us?”
+
+“We have come to take Samson prisoner,” they answered, “to do to him as he did to us.”
+
+11 Then three thousand men from Judah went down to the cave in the rock of Etam and said to Samson, “Don’t you realize that the Philistines are rulers over us? What have you done to us?”
+
+He answered, “I merely did to them what they did to me.”
+
+12 They said to him, “We’ve come to tie you up and hand you over to the Philistines.”
+
+Samson said, “Swear to me that you won’t kill me yourselves.”
+
+13 “Agreed,” they answered. “We will only tie you up and hand you over to them. We will not kill you.” So they bound him with two new ropes and led him up from the rock. 14 As he approached Lehi, the Philistines came toward him shouting. The Spirit of the Lord came powerfully upon him. The ropes on his arms became like charred flax, and the bindings dropped from his hands. 15 Finding a fresh jawbone of a donkey, he grabbed it and struck down a thousand men.
+
+16 Then Samson said,
+
+“With a donkey’s jawbone
+    I have made donkeys of them.[a]
+With a donkey’s jawbone
+    I have killed a thousand men.”
+
+17 When he finished speaking, he threw away the jawbone; and the place was called Ramath Lehi.[b]
+
+18 Because he was very thirsty, he cried out to the Lord, “You have given your servant this great victory. Must I now die of thirst and fall into the hands of the uncircumcised?” 19 Then God opened up the hollow place in Lehi, and water came out of it. When Samson drank, his strength returned and he revived. So the spring was called En Hakkore,[c] and it is still there in Lehi.
+
+20 Samson led[d] Israel for twenty years in the days of the Philistines.
 
               
                     
@@ -9930,8 +10051,60 @@ From this comes the Israelite tradition 40 that each year the young women of Isr
           >
             <h2 className={styles.chapter3}>Judges Chapter XVI </h2>
                                 <p>
- <h4 className={styles.h4}>                     </h4> 
+ <h4 className={styles.h4}>Samson and Delilah</h4> 
 
+
+16 One day Samson went to Gaza, where he saw a prostitute. He went in to spend the night with her. 2 The people of Gaza were told, “Samson is here!” So they surrounded the place and lay in wait for him all night at the city gate. They made no move during the night, saying, “At dawn we’ll kill him.”
+
+3 But Samson lay there only until the middle of the night. Then he got up and took hold of the doors of the city gate, together with the two posts, and tore them loose, bar and all. He lifted them to his shoulders and carried them to the top of the hill that faces Hebron.
+
+4 Some time later, he fell in love with a woman in the Valley of Sorek whose name was Delilah. 5 The rulers of the Philistines went to her and said, “See if you can lure him into showing you the secret of his great strength and how we can overpower him so we may tie him up and subdue him. Each one of us will give you eleven hundred shekels[a] of silver.”
+
+6 So Delilah said to Samson, “Tell me the secret of your great strength and how you can be tied up and subdued.”
+
+7 Samson answered her, “If anyone ties me with seven fresh bowstrings that have not been dried, I’ll become as weak as any other man.”
+
+8 Then the rulers of the Philistines brought her seven fresh bowstrings that had not been dried, and she tied him with them. 9 With men hidden in the room, she called to him, “Samson, the Philistines are upon you!” But he snapped the bowstrings as easily as a piece of string snaps when it comes close to a flame. So the secret of his strength was not discovered.
+
+10 Then Delilah said to Samson, “You have made a fool of me; you lied to me. Come now, tell me how you can be tied.”
+
+11 He said, “If anyone ties me securely with new ropes that have never been used, I’ll become as weak as any other man.”
+
+12 So Delilah took new ropes and tied him with them. Then, with men hidden in the room, she called to him, “Samson, the Philistines are upon you!” But he snapped the ropes off his arms as if they were threads.
+
+13 Delilah then said to Samson, “All this time you have been making a fool of me and lying to me. Tell me how you can be tied.”
+
+He replied, “If you weave the seven braids of my head into the fabric on the loom and tighten it with the pin, I’ll become as weak as any other man.” So while he was sleeping, Delilah took the seven braids of his head, wove them into the fabric 14 and[b] tightened it with the pin.
+
+Again she called to him, “Samson, the Philistines are upon you!” He awoke from his sleep and pulled up the pin and the loom, with the fabric.
+
+15 Then she said to him, “How can you say, ‘I love you,’ when you won’t confide in me? This is the third time you have made a fool of me and haven’t told me the secret of your great strength.” 16 With such nagging she prodded him day after day until he was sick to death of it.
+
+17 So he told her everything. “No razor has ever been used on my head,” he said, “because I have been a Nazirite dedicated to God from my mother’s womb. If my head were shaved, my strength would leave me, and I would become as weak as any other man.”
+
+18 When Delilah saw that he had told her everything, she sent word to the rulers of the Philistines, “Come back once more; he has told me everything.” So the rulers of the Philistines returned with the silver in their hands. 19 After putting him to sleep on her lap, she called for someone to shave off the seven braids of his hair, and so began to subdue him.[c] And his strength left him.
+
+20 Then she called, “Samson, the Philistines are upon you!”
+
+He awoke from his sleep and thought, “I’ll go out as before and shake myself free.” But he did not know that the Lord had left him.
+
+21 Then the Philistines seized him, gouged out his eyes and took him down to Gaza. Binding him with bronze shackles, they set him to grinding grain in the prison. 22 But the hair on his head began to grow again after it had been shaved.
+
+The Death of Samson
+23 Now the rulers of the Philistines assembled to offer a great sacrifice to Dagon their god and to celebrate, saying, “Our god has delivered Samson, our enemy, into our hands.”
+
+24 When the people saw him, they praised their god, saying,
+
+“Our god has delivered our enemy
+    into our hands,
+the one who laid waste our land
+    and multiplied our slain.”
+
+25 While they were in high spirits, they shouted, “Bring out Samson to entertain us.” So they called Samson out of the prison, and he performed for them.
+
+When they stood him among the pillars, 26 Samson said to the servant who held his hand, “Put me where I can feel the pillars that support the temple, so that I may lean against them.” 27 Now the temple was crowded with men and women; all the rulers of the Philistines were there, and on the roof were about three thousand men and women watching Samson perform. 28 Then Samson prayed to the Lord, “Sovereign Lord, remember me. Please, God, strengthen me just once more, and let me with one blow get revenge on the Philistines for my two eyes.” 29 Then Samson reached toward the two central pillars on which the temple stood. Bracing himself against them, his right hand on the one and his left hand on the other, 30 Samson said, “Let me die with the Philistines!” Then he pushed with all his might, and down came the temple on the rulers and all the people in it. Thus he killed many more when he died than while he lived.
+
+31 Then his brothers and his father’s whole family went down to get him. They brought him back and buried him between Zorah and Eshtaol in the tomb of Manoah his father. He had led[d] Israel twenty years.
 
 
 
@@ -9943,9 +10116,25 @@ From this comes the Israelite tradition 40 that each year the young women of Isr
           >
             <h2 className={styles.chapter3}>Judges Chapter XVII </h2>
                                 <p>
- <h4 className={styles.h4}>                  </h4> 
+ <h4 className={styles.h4}>Micah’s Idols</h4> 
   
-                                    </p>
+17 Now a man named Micah from the hill country of Ephraim 2 said to his mother, “The eleven hundred shekels[a] of silver that were taken from you and about which I heard you utter a curse—I have that silver with me; I took it.”
+
+Then his mother said, “The Lord bless you, my son!”
+
+3 When he returned the eleven hundred shekels of silver to his mother, she said, “I solemnly consecrate my silver to the Lord for my son to make an image overlaid with silver. I will give it back to you.”
+
+4 So after he returned the silver to his mother, she took two hundred shekels[b] of silver and gave them to a silversmith, who used them to make the idol. And it was put in Micah’s house.
+
+5 Now this man Micah had a shrine, and he made an ephod and some household gods and installed one of his sons as his priest. 6 In those days Israel had no king; everyone did as they saw fit.
+
+7 A young Levite from Bethlehem in Judah, who had been living within the clan of Judah, 8 left that town in search of some other place to stay. On his way[c] he came to Micah’s house in the hill country of Ephraim.
+
+9 Micah asked him, “Where are you from?”
+
+“I’m a Levite from Bethlehem in Judah,” he said, “and I’m looking for a place to stay.”
+
+10 Then Micah said to him, “Live with me and be my father and priest, and I’ll give you ten shekels[d] of silver a year, your clothes and your food.” 11 So the Levite agreed to live with him, and the young man became like one of his sons to him. 12 Then Micah installed the Levite, and the young man became his priest and lived in his house. 13 And Micah said, “Now I know that the Lord will be good to me, since this Levite has become my priest.”                                    </p>
                                   </div>
 
 
@@ -9953,10 +10142,44 @@ From this comes the Israelite tradition 40 that each year the young women of Isr
           >
             <h2 className={styles.chapter3}>Judges Chapter XVIII </h2>
                                 <p>
- <h4 className={styles.h4}>                   </h4> 
+ <h4 className={styles.h4}>The Danites Settle in Laish</h4> 
 
 
+18 In those days Israel had no king.
 
+And in those days the tribe of the Danites was seeking a place of their own where they might settle, because they had not yet come into an inheritance among the tribes of Israel. 2 So the Danites sent five of their leading men from Zorah and Eshtaol to spy out the land and explore it. These men represented all the Danites. They told them, “Go, explore the land.”
+
+So they entered the hill country of Ephraim and came to the house of Micah, where they spent the night. 3 When they were near Micah’s house, they recognized the voice of the young Levite; so they turned in there and asked him, “Who brought you here? What are you doing in this place? Why are you here?”
+
+4 He told them what Micah had done for him, and said, “He has hired me and I am his priest.”
+
+5 Then they said to him, “Please inquire of God to learn whether our journey will be successful.”
+
+6 The priest answered them, “Go in peace. Your journey has the Lord’s approval.”
+
+7 So the five men left and came to Laish, where they saw that the people were living in safety, like the Sidonians, at peace and secure. And since their land lacked nothing, they were prosperous.[a] Also, they lived a long way from the Sidonians and had no relationship with anyone else.[b]
+
+8 When they returned to Zorah and Eshtaol, their fellow Danites asked them, “How did you find things?”
+
+9 They answered, “Come on, let’s attack them! We have seen the land, and it is very good. Aren’t you going to do something? Don’t hesitate to go there and take it over. 10 When you get there, you will find an unsuspecting people and a spacious land that God has put into your hands, a land that lacks nothing whatever.”
+
+11 Then six hundred men of the Danites, armed for battle, set out from Zorah and Eshtaol. 12 On their way they set up camp near Kiriath Jearim in Judah. This is why the place west of Kiriath Jearim is called Mahaneh Dan[c] to this day. 13 From there they went on to the hill country of Ephraim and came to Micah’s house.
+
+14 Then the five men who had spied out the land of Laish said to their fellow Danites, “Do you know that one of these houses has an ephod, some household gods and an image overlaid with silver? Now you know what to do.” 15 So they turned in there and went to the house of the young Levite at Micah’s place and greeted him. 16 The six hundred Danites, armed for battle, stood at the entrance of the gate. 17 The five men who had spied out the land went inside and took the idol, the ephod and the household gods while the priest and the six hundred armed men stood at the entrance of the gate.
+
+18 When the five men went into Micah’s house and took the idol, the ephod and the household gods, the priest said to them, “What are you doing?”
+
+19 They answered him, “Be quiet! Don’t say a word. Come with us, and be our father and priest. Isn’t it better that you serve a tribe and clan in Israel as priest rather than just one man’s household?” 20 The priest was very pleased. He took the ephod, the household gods and the idol and went along with the people. 21 Putting their little children, their livestock and their possessions in front of them, they turned away and left.
+
+22 When they had gone some distance from Micah’s house, the men who lived near Micah were called together and overtook the Danites. 23 As they shouted after them, the Danites turned and said to Micah, “What’s the matter with you that you called out your men to fight?”
+
+24 He replied, “You took the gods I made, and my priest, and went away. What else do I have? How can you ask, ‘What’s the matter with you?’”
+
+25 The Danites answered, “Don’t argue with us, or some of the men may get angry and attack you, and you and your family will lose your lives.” 26 So the Danites went their way, and Micah, seeing that they were too strong for him, turned around and went back home.
+
+27 Then they took what Micah had made, and his priest, and went on to Laish, against a people at peace and secure. They attacked them with the sword and burned down their city. 28 There was no one to rescue them because they lived a long way from Sidon and had no relationship with anyone else. The city was in a valley near Beth Rehob.
+
+The Danites rebuilt the city and settled there. 29 They named it Dan after their ancestor Dan, who was born to Israel—though the city used to be called Laish. 30 There the Danites set up for themselves the idol, and Jonathan son of Gershom, the son of Moses,[d] and his sons were priests for the tribe of Dan until the time of the captivity of the land. 31 They continued to use the idol Micah had made, all the time the house of God was in Shiloh.
                                     </p>
                                   </div>
 
@@ -9964,9 +10187,35 @@ From this comes the Israelite tradition 40 that each year the young women of Isr
           >
             <h2 className={styles.chapter3}>Judges Chapter XIX </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>A Levite and His Concubine</h4> 
 
+19 In those days Israel had no king.
 
+Now a Levite who lived in a remote area in the hill country of Ephraim took a concubine from Bethlehem in Judah. 2 But she was unfaithful to him. She left him and went back to her parents’ home in Bethlehem, Judah. After she had been there four months, 3 her husband went to her to persuade her to return. He had with him his servant and two donkeys. She took him into her parents’ home, and when her father saw him, he gladly welcomed him. 4 His father-in-law, the woman’s father, prevailed on him to stay; so he remained with him three days, eating and drinking, and sleeping there.
+
+5 On the fourth day they got up early and he prepared to leave, but the woman’s father said to his son-in-law, “Refresh yourself with something to eat; then you can go.” 6 So the two of them sat down to eat and drink together. Afterward the woman’s father said, “Please stay tonight and enjoy yourself.” 7 And when the man got up to go, his father-in-law persuaded him, so he stayed there that night. 8 On the morning of the fifth day, when he rose to go, the woman’s father said, “Refresh yourself. Wait till afternoon!” So the two of them ate together.
+
+9 Then when the man, with his concubine and his servant, got up to leave, his father-in-law, the woman’s father, said, “Now look, it’s almost evening. Spend the night here; the day is nearly over. Stay and enjoy yourself. Early tomorrow morning you can get up and be on your way home.” 10 But, unwilling to stay another night, the man left and went toward Jebus (that is, Jerusalem), with his two saddled donkeys and his concubine.
+
+11 When they were near Jebus and the day was almost gone, the servant said to his master, “Come, let’s stop at this city of the Jebusites and spend the night.”
+
+12 His master replied, “No. We won’t go into any city whose people are not Israelites. We will go on to Gibeah.” 13 He added, “Come, let’s try to reach Gibeah or Ramah and spend the night in one of those places.” 14 So they went on, and the sun set as they neared Gibeah in Benjamin. 15 There they stopped to spend the night. They went and sat in the city square, but no one took them in for the night.
+
+16 That evening an old man from the hill country of Ephraim, who was living in Gibeah (the inhabitants of the place were Benjamites), came in from his work in the fields. 17 When he looked and saw the traveler in the city square, the old man asked, “Where are you going? Where did you come from?”
+
+18 He answered, “We are on our way from Bethlehem in Judah to a remote area in the hill country of Ephraim where I live. I have been to Bethlehem in Judah and now I am going to the house of the Lord.[a] No one has taken me in for the night. 19 We have both straw and fodder for our donkeys and bread and wine for ourselves your servants—me, the woman and the young man with us. We don’t need anything.”
+
+20 “You are welcome at my house,” the old man said. “Let me supply whatever you need. Only don’t spend the night in the square.” 21 So he took him into his house and fed his donkeys. After they had washed their feet, they had something to eat and drink.
+
+22 While they were enjoying themselves, some of the wicked men of the city surrounded the house. Pounding on the door, they shouted to the old man who owned the house, “Bring out the man who came to your house so we can have sex with him.”
+
+23 The owner of the house went outside and said to them, “No, my friends, don’t be so vile. Since this man is my guest, don’t do this outrageous thing. 24 Look, here is my virgin daughter, and his concubine. I will bring them out to you now, and you can use them and do to them whatever you wish. But as for this man, don’t do such an outrageous thing.”
+
+25 But the men would not listen to him. So the man took his concubine and sent her outside to them, and they raped her and abused her throughout the night, and at dawn they let her go. 26 At daybreak the woman went back to the house where her master was staying, fell down at the door and lay there until daylight.
+
+27 When her master got up in the morning and opened the door of the house and stepped out to continue on his way, there lay his concubine, fallen in the doorway of the house, with her hands on the threshold. 28 He said to her, “Get up; let’s go.” But there was no answer. Then the man put her on his donkey and set out for home.
+
+29 When he reached home, he took a knife and cut up his concubine, limb by limb, into twelve parts and sent them into all the areas of Israel. 30 Everyone who saw it was saying to one another, “Such a thing has never been seen or done, not since the day the Israelites came up out of Egypt. Just imagine! We must do something! So speak up!”
                                 </p>
                                   </div>
 
@@ -9974,8 +10223,44 @@ From this comes the Israelite tradition 40 that each year the young women of Isr
           >
             <h2 className={styles.chapter3}>Judges Chapter XX </h2>
                                 <p>
- <h4 className={styles.h4}>                     </h4> 
+ <h4 className={styles.h4}>The Israelites Punish the Benjamites</h4> 
 
+
+20 Then all Israel from Dan to Beersheba and from the land of Gilead came together as one and assembled before the Lord in Mizpah. 2 The leaders of all the people of the tribes of Israel took their places in the assembly of God’s people, four hundred thousand men armed with swords. 3 (The Benjamites heard that the Israelites had gone up to Mizpah.) Then the Israelites said, “Tell us how this awful thing happened.”
+
+4 So the Levite, the husband of the murdered woman, said, “I and my concubine came to Gibeah in Benjamin to spend the night. 5 During the night the men of Gibeah came after me and surrounded the house, intending to kill me. They raped my concubine, and she died. 6 I took my concubine, cut her into pieces and sent one piece to each region of Israel’s inheritance, because they committed this lewd and outrageous act in Israel. 7 Now, all you Israelites, speak up and tell me what you have decided to do.”
+
+8 All the men rose up together as one, saying, “None of us will go home. No, not one of us will return to his house. 9 But now this is what we’ll do to Gibeah: We’ll go up against it in the order decided by casting lots. 10 We’ll take ten men out of every hundred from all the tribes of Israel, and a hundred from a thousand, and a thousand from ten thousand, to get provisions for the army. Then, when the army arrives at Gibeah[a] in Benjamin, it can give them what they deserve for this outrageous act done in Israel.” 11 So all the Israelites got together and united as one against the city.
+
+12 The tribes of Israel sent messengers throughout the tribe of Benjamin, saying, “What about this awful crime that was committed among you? 13 Now turn those wicked men of Gibeah over to us so that we may put them to death and purge the evil from Israel.”
+
+But the Benjamites would not listen to their fellow Israelites. 14 From their towns they came together at Gibeah to fight against the Israelites. 15 At once the Benjamites mobilized twenty-six thousand swordsmen from their towns, in addition to seven hundred able young men from those living in Gibeah. 16 Among all these soldiers there were seven hundred select troops who were left-handed, each of whom could sling a stone at a hair and not miss.
+
+17 Israel, apart from Benjamin, mustered four hundred thousand swordsmen, all of them fit for battle.
+
+18 The Israelites went up to Bethel[b] and inquired of God. They said, “Who of us is to go up first to fight against the Benjamites?”
+
+The Lord replied, “Judah shall go first.”
+
+19 The next morning the Israelites got up and pitched camp near Gibeah. 20 The Israelites went out to fight the Benjamites and took up battle positions against them at Gibeah. 21 The Benjamites came out of Gibeah and cut down twenty-two thousand Israelites on the battlefield that day. 22 But the Israelites encouraged one another and again took up their positions where they had stationed themselves the first day. 23 The Israelites went up and wept before the Lord until evening, and they inquired of the Lord. They said, “Shall we go up again to fight against the Benjamites, our fellow Israelites?”
+
+The Lord answered, “Go up against them.”
+
+24 Then the Israelites drew near to Benjamin the second day. 25 This time, when the Benjamites came out from Gibeah to oppose them, they cut down another eighteen thousand Israelites, all of them armed with swords.
+
+26 Then all the Israelites, the whole army, went up to Bethel, and there they sat weeping before the Lord. They fasted that day until evening and presented burnt offerings and fellowship offerings to the Lord. 27 And the Israelites inquired of the Lord. (In those days the ark of the covenant of God was there, 28 with Phinehas son of Eleazar, the son of Aaron, ministering before it.) They asked, “Shall we go up again to fight against the Benjamites, our fellow Israelites, or not?”
+
+The Lord responded, “Go, for tomorrow I will give them into your hands.”
+
+29 Then Israel set an ambush around Gibeah. 30 They went up against the Benjamites on the third day and took up positions against Gibeah as they had done before. 31 The Benjamites came out to meet them and were drawn away from the city. They began to inflict casualties on the Israelites as before, so that about thirty men fell in the open field and on the roads—the one leading to Bethel and the other to Gibeah. 32 While the Benjamites were saying, “We are defeating them as before,” the Israelites were saying, “Let’s retreat and draw them away from the city to the roads.”
+
+33 All the men of Israel moved from their places and took up positions at Baal Tamar, and the Israelite ambush charged out of its place on the west[c] of Gibeah.[d] 34 Then ten thousand of Israel’s able young men made a frontal attack on Gibeah. The fighting was so heavy that the Benjamites did not realize how near disaster was. 35 The Lord defeated Benjamin before Israel, and on that day the Israelites struck down 25,100 Benjamites, all armed with swords. 36 Then the Benjamites saw that they were beaten.
+
+Now the men of Israel had given way before Benjamin, because they relied on the ambush they had set near Gibeah. 37 Those who had been in ambush made a sudden dash into Gibeah, spread out and put the whole city to the sword. 38 The Israelites had arranged with the ambush that they should send up a great cloud of smoke from the city, 39 and then the Israelites would counterattack.
+
+The Benjamites had begun to inflict casualties on the Israelites (about thirty), and they said, “We are defeating them as in the first battle.” 40 But when the column of smoke began to rise from the city, the Benjamites turned and saw the whole city going up in smoke. 41 Then the Israelites counterattacked, and the Benjamites were terrified, because they realized that disaster had come on them. 42 So they fled before the Israelites in the direction of the wilderness, but they could not escape the battle. And the Israelites who came out of the towns cut them down there. 43 They surrounded the Benjamites, chased them and easily[e] overran them in the vicinity of Gibeah on the east. 44 Eighteen thousand Benjamites fell, all of them valiant fighters. 45 As they turned and fled toward the wilderness to the rock of Rimmon, the Israelites cut down five thousand men along the roads. They kept pressing after the Benjamites as far as Gidom and struck down two thousand more.
+
+46 On that day twenty-five thousand Benjamite swordsmen fell, all of them valiant fighters. 47 But six hundred of them turned and fled into the wilderness to the rock of Rimmon, where they stayed four months. 48 The men of Israel went back to Benjamin and put all the towns to the sword, including the animals and everything else they found. All the towns they came across they set on fire.  
                                   </p>
                                   </div>
 
@@ -9983,40 +10268,37 @@ From this comes the Israelite tradition 40 that each year the young women of Isr
           >
             <h2 className={styles.chapter3}>Judges Chapter XXI </h2>
                                 <p>
- <h4 className={styles.h4}>                       </h4> 
+ <h4 className={styles.h4}>Wives for the Benjamites</h4> 
+
+21 The men of Israel had taken an oath at Mizpah: “Not one of us will give his daughter in marriage to a Benjamite.”
+
+2 The people went to Bethel,[a] where they sat before God until evening, raising their voices and weeping bitterly. 3 “Lord, God of Israel,” they cried, “why has this happened to Israel? Why should one tribe be missing from Israel today?”
+
+4 Early the next day the people built an altar and presented burnt offerings and fellowship offerings.
+
+5 Then the Israelites asked, “Who from all the tribes of Israel has failed to assemble before the Lord?” For they had taken a solemn oath that anyone who failed to assemble before the Lord at Mizpah was to be put to death.
+
+6 Now the Israelites grieved for the tribe of Benjamin, their fellow Israelites. “Today one tribe is cut off from Israel,” they said. 7 “How can we provide wives for those who are left, since we have taken an oath by the Lord not to give them any of our daughters in marriage?” 8 Then they asked, “Which one of the tribes of Israel failed to assemble before the Lord at Mizpah?” They discovered that no one from Jabesh Gilead had come to the camp for the assembly. 9 For when they counted the people, they found that none of the people of Jabesh Gilead were there.
+
+10 So the assembly sent twelve thousand fighting men with instructions to go to Jabesh Gilead and put to the sword those living there, including the women and children. 11 “This is what you are to do,” they said. “Kill every male and every woman who is not a virgin.” 12 They found among the people living in Jabesh Gilead four hundred young women who had never slept with a man, and they took them to the camp at Shiloh in Canaan.
+
+13 Then the whole assembly sent an offer of peace to the Benjamites at the rock of Rimmon. 14 So the Benjamites returned at that time and were given the women of Jabesh Gilead who had been spared. But there were not enough for all of them.
+
+15 The people grieved for Benjamin, because the Lord had made a gap in the tribes of Israel. 16 And the elders of the assembly said, “With the women of Benjamin destroyed, how shall we provide wives for the men who are left? 17 The Benjamite survivors must have heirs,” they said, “so that a tribe of Israel will not be wiped out. 18 We can’t give them our daughters as wives, since we Israelites have taken this oath: ‘Cursed be anyone who gives a wife to a Benjamite.’ 19 But look, there is the annual festival of the Lord in Shiloh, which lies north of Bethel, east of the road that goes from Bethel to Shechem, and south of Lebonah.”
+
+20 So they instructed the Benjamites, saying, “Go and hide in the vineyards 21 and watch. When the young women of Shiloh come out to join in the dancing, rush from the vineyards and each of you seize one of them to be your wife. Then return to the land of Benjamin. 22 When their fathers or brothers complain to us, we will say to them, ‘Do us the favor of helping them, because we did not get wives for them during the war. You will not be guilty of breaking your oath because you did not give your daughters to them.’”
+
+23 So that is what the Benjamites did. While the young women were dancing, each man caught one and carried her off to be his wife. Then they returned to their inheritance and rebuilt the towns and settled in them.
+
+24 At that time the Israelites left that place and went home to their tribes and clans, each to his own inheritance.
+
+25 In those days Israel had no king; everyone did as they saw fit.
 
 
                               </p>
                                   </div>
 
 
-<div className={styles.card5}
-          >
-            <h2 className={styles.chapter3}>Judges Chapter XXII </h2>
-                                <p>
- <h4 className={styles.h4}>                 </h4> 
-
-  
-                             </p>
-                                  </div>
-
-<div className={styles.card5}
-          >
-            <h2 className={styles.chapter3}>Judges Chapter XXIII </h2>
-                                <p>
- <h4 className={styles.h4}>                </h4> 
-
-                                  </p>
-                                  </div>
-
-   <div className={styles.card5}
-          >
-            <h2 className={styles.chapter3}>Judges Chapter XXIV </h2>
-                                <p>
- <h4 className={styles.h4}>                  </h4> 
-
-                                    </p>
-                                  </div>
 
 
 
@@ -10042,8 +10324,9 @@ The meaning of “Torah” is often restricted to signify the first five books o
               More to come on the layout...!
               
              <h4 className={styles.h4}>Next is the Neviʾim (Prophets)</h4>
-              <h4 className={styles.h4}>Joshua is completed </h4>  
-              <h4 className={styles.h4}>Judges is being coded NOW  </h4>    
+              <h4 className={styles.h4}>Joshua is Completed </h4>  
+              <h4 className={styles.h4}>Judges is Completed </h4>    
+              <h4 className={styles.h4}>Ruth is being Coded... </h4>    
 
      </p>
           </div>
