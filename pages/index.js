@@ -9392,19 +9392,55 @@ Judges is a time in the history of Israel that they had no king & did what they 
           >
             <h2 className={styles.chapter3}>Judges Chapter II </h2>
                                 <p>
- <h4 className={styles.h4}>            </h4> 
+ <h4 className={styles.h4}> The Angel of the Lord at Bokim</h4> 
 
-                                 </p>
+ 
+2 The angel of the Lord went up from Gilgal to Bokim and said, “I brought you up out of Egypt and led you into the land I swore to give to your ancestors. I said, ‘I will never break my covenant with you, 2 and you shall not make a covenant with the people of this land, but you shall break down their altars.’ Yet you have disobeyed me. Why have you done this? 3 And I have also said, ‘I will not drive them out before you; they will become traps for you, and their gods will become snares to you.’”
+
+4 When the angel of the Lord had spoken these things to all the Israelites, the people wept aloud, 5 and they called that place Bokim.[a] There they offered sacrifices to the Lord.
+
+Disobedience and Defeat
+6 After Joshua had dismissed the Israelites, they went to take possession of the land, each to their own inheritance. 7 The people served the Lord throughout the lifetime of Joshua and of the elders who outlived him and who had seen all the great things the Lord had done for Israel.
+
+8 Joshua son of Nun, the servant of the Lord, died at the age of a hundred and ten. 9 And they buried him in the land of his inheritance, at Timnath Heres[b] in the hill country of Ephraim, north of Mount Gaash.
+
+10 After that whole generation had been gathered to their ancestors, another generation grew up who knew neither the Lord nor what he had done for Israel. 11 Then the Israelites did evil in the eyes of the Lord and served the Baals. 12 They forsook the Lord, the God of their ancestors, who had brought them out of Egypt. They followed and worshiped various gods of the peoples around them. They aroused the Lord’s anger 13 because they forsook him and served Baal and the Ashtoreths. 14 In his anger against Israel the Lord gave them into the hands of raiders who plundered them. He sold them into the hands of their enemies all around, whom they were no longer able to resist. 15 Whenever Israel went out to fight, the hand of the Lord was against them to defeat them, just as he had sworn to them. They were in great distress.
+
+16 Then the Lord raised up judges,[c] who saved them out of the hands of these raiders. 17 Yet they would not listen to their judges but prostituted themselves to other gods and worshiped them. They quickly turned from the ways of their ancestors, who had been obedient to the Lord’s commands. 18 Whenever the Lord raised up a judge for them, he was with the judge and saved them out of the hands of their enemies as long as the judge lived; for the Lord relented because of their groaning under those who oppressed and afflicted them. 19 But when the judge died, the people returned to ways even more corrupt than those of their ancestors, following other gods and serving and worshiping them. They refused to give up their evil practices and stubborn ways.
+
+20 Therefore the Lord was very angry with Israel and said, “Because this nation has violated the covenant I ordained for their ancestors and has not listened to me, 21 I will no longer drive out before them any of the nations Joshua left when he died. 22 I will use them to test Israel and see whether they will keep the way of the Lord and walk in it as their ancestors did.” 23 The Lord had allowed those nations to remain; he did not drive them out at once by giving them into the hands of Joshua.                                 </p>
                                   </div>
 
 <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter III </h2>
                                 <p>
- <h4 className={styles.h4}>                 </h4> 
+ <h4 className={styles.h4}>These are the nations the Lord left</h4> 
 
+3 These are the nations the Lord left to test all those Israelites who had not experienced any of the wars in Canaan 2 (he did this only to teach warfare to the descendants of the Israelites who had not had previous battle experience): 3 the five rulers of the Philistines, all the Canaanites, the Sidonians, and the Hivites living in the Lebanon mountains from Mount Baal Hermon to Lebo Hamath. 4 They were left to test the Israelites to see whether they would obey the Lord’s commands, which he had given their ancestors through Moses.
 
+5 The Israelites lived among the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites. 6 They took their daughters in marriage and gave their own daughters to their sons, and served their gods.
 
+Othniel
+7 The Israelites did evil in the eyes of the Lord; they forgot the Lord their God and served the Baals and the Asherahs. 8 The anger of the Lord burned against Israel so that he sold them into the hands of Cushan-Rishathaim king of Aram Naharaim,[a] to whom the Israelites were subject for eight years. 9 But when they cried out to the Lord, he raised up for them a deliverer, Othniel son of Kenaz, Caleb’s younger brother, who saved them. 10 The Spirit of the Lord came on him, so that he became Israel’s judge[b] and went to war. The Lord gave Cushan-Rishathaim king of Aram into the hands of Othniel, who overpowered him. 11 So the land had peace for forty years, until Othniel son of Kenaz died.
+
+Ehud
+12 Again the Israelites did evil in the eyes of the Lord, and because they did this evil the Lord gave Eglon king of Moab power over Israel. 13 Getting the Ammonites and Amalekites to join him, Eglon came and attacked Israel, and they took possession of the City of Palms.[c] 14 The Israelites were subject to Eglon king of Moab for eighteen years.
+
+15 Again the Israelites cried out to the Lord, and he gave them a deliverer—Ehud, a left-handed man, the son of Gera the Benjamite. The Israelites sent him with tribute to Eglon king of Moab. 16 Now Ehud had made a double-edged sword about a cubit[d] long, which he strapped to his right thigh under his clothing. 17 He presented the tribute to Eglon king of Moab, who was a very fat man. 18 After Ehud had presented the tribute, he sent on their way those who had carried it. 19 But on reaching the stone images near Gilgal he himself went back to Eglon and said, “Your Majesty, I have a secret message for you.”
+
+The king said to his attendants, “Leave us!” And they all left.
+
+20 Ehud then approached him while he was sitting alone in the upper room of his palace[e] and said, “I have a message from God for you.” As the king rose from his seat, 21 Ehud reached with his left hand, drew the sword from his right thigh and plunged it into the king’s belly. 22 Even the handle sank in after the blade, and his bowels discharged. Ehud did not pull the sword out, and the fat closed in over it. 23 Then Ehud went out to the porch[f]; he shut the doors of the upper room behind him and locked them.
+
+24 After he had gone, the servants came and found the doors of the upper room locked. They said, “He must be relieving himself in the inner room of the palace.” 25 They waited to the point of embarrassment, but when he did not open the doors of the room, they took a key and unlocked them. There they saw their lord fallen to the floor, dead.
+
+26 While they waited, Ehud got away. He passed by the stone images and escaped to Seirah. 27 When he arrived there, he blew a trumpet in the hill country of Ephraim, and the Israelites went down with him from the hills, with him leading them.
+
+28 “Follow me,” he ordered, “for the Lord has given Moab, your enemy, into your hands.” So they followed him down and took possession of the fords of the Jordan that led to Moab; they allowed no one to cross over. 29 At that time they struck down about ten thousand Moabites, all vigorous and strong; not one escaped. 30 That day Moab was made subject to Israel, and the land had peace for eighty years.
+
+Shamgar
+31 After Ehud came Shamgar son of Anath, who struck down six hundred Philistines with an oxgoad. He too saved Israel.
                                </p>
                                   </div>
 
@@ -9412,8 +9448,36 @@ Judges is a time in the history of Israel that they had no king & did what they 
           >
             <h2 className={styles.chapter3}>Judges Chapter IV </h2>
                                 <p>
- <h4 className={styles.h4}>             </h4> 
-                       
+ <h4 className={styles.h4}> Deborah</h4> 
+                      
+4 Again the Israelites did evil in the eyes of the Lord, now that Ehud was dead. 2 So the Lord sold them into the hands of Jabin king of Canaan, who reigned in Hazor. Sisera, the commander of his army, was based in Harosheth Haggoyim. 3 Because he had nine hundred chariots fitted with iron and had cruelly oppressed the Israelites for twenty years, they cried to the Lord for help.
+
+4 Now Deborah, a prophet, the wife of Lappidoth, was leading[a] Israel at that time. 5 She held court under the Palm of Deborah between Ramah and Bethel in the hill country of Ephraim, and the Israelites went up to her to have their disputes decided. 6 She sent for Barak son of Abinoam from Kedesh in Naphtali and said to him, “The Lord, the God of Israel, commands you: ‘Go, take with you ten thousand men of Naphtali and Zebulun and lead them up to Mount Tabor. 7 I will lead Sisera, the commander of Jabin’s army, with his chariots and his troops to the Kishon River and give him into your hands.’”
+
+8 Barak said to her, “If you go with me, I will go; but if you don’t go with me, I won’t go.”
+
+9 “Certainly I will go with you,” said Deborah. “But because of the course you are taking, the honor will not be yours, for the Lord will deliver Sisera into the hands of a woman.” So Deborah went with Barak to Kedesh. 10 There Barak summoned Zebulun and Naphtali, and ten thousand men went up under his command. Deborah also went up with him.
+
+11 Now Heber the Kenite had left the other Kenites, the descendants of Hobab, Moses’ brother-in-law,[b] and pitched his tent by the great tree in Zaanannim near Kedesh.
+
+12 When they told Sisera that Barak son of Abinoam had gone up to Mount Tabor, 13 Sisera summoned from Harosheth Haggoyim to the Kishon River all his men and his nine hundred chariots fitted with iron.
+
+14 Then Deborah said to Barak, “Go! This is the day the Lord has given Sisera into your hands. Has not the Lord gone ahead of you?” So Barak went down Mount Tabor, with ten thousand men following him. 15 At Barak’s advance, the Lord routed Sisera and all his chariots and army by the sword, and Sisera got down from his chariot and fled on foot.
+
+16 Barak pursued the chariots and army as far as Harosheth Haggoyim, and all Sisera’s troops fell by the sword; not a man was left. 17 Sisera, meanwhile, fled on foot to the tent of Jael, the wife of Heber the Kenite, because there was an alliance between Jabin king of Hazor and the family of Heber the Kenite.
+
+18 Jael went out to meet Sisera and said to him, “Come, my lord, come right in. Don’t be afraid.” So he entered her tent, and she covered him with a blanket.
+
+19 “I’m thirsty,” he said. “Please give me some water.” She opened a skin of milk, gave him a drink, and covered him up.
+
+20 “Stand in the doorway of the tent,” he told her. “If someone comes by and asks you, ‘Is anyone in there?’ say ‘No.’”
+
+21 But Jael, Heber’s wife, picked up a tent peg and a hammer and went quietly to him while he lay fast asleep, exhausted. She drove the peg through his temple into the ground, and he died.
+
+22 Just then Barak came by in pursuit of Sisera, and Jael went out to meet him. “Come,” she said, “I will show you the man you’re looking for.” So he went in with her, and there lay Sisera with the tent peg through his temple—dead.
+
+23 On that day God subdued Jabin king of Canaan before the Israelites. 24 And the hand of the Israelites pressed harder and harder against Jabin king of Canaan until they destroyed him.
+
   
                                   </p>
                                   </div>
@@ -9422,9 +9486,123 @@ Judges is a time in the history of Israel that they had no king & did what they 
           >
             <h2 className={styles.chapter3}>Judges Chapter V </h2>
                                 <p>
- <h4 className={styles.h4}>                     </h4> 
- 
-                                                  </p>
+ <h4 className={styles.h4}> The Song of Deborah</h4> 
+
+5 On that day Deborah and Barak son of Abinoam sang this song:
+
+2 “When the princes in Israel take the lead,
+    when the people willingly offer themselves—
+    praise the Lord!
+
+3 “Hear this, you kings! Listen, you rulers!
+    I, even I, will sing to[a] the Lord;
+    I will praise the Lord, the God of Israel, in song.
+
+4 “When you, Lord, went out from Seir,
+    when you marched from the land of Edom,
+the earth shook, the heavens poured,
+    the clouds poured down water.
+5 The mountains quaked before the Lord, the One of Sinai,
+    before the Lord, the God of Israel.
+
+6 “In the days of Shamgar son of Anath,
+    in the days of Jael, the highways were abandoned;
+    travelers took to winding paths.
+7 Villagers in Israel would not fight;
+    they held back until I, Deborah, arose,
+    until I arose, a mother in Israel.
+8 God chose new leaders
+    when war came to the city gates,
+but not a shield or spear was seen
+    among forty thousand in Israel.
+9 My heart is with Israel’s princes,
+    with the willing volunteers among the people.
+    Praise the Lord!
+
+10 “You who ride on white donkeys,
+    sitting on your saddle blankets,
+    and you who walk along the road,
+consider 11 the voice of the singers[b] at the watering places.
+    They recite the victories of the Lord,
+    the victories of his villagers in Israel.
+
+“Then the people of the Lord
+    went down to the city gates.
+12 ‘Wake up, wake up, Deborah!
+    Wake up, wake up, break out in song!
+Arise, Barak!
+    Take captive your captives, son of Abinoam.’
+
+13 “The remnant of the nobles came down;
+    the people of the Lord came down to me against the mighty.
+14 Some came from Ephraim, whose roots were in Amalek;
+    Benjamin was with the people who followed you.
+From Makir captains came down,
+    from Zebulun those who bear a commander’s[c] staff.
+15 The princes of Issachar were with Deborah;
+    yes, Issachar was with Barak,
+    sent under his command into the valley.
+In the districts of Reuben
+    there was much searching of heart.
+16 Why did you stay among the sheep pens[d]
+    to hear the whistling for the flocks?
+In the districts of Reuben
+    there was much searching of heart.
+17 Gilead stayed beyond the Jordan.
+    And Dan, why did he linger by the ships?
+Asher remained on the coast
+    and stayed in his coves.
+18 The people of Zebulun risked their very lives;
+    so did Naphtali on the terraced fields.
+
+19 “Kings came, they fought,
+    the kings of Canaan fought.
+At Taanach, by the waters of Megiddo,
+    they took no plunder of silver.
+20 From the heavens the stars fought,
+    from their courses they fought against Sisera.
+21 The river Kishon swept them away,
+    the age-old river, the river Kishon.
+    March on, my soul; be strong!
+22 Then thundered the horses’ hooves—
+    galloping, galloping go his mighty steeds.
+23 ‘Curse Meroz,’ said the angel of the Lord.
+    ‘Curse its people bitterly,
+because they did not come to help the Lord,
+    to help the Lord against the mighty.’
+
+24 “Most blessed of women be Jael,
+    the wife of Heber the Kenite,
+    most blessed of tent-dwelling women.
+25 He asked for water, and she gave him milk;
+    in a bowl fit for nobles she brought him curdled milk.
+26 Her hand reached for the tent peg,
+    her right hand for the workman’s hammer.
+She struck Sisera, she crushed his head,
+    she shattered and pierced his temple.
+27 At her feet he sank,
+    he fell; there he lay.
+At her feet he sank, he fell;
+    where he sank, there he fell—dead.
+
+28 “Through the window peered Sisera’s mother;
+    behind the lattice she cried out,
+‘Why is his chariot so long in coming?
+    Why is the clatter of his chariots delayed?’
+29 The wisest of her ladies answer her;
+    indeed, she keeps saying to herself,
+30 ‘Are they not finding and dividing the spoils:
+    a woman or two for each man,
+colorful garments as plunder for Sisera,
+    colorful garments embroidered,
+highly embroidered garments for my neck—
+    all this as plunder?’
+
+31 “So may all your enemies perish, Lord!
+    But may all who love you be like the sun
+    when it rises in its strength.”
+
+Then the land had peace forty years.                                                  </p>
                                   </div>
 
   
@@ -9432,20 +9610,86 @@ Judges is a time in the history of Israel that they had no king & did what they 
           >
             <h2 className={styles.chapter3}>Judges Chapter VI </h2>
                                 <p>
- <h4 className={styles.h4}>                           </h4> 
+ <h4 className={styles.h4}>Gideon</h4> 
 
 
-                                    </p>
+6 The Israelites did evil in the eyes of the Lord, and for seven years he gave them into the hands of the Midianites. 2 Because the power of Midian was so oppressive, the Israelites prepared shelters for themselves in mountain clefts, caves and strongholds. 3 Whenever the Israelites planted their crops, the Midianites, Amalekites and other eastern peoples invaded the country. 4 They camped on the land and ruined the crops all the way to Gaza and did not spare a living thing for Israel, neither sheep nor cattle nor donkeys. 5 They came up with their livestock and their tents like swarms of locusts. It was impossible to count them or their camels; they invaded the land to ravage it. 6 Midian so impoverished the Israelites that they cried out to the Lord for help.
+
+7 When the Israelites cried out to the Lord because of Midian, 8 he sent them a prophet, who said, “This is what the Lord, the God of Israel, says: I brought you up out of Egypt, out of the land of slavery. 9 I rescued you from the hand of the Egyptians. And I delivered you from the hand of all your oppressors; I drove them out before you and gave you their land. 10 I said to you, ‘I am the Lord your God; do not worship the gods of the Amorites, in whose land you live.’ But you have not listened to me.”
+
+11 The angel of the Lord came and sat down under the oak in Ophrah that belonged to Joash the Abiezrite, where his son Gideon was threshing wheat in a winepress to keep it from the Midianites. 12 When the angel of the Lord appeared to Gideon, he said, “The Lord is with you, mighty warrior.”
+
+13 “Pardon me, my lord,” Gideon replied, “but if the Lord is with us, why has all this happened to us? Where are all his wonders that our ancestors told us about when they said, ‘Did not the Lord bring us up out of Egypt?’ But now the Lord has abandoned us and given us into the hand of Midian.”
+
+14 The Lord turned to him and said, “Go in the strength you have and save Israel out of Midian’s hand. Am I not sending you?”
+
+15 “Pardon me, my lord,” Gideon replied, “but how can I save Israel? My clan is the weakest in Manasseh, and I am the least in my family.”
+
+16 The Lord answered, “I will be with you, and you will strike down all the Midianites, leaving none alive.”
+
+17 Gideon replied, “If now I have found favor in your eyes, give me a sign that it is really you talking to me. 18 Please do not go away until I come back and bring my offering and set it before you.”
+
+And the Lord said, “I will wait until you return.”
+
+19 Gideon went inside, prepared a young goat, and from an ephah[a] of flour he made bread without yeast. Putting the meat in a basket and its broth in a pot, he brought them out and offered them to him under the oak.
+
+20 The angel of God said to him, “Take the meat and the unleavened bread, place them on this rock, and pour out the broth.” And Gideon did so. 21 Then the angel of the Lord touched the meat and the unleavened bread with the tip of the staff that was in his hand. Fire flared from the rock, consuming the meat and the bread. And the angel of the Lord disappeared. 22 When Gideon realized that it was the angel of the Lord, he exclaimed, “Alas, Sovereign Lord! I have seen the angel of the Lord face to face!”
+
+23 But the Lord said to him, “Peace! Do not be afraid. You are not going to die.”
+
+24 So Gideon built an altar to the Lord there and called it The Lord Is Peace. To this day it stands in Ophrah of the Abiezrites.
+
+25 That same night the Lord said to him, “Take the second bull from your father’s herd, the one seven years old.[b] Tear down your father’s altar to Baal and cut down the Asherah pole[c] beside it. 26 Then build a proper kind of[d] altar to the Lord your God on the top of this height. Using the wood of the Asherah pole that you cut down, offer the second[e] bull as a burnt offering.”
+
+27 So Gideon took ten of his servants and did as the Lord told him. But because he was afraid of his family and the townspeople, he did it at night rather than in the daytime.
+
+28 In the morning when the people of the town got up, there was Baal’s altar, demolished, with the Asherah pole beside it cut down and the second bull sacrificed on the newly built altar!
+
+29 They asked each other, “Who did this?”
+
+When they carefully investigated, they were told, “Gideon son of Joash did it.”
+
+30 The people of the town demanded of Joash, “Bring out your son. He must die, because he has broken down Baal’s altar and cut down the Asherah pole beside it.”
+
+31 But Joash replied to the hostile crowd around him, “Are you going to plead Baal’s cause? Are you trying to save him? Whoever fights for him shall be put to death by morning! If Baal really is a god, he can defend himself when someone breaks down his altar.” 32 So because Gideon broke down Baal’s altar, they gave him the name Jerub-Baal[f] that day, saying, “Let Baal contend with him.”
+
+33 Now all the Midianites, Amalekites and other eastern peoples joined forces and crossed over the Jordan and camped in the Valley of Jezreel. 34 Then the Spirit of the Lord came on Gideon, and he blew a trumpet, summoning the Abiezrites to follow him. 35 He sent messengers throughout Manasseh, calling them to arms, and also into Asher, Zebulun and Naphtali, so that they too went up to meet them.
+
+36 Gideon said to God, “If you will save Israel by my hand as you have promised— 37 look, I will place a wool fleece on the threshing floor. If there is dew only on the fleece and all the ground is dry, then I will know that you will save Israel by my hand, as you said.” 38 And that is what happened. Gideon rose early the next day; he squeezed the fleece and wrung out the dew—a bowlful of water.
+
+39 Then Gideon said to God, “Do not be angry with me. Let me make just one more request. Allow me one more test with the fleece, but this time make the fleece dry and let the ground be covered with dew.” 40 That night God did so. Only the fleece was dry; all the ground was covered with dew.                                    </p>
                                   </div>
 
 <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter VII </h2>
                                 <p>
- <h4 className={styles.h4}>                    </h4> 
+ <h4 className={styles.h4}>Gideon Defeats the Midianites</h4> 
 
 
+7 Early in the morning, Jerub-Baal (that is, Gideon) and all his men camped at the spring of Harod. The camp of Midian was north of them in the valley near the hill of Moreh. 2 The Lord said to Gideon, “You have too many men. I cannot deliver Midian into their hands, or Israel would boast against me, ‘My own strength has saved me.’ 3 Now announce to the army, ‘Anyone who trembles with fear may turn back and leave Mount Gilead.’” So twenty-two thousand men left, while ten thousand remained.
 
+4 But the Lord said to Gideon, “There are still too many men. Take them down to the water, and I will thin them out for you there. If I say, ‘This one shall go with you,’ he shall go; but if I say, ‘This one shall not go with you,’ he shall not go.”
+
+5 So Gideon took the men down to the water. There the Lord told him, “Separate those who lap the water with their tongues as a dog laps from those who kneel down to drink.” 6 Three hundred of them drank from cupped hands, lapping like dogs. All the rest got down on their knees to drink.
+
+7 The Lord said to Gideon, “With the three hundred men that lapped I will save you and give the Midianites into your hands. Let all the others go home.” 8 So Gideon sent the rest of the Israelites home but kept the three hundred, who took over the provisions and trumpets of the others.
+
+Now the camp of Midian lay below him in the valley. 9 During that night the Lord said to Gideon, “Get up, go down against the camp, because I am going to give it into your hands. 10 If you are afraid to attack, go down to the camp with your servant Purah 11 and listen to what they are saying. Afterward, you will be encouraged to attack the camp.” So he and Purah his servant went down to the outposts of the camp. 12 The Midianites, the Amalekites and all the other eastern peoples had settled in the valley, thick as locusts. Their camels could no more be counted than the sand on the seashore.
+
+13 Gideon arrived just as a man was telling a friend his dream. “I had a dream,” he was saying. “A round loaf of barley bread came tumbling into the Midianite camp. It struck the tent with such force that the tent overturned and collapsed.”
+
+14 His friend responded, “This can be nothing other than the sword of Gideon son of Joash, the Israelite. God has given the Midianites and the whole camp into his hands.”
+
+15 When Gideon heard the dream and its interpretation, he bowed down and worshiped. He returned to the camp of Israel and called out, “Get up! The Lord has given the Midianite camp into your hands.” 16 Dividing the three hundred men into three companies, he placed trumpets and empty jars in the hands of all of them, with torches inside.
+
+17 “Watch me,” he told them. “Follow my lead. When I get to the edge of the camp, do exactly as I do. 18 When I and all who are with me blow our trumpets, then from all around the camp blow yours and shout, ‘For the Lord and for Gideon.’”
+
+19 Gideon and the hundred men with him reached the edge of the camp at the beginning of the middle watch, just after they had changed the guard. They blew their trumpets and broke the jars that were in their hands. 20 The three companies blew the trumpets and smashed the jars. Grasping the torches in their left hands and holding in their right hands the trumpets they were to blow, they shouted, “A sword for the Lord and for Gideon!” 21 While each man held his position around the camp, all the Midianites ran, crying out as they fled.
+
+22 When the three hundred trumpets sounded, the Lord caused the men throughout the camp to turn on each other with their swords. The army fled to Beth Shittah toward Zererah as far as the border of Abel Meholah near Tabbath. 23 Israelites from Naphtali, Asher and all Manasseh were called out, and they pursued the Midianites. 24 Gideon sent messengers throughout the hill country of Ephraim, saying, “Come down against the Midianites and seize the waters of the Jordan ahead of them as far as Beth Barah.”
+
+So all the men of Ephraim were called out and they seized the waters of the Jordan as far as Beth Barah. 25 They also captured two of the Midianite leaders, Oreb and Zeeb. They killed Oreb at the rock of Oreb, and Zeeb at the winepress of Zeeb. They pursued the Midianites and brought the heads of Oreb and Zeeb to Gideon, who was by the Jordan.
                                    </p>
                                   </div>
 
@@ -9453,17 +9697,106 @@ Judges is a time in the history of Israel that they had no king & did what they 
           >
             <h2 className={styles.chapter3}>Judges Chapter VIII </h2>
                                 <p>
- <h4 className={styles.h4}>                 </h4> 
+ <h4 className={styles.h4}>Zebah and Zalmunna</h4> 
 
-                                     </p>
+8 Now the Ephraimites asked Gideon, “Why have you treated us like this? Why didn’t you call us when you went to fight Midian?” And they challenged him vigorously.
+
+2 But he answered them, “What have I accomplished compared to you? Aren’t the gleanings of Ephraim’s grapes better than the full grape harvest of Abiezer? 3 God gave Oreb and Zeeb, the Midianite leaders, into your hands. What was I able to do compared to you?” At this, their resentment against him subsided.
+
+4 Gideon and his three hundred men, exhausted yet keeping up the pursuit, came to the Jordan and crossed it. 5 He said to the men of Sukkoth, “Give my troops some bread; they are worn out, and I am still pursuing Zebah and Zalmunna, the kings of Midian.”
+
+6 But the officials of Sukkoth said, “Do you already have the hands of Zebah and Zalmunna in your possession? Why should we give bread to your troops?”
+
+7 Then Gideon replied, “Just for that, when the Lord has given Zebah and Zalmunna into my hand, I will tear your flesh with desert thorns and briers.”
+
+8 From there he went up to Peniel[a] and made the same request of them, but they answered as the men of Sukkoth had. 9 So he said to the men of Peniel, “When I return in triumph, I will tear down this tower.”
+
+10 Now Zebah and Zalmunna were in Karkor with a force of about fifteen thousand men, all that were left of the armies of the eastern peoples; a hundred and twenty thousand swordsmen had fallen. 11 Gideon went up by the route of the nomads east of Nobah and Jogbehah and attacked the unsuspecting army. 12 Zebah and Zalmunna, the two kings of Midian, fled, but he pursued them and captured them, routing their entire army.
+
+13 Gideon son of Joash then returned from the battle by the Pass of Heres. 14 He caught a young man of Sukkoth and questioned him, and the young man wrote down for him the names of the seventy-seven officials of Sukkoth, the elders of the town. 15 Then Gideon came and said to the men of Sukkoth, “Here are Zebah and Zalmunna, about whom you taunted me by saying, ‘Do you already have the hands of Zebah and Zalmunna in your possession? Why should we give bread to your exhausted men?’” 16 He took the elders of the town and taught the men of Sukkoth a lesson by punishing them with desert thorns and briers. 17 He also pulled down the tower of Peniel and killed the men of the town.
+
+18 Then he asked Zebah and Zalmunna, “What kind of men did you kill at Tabor?”
+
+“Men like you,” they answered, “each one with the bearing of a prince.”
+
+19 Gideon replied, “Those were my brothers, the sons of my own mother. As surely as the Lord lives, if you had spared their lives, I would not kill you.” 20 Turning to Jether, his oldest son, he said, “Kill them!” But Jether did not draw his sword, because he was only a boy and was afraid.
+
+21 Zebah and Zalmunna said, “Come, do it yourself. ‘As is the man, so is his strength.’” So Gideon stepped forward and killed them, and took the ornaments off their camels’ necks.
+
+Gideon’s Ephod
+22 The Israelites said to Gideon, “Rule over us—you, your son and your grandson—because you have saved us from the hand of Midian.”
+
+23 But Gideon told them, “I will not rule over you, nor will my son rule over you. The Lord will rule over you.” 24 And he said, “I do have one request, that each of you give me an earring from your share of the plunder.” (It was the custom of the Ishmaelites to wear gold earrings.)
+
+25 They answered, “We’ll be glad to give them.” So they spread out a garment, and each of them threw a ring from his plunder onto it. 26 The weight of the gold rings he asked for came to seventeen hundred shekels,[b] not counting the ornaments, the pendants and the purple garments worn by the kings of Midian or the chains that were on their camels’ necks. 27 Gideon made the gold into an ephod, which he placed in Ophrah, his town. All Israel prostituted themselves by worshiping it there, and it became a snare to Gideon and his family.
+
+Gideon’s Death
+28 Thus Midian was subdued before the Israelites and did not raise its head again. During Gideon’s lifetime, the land had peace forty years.
+
+29 Jerub-Baal son of Joash went back home to live. 30 He had seventy sons of his own, for he had many wives. 31 His concubine, who lived in Shechem, also bore him a son, whom he named Abimelek. 32 Gideon son of Joash died at a good old age and was buried in the tomb of his father Joash in Ophrah of the Abiezrites.
+
+33 No sooner had Gideon died than the Israelites again prostituted themselves to the Baals. They set up Baal-Berith as their god 34 and did not remember the Lord their God, who had rescued them from the hands of all their enemies on every side. 35 They also failed to show any loyalty to the family of Jerub-Baal (that is, Gideon) in spite of all the good things he had done for them.    
+                                                  </p>
                                   </div>
 
 <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter IX </h2>
                                 <p>
- <h4 className={styles.h4}>                        </h4> 
-                                
+ <h4 className={styles.h4}>Abimelek</h4> 
+
+
+9 Abimelek son of Jerub-Baal went to his mother’s brothers in Shechem and said to them and to all his mother’s clan, 2 “Ask all the citizens of Shechem, ‘Which is better for you: to have all seventy of Jerub-Baal’s sons rule over you, or just one man?’ Remember, I am your flesh and blood.”
+
+3 When the brothers repeated all this to the citizens of Shechem, they were inclined to follow Abimelek, for they said, “He is related to us.” 4 They gave him seventy shekels[a] of silver from the temple of Baal-Berith, and Abimelek used it to hire reckless scoundrels, who became his followers. 5 He went to his father’s home in Ophrah and on one stone murdered his seventy brothers, the sons of Jerub-Baal. But Jotham, the youngest son of Jerub-Baal, escaped by hiding. 6 Then all the citizens of Shechem and Beth Millo gathered beside the great tree at the pillar in Shechem to crown Abimelek king.
+
+7 When Jotham was told about this, he climbed up on the top of Mount Gerizim and shouted to them, “Listen to me, citizens of Shechem, so that God may listen to you. 8 One day the trees went out to anoint a king for themselves. They said to the olive tree, ‘Be our king.’
+
+9 “But the olive tree answered, ‘Should I give up my oil, by which both gods and humans are honored, to hold sway over the trees?’
+
+10 “Next, the trees said to the fig tree, ‘Come and be our king.’
+
+11 “But the fig tree replied, ‘Should I give up my fruit, so good and sweet, to hold sway over the trees?’
+
+12 “Then the trees said to the vine, ‘Come and be our king.’
+
+13 “But the vine answered, ‘Should I give up my wine, which cheers both gods and humans, to hold sway over the trees?’
+
+14 “Finally all the trees said to the thornbush, ‘Come and be our king.’
+
+15 “The thornbush said to the trees, ‘If you really want to anoint me king over you, come and take refuge in my shade; but if not, then let fire come out of the thornbush and consume the cedars of Lebanon!’
+
+16 “Have you acted honorably and in good faith by making Abimelek king? Have you been fair to Jerub-Baal and his family? Have you treated him as he deserves? 17 Remember that my father fought for you and risked his life to rescue you from the hand of Midian. 18 But today you have revolted against my father’s family. You have murdered his seventy sons on a single stone and have made Abimelek, the son of his female slave, king over the citizens of Shechem because he is related to you. 19 So have you acted honorably and in good faith toward Jerub-Baal and his family today? If you have, may Abimelek be your joy, and may you be his, too! 20 But if you have not, let fire come out from Abimelek and consume you, the citizens of Shechem and Beth Millo, and let fire come out from you, the citizens of Shechem and Beth Millo, and consume Abimelek!”
+
+21 Then Jotham fled, escaping to Beer, and he lived there because he was afraid of his brother Abimelek.
+
+22 After Abimelek had governed Israel three years, 23 God stirred up animosity between Abimelek and the citizens of Shechem so that they acted treacherously against Abimelek. 24 God did this in order that the crime against Jerub-Baal’s seventy sons, the shedding of their blood, might be avenged on their brother Abimelek and on the citizens of Shechem, who had helped him murder his brothers. 25 In opposition to him these citizens of Shechem set men on the hilltops to ambush and rob everyone who passed by, and this was reported to Abimelek.
+
+26 Now Gaal son of Ebed moved with his clan into Shechem, and its citizens put their confidence in him. 27 After they had gone out into the fields and gathered the grapes and trodden them, they held a festival in the temple of their god. While they were eating and drinking, they cursed Abimelek. 28 Then Gaal son of Ebed said, “Who is Abimelek, and why should we Shechemites be subject to him? Isn’t he Jerub-Baal’s son, and isn’t Zebul his deputy? Serve the family of Hamor, Shechem’s father! Why should we serve Abimelek? 29 If only this people were under my command! Then I would get rid of him. I would say to Abimelek, ‘Call out your whole army!’”[b]
+
+30 When Zebul the governor of the city heard what Gaal son of Ebed said, he was very angry. 31 Under cover he sent messengers to Abimelek, saying, “Gaal son of Ebed and his clan have come to Shechem and are stirring up the city against you. 32 Now then, during the night you and your men should come and lie in wait in the fields. 33 In the morning at sunrise, advance against the city. When Gaal and his men come out against you, seize the opportunity to attack them.”
+
+34 So Abimelek and all his troops set out by night and took up concealed positions near Shechem in four companies. 35 Now Gaal son of Ebed had gone out and was standing at the entrance of the city gate just as Abimelek and his troops came out from their hiding place.
+
+36 When Gaal saw them, he said to Zebul, “Look, people are coming down from the tops of the mountains!”
+
+Zebul replied, “You mistake the shadows of the mountains for men.”
+
+37 But Gaal spoke up again: “Look, people are coming down from the central hill,[c] and a company is coming from the direction of the diviners’ tree.”
+
+38 Then Zebul said to him, “Where is your big talk now, you who said, ‘Who is Abimelek that we should be subject to him?’ Aren’t these the men you ridiculed? Go out and fight them!”
+
+39 So Gaal led out[d] the citizens of Shechem and fought Abimelek. 40 Abimelek chased him all the way to the entrance of the gate, and many were killed as they fled. 41 Then Abimelek stayed in Arumah, and Zebul drove Gaal and his clan out of Shechem.
+
+42 The next day the people of Shechem went out to the fields, and this was reported to Abimelek. 43 So he took his men, divided them into three companies and set an ambush in the fields. When he saw the people coming out of the city, he rose to attack them. 44 Abimelek and the companies with him rushed forward to a position at the entrance of the city gate. Then two companies attacked those in the fields and struck them down. 45 All that day Abimelek pressed his attack against the city until he had captured it and killed its people. Then he destroyed the city and scattered salt over it.
+
+46 On hearing this, the citizens in the tower of Shechem went into the stronghold of the temple of El-Berith. 47 When Abimelek heard that they had assembled there, 48 he and all his men went up Mount Zalmon. He took an ax and cut off some branches, which he lifted to his shoulders. He ordered the men with him, “Quick! Do what you have seen me do!” 49 So all the men cut branches and followed Abimelek. They piled them against the stronghold and set it on fire with the people still inside. So all the people in the tower of Shechem, about a thousand men and women, also died.
+
+50 Next Abimelek went to Thebez and besieged it and captured it. 51 Inside the city, however, was a strong tower, to which all the men and women—all the people of the city—had fled. They had locked themselves in and climbed up on the tower roof. 52 Abimelek went to the tower and attacked it. But as he approached the entrance to the tower to set it on fire, 53 a woman dropped an upper millstone on his head and cracked his skull.
+
+54 Hurriedly he called to his armor-bearer, “Draw your sword and kill me, so that they can’t say, ‘A woman killed him.’” So his servant ran him through, and he died. 55 When the Israelites saw that Abimelek was dead, they went home.
+
+56 Thus God repaid the wickedness that Abimelek had done to his father by murdering his seventy brothers. 57 God also made the people of Shechem pay for all their wickedness. The curse of Jotham son of Jerub-Baal came on them.  
                               </p>
   </div>
 
@@ -9474,10 +9807,22 @@ Judges is a time in the history of Israel that they had no king & did what they 
           >
             <h2 className={styles.chapter3}>Judges Chapter X </h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
+ <h4 className={styles.h4}>Tola</h4> 
     
 
-  
+10 After the time of Abimelek, a man of Issachar named Tola son of Puah, the son of Dodo, rose to save Israel. He lived in Shamir, in the hill country of Ephraim. 2 He led[a] Israel twenty-three years; then he died, and was buried in Shamir.
+
+Jair
+3 He was followed by Jair of Gilead, who led Israel twenty-two years. 4 He had thirty sons, who rode thirty donkeys. They controlled thirty towns in Gilead, which to this day are called Havvoth Jair.[b] 5 When Jair died, he was buried in Kamon.
+
+Jephthah
+6 Again the Israelites did evil in the eyes of the Lord. They served the Baals and the Ashtoreths, and the gods of Aram, the gods of Sidon, the gods of Moab, the gods of the Ammonites and the gods of the Philistines. And because the Israelites forsook the Lord and no longer served him, 7 he became angry with them. He sold them into the hands of the Philistines and the Ammonites, 8 who that year shattered and crushed them. For eighteen years they oppressed all the Israelites on the east side of the Jordan in Gilead, the land of the Amorites. 9 The Ammonites also crossed the Jordan to fight against Judah, Benjamin and Ephraim; Israel was in great distress. 10 Then the Israelites cried out to the Lord, “We have sinned against you, forsaking our God and serving the Baals.”
+
+11 The Lord replied, “When the Egyptians, the Amorites, the Ammonites, the Philistines, 12 the Sidonians, the Amalekites and the Maonites[c] oppressed you and you cried to me for help, did I not save you from their hands? 13 But you have forsaken me and served other gods, so I will no longer save you. 14 Go and cry out to the gods you have chosen. Let them save you when you are in trouble!”
+
+15 But the Israelites said to the Lord, “We have sinned. Do with us whatever you think best, but please rescue us now.” 16 Then they got rid of the foreign gods among them and served the Lord. And he could bear Israel’s misery no longer.
+
+17 When the Ammonites were called to arms and camped in Gilead, the Israelites assembled and camped at Mizpah. 18 The leaders of the people of Gilead said to each other, “Whoever will take the lead in attacking the Ammonites will be head over all who live in Gilead.”  
   
   
                                                     </p>
@@ -9487,10 +9832,49 @@ Judges is a time in the history of Israel that they had no king & did what they 
           >
             <h2 className={styles.chapter3}>Judges Chapter XI </h2>
                                 <p>
- <h4 className={styles.h4}>                      </h4> 
+ <h4 className={styles.h4}>Jephthah the Gileadite was a mighty warrior</h4> 
 
+11  His father was Gilead; his mother was a prostitute. 2 Gilead’s wife also bore him sons, and when they were grown up, they drove Jephthah away. “You are not going to get any inheritance in our family,” they said, “because you are the son of another woman.” 3 So Jephthah fled from his brothers and settled in the land of Tob, where a gang of scoundrels gathered around him and followed him.
 
+4 Some time later, when the Ammonites were fighting against Israel, 5 the elders of Gilead went to get Jephthah from the land of Tob. 6 “Come,” they said, “be our commander, so we can fight the Ammonites.”
 
+7 Jephthah said to them, “Didn’t you hate me and drive me from my father’s house? Why do you come to me now, when you’re in trouble?”
+
+8 The elders of Gilead said to him, “Nevertheless, we are turning to you now; come with us to fight the Ammonites, and you will be head over all of us who live in Gilead.”
+
+9 Jephthah answered, “Suppose you take me back to fight the Ammonites and the Lord gives them to me—will I really be your head?”
+
+10 The elders of Gilead replied, “The Lord is our witness; we will certainly do as you say.” 11 So Jephthah went with the elders of Gilead, and the people made him head and commander over them. And he repeated all his words before the Lord in Mizpah.
+
+12 Then Jephthah sent messengers to the Ammonite king with the question: “What do you have against me that you have attacked my country?”
+
+13 The king of the Ammonites answered Jephthah’s messengers, “When Israel came up out of Egypt, they took away my land from the Arnon to the Jabbok, all the way to the Jordan. Now give it back peaceably.”
+
+14 Jephthah sent back messengers to the Ammonite king, 15 saying:
+
+“This is what Jephthah says: Israel did not take the land of Moab or the land of the Ammonites. 16 But when they came up out of Egypt, Israel went through the wilderness to the Red Sea[a] and on to Kadesh. 17 Then Israel sent messengers to the king of Edom, saying, ‘Give us permission to go through your country,’ but the king of Edom would not listen. They sent also to the king of Moab, and he refused. So Israel stayed at Kadesh.
+
+18 “Next they traveled through the wilderness, skirted the lands of Edom and Moab, passed along the eastern side of the country of Moab, and camped on the other side of the Arnon. They did not enter the territory of Moab, for the Arnon was its border.
+
+19 “Then Israel sent messengers to Sihon king of the Amorites, who ruled in Heshbon, and said to him, ‘Let us pass through your country to our own place.’ 20 Sihon, however, did not trust Israel[b] to pass through his territory. He mustered all his troops and encamped at Jahaz and fought with Israel.
+
+21 “Then the Lord, the God of Israel, gave Sihon and his whole army into Israel’s hands, and they defeated them. Israel took over all the land of the Amorites who lived in that country, 22 capturing all of it from the Arnon to the Jabbok and from the desert to the Jordan.
+
+23 “Now since the Lord, the God of Israel, has driven the Amorites out before his people Israel, what right have you to take it over? 24 Will you not take what your god Chemosh gives you? Likewise, whatever the Lord our God has given us, we will possess. 25 Are you any better than Balak son of Zippor, king of Moab? Did he ever quarrel with Israel or fight with them? 26 For three hundred years Israel occupied Heshbon, Aroer, the surrounding settlements and all the towns along the Arnon. Why didn’t you retake them during that time? 27 I have not wronged you, but you are doing me wrong by waging war against me. Let the Lord, the Judge, decide the dispute this day between the Israelites and the Ammonites.”
+
+28 The king of Ammon, however, paid no attention to the message Jephthah sent him.
+
+29 Then the Spirit of the Lord came on Jephthah. He crossed Gilead and Manasseh, passed through Mizpah of Gilead, and from there he advanced against the Ammonites. 30 And Jephthah made a vow to the Lord: “If you give the Ammonites into my hands, 31 whatever comes out of the door of my house to meet me when I return in triumph from the Ammonites will be the Lord’s, and I will sacrifice it as a burnt offering.”
+
+32 Then Jephthah went over to fight the Ammonites, and the Lord gave them into his hands. 33 He devastated twenty towns from Aroer to the vicinity of Minnith, as far as Abel Keramim. Thus Israel subdued Ammon.
+
+34 When Jephthah returned to his home in Mizpah, who should come out to meet him but his daughter, dancing to the sound of timbrels! She was an only child. Except for her he had neither son nor daughter. 35 When he saw her, he tore his clothes and cried, “Oh no, my daughter! You have brought me down and I am devastated. I have made a vow to the Lord that I cannot break.”
+
+36 “My father,” she replied, “you have given your word to the Lord. Do to me just as you promised, now that the Lord has avenged you of your enemies, the Ammonites. 37 But grant me this one request,” she said. “Give me two months to roam the hills and weep with my friends, because I will never marry.”
+
+38 “You may go,” he said. And he let her go for two months. She and her friends went into the hills and wept because she would never marry. 39 After the two months, she returned to her father, and he did to her as he had vowed. And she was a virgin.
+
+From this comes the Israelite tradition 40 that each year the young women of Israel go out for four days to commemorate the daughter of Jephthah the Gileadite.
 
                                     </p>
                                   </div>
@@ -9620,7 +10004,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
           >
             <h2 className={styles.chapter3}>Judges Chapter XXIII </h2>
                                 <p>
- <h4 className={styles.h4}>Joshua’s Farewell to the Leaders</h4> 
+ <h4 className={styles.h4}>                </h4> 
 
                                   </p>
                                   </div>
@@ -9629,7 +10013,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
           >
             <h2 className={styles.chapter3}>Judges Chapter XXIV </h2>
                                 <p>
- <h4 className={styles.h4}></h4> 
+ <h4 className={styles.h4}>                  </h4> 
 
                                     </p>
                                   </div>
