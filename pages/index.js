@@ -9308,7 +9308,7 @@ Buried in the Promised Land
 Judges is a time in the history of Israel that they had no king & did what they saw fit...it did not go well for them.
            
 </p>                                                      
-                  <div className={styles.nav3}>           
+                  <div className={styles.nav2}>           
       <a href="https://mytorah.vercel.app/#numbers">
              <Image 
                                 src="/previous.webp"
@@ -9349,7 +9349,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
         <div className={styles.grid2}>
           
 
-   <div className={styles.card4}
+   <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter I </h2>
                                 <p>
@@ -9388,7 +9388,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                   </p>
   </div>
 
- <div className={styles.card3}
+ <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter II </h2>
                                 <p>
@@ -9397,7 +9397,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                  </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter III </h2>
                                 <p>
@@ -9408,7 +9408,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter IV </h2>
                                 <p>
@@ -9418,7 +9418,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                   </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter V </h2>
                                 <p>
@@ -9428,7 +9428,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                   </div>
 
   
-<div className={styles.card3}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter VI </h2>
                                 <p>
@@ -9438,7 +9438,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                     </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter VII </h2>
                                 <p>
@@ -9449,7 +9449,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                    </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter VIII </h2>
                                 <p>
@@ -9458,7 +9458,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                      </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter IX </h2>
                                 <p>
@@ -9470,7 +9470,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
 
 
 
-<div className={styles.card3}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter X </h2>
                                 <p>
@@ -9483,7 +9483,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                                     </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XI </h2>
                                 <p>
@@ -9495,7 +9495,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                     </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XII </h2>
                                 <p>
@@ -9506,7 +9506,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                     </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XIII </h2>
                                 <p>
@@ -9518,7 +9518,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
 
 
 
-<div className={styles.card3}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XIV </h2>
                                 <p>
@@ -9529,7 +9529,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                     </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XV </h2>
                                 <p>
@@ -9542,7 +9542,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
   </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XVI </h2>
                                 <p>
@@ -9555,7 +9555,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                     </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XVII </h2>
                                 <p>
@@ -9565,7 +9565,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                   </div>
 
 
-  <div className={styles.card3}
+  <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XVIII </h2>
                                 <p>
@@ -9576,7 +9576,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                     </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XIX </h2>
                                 <p>
@@ -9586,7 +9586,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                 </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XX </h2>
                                 <p>
@@ -9595,7 +9595,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                   </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XXI </h2>
                                 <p>
@@ -9606,7 +9606,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                   </div>
 
 
-<div className={styles.card3}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XXII </h2>
                                 <p>
@@ -9616,7 +9616,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                              </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XXIII </h2>
                                 <p>
@@ -9625,7 +9625,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                   </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>Judges Chapter XXIV </h2>
                                 <p>
@@ -9638,7 +9638,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
 
 
   
-          <div className={styles.card4}
+          <div className={styles.card5}
           >
             <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
             <p>
