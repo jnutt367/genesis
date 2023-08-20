@@ -9283,6 +9283,402 @@ Buried in the Promised Land
       </main>   
 
 
+<main id="judges" className={styles.main}>
+       
+        <div className={styles.hero}>
+                <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        <h1 className={styles.title}>
+          JUDGES
+        </h1>
+          <div className={styles.image}>
+                           <Image 
+                                                    src="/judges.png"
+                                                    alt="hero image for Leviticus"
+                                                    height={900}
+                                                    width={2000}
+                                                    priority
+                                                  />
+                          
+
+                        </div>
+    <p className={styles.parables}>
+Judges is a time in the history of Israel that they had no king & did what they saw fit...it did not go well for them.
+           
+</p>                                                      
+                  <div className={styles.nav3}>           
+      <a href="https://mytorah.vercel.app/#numbers">
+             <Image 
+                                src="/previous.webp"
+                                alt="prev"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+        
+      <a href="https://cash.app/$JNutt367">
+              <Image className={styles.arrow}
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+         <a href="https://mytorah.vercel.app/#joshua">
+           <Image 
+                                src="/next.webp"
+                                alt="next"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+                                 <div className={styles.iframe}> 
+                                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/kOYy8iCfIJ4?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                  </div>
+                                  
+                              
+        <div className={styles.grid2}>
+          
+
+   <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter I </h2>
+                                <p>
+ <h4 className={styles.h4}>Israel Fights the Remaining Canaanites</h4> 
+
+
+1 After the death of Joshua, the Israelites asked the Lord, “Who of us is to go up first to fight against the Canaanites?”
+
+2 The Lord answered, “Judah shall go up; I have given the land into their hands.”
+
+3 The men of Judah then said to the Simeonites their fellow Israelites, “Come up with us into the territory allotted to us, to fight against the Canaanites. We in turn will go with you into yours.” So the Simeonites went with them.
+
+4 When Judah attacked, the Lord gave the Canaanites and Perizzites into their hands, and they struck down ten thousand men at Bezek. 5 It was there that they found Adoni-Bezek and fought against him, putting to rout the Canaanites and Perizzites. 6 Adoni-Bezek fled, but they chased him and caught him, and cut off his thumbs and big toes.
+
+7 Then Adoni-Bezek said, “Seventy kings with their thumbs and big toes cut off have picked up scraps under my table. Now God has paid me back for what I did to them.” They brought him to Jerusalem, and he died there.
+
+8 The men of Judah attacked Jerusalem also and took it. They put the city to the sword and set it on fire.
+
+9 After that, Judah went down to fight against the Canaanites living in the hill country, the Negev and the western foothills. 10 They advanced against the Canaanites living in Hebron (formerly called Kiriath Arba) and defeated Sheshai, Ahiman and Talmai. 11 From there they advanced against the people living in Debir (formerly called Kiriath Sepher).
+
+12 And Caleb said, “I will give my daughter Aksah in marriage to the man who attacks and captures Kiriath Sepher.” 13 Othniel son of Kenaz, Caleb’s younger brother, took it; so Caleb gave his daughter Aksah to him in marriage.
+
+14 One day when she came to Othniel, she urged him[a] to ask her father for a field. When she got off her donkey, Caleb asked her, “What can I do for you?”
+
+15 She replied, “Do me a special favor. Since you have given me land in the Negev, give me also springs of water.” So Caleb gave her the upper and lower springs.
+
+16 The descendants of Moses’ father-in-law, the Kenite, went up from the City of Palms[b] with the people of Judah to live among the inhabitants of the Desert of Judah in the Negev near Arad.
+
+17 Then the men of Judah went with the Simeonites their fellow Israelites and attacked the Canaanites living in Zephath, and they totally destroyed[c] the city. Therefore it was called Hormah.[d] 18 Judah also took[e] Gaza, Ashkelon and Ekron—each city with its territory.
+
+19 The Lord was with the men of Judah. They took possession of the hill country, but they were unable to drive the people from the plains, because they had chariots fitted with iron. 20 As Moses had promised, Hebron was given to Caleb, who drove from it the three sons of Anak. 21 The Benjamites, however, did not drive out the Jebusites, who were living in Jerusalem; to this day the Jebusites live there with the Benjamites.
+
+22 Now the tribes of Joseph attacked Bethel, and the Lord was with them. 23 When they sent men to spy out Bethel (formerly called Luz), 24 the spies saw a man coming out of the city and they said to him, “Show us how to get into the city and we will see that you are treated well.” 25 So he showed them, and they put the city to the sword but spared the man and his whole family. 26 He then went to the land of the Hittites, where he built a city and called it Luz, which is its name to this day.
+
+27 But Manasseh did not drive out the people of Beth Shan or Taanach or Dor or Ibleam or Megiddo and their surrounding settlements, for the Canaanites were determined to live in that land. 28 When Israel became strong, they pressed the Canaanites into forced labor but never drove them out completely. 29 Nor did Ephraim drive out the Canaanites living in Gezer, but the Canaanites continued to live there among them. 30 Neither did Zebulun drive out the Canaanites living in Kitron or Nahalol, so these Canaanites lived among them, but Zebulun did subject them to forced labor. 31 Nor did Asher drive out those living in Akko or Sidon or Ahlab or Akzib or Helbah or Aphek or Rehob. 32 The Asherites lived among the Canaanite inhabitants of the land because they did not drive them out. 33 Neither did Naphtali drive out those living in Beth Shemesh or Beth Anath; but the Naphtalites too lived among the Canaanite inhabitants of the land, and those living in Beth Shemesh and Beth Anath became forced laborers for them. 34 The Amorites confined the Danites to the hill country, not allowing them to come down into the plain. 35 And the Amorites were determined also to hold out in Mount Heres, Aijalon and Shaalbim, but when the power of the tribes of Joseph increased, they too were pressed into forced labor. 36 The boundary of the Amorites was from Scorpion Pass to Sela and beyond.
+                                  </p>
+  </div>
+
+ <div className={styles.card3}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter II </h2>
+                                <p>
+ <h4 className={styles.h4}>            </h4> 
+
+                                 </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter III </h2>
+                                <p>
+ <h4 className={styles.h4}>                 </h4> 
+
+
+
+                               </p>
+                                  </div>
+
+   <div className={styles.card3}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter IV </h2>
+                                <p>
+ <h4 className={styles.h4}>             </h4> 
+                       
+  
+                                  </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter V </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+ 
+                                                  </p>
+                                  </div>
+
+  
+<div className={styles.card3}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter VI </h2>
+                                <p>
+ <h4 className={styles.h4}>                           </h4> 
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter VII </h2>
+                                <p>
+ <h4 className={styles.h4}>                    </h4> 
+
+
+
+                                   </p>
+                                  </div>
+
+   <div className={styles.card3}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter VIII </h2>
+                                <p>
+ <h4 className={styles.h4}>                 </h4> 
+
+                                     </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter IX </h2>
+                                <p>
+ <h4 className={styles.h4}>                        </h4> 
+                                
+                              </p>
+  </div>
+
+
+
+
+<div className={styles.card3}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter X </h2>
+                                <p>
+ <h4 className={styles.h4}>                </h4> 
+    
+
+  
+  
+  
+                                                    </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XI </h2>
+                                <p>
+ <h4 className={styles.h4}>                      </h4> 
+
+
+
+
+                                    </p>
+                                  </div>
+
+   <div className={styles.card3}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XII </h2>
+                                <p>
+ <h4 className={styles.h4}>              </h4> 
+
+
+    
+                                    </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XIII </h2>
+                                <p>
+ <h4 className={styles.h4}>                    </h4> 
+
+
+                              </p>
+                                  </div>
+
+
+
+<div className={styles.card3}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XIV </h2>
+                                <p>
+ <h4 className={styles.h4}>                   </h4> 
+
+
+  
+                                    </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XV </h2>
+                                <p>
+ <h4 className={styles.h4}>                </h4> 
+
+
+              
+                    
+  
+  </p>
+                                  </div>
+
+   <div className={styles.card3}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XVI </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XVII </h2>
+                                <p>
+ <h4 className={styles.h4}>                  </h4> 
+  
+                                    </p>
+                                  </div>
+
+
+  <div className={styles.card3}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XVIII </h2>
+                                <p>
+ <h4 className={styles.h4}>                   </h4> 
+
+
+
+                                    </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XIX </h2>
+                                <p>
+ <h4 className={styles.h4}>               </h4> 
+
+
+                                </p>
+                                  </div>
+
+   <div className={styles.card3}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XX </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+                                  </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XXI </h2>
+                                <p>
+ <h4 className={styles.h4}>                       </h4> 
+
+
+                              </p>
+                                  </div>
+
+
+<div className={styles.card3}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XXII </h2>
+                                <p>
+ <h4 className={styles.h4}>                 </h4> 
+
+  
+                             </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XXIII </h2>
+                                <p>
+ <h4 className={styles.h4}>Joshua’s Farewell to the Leaders</h4> 
+
+                                  </p>
+                                  </div>
+
+   <div className={styles.card3}
+          >
+            <h2 className={styles.chapter3}>Judges Chapter XXIV </h2>
+                                <p>
+ <h4 className={styles.h4}></h4> 
+
+                                    </p>
+                                  </div>
+
+
+
+
+  
+          <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <p>
+            
+            <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
+            This is the beginning of the Old Testament and it will contain the 5 books of the Torah or Pentateuch...
+              <h4 className={styles.h4}>Genesis Completed</h4>
+               <h4 className={styles.h4}>Exodus is Completed</h4>
+              <h4 className={styles.h4}>Leviticus is Completed</h4>
+               <h4 className={styles.h4}>Numbers is Completed</h4>
+               <h4 className={styles.h4}> Deuteronomy is Completed</h4>
+              <h4 className={styles.h4}>This concludes the Torah (Pentateuch) </h4>
+
+The meaning of “Torah” is often restricted to signify the first five books of the Hebrew Bible (Old Testament), also called the Law (or the Pentateuch, 
+              in Christianity). 
+              These are the books traditionally ascribed to Moses, the recipient of the original revelation from God on Mount Sinai.
+              More to come on the layout...!
+              
+             <h4 className={styles.h4}>Next is the Neviʾim (Prophets)</h4>
+              <h4 className={styles.h4}>Joshua is completed </h4>  
+              <h4 className={styles.h4}>Judges is being coded NOW  </h4>    
+
+     </p>
+          </div>
+
+
+     
+
+        </div>
+</div>
+        <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
+      </main>  
+
+
+                
+
                 
   
   </div>   
