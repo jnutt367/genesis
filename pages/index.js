@@ -10344,7 +10344,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
       </main>  
 
 
-<main id="judges" className={styles.main}>
+<main id="ruth" className={styles.main}>
        
         <div className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
@@ -10352,7 +10352,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
                     <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         <h1 className={styles.title}>
-          JUDGES
+          RUTH
         </h1>
           <div className={styles.image}>
                            <Image 
@@ -10366,7 +10366,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-Judges is a time in the history of Israel that they had no king & did what they saw fit...it did not go well for them.
+Ruth is a story of loyalty. A foreign wife's loyalty to her husband's family leads on to the family line of King David, through Obed, the Father of Jesse.
            
 </p>                                                      
                   <div className={styles.nav2}>           
