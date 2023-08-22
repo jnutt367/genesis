@@ -10410,7 +10410,7 @@ Ruth is a story of loyalty. A foreign wife's loyalty to her husband's family lea
         <div className={styles.grid2}>
           
 
-   <div className={styles.card5}
+   <div className={styles.card6}
           >
             <h2 className={styles.chapter3}>Ruth Chapter I </h2>
                                 <p>
@@ -10445,7 +10445,7 @@ Then she kissed them goodbye and they wept aloud 10 and said to her, “We will 
                                </p>
   </div>
 
-   <div className={styles.card5}
+   <div className={styles.card6}
           >
             <h2 className={styles.chapter3}>Ruth Chapter II </h2>
                                 <p>
@@ -10493,7 +10493,7 @@ Then Ruth told her mother-in-law about the one at whose place she had been worki
 23 So Ruth stayed close to the women of Boaz to glean until the barley and wheat harvests were finished. And she lived with her mother-in-law.                                   </p>
                                   </div>
 
-<div className={styles.card5}
+<div className={styles.card6}
           >
             <h2 className={styles.chapter3}>Ruth Chapter III </h2>
                                 <p>
@@ -10526,7 +10526,7 @@ Then she told her everything Boaz had done for her 17 and added, “He gave me t
                                   </div>
 
 
- <div className={styles.card5}
+ <div className={styles.card6}
           >
             <h2 className={styles.chapter3}>Ruth Chapter IV </h2>
                                 <p>
@@ -10582,7 +10582,7 @@ and Jesse the father of David.
 
 
   
-          <div className={styles.card5}
+          <div className={styles.card6}
           >
             <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
             <p>
