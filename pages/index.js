@@ -10883,9 +10883,333 @@ Eli asked, “What happened, my son?”
                                    </p>
                                   </div>
 
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter V </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+
+  <div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter VI </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter VII </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>  
+
+  
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter VIII </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
 
 
 
+  <div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter IX </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>  
+
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter X </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XI </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XII</h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+
+
+  <div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XIII </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XIV </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+
+  
+  <div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XV </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+
+  <div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XVI </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XVII </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XVIII </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XIX </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XX </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XXI</h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+  
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XXII </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XXIII </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XXIV </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+
+  
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XXV </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+  
+  
+
+  <div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XXVI</h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+
+  
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XXVII </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+  
+  
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XXVIII </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XXIX </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+
+  
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XXX</h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+
+
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter XXXI </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+  
+                                   </p>
+                                  </div>  
+  
   
           <div className={styles.card6}
           >
