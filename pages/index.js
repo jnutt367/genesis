@@ -10694,34 +10694,31 @@ I Samuel is coming...
           >
             <h2 className={styles.chapter3}>I Samuel Chapter I </h2>
                                 <p>
- <h4 className={styles.h4}>Naomi Loses Her Husband and Sons</h4> 
-
-1 In the days when the judges ruled,[a] there was a famine in the land. So a man from Bethlehem in Judah, together with his wife and two sons, went to live for a while in the country of Moab. 2 The man’s name was Elimelek, his wife’s name was Naomi, and the names of his two sons were Mahlon and Kilion. They were Ephrathites from Bethlehem, Judah. And they went to Moab and lived there.
-
-3 Now Elimelek, Naomi’s husband, died, and she was left with her two sons. 4 They married Moabite women, one named Orpah and the other Ruth. After they had lived there about ten years, 5 both Mahlon and Kilion also died, and Naomi was left without her two sons and her husband.
-
-Naomi and Ruth Return to Bethlehem
-6 When Naomi heard in Moab that the Lord had come to the aid of his people by providing food for them, she and her daughters-in-law prepared to return home from there. 7 With her two daughters-in-law she left the place where she had been living and set out on the road that would take them back to the land of Judah.
-
-8 Then Naomi said to her two daughters-in-law, “Go back, each of you, to your mother’s home. May the Lord show you kindness, as you have shown kindness to your dead husbands and to me. 9 May the Lord grant that each of you will find rest in the home of another husband.”
-
-Then she kissed them goodbye and they wept aloud 10 and said to her, “We will go back with you to your people.”
-
-11 But Naomi said, “Return home, my daughters. Why would you come with me? Am I going to have any more sons, who could become your husbands? 12 Return home, my daughters; I am too old to have another husband. Even if I thought there was still hope for me—even if I had a husband tonight and then gave birth to sons— 13 would you wait until they grew up? Would you remain unmarried for them? No, my daughters. It is more bitter for me than for you, because the Lord’s hand has turned against me!”
-
-14 At this they wept aloud again. Then Orpah kissed her mother-in-law goodbye, but Ruth clung to her.
-
-15 “Look,” said Naomi, “your sister-in-law is going back to her people and her gods. Go back with her.”
-
-16 But Ruth replied, “Don’t urge me to leave you or to turn back from you. Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God. 17 Where you die I will die, and there I will be buried. May the Lord deal with me, be it ever so severely, if even death separates you and me.” 18 When Naomi realized that Ruth was determined to go with her, she stopped urging her.
-
-19 So the two women went on until they came to Bethlehem. When they arrived in Bethlehem, the whole town was stirred because of them, and the women exclaimed, “Can this be Naomi?”
-
-20 “Don’t call me Naomi,[b]” she told them. “Call me Mara,[c] because the Almighty[d] has made my life very bitter. 21 I went away full, but the Lord has brought me back empty. Why call me Naomi? The Lord has afflicted[e] me; the Almighty has brought misfortune upon me.”
-
-22 So Naomi returned from Moab accompanied by Ruth the Moabite, her daughter-in-law, arriving in Bethlehem as the barley harvest was beginning.
+ <h4 className={styles.h4}>The Birth of Samuel</h4> 
 
 
+1 There was a certain man from Ramathaim, a Zuphite[a] from the hill country of Ephraim, whose name was Elkanah son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite. 2 He had two wives; one was called Hannah and the other Peninnah. Peninnah had children, but Hannah had none.
+
+3 Year after year this man went up from his town to worship and sacrifice to the Lord Almighty at Shiloh, where Hophni and Phinehas, the two sons of Eli, were priests of the Lord. 4 Whenever the day came for Elkanah to sacrifice, he would give portions of the meat to his wife Peninnah and to all her sons and daughters. 5 But to Hannah he gave a double portion because he loved her, and the Lord had closed her womb. 6 Because the Lord had closed Hannah’s womb, her rival kept provoking her in order to irritate her. 7 This went on year after year. Whenever Hannah went up to the house of the Lord, her rival provoked her till she wept and would not eat. 8 Her husband Elkanah would say to her, “Hannah, why are you weeping? Why don’t you eat? Why are you downhearted? Don’t I mean more to you than ten sons?”
+
+9 Once when they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on his chair by the doorpost of the Lord’s house. 10 In her deep anguish Hannah prayed to the Lord, weeping bitterly. 11 And she made a vow, saying, “Lord Almighty, if you will only look on your servant’s misery and remember me, and not forget your servant but give her a son, then I will give him to the Lord for all the days of his life, and no razor will ever be used on his head.”
+
+12 As she kept on praying to the Lord, Eli observed her mouth. 13 Hannah was praying in her heart, and her lips were moving but her voice was not heard. Eli thought she was drunk 14 and said to her, “How long are you going to stay drunk? Put away your wine.”
+
+15 “Not so, my lord,” Hannah replied, “I am a woman who is deeply troubled. I have not been drinking wine or beer; I was pouring out my soul to the Lord. 16 Do not take your servant for a wicked woman; I have been praying here out of my great anguish and grief.”
+
+17 Eli answered, “Go in peace, and may the God of Israel grant you what you have asked of him.”
+
+18 She said, “May your servant find favor in your eyes.” Then she went her way and ate something, and her face was no longer downcast.
+
+19 Early the next morning they arose and worshiped before the Lord and then went back to their home at Ramah. Elkanah made love to his wife Hannah, and the Lord remembered her. 20 So in the course of time Hannah became pregnant and gave birth to a son. She named him Samuel,[b] saying, “Because I asked the Lord for him.”
+
+Hannah Dedicates Samuel
+21 When her husband Elkanah went up with all his family to offer the annual sacrifice to the Lord and to fulfill his vow, 22 Hannah did not go. She said to her husband, “After the boy is weaned, I will take him and present him before the Lord, and he will live there always.”[c]
+
+23 “Do what seems best to you,” her husband Elkanah told her. “Stay here until you have weaned him; only may the Lord make good his[d] word.” So the woman stayed at home and nursed her son until she had weaned him.
+
+24 After he was weaned, she took the boy with her, young as he was, along with a three-year-old bull,[e] an ephah[f] of flour and a skin of wine, and brought him to the house of the Lord at Shiloh. 25 When the bull had been sacrificed, they brought the boy to Eli, 26 and she said to him, “Pardon me, my lord. As surely as you live, I am the woman who stood here beside you praying to the Lord. 27 I prayed for this child, and the Lord has granted me what I asked of him. 28 So now I give him to the Lord. For his whole life he will be given over to the Lord.” And he worshiped the Lord there.
                                </p>
   </div>
 
@@ -10729,79 +10726,119 @@ Then she kissed them goodbye and they wept aloud 10 and said to her, “We will 
           >
             <h2 className={styles.chapter3}>I Samuel Chapter II </h2>
                                 <p>
- <h4 className={styles.h4}>Ruth Meets Boaz in the Grain Field</h4> 
+ <h4 className={styles.h4}>Hannah’s Prayer</h4> 
 
 
-2 Now Naomi had a relative on her husband’s side, a man of standing from the clan of Elimelek, whose name was Boaz.
 
-2 And Ruth the Moabite said to Naomi, “Let me go to the fields and pick up the leftover grain behind anyone in whose eyes I find favor.”
+2 Then Hannah prayed and said:
 
-Naomi said to her, “Go ahead, my daughter.” 3 So she went out, entered a field and began to glean behind the harvesters. As it turned out, she was working in a field belonging to Boaz, who was from the clan of Elimelek.
+“My heart rejoices in the Lord;
+    in the Lord my horn[a] is lifted high.
+My mouth boasts over my enemies,
+    for I delight in your deliverance.
 
-4 Just then Boaz arrived from Bethlehem and greeted the harvesters, “The Lord be with you!”
+2 “There is no one holy like the Lord;
+    there is no one besides you;
+    there is no Rock like our God.
 
-“The Lord bless you!” they answered.
+3 “Do not keep talking so proudly
+    or let your mouth speak such arrogance,
+for the Lord is a God who knows,
+    and by him deeds are weighed.
 
-5 Boaz asked the overseer of his harvesters, “Who does that young woman belong to?”
+4 “The bows of the warriors are broken,
+    but those who stumbled are armed with strength.
+5 Those who were full hire themselves out for food,
+    but those who were hungry are hungry no more.
+She who was barren has borne seven children,
+    but she who has had many sons pines away.
 
-6 The overseer replied, “She is the Moabite who came back from Moab with Naomi. 7 She said, ‘Please let me glean and gather among the sheaves behind the harvesters.’ She came into the field and has remained here from morning till now, except for a short rest in the shelter.”
+6 “The Lord brings death and makes alive;
+    he brings down to the grave and raises up.
+7 The Lord sends poverty and wealth;
+    he humbles and he exalts.
+8 He raises the poor from the dust
+    and lifts the needy from the ash heap;
+he seats them with princes
+    and has them inherit a throne of honor.
 
-8 So Boaz said to Ruth, “My daughter, listen to me. Don’t go and glean in another field and don’t go away from here. Stay here with the women who work for me. 9 Watch the field where the men are harvesting, and follow along after the women. I have told the men not to lay a hand on you. And whenever you are thirsty, go and get a drink from the water jars the men have filled.”
+“For the foundations of the earth are the Lord’s;
+    on them he has set the world.
+9 He will guard the feet of his faithful servants,
+    but the wicked will be silenced in the place of darkness.
 
-10 At this, she bowed down with her face to the ground. She asked him, “Why have I found such favor in your eyes that you notice me—a foreigner?”
+“It is not by strength that one prevails;
+10     those who oppose the Lord will be broken.
+The Most High will thunder from heaven;
+    the Lord will judge the ends of the earth.
 
-11 Boaz replied, “I’ve been told all about what you have done for your mother-in-law since the death of your husband—how you left your father and mother and your homeland and came to live with a people you did not know before. 12 May the Lord repay you for what you have done. May you be richly rewarded by the Lord, the God of Israel, under whose wings you have come to take refuge.”
+“He will give strength to his king
+    and exalt the horn of his anointed.”
 
-13 “May I continue to find favor in your eyes, my lord,” she said. “You have put me at ease by speaking kindly to your servant—though I do not have the standing of one of your servants.”
+11 Then Elkanah went home to Ramah, but the boy ministered before the Lord under Eli the priest.
 
-14 At mealtime Boaz said to her, “Come over here. Have some bread and dip it in the wine vinegar.”
+Eli’s Wicked Sons
+12 Eli’s sons were scoundrels; they had no regard for the Lord. 13 Now it was the practice of the priests that, whenever any of the people offered a sacrifice, the priest’s servant would come with a three-pronged fork in his hand while the meat was being boiled 14 and would plunge the fork into the pan or kettle or caldron or pot. Whatever the fork brought up the priest would take for himself. This is how they treated all the Israelites who came to Shiloh. 15 But even before the fat was burned, the priest’s servant would come and say to the person who was sacrificing, “Give the priest some meat to roast; he won’t accept boiled meat from you, but only raw.”
 
-When she sat down with the harvesters, he offered her some roasted grain. She ate all she wanted and had some left over. 15 As she got up to glean, Boaz gave orders to his men, “Let her gather among the sheaves and don’t reprimand her. 16 Even pull out some stalks for her from the bundles and leave them for her to pick up, and don’t rebuke her.”
+16 If the person said to him, “Let the fat be burned first, and then take whatever you want,” the servant would answer, “No, hand it over now; if you don’t, I’ll take it by force.”
 
-17 So Ruth gleaned in the field until evening. Then she threshed the barley she had gathered, and it amounted to about an ephah.[a] 18 She carried it back to town, and her mother-in-law saw how much she had gathered. Ruth also brought out and gave her what she had left over after she had eaten enough.
+17 This sin of the young men was very great in the Lord’s sight, for they[b] were treating the Lord’s offering with contempt.
 
-19 Her mother-in-law asked her, “Where did you glean today? Where did you work? Blessed be the man who took notice of you!”
+18 But Samuel was ministering before the Lord—a boy wearing a linen ephod. 19 Each year his mother made him a little robe and took it to him when she went up with her husband to offer the annual sacrifice. 20 Eli would bless Elkanah and his wife, saying, “May the Lord give you children by this woman to take the place of the one she prayed for and gave to[c] the Lord.” Then they would go home. 21 And the Lord was gracious to Hannah; she gave birth to three sons and two daughters. Meanwhile, the boy Samuel grew up in the presence of the Lord.
 
-Then Ruth told her mother-in-law about the one at whose place she had been working. “The name of the man I worked with today is Boaz,” she said.
+22 Now Eli, who was very old, heard about everything his sons were doing to all Israel and how they slept with the women who served at the entrance to the tent of meeting. 23 So he said to them, “Why do you do such things? I hear from all the people about these wicked deeds of yours. 24 No, my sons; the report I hear spreading among the Lord’s people is not good. 25 If one person sins against another, God[d] may mediate for the offender; but if anyone sins against the Lord, who will intercede for them?” His sons, however, did not listen to their father’s rebuke, for it was the Lord’s will to put them to death.
 
-20 “The Lord bless him!” Naomi said to her daughter-in-law. “He has not stopped showing his kindness to the living and the dead.” She added, “That man is our close relative; he is one of our guardian-redeemers.[b]”
+26 And the boy Samuel continued to grow in stature and in favor with the Lord and with people.
 
-21 Then Ruth the Moabite said, “He even said to me, ‘Stay with my workers until they finish harvesting all my grain.’”
+Prophecy Against the House of Eli
+27 Now a man of God came to Eli and said to him, “This is what the Lord says: ‘Did I not clearly reveal myself to your ancestor’s family when they were in Egypt under Pharaoh? 28 I chose your ancestor out of all the tribes of Israel to be my priest, to go up to my altar, to burn incense, and to wear an ephod in my presence. I also gave your ancestor’s family all the food offerings presented by the Israelites. 29 Why do you[e] scorn my sacrifice and offering that I prescribed for my dwelling? Why do you honor your sons more than me by fattening yourselves on the choice parts of every offering made by my people Israel?’
 
-22 Naomi said to Ruth her daughter-in-law, “It will be good for you, my daughter, to go with the women who work for him, because in someone else’s field you might be harmed.”
+30 “Therefore the Lord, the God of Israel, declares: ‘I promised that members of your family would minister before me forever.’ But now the Lord declares: ‘Far be it from me! Those who honor me I will honor, but those who despise me will be disdained. 31 The time is coming when I will cut short your strength and the strength of your priestly house, so that no one in it will reach old age, 32 and you will see distress in my dwelling. Although good will be done to Israel, no one in your family line will ever reach old age. 33 Every one of you that I do not cut off from serving at my altar I will spare only to destroy your sight and sap your strength, and all your descendants will die in the prime of life.
 
-23 So Ruth stayed close to the women of Boaz to glean until the barley and wheat harvests were finished. And she lived with her mother-in-law.                                   </p>
+34 “‘And what happens to your two sons, Hophni and Phinehas, will be a sign to you—they will both die on the same day. 35 I will raise up for myself a faithful priest, who will do according to what is in my heart and mind. I will firmly establish his priestly house, and they will minister before my anointed one always. 36 Then everyone left in your family line will come and bow down before him for a piece of silver and a loaf of bread and plead, “Appoint me to some priestly office so I can have food to eat.”’”
+  
+                                            </p>
                                   </div>
 
 <div className={styles.card6}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter III </h2>
                                 <p>
- <h4 className={styles.h4}>Ruth and Boaz at the Threshing Floor</h4> 
+ <h4 className={styles.h4}>The Lord Calls Samuel</h4> 
 
 
-3 One day Ruth’s mother-in-law Naomi said to her, “My daughter, I must find a home[a] for you, where you will be well provided for. 2 Now Boaz, with whose women you have worked, is a relative of ours. Tonight he will be winnowing barley on the threshing floor. 3 Wash, put on perfume, and get dressed in your best clothes. Then go down to the threshing floor, but don’t let him know you are there until he has finished eating and drinking. 4 When he lies down, note the place where he is lying. Then go and uncover his feet and lie down. He will tell you what to do.”
 
-5 “I will do whatever you say,” Ruth answered. 6 So she went down to the threshing floor and did everything her mother-in-law told her to do.
+3 The boy Samuel ministered before the Lord under Eli. In those days the word of the Lord was rare; there were not many visions.
 
-7 When Boaz had finished eating and drinking and was in good spirits, he went over to lie down at the far end of the grain pile. Ruth approached quietly, uncovered his feet and lay down. 8 In the middle of the night something startled the man; he turned—and there was a woman lying at his feet!
+2 One night Eli, whose eyes were becoming so weak that he could barely see, was lying down in his usual place. 3 The lamp of God had not yet gone out, and Samuel was lying down in the house of the Lord, where the ark of God was. 4 Then the Lord called Samuel.
 
-9 “Who are you?” he asked.
+Samuel answered, “Here I am.” 5 And he ran to Eli and said, “Here I am; you called me.”
 
-“I am your servant Ruth,” she said. “Spread the corner of your garment over me, since you are a guardian-redeemer[b] of our family.”
+But Eli said, “I did not call; go back and lie down.” So he went and lay down.
 
-10 “The Lord bless you, my daughter,” he replied. “This kindness is greater than that which you showed earlier: You have not run after the younger men, whether rich or poor. 11 And now, my daughter, don’t be afraid. I will do for you all you ask. All the people of my town know that you are a woman of noble character. 12 Although it is true that I am a guardian-redeemer of our family, there is another who is more closely related than I. 13 Stay here for the night, and in the morning if he wants to do his duty as your guardian-redeemer, good; let him redeem you. But if he is not willing, as surely as the Lord lives I will do it. Lie here until morning.”
+6 Again the Lord called, “Samuel!” And Samuel got up and went to Eli and said, “Here I am; you called me.”
 
-14 So she lay at his feet until morning, but got up before anyone could be recognized; and he said, “No one must know that a woman came to the threshing floor.”
+“My son,” Eli said, “I did not call; go back and lie down.”
 
-15 He also said, “Bring me the shawl you are wearing and hold it out.” When she did so, he poured into it six measures of barley and placed the bundle on her. Then he[c] went back to town.
+7 Now Samuel did not yet know the Lord: The word of the Lord had not yet been revealed to him.
 
-16 When Ruth came to her mother-in-law, Naomi asked, “How did it go, my daughter?”
+8 A third time the Lord called, “Samuel!” And Samuel got up and went to Eli and said, “Here I am; you called me.”
 
-Then she told her everything Boaz had done for her 17 and added, “He gave me these six measures of barley, saying, ‘Don’t go back to your mother-in-law empty-handed.’”
+Then Eli realized that the Lord was calling the boy. 9 So Eli told Samuel, “Go and lie down, and if he calls you, say, ‘Speak, Lord, for your servant is listening.’” So Samuel went and lay down in his place.
 
-18 Then Naomi said, “Wait, my daughter, until you find out what happens. For the man will not rest until the matter is settled today.”
+10 The Lord came and stood there, calling as at the other times, “Samuel! Samuel!”
 
+Then Samuel said, “Speak, for your servant is listening.”
+
+11 And the Lord said to Samuel: “See, I am about to do something in Israel that will make the ears of everyone who hears about it tingle. 12 At that time I will carry out against Eli everything I spoke against his family—from beginning to end. 13 For I told him that I would judge his family forever because of the sin he knew about; his sons blasphemed God,[a] and he failed to restrain them. 14 Therefore I swore to the house of Eli, ‘The guilt of Eli’s house will never be atoned for by sacrifice or offering.’”
+
+15 Samuel lay down until morning and then opened the doors of the house of the Lord. He was afraid to tell Eli the vision, 16 but Eli called him and said, “Samuel, my son.”
+
+Samuel answered, “Here I am.”
+
+17 “What was it he said to you?” Eli asked. “Do not hide it from me. May God deal with you, be it ever so severely, if you hide from me anything he told you.” 18 So Samuel told him everything, hiding nothing from him. Then Eli said, “He is the Lord; let him do what is good in his eyes.”
+
+19 The Lord was with Samuel as he grew up, and he let none of Samuel’s words fall to the ground. 20 And all Israel from Dan to Beersheba recognized that Samuel was attested as a prophet of the Lord. 21 The Lord continued to appear at Shiloh, and there he revealed himself to Samuel through his word.
                               </p>
                                   </div>
 
@@ -10810,51 +10847,39 @@ Then she told her everything Boaz had done for her 17 and added, “He gave me t
           >
             <h2 className={styles.chapter3}>I Samuel Chapter IV </h2>
                                 <p>
- <h4 className={styles.h4}>Boaz Marries Ruth</h4> 
+ <h4 className={styles.h4}>The Philistines Capture the Ark</h4> 
 
-4 Meanwhile Boaz went up to the town gate and sat down there just as the guardian-redeemer[a] he had mentioned came along. Boaz said, “Come over here, my friend, and sit down.” So he went over and sat down.
+4 And Samuel’s word came to all Israel.
 
-2 Boaz took ten of the elders of the town and said, “Sit here,” and they did so. 3 Then he said to the guardian-redeemer, “Naomi, who has come back from Moab, is selling the piece of land that belonged to our relative Elimelek. 4 I thought I should bring the matter to your attention and suggest that you buy it in the presence of these seated here and in the presence of the elders of my people. If you will redeem it, do so. But if you[b] will not, tell me, so I will know. For no one has the right to do it except you, and I am next in line.”
+The Philistines Capture the Ark
+Now the Israelites went out to fight against the Philistines. The Israelites camped at Ebenezer, and the Philistines at Aphek. 2 The Philistines deployed their forces to meet Israel, and as the battle spread, Israel was defeated by the Philistines, who killed about four thousand of them on the battlefield. 3 When the soldiers returned to camp, the elders of Israel asked, “Why did the Lord bring defeat on us today before the Philistines? Let us bring the ark of the Lord’s covenant from Shiloh, so that he may go with us and save us from the hand of our enemies.”
 
-“I will redeem it,” he said.
+4 So the people sent men to Shiloh, and they brought back the ark of the covenant of the Lord Almighty, who is enthroned between the cherubim. And Eli’s two sons, Hophni and Phinehas, were there with the ark of the covenant of God.
 
-5 Then Boaz said, “On the day you buy the land from Naomi, you also acquire Ruth the Moabite, the[c] dead man’s widow, in order to maintain the name of the dead with his property.”
+5 When the ark of the Lord’s covenant came into the camp, all Israel raised such a great shout that the ground shook. 6 Hearing the uproar, the Philistines asked, “What’s all this shouting in the Hebrew camp?”
 
-6 At this, the guardian-redeemer said, “Then I cannot redeem it because I might endanger my own estate. You redeem it yourself. I cannot do it.”
+When they learned that the ark of the Lord had come into the camp, 7 the Philistines were afraid. “A god has[a] come into the camp,” they said. “Oh no! Nothing like this has happened before. 8 We’re doomed! Who will deliver us from the hand of these mighty gods? They are the gods who struck the Egyptians with all kinds of plagues in the wilderness. 9 Be strong, Philistines! Be men, or you will be subject to the Hebrews, as they have been to you. Be men, and fight!”
 
-7 (Now in earlier times in Israel, for the redemption and transfer of property to become final, one party took off his sandal and gave it to the other. This was the method of legalizing transactions in Israel.)
+10 So the Philistines fought, and the Israelites were defeated and every man fled to his tent. The slaughter was very great; Israel lost thirty thousand foot soldiers. 11 The ark of God was captured, and Eli’s two sons, Hophni and Phinehas, died.
 
-8 So the guardian-redeemer said to Boaz, “Buy it yourself.” And he removed his sandal.
+Death of Eli
+12 That same day a Benjamite ran from the battle line and went to Shiloh with his clothes torn and dust on his head. 13 When he arrived, there was Eli sitting on his chair by the side of the road, watching, because his heart feared for the ark of God. When the man entered the town and told what had happened, the whole town sent up a cry.
 
-9 Then Boaz announced to the elders and all the people, “Today you are witnesses that I have bought from Naomi all the property of Elimelek, Kilion and Mahlon. 10 I have also acquired Ruth the Moabite, Mahlon’s widow, as my wife, in order to maintain the name of the dead with his property, so that his name will not disappear from among his family or from his hometown. Today you are witnesses!”
+14 Eli heard the outcry and asked, “What is the meaning of this uproar?”
 
-11 Then the elders and all the people at the gate said, “We are witnesses. May the Lord make the woman who is coming into your home like Rachel and Leah, who together built up the family of Israel. May you have standing in Ephrathah and be famous in Bethlehem. 12 Through the offspring the Lord gives you by this young woman, may your family be like that of Perez, whom Tamar bore to Judah.”
+The man hurried over to Eli, 15 who was ninety-eight years old and whose eyes had failed so that he could not see. 16 He told Eli, “I have just come from the battle line; I fled from it this very day.”
 
-Naomi Gains a Son
-13 So Boaz took Ruth and she became his wife. When he made love to her, the Lord enabled her to conceive, and she gave birth to a son. 14 The women said to Naomi: “Praise be to the Lord, who this day has not left you without a guardian-redeemer. May he become famous throughout Israel! 15 He will renew your life and sustain you in your old age. For your daughter-in-law, who loves you and who is better to you than seven sons, has given him birth.”
+Eli asked, “What happened, my son?”
 
-16 Then Naomi took the child in her arms and cared for him. 17 The women living there said, “Naomi has a son!” And they named him Obed. He was the father of Jesse, the father of David.
+17 The man who brought the news replied, “Israel fled before the Philistines, and the army has suffered heavy losses. Also your two sons, Hophni and Phinehas, are dead, and the ark of God has been captured.”
 
-The Genealogy of David
-18 This, then, is the family line of Perez:
+18 When he mentioned the ark of God, Eli fell backward off his chair by the side of the gate. His neck was broken and he died, for he was an old man, and he was heavy. He had led[b] Israel forty years.
 
-Perez was the father of Hezron,
+19 His daughter-in-law, the wife of Phinehas, was pregnant and near the time of delivery. When she heard the news that the ark of God had been captured and that her father-in-law and her husband were dead, she went into labor and gave birth, but was overcome by her labor pains. 20 As she was dying, the women attending her said, “Don’t despair; you have given birth to a son.” But she did not respond or pay any attention.
 
-19 Hezron the father of Ram,
+21 She named the boy Ichabod,[c] saying, “The Glory has departed from Israel”—because of the capture of the ark of God and the deaths of her father-in-law and her husband. 22 She said, “The Glory has departed from Israel, for the ark of God has been captured.”
 
-Ram the father of Amminadab,
 
-20 Amminadab the father of Nahshon,
-
-Nahshon the father of Salmon,[d]
-
-21 Salmon the father of Boaz,
-
-Boaz the father of Obed,
-
-22 Obed the father of Jesse,
-
-and Jesse the father of David.
                                    </p>
                                   </div>
 
