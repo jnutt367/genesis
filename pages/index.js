@@ -10646,7 +10646,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-I Samuel is coming...
+I Samuel records the lives of Samuel & Saul. Also much of the life of King David
            
 </p>                                                      
                   <div className={styles.nav2}>           
