@@ -10722,7 +10722,7 @@ Hannah Dedicates Samuel
                                </p>
   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter II </h2>
                                 <p>
@@ -10843,7 +10843,7 @@ Samuel answered, “Here I am.”
                                   </div>
 
 
- <div className={styles.card3}
+ <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter IV </h2>
                                 <p>
@@ -10905,7 +10905,7 @@ As the ark of God was entering Ekron, the people of Ekron cried out, “They hav
                                   </div>
 
 
-  <div className={styles.card3}
+  <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter VI </h2>
                                 <p>
@@ -10960,7 +10960,7 @@ Then all the people of Israel turned back to the Lord. 3 So Samuel said to all t
                                   </div>  
 
   
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter VIII </h2>
                                 <p>
@@ -11033,7 +11033,7 @@ Then Samuel said to the Israelites, “Everyone go back to your own town.”
                                   </div>  
 
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter X </h2>
                                 <p>
@@ -11107,7 +11107,7 @@ Saul Confirmed as King
                                   </div>
 
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter XII</h2>
                                 <p>
@@ -11179,7 +11179,7 @@ Jonathan Attacks the Philistines
                                    </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter XIV </h2>
                                 <p>
@@ -11328,7 +11328,7 @@ And Samuel put Agag to death before the Lord at Gilgal.
                                   </div>
 
 
-  <div className={styles.card3}
+  <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter XVI </h2>
                                 <p>
@@ -11449,7 +11449,7 @@ David said, “I am the son of your servant Jesse of Bethlehem.”
                                    </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter XVIII </h2>
                                 <p>
@@ -11530,7 +11530,7 @@ Michal told him, “He said to me, ‘Let me get away. Why should I kill you?’
                                    </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter XX </h2>
                                 <p>
@@ -11615,7 +11615,7 @@ David at Gath
                                   </div>
   
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter XXII </h2>
                                 <p>
@@ -11696,7 +11696,7 @@ And the Lord said, “They will.”
                                    </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter XXIV </h2>
                                 <p>
@@ -11771,7 +11771,7 @@ Then David sent word to Abigail, asking her to become his wife. 40 His servants 
   
   
 
-  <div className={styles.card3}
+  <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter XXVI</h2>
                                 <p>
@@ -11842,7 +11842,7 @@ So David went on his way, and Saul returned home.
   
   
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter XXVIII </h2>
                                 <p>
@@ -11932,7 +11932,7 @@ Achish replied, “Is this not David, who was an officer of Saul king of Israel?
 
   
 
-<div className={styles.card3}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>I Samuel Chapter XXX</h2>
                                 <p>
@@ -11996,7 +11996,7 @@ But his armor-bearer was terrified and would not do it; so Saul took his own swo
                                   </div>  
   
   
-          <div className={styles.card3}
+          <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
             <p>
