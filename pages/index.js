@@ -12037,6 +12037,647 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                 
 
+<main id="second_samuel" className={styles.main}>
+       
+        <div className={styles.hero}>
+                <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+        <h1 className={styles.title}>
+       II SAMUEL
+        </h1>
+          <div className={styles.image}>
+                           <Image 
+                                                    src="/second_samuel.png"
+                                                    alt="hero image for Leviticus"
+                                                    height={900}
+                                                    width={2000}
+                                                    priority
+                                                  />
+                          
+
+                        </div>
+    <p className={styles.parables}>
+II Samuel is coming soon...
+           
+</p>                                                      
+                  <div className={styles.nav2}>           
+      <a href="https://mytorah.vercel.app/#numbers">
+             <Image 
+                                src="/previous.webp"
+                                alt="prev"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>
+
+        
+      <a href="https://cash.app/$JNutt367">
+              <Image className={styles.arrow}
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+         <a href="https://mytorah.vercel.app/#joshua">
+           <Image 
+                                src="/next.webp"
+                                alt="next"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+           
+        </a> 
+         
+               </div>
+                                 <div className={styles.iframe}> 
+                                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/YvoWDXNDJgs?si=YRjfjUQYXgq8BpXa?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                  </div>
+                                  
+                              
+        <div className={styles.grid2}>
+          
+
+   <div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter I </h2>
+                                <p>
+ <h4 className={styles.h4}>David Hears of Saul’s Death</h4> 
+
+
+1 After the death of Saul, David returned from striking down the Amalekites and stayed in Ziklag two days. 2 On the third day a man arrived from Saul’s camp with his clothes torn and dust on his head. When he came to David, he fell to the ground to pay him honor.
+
+3 “Where have you come from?” David asked him.
+
+He answered, “I have escaped from the Israelite camp.”
+
+4 “What happened?” David asked. “Tell me.”
+
+“The men fled from the battle,” he replied. “Many of them fell and died. And Saul and his son Jonathan are dead.”
+
+5 Then David said to the young man who brought him the report, “How do you know that Saul and his son Jonathan are dead?”
+
+6 “I happened to be on Mount Gilboa,” the young man said, “and there was Saul, leaning on his spear, with the chariots and their drivers in hot pursuit. 7 When he turned around and saw me, he called out to me, and I said, ‘What can I do?’
+
+8 “He asked me, ‘Who are you?’
+
+“‘An Amalekite,’ I answered.
+
+9 “Then he said to me, ‘Stand here by me and kill me! I’m in the throes of death, but I’m still alive.’
+
+10 “So I stood beside him and killed him, because I knew that after he had fallen he could not survive. And I took the crown that was on his head and the band on his arm and have brought them here to my lord.”
+
+11 Then David and all the men with him took hold of their clothes and tore them. 12 They mourned and wept and fasted till evening for Saul and his son Jonathan, and for the army of the Lord and for the nation of Israel, because they had fallen by the sword.
+
+13 David said to the young man who brought him the report, “Where are you from?”
+
+“I am the son of a foreigner, an Amalekite,” he answered.
+
+14 David asked him, “Why weren’t you afraid to lift your hand to destroy the Lord’s anointed?”
+
+15 Then David called one of his men and said, “Go, strike him down!” So he struck him down, and he died. 16 For David had said to him, “Your blood be on your own head. Your own mouth testified against you when you said, ‘I killed the Lord’s anointed.’”
+
+David’s Lament for Saul and Jonathan
+17 David took up this lament concerning Saul and his son Jonathan, 18 and he ordered that the people of Judah be taught this lament of the bow (it is written in the Book of Jashar):
+
+19 “A gazelle[a] lies slain on your heights, Israel.
+    How the mighty have fallen!
+
+20 “Tell it not in Gath,
+    proclaim it not in the streets of Ashkelon,
+lest the daughters of the Philistines be glad,
+    lest the daughters of the uncircumcised rejoice.
+
+21 “Mountains of Gilboa,
+    may you have neither dew nor rain,
+    may no showers fall on your terraced fields.[b]
+For there the shield of the mighty was despised,
+    the shield of Saul—no longer rubbed with oil.
+
+22 “From the blood of the slain,
+    from the flesh of the mighty,
+the bow of Jonathan did not turn back,
+    the sword of Saul did not return unsatisfied.
+23 Saul and Jonathan—
+    in life they were loved and admired,
+    and in death they were not parted.
+They were swifter than eagles,
+    they were stronger than lions.
+
+24 “Daughters of Israel,
+    weep for Saul,
+who clothed you in scarlet and finery,
+    who adorned your garments with ornaments of gold.
+
+25 “How the mighty have fallen in battle!
+    Jonathan lies slain on your heights.
+26 I grieve for you, Jonathan my brother;
+    you were very dear to me.
+Your love for me was wonderful,
+    more wonderful than that of women.
+
+27 “How the mighty have fallen!
+    The weapons of war have perished!”
+                                  
+                                   </p>
+  </div>
+
+   <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter II </h2>
+                                <p>
+ <h4 className={styles.h4}>David Anointed King Over Judah</h4> 
+
+
+2 In the course of time, David inquired of the Lord. “Shall I go up to one of the towns of Judah?” he asked.
+
+The Lord said, “Go up.”
+
+David asked, “Where shall I go?”
+
+“To Hebron,” the Lord answered.
+
+2 So David went up there with his two wives, Ahinoam of Jezreel and Abigail, the widow of Nabal of Carmel. 3 David also took the men who were with him, each with his family, and they settled in Hebron and its towns. 4 Then the men of Judah came to Hebron, and there they anointed David king over the tribe of Judah.
+
+When David was told that it was the men from Jabesh Gilead who had buried Saul, 5 he sent messengers to them to say to them, “The Lord bless you for showing this kindness to Saul your master by burying him. 6 May the Lord now show you kindness and faithfulness, and I too will show you the same favor because you have done this. 7 Now then, be strong and brave, for Saul your master is dead, and the people of Judah have anointed me king over them.”
+
+War Between the Houses of David and Saul
+8 Meanwhile, Abner son of Ner, the commander of Saul’s army, had taken Ish-Bosheth son of Saul and brought him over to Mahanaim. 9 He made him king over Gilead, Ashuri and Jezreel, and also over Ephraim, Benjamin and all Israel.
+
+10 Ish-Bosheth son of Saul was forty years old when he became king over Israel, and he reigned two years. The tribe of Judah, however, remained loyal to David. 11 The length of time David was king in Hebron over Judah was seven years and six months.
+
+12 Abner son of Ner, together with the men of Ish-Bosheth son of Saul, left Mahanaim and went to Gibeon. 13 Joab son of Zeruiah and David’s men went out and met them at the pool of Gibeon. One group sat down on one side of the pool and one group on the other side.
+
+14 Then Abner said to Joab, “Let’s have some of the young men get up and fight hand to hand in front of us.”
+
+“All right, let them do it,” Joab said.
+
+15 So they stood up and were counted off—twelve men for Benjamin and Ish-Bosheth son of Saul, and twelve for David. 16 Then each man grabbed his opponent by the head and thrust his dagger into his opponent’s side, and they fell down together. So that place in Gibeon was called Helkath Hazzurim.[a]
+
+17 The battle that day was very fierce, and Abner and the Israelites were defeated by David’s men.
+
+18 The three sons of Zeruiah were there: Joab, Abishai and Asahel. Now Asahel was as fleet-footed as a wild gazelle. 19 He chased Abner, turning neither to the right nor to the left as he pursued him. 20 Abner looked behind him and asked, “Is that you, Asahel?”
+
+“It is,” he answered.
+
+21 Then Abner said to him, “Turn aside to the right or to the left; take on one of the young men and strip him of his weapons.” But Asahel would not stop chasing him.
+
+22 Again Abner warned Asahel, “Stop chasing me! Why should I strike you down? How could I look your brother Joab in the face?”
+
+23 But Asahel refused to give up the pursuit; so Abner thrust the butt of his spear into Asahel’s stomach, and the spear came out through his back. He fell there and died on the spot. And every man stopped when he came to the place where Asahel had fallen and died.
+
+24 But Joab and Abishai pursued Abner, and as the sun was setting, they came to the hill of Ammah, near Giah on the way to the wasteland of Gibeon. 25 Then the men of Benjamin rallied behind Abner. They formed themselves into a group and took their stand on top of a hill.
+
+26 Abner called out to Joab, “Must the sword devour forever? Don’t you realize that this will end in bitterness? How long before you order your men to stop pursuing their fellow Israelites?”
+
+27 Joab answered, “As surely as God lives, if you had not spoken, the men would have continued pursuing them until morning.”
+
+28 So Joab blew the trumpet, and all the troops came to a halt; they no longer pursued Israel, nor did they fight anymore.
+
+29 All that night Abner and his men marched through the Arabah. They crossed the Jordan, continued through the morning hours[b] and came to Mahanaim.
+
+30 Then Joab stopped pursuing Abner and assembled the whole army. Besides Asahel, nineteen of David’s men were found missing. 31 But David’s men had killed three hundred and sixty Benjamites who were with Abner. 32 They took Asahel and buried him in his father’s tomb at Bethlehem. Then Joab and his men marched all night and arrived at Hebron by daybreak.
+
+
+                                            </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter III </h2>
+                                <p>
+ <h4 className={styles.h4}>Sons were born to David in Hebron:</h4> 
+
+3 The war between the house of Saul and the house of David lasted a long time. David grew stronger and stronger, while the house of Saul grew weaker and weaker.
+
+2 Sons were born to David in Hebron:
+
+His firstborn was Amnon the son of Ahinoam of Jezreel;
+
+3 his second, Kileab the son of Abigail the widow of Nabal of Carmel;
+
+the third, Absalom the son of Maakah daughter of Talmai king of Geshur;
+
+4 the fourth, Adonijah the son of Haggith;
+
+the fifth, Shephatiah the son of Abital;
+
+5 and the sixth, Ithream the son of David’s wife Eglah.
+
+These were born to David in Hebron.
+
+Abner Goes Over to David
+6 During the war between the house of Saul and the house of David, Abner had been strengthening his own position in the house of Saul. 7 Now Saul had had a concubine named Rizpah daughter of Aiah. And Ish-Bosheth said to Abner, “Why did you sleep with my father’s concubine?”
+
+8 Abner was very angry because of what Ish-Bosheth said. So he answered, “Am I a dog’s head—on Judah’s side? This very day I am loyal to the house of your father Saul and to his family and friends. I haven’t handed you over to David. Yet now you accuse me of an offense involving this woman! 9 May God deal with Abner, be it ever so severely, if I do not do for David what the Lord promised him on oath 10 and transfer the kingdom from the house of Saul and establish David’s throne over Israel and Judah from Dan to Beersheba.” 11 Ish-Bosheth did not dare to say another word to Abner, because he was afraid of him.
+
+12 Then Abner sent messengers on his behalf to say to David, “Whose land is it? Make an agreement with me, and I will help you bring all Israel over to you.”
+
+13 “Good,” said David. “I will make an agreement with you. But I demand one thing of you: Do not come into my presence unless you bring Michal daughter of Saul when you come to see me.” 14 Then David sent messengers to Ish-Bosheth son of Saul, demanding, “Give me my wife Michal, whom I betrothed to myself for the price of a hundred Philistine foreskins.”
+
+15 So Ish-Bosheth gave orders and had her taken away from her husband Paltiel son of Laish. 16 Her husband, however, went with her, weeping behind her all the way to Bahurim. Then Abner said to him, “Go back home!” So he went back.
+
+17 Abner conferred with the elders of Israel and said, “For some time you have wanted to make David your king. 18 Now do it! For the Lord promised David, ‘By my servant David I will rescue my people Israel from the hand of the Philistines and from the hand of all their enemies.’”
+
+19 Abner also spoke to the Benjamites in person. Then he went to Hebron to tell David everything that Israel and the whole tribe of Benjamin wanted to do. 20 When Abner, who had twenty men with him, came to David at Hebron, David prepared a feast for him and his men. 21 Then Abner said to David, “Let me go at once and assemble all Israel for my lord the king, so that they may make a covenant with you, and that you may rule over all that your heart desires.” So David sent Abner away, and he went in peace.
+
+Joab Murders Abner
+22 Just then David’s men and Joab returned from a raid and brought with them a great deal of plunder. But Abner was no longer with David in Hebron, because David had sent him away, and he had gone in peace. 23 When Joab and all the soldiers with him arrived, he was told that Abner son of Ner had come to the king and that the king had sent him away and that he had gone in peace.
+
+24 So Joab went to the king and said, “What have you done? Look, Abner came to you. Why did you let him go? Now he is gone! 25 You know Abner son of Ner; he came to deceive you and observe your movements and find out everything you are doing.”
+
+26 Joab then left David and sent messengers after Abner, and they brought him back from the cistern at Sirah. But David did not know it. 27 Now when Abner returned to Hebron, Joab took him aside into an inner chamber, as if to speak with him privately. And there, to avenge the blood of his brother Asahel, Joab stabbed him in the stomach, and he died.
+
+28 Later, when David heard about this, he said, “I and my kingdom are forever innocent before the Lord concerning the blood of Abner son of Ner. 29 May his blood fall on the head of Joab and on his whole family! May Joab’s family never be without someone who has a running sore or leprosy[a] or who leans on a crutch or who falls by the sword or who lacks food.”
+
+30 (Joab and his brother Abishai murdered Abner because he had killed their brother Asahel in the battle at Gibeon.)
+
+31 Then David said to Joab and all the people with him, “Tear your clothes and put on sackcloth and walk in mourning in front of Abner.” King David himself walked behind the bier. 32 They buried Abner in Hebron, and the king wept aloud at Abner’s tomb. All the people wept also.
+
+33 The king sang this lament for Abner:
+
+“Should Abner have died as the lawless die?
+34     Your hands were not bound,
+    your feet were not fettered.
+You fell as one falls before the wicked.”
+
+And all the people wept over him again.
+
+35 Then they all came and urged David to eat something while it was still day; but David took an oath, saying, “May God deal with me, be it ever so severely, if I taste bread or anything else before the sun sets!”
+
+36 All the people took note and were pleased; indeed, everything the king did pleased them. 37 So on that day all the people there and all Israel knew that the king had no part in the murder of Abner son of Ner.
+
+38 Then the king said to his men, “Do you not realize that a commander and a great man has fallen in Israel this day? 39 And today, though I am the anointed king, I am weak, and these sons of Zeruiah are too strong for me. May the Lord repay the evildoer according to his evil deeds!”
+
+
+                          </p>
+                                  </div>
+
+
+ <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>I Samuel Chapter IV </h2>
+                                <p>
+ <h4 className={styles.h4}>                        </h4> 
+
+
+
+                                   </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter V </h2>
+                                <p>
+ <h4 className={styles.h4}>                   </h4> 
+
+
+  
+  
+                                   </p>
+                                  </div>
+
+
+  <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter VI </h2>
+                                <p>
+ <h4 className={styles.h4}>                   </h4> 
+
+
+                                   </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter VII </h2>
+                                <p>
+ <h4 className={styles.h4}>                  </h4> 
+
+                                  </p>
+                                  </div>  
+
+  
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter VIII </h2>
+                                <p>
+ <h4 className={styles.h4}>                   </h4> 
+
+
+                                   </p>
+                                  </div>
+
+
+
+  <div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter IX </h2>
+                                <p>
+ <h4 className={styles.h4}>                    </h4> 
+     
+  
+                                   </p>
+                                  </div>  
+
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter X </h2>
+                                <p>
+ <h4 className={styles.h4}>                  </h4> 
+
+                                 </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XI </h2>
+                                <p>
+ <h4 className={styles.h4}>                  </h4> 
+                
+  
+                                </p>
+                                  </div>
+
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XII</h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+                                     </p>
+                                  </div>
+
+
+
+  <div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XIII </h2>
+                                <p>
+ <h4 className={styles.h4}>                   </h4> 
+
+ 
+                                   </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XIV </h2>
+                                <p>
+ <h4 className={styles.h4}>               </h4> 
+
+
+                                   </p>
+                                  </div>
+
+
+  
+  <div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XV </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+                                 </p>
+                                  </div>
+
+
+  <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XVI </h2>
+                                <p>
+ <h4 className={styles.h4}>                </h4> 
+
+
+     </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XVII </h2>
+                                <p>
+ <h4 className={styles.h4}>                </h4> 
+
+
+
+                                   </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XVIII </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+                              </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XIX </h2>
+                                <p>
+ <h4 className={styles.h4}>               </h4> 
+
+
+  
+                                   </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XX </h2>
+                                <p>
+ <h4 className={styles.h4}>                     </h4> 
+
+
+                                   </p>
+                                  </div>
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XXI</h2>
+                                <p>
+ <h4 className={styles.h4}>                </h4> 
+
+
+
+                                   </p>
+                                  </div>
+  
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XXII </h2>
+                                <p>
+ <h4 className={styles.h4}>                  </h4> 
+
+
+                                </p>
+                                  </div>
+
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XXIII </h2>
+                                <p>
+ <h4 className={styles.h4}>               </h4> 
+
+                              </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XXIV </h2>
+                                <p>
+ <h4 className={styles.h4}>               </h4> 
+
+
+
+                                   </p>
+                                  </div>
+
+
+  
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XXV </h2>
+                                <p>
+ <h4 className={styles.h4}>              </h4> 
+
+
+
+                                   </p>
+                                  </div>
+  
+  
+
+  <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XXVI</h2>
+                                <p>
+ <h4 className={styles.h4}>                  </h4> 
+
+
+
+                                   </p>
+                                  </div>
+
+
+  
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XXVII </h2>
+                                <p>
+ <h4 className={styles.h4}>                  </h4> 
+
+
+                                </p>
+                                  </div>
+  
+  
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XXVIII </h2>
+                                <p>
+ <h4 className={styles.h4}>                  </h4> 
+
+                                 </p>
+                                  </div>
+
+
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XXIX </h2>
+                                <p>
+ <h4 className={styles.h4}>               </h4> 
+
+
+                                   </p>
+                                  </div>
+
+
+  
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XXX</h2>
+                                <p>
+ <h4 className={styles.h4}>                   </h4> 
+
+
+      </p>
+                                  </div>
+
+
+
+
+<div className={styles.card6}
+          >
+            <h2 className={styles.chapter3}>II Samuel Chapter XXXI </h2>
+                                <p>
+ <h4 className={styles.h4}>                  </h4> 
+
+                              </p>
+                                  </div>  
+  
+  
+          <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <p>
+            
+            <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
+            This is the beginning of the Old Testament and it will contain the 5 books of the Torah or Pentateuch...
+              <h4 className={styles.h4}>Genesis Completed</h4>
+               <h4 className={styles.h4}>Exodus is Completed</h4>
+              <h4 className={styles.h4}>Leviticus is Completed</h4>
+               <h4 className={styles.h4}>Numbers is Completed</h4>
+               <h4 className={styles.h4}> Deuteronomy is Completed</h4>
+              <h4 className={styles.h4}>This concludes the Torah (Pentateuch) </h4>
+
+The meaning of “Torah” is often restricted to signify the first five books of the Hebrew Bible (Old Testament), also called the Law (or the Pentateuch, 
+              in Christianity). 
+              These are the books traditionally ascribed to Moses, the recipient of the original revelation from God on Mount Sinai.
+              More to come on the layout...!
+              
+             <h4 className={styles.h4}>Next is the Neviʾim (Prophets)</h4>
+              <h4 className={styles.h4}>Joshua is Completed </h4>  
+              <h4 className={styles.h4}>Judges is Completed </h4>    
+              <h4 className={styles.h4}>Ruth is Completed </h4>    
+              <h4 className={styles.h4}>I Samuel is Completed</h4>   
+             <h4 className={styles.h4}>II Samuel is being coded</h4>        </p>
+          </div>
+
+
+     
+
+        </div>
+</div>
+        <p className={styles.description}> 
+        <code className={styles.publisher}>
+        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
+        </code>
+        </p>
+      </main>  
+
+  
+
+
+
+
+  
                 
   
   </div>   
