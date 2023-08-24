@@ -12898,8 +12898,76 @@ Absalom’s Death
           >
             <h2 className={styles.chapter3}>II Samuel Chapter XVIII </h2>
                                 <p>
- <h4 className={styles.h4}>                     </h4> 
+ <h4 className={styles.h4}>David mustered the men</h4> 
 
+18 David mustered the men who were with him and appointed over them commanders of thousands and commanders of hundreds. 2 David sent out his troops, a third under the command of Joab, a third under Joab’s brother Abishai son of Zeruiah, and a third under Ittai the Gittite. The king told the troops, “I myself will surely march out with you.”
+
+3 But the men said, “You must not go out; if we are forced to flee, they won’t care about us. Even if half of us die, they won’t care; but you are worth ten thousand of us.[a] It would be better now for you to give us support from the city.”
+
+4 The king answered, “I will do whatever seems best to you.”
+
+So the king stood beside the gate while all his men marched out in units of hundreds and of thousands. 5 The king commanded Joab, Abishai and Ittai, “Be gentle with the young man Absalom for my sake.” And all the troops heard the king giving orders concerning Absalom to each of the commanders.
+
+6 David’s army marched out of the city to fight Israel, and the battle took place in the forest of Ephraim. 7 There Israel’s troops were routed by David’s men, and the casualties that day were great—twenty thousand men. 8 The battle spread out over the whole countryside, and the forest swallowed up more men that day than the sword.
+
+9 Now Absalom happened to meet David’s men. He was riding his mule, and as the mule went under the thick branches of a large oak, Absalom’s hair got caught in the tree. He was left hanging in midair, while the mule he was riding kept on going.
+
+10 When one of the men saw what had happened, he told Joab, “I just saw Absalom hanging in an oak tree.”
+
+11 Joab said to the man who had told him this, “What! You saw him? Why didn’t you strike him to the ground right there? Then I would have had to give you ten shekels[b] of silver and a warrior’s belt.”
+
+12 But the man replied, “Even if a thousand shekels[c] were weighed out into my hands, I would not lay a hand on the king’s son. In our hearing the king commanded you and Abishai and Ittai, ‘Protect the young man Absalom for my sake.[d]’ 13 And if I had put my life in jeopardy[e]—and nothing is hidden from the king—you would have kept your distance from me.”
+
+14 Joab said, “I’m not going to wait like this for you.” So he took three javelins in his hand and plunged them into Absalom’s heart while Absalom was still alive in the oak tree. 15 And ten of Joab’s armor-bearers surrounded Absalom, struck him and killed him.
+
+16 Then Joab sounded the trumpet, and the troops stopped pursuing Israel, for Joab halted them. 17 They took Absalom, threw him into a big pit in the forest and piled up a large heap of rocks over him. Meanwhile, all the Israelites fled to their homes.
+
+18 During his lifetime Absalom had taken a pillar and erected it in the King’s Valley as a monument to himself, for he thought, “I have no son to carry on the memory of my name.” He named the pillar after himself, and it is called Absalom’s Monument to this day.
+
+David Mourns
+19 Now Ahimaaz son of Zadok said, “Let me run and take the news to the king that the Lord has vindicated him by delivering him from the hand of his enemies.”
+
+20 “You are not the one to take the news today,” Joab told him. “You may take the news another time, but you must not do so today, because the king’s son is dead.”
+
+21 Then Joab said to a Cushite, “Go, tell the king what you have seen.” The Cushite bowed down before Joab and ran off.
+
+22 Ahimaaz son of Zadok again said to Joab, “Come what may, please let me run behind the Cushite.”
+
+But Joab replied, “My son, why do you want to go? You don’t have any news that will bring you a reward.”
+
+23 He said, “Come what may, I want to run.”
+
+So Joab said, “Run!” Then Ahimaaz ran by way of the plain[f] and outran the Cushite.
+
+24 While David was sitting between the inner and outer gates, the watchman went up to the roof of the gateway by the wall. As he looked out, he saw a man running alone. 25 The watchman called out to the king and reported it.
+
+The king said, “If he is alone, he must have good news.” And the runner came closer and closer.
+
+26 Then the watchman saw another runner, and he called down to the gatekeeper, “Look, another man running alone!”
+
+The king said, “He must be bringing good news, too.”
+
+27 The watchman said, “It seems to me that the first one runs like Ahimaaz son of Zadok.”
+
+“He’s a good man,” the king said. “He comes with good news.”
+
+28 Then Ahimaaz called out to the king, “All is well!” He bowed down before the king with his face to the ground and said, “Praise be to the Lord your God! He has delivered up those who lifted their hands against my lord the king.”
+
+29 The king asked, “Is the young man Absalom safe?”
+
+Ahimaaz answered, “I saw great confusion just as Joab was about to send the king’s servant and me, your servant, but I don’t know what it was.”
+
+30 The king said, “Stand aside and wait here.” So he stepped aside and stood there.
+
+31 Then the Cushite arrived and said, “My lord the king, hear the good news! The Lord has vindicated you today by delivering you from the hand of all who rose up against you.”
+
+32 The king asked the Cushite, “Is the young man Absalom safe?”
+
+The Cushite replied, “May the enemies of my lord the king and all who rise up to harm you be like that young man.”
+
+33 The king was shaken. He went up to the room over the gateway and wept. As he went, he said: “O my son Absalom! My son, my son Absalom! If only I had died instead of you—O Absalom, my son, my son!”[g]
+
+  
                               </p>
                                   </div>
 
@@ -12907,10 +12975,56 @@ Absalom’s Death
           >
             <h2 className={styles.chapter3}>II Samuel Chapter XIX </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>David Returns to Jerusalem</h4> 
 
+19 [a]Joab was told, “The king is weeping and mourning for Absalom.” 2 And for the whole army the victory that day was turned into mourning, because on that day the troops heard it said, “The king is grieving for his son.” 3 The men stole into the city that day as men steal in who are ashamed when they flee from battle. 4 The king covered his face and cried aloud, “O my son Absalom! O Absalom, my son, my son!”
 
-  
+5 Then Joab went into the house to the king and said, “Today you have humiliated all your men, who have just saved your life and the lives of your sons and daughters and the lives of your wives and concubines. 6 You love those who hate you and hate those who love you. You have made it clear today that the commanders and their men mean nothing to you. I see that you would be pleased if Absalom were alive today and all of us were dead. 7 Now go out and encourage your men. I swear by the Lord that if you don’t go out, not a man will be left with you by nightfall. This will be worse for you than all the calamities that have come on you from your youth till now.”
+
+8 So the king got up and took his seat in the gateway. When the men were told, “The king is sitting in the gateway,” they all came before him.
+
+Meanwhile, the Israelites had fled to their homes.
+
+David Returns to Jerusalem
+9 Throughout the tribes of Israel, all the people were arguing among themselves, saying, “The king delivered us from the hand of our enemies; he is the one who rescued us from the hand of the Philistines. But now he has fled the country to escape from Absalom; 10 and Absalom, whom we anointed to rule over us, has died in battle. So why do you say nothing about bringing the king back?”
+
+11 King David sent this message to Zadok and Abiathar, the priests: “Ask the elders of Judah, ‘Why should you be the last to bring the king back to his palace, since what is being said throughout Israel has reached the king at his quarters? 12 You are my relatives, my own flesh and blood. So why should you be the last to bring back the king?’ 13 And say to Amasa, ‘Are you not my own flesh and blood? May God deal with me, be it ever so severely, if you are not the commander of my army for life in place of Joab.’”
+
+14 He won over the hearts of the men of Judah so that they were all of one mind. They sent word to the king, “Return, you and all your men.” 15 Then the king returned and went as far as the Jordan.
+
+Now the men of Judah had come to Gilgal to go out and meet the king and bring him across the Jordan. 16 Shimei son of Gera, the Benjamite from Bahurim, hurried down with the men of Judah to meet King David. 17 With him were a thousand Benjamites, along with Ziba, the steward of Saul’s household, and his fifteen sons and twenty servants. They rushed to the Jordan, where the king was. 18 They crossed at the ford to take the king’s household over and to do whatever he wished.
+
+When Shimei son of Gera crossed the Jordan, he fell prostrate before the king 19 and said to him, “May my lord not hold me guilty. Do not remember how your servant did wrong on the day my lord the king left Jerusalem. May the king put it out of his mind. 20 For I your servant know that I have sinned, but today I have come here as the first from the tribes of Joseph to come down and meet my lord the king.”
+
+21 Then Abishai son of Zeruiah said, “Shouldn’t Shimei be put to death for this? He cursed the Lord’s anointed.”
+
+22 David replied, “What does this have to do with you, you sons of Zeruiah? What right do you have to interfere? Should anyone be put to death in Israel today? Don’t I know that today I am king over Israel?” 23 So the king said to Shimei, “You shall not die.” And the king promised him on oath.
+
+24 Mephibosheth, Saul’s grandson, also went down to meet the king. He had not taken care of his feet or trimmed his mustache or washed his clothes from the day the king left until the day he returned safely. 25 When he came from Jerusalem to meet the king, the king asked him, “Why didn’t you go with me, Mephibosheth?”
+
+26 He said, “My lord the king, since I your servant am lame, I said, ‘I will have my donkey saddled and will ride on it, so I can go with the king.’ But Ziba my servant betrayed me. 27 And he has slandered your servant to my lord the king. My lord the king is like an angel of God; so do whatever you wish. 28 All my grandfather’s descendants deserved nothing but death from my lord the king, but you gave your servant a place among those who eat at your table. So what right do I have to make any more appeals to the king?”
+
+29 The king said to him, “Why say more? I order you and Ziba to divide the land.”
+
+30 Mephibosheth said to the king, “Let him take everything, now that my lord the king has returned home safely.”
+
+31 Barzillai the Gileadite also came down from Rogelim to cross the Jordan with the king and to send him on his way from there. 32 Now Barzillai was very old, eighty years of age. He had provided for the king during his stay in Mahanaim, for he was a very wealthy man. 33 The king said to Barzillai, “Cross over with me and stay with me in Jerusalem, and I will provide for you.”
+
+34 But Barzillai answered the king, “How many more years will I live, that I should go up to Jerusalem with the king? 35 I am now eighty years old. Can I tell the difference between what is enjoyable and what is not? Can your servant taste what he eats and drinks? Can I still hear the voices of male and female singers? Why should your servant be an added burden to my lord the king? 36 Your servant will cross over the Jordan with the king for a short distance, but why should the king reward me in this way? 37 Let your servant return, that I may die in my own town near the tomb of my father and mother. But here is your servant Kimham. Let him cross over with my lord the king. Do for him whatever you wish.”
+
+38 The king said, “Kimham shall cross over with me, and I will do for him whatever you wish. And anything you desire from me I will do for you.”
+
+39 So all the people crossed the Jordan, and then the king crossed over. The king kissed Barzillai and bid him farewell, and Barzillai returned to his home.
+
+40 When the king crossed over to Gilgal, Kimham crossed with him. All the troops of Judah and half the troops of Israel had taken the king over.
+
+41 Soon all the men of Israel were coming to the king and saying to him, “Why did our brothers, the men of Judah, steal the king away and bring him and his household across the Jordan, together with all his men?”
+
+42 All the men of Judah answered the men of Israel, “We did this because the king is closely related to us. Why are you angry about it? Have we eaten any of the king’s provisions? Have we taken anything for ourselves?”
+
+43 Then the men of Israel answered the men of Judah, “We have ten shares in the king; so we have a greater claim on David than you have. Why then do you treat us with contempt? Weren’t we the first to speak of bringing back our king?”
+
+But the men of Judah pressed their claims even more forcefully than the men of Israel.  
                                    </p>
                                   </div>
 
@@ -12918,20 +13032,84 @@ Absalom’s Death
           >
             <h2 className={styles.chapter3}>II Samuel Chapter XX </h2>
                                 <p>
- <h4 className={styles.h4}>                     </h4> 
+ <h4 className={styles.h4}>Sheba Rebels Against David</h4> 
 
 
-                                   </p>
+20 Now a troublemaker named Sheba son of Bikri, a Benjamite, happened to be there. He sounded the trumpet and shouted,
+
+“We have no share in David,
+    no part in Jesse’s son!
+Every man to his tent, Israel!”
+
+2 So all the men of Israel deserted David to follow Sheba son of Bikri. But the men of Judah stayed by their king all the way from the Jordan to Jerusalem.
+
+3 When David returned to his palace in Jerusalem, he took the ten concubines he had left to take care of the palace and put them in a house under guard. He provided for them but had no sexual relations with them. They were kept in confinement till the day of their death, living as widows.
+
+4 Then the king said to Amasa, “Summon the men of Judah to come to me within three days, and be here yourself.” 5 But when Amasa went to summon Judah, he took longer than the time the king had set for him.
+
+6 David said to Abishai, “Now Sheba son of Bikri will do us more harm than Absalom did. Take your master’s men and pursue him, or he will find fortified cities and escape from us.”[a] 7 So Joab’s men and the Kerethites and Pelethites and all the mighty warriors went out under the command of Abishai. They marched out from Jerusalem to pursue Sheba son of Bikri.
+
+8 While they were at the great rock in Gibeon, Amasa came to meet them. Joab was wearing his military tunic, and strapped over it at his waist was a belt with a dagger in its sheath. As he stepped forward, it dropped out of its sheath.
+
+9 Joab said to Amasa, “How are you, my brother?” Then Joab took Amasa by the beard with his right hand to kiss him. 10 Amasa was not on his guard against the dagger in Joab’s hand, and Joab plunged it into his belly, and his intestines spilled out on the ground. Without being stabbed again, Amasa died. Then Joab and his brother Abishai pursued Sheba son of Bikri.
+
+11 One of Joab’s men stood beside Amasa and said, “Whoever favors Joab, and whoever is for David, let him follow Joab!” 12 Amasa lay wallowing in his blood in the middle of the road, and the man saw that all the troops came to a halt there. When he realized that everyone who came up to Amasa stopped, he dragged him from the road into a field and threw a garment over him. 13 After Amasa had been removed from the road, everyone went on with Joab to pursue Sheba son of Bikri.
+
+14 Sheba passed through all the tribes of Israel to Abel Beth Maakah and through the entire region of the Bikrites,[b] who gathered together and followed him. 15 All the troops with Joab came and besieged Sheba in Abel Beth Maakah. They built a siege ramp up to the city, and it stood against the outer fortifications. While they were battering the wall to bring it down, 16 a wise woman called from the city, “Listen! Listen! Tell Joab to come here so I can speak to him.” 17 He went toward her, and she asked, “Are you Joab?”
+
+“I am,” he answered.
+
+She said, “Listen to what your servant has to say.”
+
+“I’m listening,” he said.
+
+18 She continued, “Long ago they used to say, ‘Get your answer at Abel,’ and that settled it. 19 We are the peaceful and faithful in Israel. You are trying to destroy a city that is a mother in Israel. Why do you want to swallow up the Lord’s inheritance?”
+
+20 “Far be it from me!” Joab replied, “Far be it from me to swallow up or destroy! 21 That is not the case. A man named Sheba son of Bikri, from the hill country of Ephraim, has lifted up his hand against the king, against David. Hand over this one man, and I’ll withdraw from the city.”
+
+The woman said to Joab, “His head will be thrown to you from the wall.”
+
+22 Then the woman went to all the people with her wise advice, and they cut off the head of Sheba son of Bikri and threw it to Joab. So he sounded the trumpet, and his men dispersed from the city, each returning to his home. And Joab went back to the king in Jerusalem.
+
+David’s Officials
+23 Joab was over Israel’s entire army; Benaiah son of Jehoiada was over the Kerethites and Pelethites; 24 Adoniram[c] was in charge of forced labor; Jehoshaphat son of Ahilud was recorder; 25 Sheva was secretary; Zadok and Abiathar were priests; 26 and Ira the Jairite[d] was David’s priest.                                   </p>
                                   </div>
 
 <div className={styles.card6}
           >
             <h2 className={styles.chapter3}>II Samuel Chapter XXI</h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
+ <h4 className={styles.h4}>The Gibeonites Avenged</h4> 
 
 
+21 During the reign of David, there was a famine for three successive years; so David sought the face of the Lord. The Lord said, “It is on account of Saul and his blood-stained house; it is because he put the Gibeonites to death.”
 
+2 The king summoned the Gibeonites and spoke to them. (Now the Gibeonites were not a part of Israel but were survivors of the Amorites; the Israelites had sworn to spare them, but Saul in his zeal for Israel and Judah had tried to annihilate them.) 3 David asked the Gibeonites, “What shall I do for you? How shall I make atonement so that you will bless the Lord’s inheritance?”
+
+4 The Gibeonites answered him, “We have no right to demand silver or gold from Saul or his family, nor do we have the right to put anyone in Israel to death.”
+
+“What do you want me to do for you?” David asked.
+
+5 They answered the king, “As for the man who destroyed us and plotted against us so that we have been decimated and have no place anywhere in Israel, 6 let seven of his male descendants be given to us to be killed and their bodies exposed before the Lord at Gibeah of Saul—the Lord’s chosen one.”
+
+So the king said, “I will give them to you.”
+
+7 The king spared Mephibosheth son of Jonathan, the son of Saul, because of the oath before the Lord between David and Jonathan son of Saul. 8 But the king took Armoni and Mephibosheth, the two sons of Aiah’s daughter Rizpah, whom she had borne to Saul, together with the five sons of Saul’s daughter Merab,[a] whom she had borne to Adriel son of Barzillai the Meholathite. 9 He handed them over to the Gibeonites, who killed them and exposed their bodies on a hill before the Lord. All seven of them fell together; they were put to death during the first days of the harvest, just as the barley harvest was beginning.
+
+10 Rizpah daughter of Aiah took sackcloth and spread it out for herself on a rock. From the beginning of the harvest till the rain poured down from the heavens on the bodies, she did not let the birds touch them by day or the wild animals by night. 11 When David was told what Aiah’s daughter Rizpah, Saul’s concubine, had done, 12 he went and took the bones of Saul and his son Jonathan from the citizens of Jabesh Gilead. (They had stolen their bodies from the public square at Beth Shan, where the Philistines had hung them after they struck Saul down on Gilboa.) 13 David brought the bones of Saul and his son Jonathan from there, and the bones of those who had been killed and exposed were gathered up.
+
+14 They buried the bones of Saul and his son Jonathan in the tomb of Saul’s father Kish, at Zela in Benjamin, and did everything the king commanded. After that, God answered prayer in behalf of the land.
+
+Wars Against the Philistines
+15 Once again there was a battle between the Philistines and Israel. David went down with his men to fight against the Philistines, and he became exhausted. 16 And Ishbi-Benob, one of the descendants of Rapha, whose bronze spearhead weighed three hundred shekels[b] and who was armed with a new sword, said he would kill David. 17 But Abishai son of Zeruiah came to David’s rescue; he struck the Philistine down and killed him. Then David’s men swore to him, saying, “Never again will you go out with us to battle, so that the lamp of Israel will not be extinguished.”
+
+18 In the course of time, there was another battle with the Philistines, at Gob. At that time Sibbekai the Hushathite killed Saph, one of the descendants of Rapha.
+
+19 In another battle with the Philistines at Gob, Elhanan son of Jair[c] the Bethlehemite killed the brother of[d] Goliath the Gittite, who had a spear with a shaft like a weaver’s rod.
+
+20 In still another battle, which took place at Gath, there was a huge man with six fingers on each hand and six toes on each foot—twenty-four in all. He also was descended from Rapha. 21 When he taunted Israel, Jonathan son of Shimeah, David’s brother, killed him.
+
+22 These four were descendants of Rapha in Gath, and they fell at the hands of David and his men.
                                    </p>
                                   </div>
   
@@ -12940,10 +13118,132 @@ Absalom’s Death
           >
             <h2 className={styles.chapter3}>II Samuel Chapter XXII </h2>
                                 <p>
- <h4 className={styles.h4}>                  </h4> 
+ <h4 className={styles.h4}>David’s Song of Praise</h4> 
 
 
-                                </p>
+22 David sang to the Lord the words of this song when the Lord delivered him from the hand of all his enemies and from the hand of Saul. 2 He said:
+
+“The Lord is my rock, my fortress and my deliverer;
+3     my God is my rock, in whom I take refuge,
+    my shield[a] and the horn[b] of my salvation.
+He is my stronghold, my refuge and my savior—
+    from violent people you save me.
+
+4 “I called to the Lord, who is worthy of praise,
+    and have been saved from my enemies.
+5 The waves of death swirled about me;
+    the torrents of destruction overwhelmed me.
+6 The cords of the grave coiled around me;
+    the snares of death confronted me.
+
+7 “In my distress I called to the Lord;
+    I called out to my God.
+From his temple he heard my voice;
+    my cry came to his ears.
+8 The earth trembled and quaked,
+    the foundations of the heavens[c] shook;
+    they trembled because he was angry.
+9 Smoke rose from his nostrils;
+    consuming fire came from his mouth,
+    burning coals blazed out of it.
+10 He parted the heavens and came down;
+    dark clouds were under his feet.
+11 He mounted the cherubim and flew;
+    he soared[d] on the wings of the wind.
+12 He made darkness his canopy around him—
+    the dark[e] rain clouds of the sky.
+13 Out of the brightness of his presence
+    bolts of lightning blazed forth.
+14 The Lord thundered from heaven;
+    the voice of the Most High resounded.
+15 He shot his arrows and scattered the enemy,
+    with great bolts of lightning he routed them.
+16 The valleys of the sea were exposed
+    and the foundations of the earth laid bare
+at the rebuke of the Lord,
+    at the blast of breath from his nostrils.
+
+17 “He reached down from on high and took hold of me;
+    he drew me out of deep waters.
+18 He rescued me from my powerful enemy,
+    from my foes, who were too strong for me.
+19 They confronted me in the day of my disaster,
+    but the Lord was my support.
+20 He brought me out into a spacious place;
+    he rescued me because he delighted in me.
+
+21 “The Lord has dealt with me according to my righteousness;
+    according to the cleanness of my hands he has rewarded me.
+22 For I have kept the ways of the Lord;
+    I am not guilty of turning from my God.
+23 All his laws are before me;
+    I have not turned away from his decrees.
+24 I have been blameless before him
+    and have kept myself from sin.
+25 The Lord has rewarded me according to my righteousness,
+    according to my cleanness[f] in his sight.
+
+26 “To the faithful you show yourself faithful,
+    to the blameless you show yourself blameless,
+27 to the pure you show yourself pure,
+    but to the devious you show yourself shrewd.
+28 You save the humble,
+    but your eyes are on the haughty to bring them low.
+29 You, Lord, are my lamp;
+    the Lord turns my darkness into light.
+30 With your help I can advance against a troop[g];
+    with my God I can scale a wall.
+
+31 “As for God, his way is perfect:
+    The Lord’s word is flawless;
+    he shields all who take refuge in him.
+32 For who is God besides the Lord?
+    And who is the Rock except our God?
+33 It is God who arms me with strength[h]
+    and keeps my way secure.
+34 He makes my feet like the feet of a deer;
+    he causes me to stand on the heights.
+35 He trains my hands for battle;
+    my arms can bend a bow of bronze.
+36 You make your saving help my shield;
+    your help has made[i] me great.
+37 You provide a broad path for my feet,
+    so that my ankles do not give way.
+
+38 “I pursued my enemies and crushed them;
+    I did not turn back till they were destroyed.
+39 I crushed them completely, and they could not rise;
+    they fell beneath my feet.
+40 You armed me with strength for battle;
+    you humbled my adversaries before me.
+41 You made my enemies turn their backs in flight,
+    and I destroyed my foes.
+42 They cried for help, but there was no one to save them—
+    to the Lord, but he did not answer.
+43 I beat them as fine as the dust of the earth;
+    I pounded and trampled them like mud in the streets.
+
+44 “You have delivered me from the attacks of the peoples;
+    you have preserved me as the head of nations.
+People I did not know now serve me,
+45     foreigners cower before me;
+    as soon as they hear of me, they obey me.
+46 They all lose heart;
+    they come trembling[j] from their strongholds.
+
+47 “The Lord lives! Praise be to my Rock!
+    Exalted be my God, the Rock, my Savior!
+48 He is the God who avenges me,
+    who puts the nations under me,
+49     who sets me free from my enemies.
+You exalted me above my foes;
+    from a violent man you rescued me.
+50 Therefore I will praise you, Lord, among the nations;
+    I will sing the praises of your name.
+
+51 “He gives his king great victories;
+    he shows unfailing kindness to his anointed,
+    to David and his descendants forever.”                                </p>
                                   </div>
 
 
@@ -12951,108 +13251,171 @@ Absalom’s Death
           >
             <h2 className={styles.chapter3}>II Samuel Chapter XXIII </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}> David’s Last Words</h4> 
 
-                              </p>
+     
+23 These are the last words of David:
+
+“The inspired utterance of David son of Jesse,
+    the utterance of the man exalted by the Most High,
+the man anointed by the God of Jacob,
+    the hero of Israel’s songs:
+
+2 “The Spirit of the Lord spoke through me;
+    his word was on my tongue.
+3 The God of Israel spoke,
+    the Rock of Israel said to me:
+‘When one rules over people in righteousness,
+    when he rules in the fear of God,
+4 he is like the light of morning at sunrise
+    on a cloudless morning,
+like the brightness after rain
+    that brings grass from the earth.’
+
+5 “If my house were not right with God,
+    surely he would not have made with me an everlasting covenant,
+    arranged and secured in every part;
+surely he would not bring to fruition my salvation
+    and grant me my every desire.
+6 But evil men are all to be cast aside like thorns,
+    which are not gathered with the hand.
+7 Whoever touches thorns
+    uses a tool of iron or the shaft of a spear;
+    they are burned up where they lie.”
+
+David’s Mighty Warriors
+8 These are the names of David’s mighty warriors:
+
+Josheb-Basshebeth,[a] a Tahkemonite,[b] was chief of the Three; he raised his spear against eight hundred men, whom he killed[c] in one encounter.
+
+9 Next to him was Eleazar son of Dodai the Ahohite. As one of the three mighty warriors, he was with David when they taunted the Philistines gathered at Pas Dammim[d] for battle. Then the Israelites retreated, 10 but Eleazar stood his ground and struck down the Philistines till his hand grew tired and froze to the sword. The Lord brought about a great victory that day. The troops returned to Eleazar, but only to strip the dead.
+
+11 Next to him was Shammah son of Agee the Hararite. When the Philistines banded together at a place where there was a field full of lentils, Israel’s troops fled from them. 12 But Shammah took his stand in the middle of the field. He defended it and struck the Philistines down, and the Lord brought about a great victory.
+
+13 During harvest time, three of the thirty chief warriors came down to David at the cave of Adullam, while a band of Philistines was encamped in the Valley of Rephaim. 14 At that time David was in the stronghold, and the Philistine garrison was at Bethlehem. 15 David longed for water and said, “Oh, that someone would get me a drink of water from the well near the gate of Bethlehem!” 16 So the three mighty warriors broke through the Philistine lines, drew water from the well near the gate of Bethlehem and carried it back to David. But he refused to drink it; instead, he poured it out before the Lord. 17 “Far be it from me, Lord, to do this!” he said. “Is it not the blood of men who went at the risk of their lives?” And David would not drink it.
+
+Such were the exploits of the three mighty warriors.
+
+18 Abishai the brother of Joab son of Zeruiah was chief of the Three.[e] He raised his spear against three hundred men, whom he killed, and so he became as famous as the Three. 19 Was he not held in greater honor than the Three? He became their commander, even though he was not included among them.
+
+20 Benaiah son of Jehoiada, a valiant fighter from Kabzeel, performed great exploits. He struck down Moab’s two mightiest warriors. He also went down into a pit on a snowy day and killed a lion. 21 And he struck down a huge Egyptian. Although the Egyptian had a spear in his hand, Benaiah went against him with a club. He snatched the spear from the Egyptian’s hand and killed him with his own spear. 22 Such were the exploits of Benaiah son of Jehoiada; he too was as famous as the three mighty warriors. 23 He was held in greater honor than any of the Thirty, but he was not included among the Three. And David put him in charge of his bodyguard.
+
+24 Among the Thirty were:
+
+Asahel the brother of Joab,
+
+Elhanan son of Dodo from Bethlehem,
+
+25 Shammah the Harodite,
+
+Elika the Harodite,
+
+26 Helez the Paltite,
+
+Ira son of Ikkesh from Tekoa,
+
+27 Abiezer from Anathoth,
+
+Sibbekai[f] the Hushathite,
+
+28 Zalmon the Ahohite,
+
+Maharai the Netophathite,
+
+29 Heled[g] son of Baanah the Netophathite,
+
+Ithai son of Ribai from Gibeah in Benjamin,
+
+30 Benaiah the Pirathonite,
+
+Hiddai[h] from the ravines of Gaash,
+
+31 Abi-Albon the Arbathite,
+
+Azmaveth the Barhumite,
+
+32 Eliahba the Shaalbonite,
+
+the sons of Jashen,
+
+Jonathan 33 son of[i] Shammah the Hararite,
+
+Ahiam son of Sharar[j] the Hararite,
+
+34 Eliphelet son of Ahasbai the Maakathite,
+
+Eliam son of Ahithophel the Gilonite,
+
+35 Hezro the Carmelite,
+
+Paarai the Arbite,
+
+36 Igal son of Nathan from Zobah,
+
+the son of Hagri,[k]
+
+37 Zelek the Ammonite,
+
+Naharai the Beerothite, the armor-bearer of Joab son of Zeruiah,
+
+38 Ira the Ithrite,
+
+Gareb the Ithrite
+
+39 and Uriah the Hittite.
+
+There were thirty-seven in all.                              </p>
                                   </div>
 
 <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>II Samuel Chapter XXIV </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>David Enrolls the Fighting Men</h4> 
 
 
+24 Again the anger of the Lord burned against Israel, and he incited David against them, saying, “Go and take a census of Israel and Judah.”
 
-                                   </p>
-                                  </div>
+2 So the king said to Joab and the army commanders[a] with him, “Go throughout the tribes of Israel from Dan to Beersheba and enroll the fighting men, so that I may know how many there are.”
 
+3 But Joab replied to the king, “May the Lord your God multiply the troops a hundred times over, and may the eyes of my lord the king see it. But why does my lord the king want to do such a thing?”
 
-  
-<div className={styles.card6}
-          >
-            <h2 className={styles.chapter3}>II Samuel Chapter XXV </h2>
-                                <p>
- <h4 className={styles.h4}>              </h4> 
+4 The king’s word, however, overruled Joab and the army commanders; so they left the presence of the king to enroll the fighting men of Israel.
 
+5 After crossing the Jordan, they camped near Aroer, south of the town in the gorge, and then went through Gad and on to Jazer. 6 They went to Gilead and the region of Tahtim Hodshi, and on to Dan Jaan and around toward Sidon. 7 Then they went toward the fortress of Tyre and all the towns of the Hivites and Canaanites. Finally, they went on to Beersheba in the Negev of Judah.
 
+8 After they had gone through the entire land, they came back to Jerusalem at the end of nine months and twenty days.
 
-                                   </p>
-                                  </div>
-  
-  
+9 Joab reported the number of the fighting men to the king: In Israel there were eight hundred thousand able-bodied men who could handle a sword, and in Judah five hundred thousand.
 
-  <div className={styles.card4}
-          >
-            <h2 className={styles.chapter3}>II Samuel Chapter XXVI</h2>
-                                <p>
- <h4 className={styles.h4}>                  </h4> 
+10 David was conscience-stricken after he had counted the fighting men, and he said to the Lord, “I have sinned greatly in what I have done. Now, Lord, I beg you, take away the guilt of your servant. I have done a very foolish thing.”
 
+11 Before David got up the next morning, the word of the Lord had come to Gad the prophet, David’s seer: 12 “Go and tell David, ‘This is what the Lord says: I am giving you three options. Choose one of them for me to carry out against you.’”
 
+13 So Gad went to David and said to him, “Shall there come on you three[b] years of famine in your land? Or three months of fleeing from your enemies while they pursue you? Or three days of plague in your land? Now then, think it over and decide how I should answer the one who sent me.”
 
-                                   </p>
-                                  </div>
+14 David said to Gad, “I am in deep distress. Let us fall into the hands of the Lord, for his mercy is great; but do not let me fall into human hands.”
 
+15 So the Lord sent a plague on Israel from that morning until the end of the time designated, and seventy thousand of the people from Dan to Beersheba died. 16 When the angel stretched out his hand to destroy Jerusalem, the Lord relented concerning the disaster and said to the angel who was afflicting the people, “Enough! Withdraw your hand.” The angel of the Lord was then at the threshing floor of Araunah the Jebusite.
 
-  
+17 When David saw the angel who was striking down the people, he said to the Lord, “I have sinned; I, the shepherd,[c] have done wrong. These are but sheep. What have they done? Let your hand fall on me and my family.”
 
-<div className={styles.card6}
-          >
-            <h2 className={styles.chapter3}>II Samuel Chapter XXVII </h2>
-                                <p>
- <h4 className={styles.h4}>                  </h4> 
+David Builds an Altar
+18 On that day Gad went to David and said to him, “Go up and build an altar to the Lord on the threshing floor of Araunah the Jebusite.” 19 So David went up, as the Lord had commanded through Gad. 20 When Araunah looked and saw the king and his officials coming toward him, he went out and bowed down before the king with his face to the ground.
 
+21 Araunah said, “Why has my lord the king come to his servant?”
 
-                                </p>
-                                  </div>
-  
-  
+“To buy your threshing floor,” David answered, “so I can build an altar to the Lord, that the plague on the people may be stopped.”
 
-<div className={styles.card4}
-          >
-            <h2 className={styles.chapter3}>II Samuel Chapter XXVIII </h2>
-                                <p>
- <h4 className={styles.h4}>                  </h4> 
+22 Araunah said to David, “Let my lord the king take whatever he wishes and offer it up. Here are oxen for the burnt offering, and here are threshing sledges and ox yokes for the wood. 23 Your Majesty, Araunah[d] gives all this to the king.” Araunah also said to him, “May the Lord your God accept you.”
 
-                                 </p>
-                                  </div>
+24 But the king replied to Araunah, “No, I insist on paying you for it. I will not sacrifice to the Lord my God burnt offerings that cost me nothing.”
 
-
-
-<div className={styles.card6}
-          >
-            <h2 className={styles.chapter3}>II Samuel Chapter XXIX </h2>
-                                <p>
- <h4 className={styles.h4}>               </h4> 
+So David bought the threshing floor and the oxen and paid fifty shekels[e] of silver for them. 25 David built an altar to the Lord there and sacrificed burnt offerings and fellowship offerings. Then the Lord answered his prayer in behalf of the land, and the plague on Israel was stopped.
 
 
                                    </p>
                                   </div>
-
-
-  
-
-<div className={styles.card4}
-          >
-            <h2 className={styles.chapter3}>II Samuel Chapter XXX</h2>
-                                <p>
- <h4 className={styles.h4}>                   </h4> 
-
-
-      </p>
-                                  </div>
-
-
-
-
-<div className={styles.card6}
-          >
-            <h2 className={styles.chapter3}>II Samuel Chapter XXXI </h2>
-                                <p>
- <h4 className={styles.h4}>                  </h4> 
-
-                              </p>
-                                  </div>  
   
   
           <div className={styles.card4}
