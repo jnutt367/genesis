@@ -12059,7 +12059,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-II Samuel is coming soon...
+II Samuel continues the story of Israel's kingdom. Starting with Sauls's death into David's 40 year reign.
            
 </p>                                                      
                   <div className={styles.nav2}>           
