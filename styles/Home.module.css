@@ -303,6 +303,17 @@
     position: sticky;
 }
 
+.nav4 {
+    background-color: #601E4F;
+    color: white;
+    opacity: 1;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: sticky;
+}
+
 .nav2 a:hover {
     scale: 1.1;
     background-color: black;
@@ -319,6 +330,14 @@
     border: 2px dotted #69282C;
     border-radius: 50%;
 }
+.nav4 a:hover {
+     scale: 1.1;
+    background-color: black;
+    opacity: 0.8;
+    border: 2px dotted #69282C;
+    border-radius: 50%;
+}
+
 
 .nav a:hover {
     scale: 1.1;
@@ -372,8 +391,14 @@
     justify-content: center;
     flex-wrap: wrap;   
 }
-
-
+.grid4 {
+    background-color: #601E4F;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;       
+}
 
 
 .h2 {
