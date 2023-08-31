@@ -3992,7 +3992,7 @@ The Glory of the Lord
 
            Leviticus means "about the Levites" and it details the regulations for their holy living as God's people.
 </p>                                                      
-                  <div className={styles.nav}>           
+                  <div className={styles.nav3}>           
       <a href="https://mytorah.vercel.app/#exodus">
              <Image 
                                 src="/previous.webp"
@@ -4030,7 +4030,7 @@ The Glory of the Lord
                                   </div>
                                   
                               
-        <div className={styles.grid}>
+        <div className={styles.grid3}>
           
 
    <div className={styles.card}
@@ -4990,7 +4990,7 @@ Punishment for Disobedience
 
            This is Numbers! It begins with a census of all the men of the Israelites 20 years old or more, able to serve in the army.
 </p>                                                      
-                  <div className={styles.nav3}>           
+                  <div className={styles.nav4}>           
       <a href="https://mytorah.vercel.app/#leviticus">
              <Image 
                                 src="/previous.webp"
@@ -5028,7 +5028,7 @@ Punishment for Disobedience
                                   </div>
                                   
                               
-        <div className={styles.grid3}>
+        <div className={styles.grid4}>
           
 
    <div className={styles.card}
