@@ -7017,7 +7017,7 @@ Cities of Refuge
                                   </div>
                                   
                               
-        <div className={styles.grid3}>
+        <div className={styles.grid}>
           
 
    <div className={styles.card3}
@@ -7913,7 +7913,7 @@ The Offer of Life or Death
 
    <div className={styles.card3}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXXI </h2>
+            <h2 className={styles.chapter3}>Deuteronomy Chapter XXXI </h2>
                                 <p>
  <h4 className={styles.h4}> Joshua to Succeed Moses</h4> 
   
@@ -8332,7 +8332,7 @@ Your enemies will cower before you,
 This is the beginning of the story of the Israelites crossing the Jordan into the promised land led by Joshua
            
 </p>                                                      
-                  <div className={styles.nav3}>           
+                  <div className={styles.nav2}>           
       <a href="https://mytorah.vercel.app/#numbers">
              <Image 
                                 src="/previous.webp"
@@ -8370,7 +8370,7 @@ This is the beginning of the story of the Israelites crossing the Jordan into th
                                   </div>
                                   
                               
-        <div className={styles.grid3}>
+        <div className={styles.grid2}>
           
 
    <div className={styles.card4}
@@ -9308,7 +9308,7 @@ Buried in the Promised Land
 Judges is a time in the history of Israel that they had no king & did what they saw fit...it did not go well for them.
            
 </p>                                                      
-                  <div className={styles.nav2}>           
+                  <div className={styles.nav3}>           
       <a href="https://mytorah.vercel.app/#numbers">
              <Image 
                                 src="/previous.webp"
@@ -9346,7 +9346,7 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                   </div>
                                   
                               
-        <div className={styles.grid2}>
+        <div className={styles.grid3}>
           
 
    <div className={styles.card5}
@@ -10369,7 +10369,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 Ruth is a story of loyalty. A foreign wife's loyalty to her husband's family leads on to the family line of King David, through Obed, the Father of Jesse.
            
 </p>                                                      
-                  <div className={styles.nav2}>           
+                  <div className={styles.nav4}>           
       <a href="https://mytorah.vercel.app/#numbers">
              <Image 
                                 src="/previous.webp"
@@ -10407,7 +10407,7 @@ Ruth is a story of loyalty. A foreign wife's loyalty to her husband's family lea
                                   </div>
                                   
                               
-        <div className={styles.grid2}>
+        <div className={styles.grid4}>
           
 
    <div className={styles.card6}
@@ -10649,7 +10649,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 I Samuel records the lives of Samuel & Saul. Also much of the life of King David
            
 </p>                                                      
-                  <div className={styles.nav2}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
              <Image 
                                 src="/previous.webp"
@@ -10687,7 +10687,7 @@ I Samuel records the lives of Samuel & Saul. Also much of the life of King David
                                   </div>
                                   
                               
-        <div className={styles.grid2}>
+        <div className={styles.grid}>
           
 
    <div className={styles.card6}
@@ -13488,7 +13488,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 I Kings records the history of Israel's divided kingdom & includes the building of the temple & palace in Jerusalem.
            
 </p>                                                      
-                  <div className={styles.nav2}>           
+                  <div className={styles.nav3}>           
       <a href="https://mytorah.vercel.app/#numbers">
              <Image 
                                 src="/previous.webp"
@@ -13525,7 +13525,7 @@ I Kings records the history of Israel's divided kingdom & includes the building 
                                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/bVFW3wbi9pk?si=3z0utcFzJ3Il-OXY?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>
                               
-        <div className={styles.grid2}>
+        <div className={styles.grid3}>
           
 
    <div className={styles.card6}
@@ -14703,7 +14703,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 II Kings is in the process of being coded.
            
 </p>                                                      
-                  <div className={styles.nav2}>           
+                  <div className={styles.nav4}>           
       <a href="https://mytorah.vercel.app/#numbers">
              <Image 
                                 src="/previous.webp"
@@ -14740,7 +14740,7 @@ II Kings is in the process of being coded.
                                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/bVFW3wbi9pk?si=3z0utcFzJ3Il-OXY?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>
                               
-        <div className={styles.grid2}>
+        <div className={styles.grid4}>
           
 
    <div className={styles.card6}
