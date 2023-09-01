@@ -15928,7 +15928,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
 
 
-<main id="first_chronicles" className={styles.main}>
+<main id="chronicles" className={styles.main}>
        
         <div className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
