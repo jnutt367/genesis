@@ -18043,6 +18043,259 @@ his sons and relatives	12.
   
              </div>  
 
+   <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>I Chronicles Chapter XXVI </h2>
+                                <p>
+ <h4 className={styles.h4}>The Gatekeepers</h4> 
+
+26 The divisions of the gatekeepers:
+
+From the Korahites: Meshelemiah son of Kore, one of the sons of Asaph.
+
+2 Meshelemiah had sons:
+
+Zechariah the firstborn,
+
+Jediael the second,
+
+Zebadiah the third,
+
+Jathniel the fourth,
+
+3 Elam the fifth,
+
+Jehohanan the sixth
+
+and Eliehoenai the seventh.
+
+4 Obed-Edom also had sons:
+
+Shemaiah the firstborn,
+
+Jehozabad the second,
+
+Joah the third,
+
+Sakar the fourth,
+
+Nethanel the fifth,
+
+5 Ammiel the sixth,
+
+Issachar the seventh
+
+and Peullethai the eighth.
+
+(For God had blessed Obed-Edom.)
+
+6 Obed-Edom’s son Shemaiah also had sons, who were leaders in their father’s family because they were very capable men. 7 The sons of Shemaiah: Othni, Rephael, Obed and Elzabad; his relatives Elihu and Semakiah were also able men. 8 All these were descendants of Obed-Edom; they and their sons and their relatives were capable men with the strength to do the work—descendants of Obed-Edom, 62 in all.
+
+9 Meshelemiah had sons and relatives, who were able men—18 in all.
+
+10 Hosah the Merarite had sons: Shimri the first (although he was not the firstborn, his father had appointed him the first), 11 Hilkiah the second, Tabaliah the third and Zechariah the fourth. The sons and relatives of Hosah were 13 in all.
+
+12 These divisions of the gatekeepers, through their leaders, had duties for ministering in the temple of the Lord, just as their relatives had. 13 Lots were cast for each gate, according to their families, young and old alike.
+
+14 The lot for the East Gate fell to Shelemiah.[a] Then lots were cast for his son Zechariah, a wise counselor, and the lot for the North Gate fell to him. 15 The lot for the South Gate fell to Obed-Edom, and the lot for the storehouse fell to his sons. 16 The lots for the West Gate and the Shalleketh Gate on the upper road fell to Shuppim and Hosah.
+
+Guard was alongside of guard: 17 There were six Levites a day on the east, four a day on the north, four a day on the south and two at a time at the storehouse. 18 As for the court[b] to the west, there were four at the road and two at the court[c] itself.
+
+19 These were the divisions of the gatekeepers who were descendants of Korah and Merari.
+
+The Treasurers and Other Officials
+20 Their fellow Levites were[d] in charge of the treasuries of the house of God and the treasuries for the dedicated things.
+
+21 The descendants of Ladan, who were Gershonites through Ladan and who were heads of families belonging to Ladan the Gershonite, were Jehieli, 22 the sons of Jehieli, Zetham and his brother Joel. They were in charge of the treasuries of the temple of the Lord.
+
+23 From the Amramites, the Izharites, the Hebronites and the Uzzielites:
+
+24 Shubael, a descendant of Gershom son of Moses, was the official in charge of the treasuries. 25 His relatives through Eliezer: Rehabiah his son, Jeshaiah his son, Joram his son, Zikri his son and Shelomith his son. 26 Shelomith and his relatives were in charge of all the treasuries for the things dedicated by King David, by the heads of families who were the commanders of thousands and commanders of hundreds, and by the other army commanders. 27 Some of the plunder taken in battle they dedicated for the repair of the temple of the Lord. 28 And everything dedicated by Samuel the seer and by Saul son of Kish, Abner son of Ner and Joab son of Zeruiah, and all the other dedicated things were in the care of Shelomith and his relatives.
+
+29 From the Izharites: Kenaniah and his sons were assigned duties away from the temple, as officials and judges over Israel.
+
+30 From the Hebronites: Hashabiah and his relatives—seventeen hundred able men—were responsible in Israel west of the Jordan for all the work of the Lord and for the king’s service. 31 As for the Hebronites, Jeriah was their chief according to the genealogical records of their families. In the fortieth year of David’s reign a search was made in the records, and capable men among the Hebronites were found at Jazer in Gilead. 32 Jeriah had twenty-seven hundred relatives, who were able men and heads of families, and King David put them in charge of the Reubenites, the Gadites and the half-tribe of Manasseh for every matter pertaining to God and for the affairs of the king.
+          
+                                   </p>
+  </div>
+
+   <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>I Chronicles Chapter XXVII </h2>
+                                <p>
+ <h4 className={styles.h4}>Army Divisions</h4> 
+
+
+27 This is the list of the Israelites—heads of families, commanders of thousands and commanders of hundreds, and their officers, who served the king in all that concerned the army divisions that were on duty month by month throughout the year. Each division consisted of 24,000 men.
+
+2 In charge of the first division, for the first month, was Jashobeam son of Zabdiel. There were 24,000 men in his division. 3 He was a descendant of Perez and chief of all the army officers for the first month.
+
+4 In charge of the division for the second month was Dodai the Ahohite; Mikloth was the leader of his division. There were 24,000 men in his division.
+
+5 The third army commander, for the third month, was Benaiah son of Jehoiada the priest. He was chief and there were 24,000 men in his division. 6 This was the Benaiah who was a mighty warrior among the Thirty and was over the Thirty. His son Ammizabad was in charge of his division.
+
+7 The fourth, for the fourth month, was Asahel the brother of Joab; his son Zebadiah was his successor. There were 24,000 men in his division.
+
+8 The fifth, for the fifth month, was the commander Shamhuth the Izrahite. There were 24,000 men in his division.
+
+9 The sixth, for the sixth month, was Ira the son of Ikkesh the Tekoite. There were 24,000 men in his division.
+
+10 The seventh, for the seventh month, was Helez the Pelonite, an Ephraimite. There were 24,000 men in his division.
+
+11 The eighth, for the eighth month, was Sibbekai the Hushathite, a Zerahite. There were 24,000 men in his division.
+
+12 The ninth, for the ninth month, was Abiezer the Anathothite, a Benjamite. There were 24,000 men in his division.
+
+13 The tenth, for the tenth month, was Maharai the Netophathite, a Zerahite. There were 24,000 men in his division.
+
+14 The eleventh, for the eleventh month, was Benaiah the Pirathonite, an Ephraimite. There were 24,000 men in his division.
+
+15 The twelfth, for the twelfth month, was Heldai the Netophathite, from the family of Othniel. There were 24,000 men in his division.
+
+Leaders of the Tribes
+16 The leaders of the tribes of Israel:
+
+over the Reubenites: Eliezer son of Zikri;
+
+over the Simeonites: Shephatiah son of Maakah;
+
+17 over Levi: Hashabiah son of Kemuel;
+
+over Aaron: Zadok;
+
+18 over Judah: Elihu, a brother of David;
+
+over Issachar: Omri son of Michael;
+
+19 over Zebulun: Ishmaiah son of Obadiah;
+
+over Naphtali: Jerimoth son of Azriel;
+
+20 over the Ephraimites: Hoshea son of Azaziah;
+
+over half the tribe of Manasseh: Joel son of Pedaiah;
+
+21 over the half-tribe of Manasseh in Gilead: Iddo son of Zechariah;
+
+over Benjamin: Jaasiel son of Abner;
+
+22 over Dan: Azarel son of Jeroham.
+
+These were the leaders of the tribes of Israel.
+
+23 David did not take the number of the men twenty years old or less, because the Lord had promised to make Israel as numerous as the stars in the sky. 24 Joab son of Zeruiah began to count the men but did not finish. God’s wrath came on Israel on account of this numbering, and the number was not entered in the book[a] of the annals of King David.
+
+The King’s Overseers
+25 Azmaveth son of Adiel was in charge of the royal storehouses.
+
+Jonathan son of Uzziah was in charge of the storehouses in the outlying districts, in the towns, the villages and the watchtowers.
+
+26 Ezri son of Kelub was in charge of the workers who farmed the land.
+
+27 Shimei the Ramathite was in charge of the vineyards.
+
+Zabdi the Shiphmite was in charge of the produce of the vineyards for the wine vats.
+
+28 Baal-Hanan the Gederite was in charge of the olive and sycamore-fig trees in the western foothills.
+
+Joash was in charge of the supplies of olive oil.
+
+29 Shitrai the Sharonite was in charge of the herds grazing in Sharon.
+
+Shaphat son of Adlai was in charge of the herds in the valleys.
+
+30 Obil the Ishmaelite was in charge of the camels.
+
+Jehdeiah the Meronothite was in charge of the donkeys.
+
+31 Jaziz the Hagrite was in charge of the flocks.
+
+All these were the officials in charge of King David’s property.
+
+32 Jonathan, David’s uncle, was a counselor, a man of insight and a scribe. Jehiel son of Hakmoni took care of the king’s sons.
+
+33 Ahithophel was the king’s counselor.
+
+Hushai the Arkite was the king’s confidant. 34 Ahithophel was succeeded by Jehoiada son of Benaiah and by Abiathar.
+
+Joab was the commander of the royal army.  
+       </p>
+                                  </div>
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>I Chronicles Chapter XXVIII </h2>
+                                <p>
+ <h4 className={styles.h4}>David’s Plans for the Temple</h4> 
+
+
+28 David summoned all the officials of Israel to assemble at Jerusalem: the officers over the tribes, the commanders of the divisions in the service of the king, the commanders of thousands and commanders of hundreds, and the officials in charge of all the property and livestock belonging to the king and his sons, together with the palace officials, the warriors and all the brave fighting men.
+
+2 King David rose to his feet and said: “Listen to me, my fellow Israelites, my people. I had it in my heart to build a house as a place of rest for the ark of the covenant of the Lord, for the footstool of our God, and I made plans to build it. 3 But God said to me, ‘You are not to build a house for my Name, because you are a warrior and have shed blood.’
+
+4 “Yet the Lord, the God of Israel, chose me from my whole family to be king over Israel forever. He chose Judah as leader, and from the tribe of Judah he chose my family, and from my father’s sons he was pleased to make me king over all Israel. 5 Of all my sons—and the Lord has given me many—he has chosen my son Solomon to sit on the throne of the kingdom of the Lord over Israel. 6 He said to me: ‘Solomon your son is the one who will build my house and my courts, for I have chosen him to be my son, and I will be his father. 7 I will establish his kingdom forever if he is unswerving in carrying out my commands and laws, as is being done at this time.’
+
+8 “So now I charge you in the sight of all Israel and of the assembly of the Lord, and in the hearing of our God: Be careful to follow all the commands of the Lord your God, that you may possess this good land and pass it on as an inheritance to your descendants forever.
+
+9 “And you, my son Solomon, acknowledge the God of your father, and serve him with wholehearted devotion and with a willing mind, for the Lord searches every heart and understands every desire and every thought. If you seek him, he will be found by you; but if you forsake him, he will reject you forever. 10 Consider now, for the Lord has chosen you to build a house as the sanctuary. Be strong and do the work.”
+
+11 Then David gave his son Solomon the plans for the portico of the temple, its buildings, its storerooms, its upper parts, its inner rooms and the place of atonement. 12 He gave him the plans of all that the Spirit had put in his mind for the courts of the temple of the Lord and all the surrounding rooms, for the treasuries of the temple of God and for the treasuries for the dedicated things. 13 He gave him instructions for the divisions of the priests and Levites, and for all the work of serving in the temple of the Lord, as well as for all the articles to be used in its service. 14 He designated the weight of gold for all the gold articles to be used in various kinds of service, and the weight of silver for all the silver articles to be used in various kinds of service: 15 the weight of gold for the gold lampstands and their lamps, with the weight for each lampstand and its lamps; and the weight of silver for each silver lampstand and its lamps, according to the use of each lampstand; 16 the weight of gold for each table for consecrated bread; the weight of silver for the silver tables; 17 the weight of pure gold for the forks, sprinkling bowls and pitchers; the weight of gold for each gold dish; the weight of silver for each silver dish; 18 and the weight of the refined gold for the altar of incense. He also gave him the plan for the chariot, that is, the cherubim of gold that spread their wings and overshadow the ark of the covenant of the Lord.
+
+19 “All this,” David said, “I have in writing as a result of the Lord’s hand on me, and he enabled me to understand all the details of the plan.”
+
+20 David also said to Solomon his son, “Be strong and courageous, and do the work. Do not be afraid or discouraged, for the Lord God, my God, is with you. He will not fail you or forsake you until all the work for the service of the temple of the Lord is finished. 21 The divisions of the priests and Levites are ready for all the work on the temple of God, and every willing person skilled in any craft will help you in all the work. The officials and all the people will obey your every command.”
+  
+         </p>
+                                  </div>
+
+
+
+  <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>I Chronicles Chapter XXIX </h2>
+                                <p>
+ <h4 className={styles.h4}>Gifts for Building the Temple</h4> 
+
+
+29 Then King David said to the whole assembly: “My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great, because this palatial structure is not for man but for the Lord God. 2 With all my resources I have provided for the temple of my God—gold for the gold work, silver for the silver, bronze for the bronze, iron for the iron and wood for the wood, as well as onyx for the settings, turquoise,[a] stones of various colors, and all kinds of fine stone and marble—all of these in large quantities. 3 Besides, in my devotion to the temple of my God I now give my personal treasures of gold and silver for the temple of my God, over and above everything I have provided for this holy temple: 4 three thousand talents[b] of gold (gold of Ophir) and seven thousand talents[c] of refined silver, for the overlaying of the walls of the buildings, 5 for the gold work and the silver work, and for all the work to be done by the craftsmen. Now, who is willing to consecrate themselves to the Lord today?”
+
+6 Then the leaders of families, the officers of the tribes of Israel, the commanders of thousands and commanders of hundreds, and the officials in charge of the king’s work gave willingly. 7 They gave toward the work on the temple of God five thousand talents[d] and ten thousand darics[e] of gold, ten thousand talents[f] of silver, eighteen thousand talents[g] of bronze and a hundred thousand talents[h] of iron. 8 Anyone who had precious stones gave them to the treasury of the temple of the Lord in the custody of Jehiel the Gershonite. 9 The people rejoiced at the willing response of their leaders, for they had given freely and wholeheartedly to the Lord. David the king also rejoiced greatly.
+
+David’s Prayer
+10 David praised the Lord in the presence of the whole assembly, saying,
+
+“Praise be to you, Lord,
+    the God of our father Israel,
+    from everlasting to everlasting.
+11 Yours, Lord, is the greatness and the power
+    and the glory and the majesty and the splendor,
+    for everything in heaven and earth is yours.
+Yours, Lord, is the kingdom;
+    you are exalted as head over all.
+12 Wealth and honor come from you;
+    you are the ruler of all things.
+In your hands are strength and power
+    to exalt and give strength to all.
+13 Now, our God, we give you thanks,
+    and praise your glorious name.
+
+14 “But who am I, and who are my people, that we should be able to give as generously as this? Everything comes from you, and we have given you only what comes from your hand. 15 We are foreigners and strangers in your sight, as were all our ancestors. Our days on earth are like a shadow, without hope. 16 Lord our God, all this abundance that we have provided for building you a temple for your Holy Name comes from your hand, and all of it belongs to you. 17 I know, my God, that you test the heart and are pleased with integrity. All these things I have given willingly and with honest intent. And now I have seen with joy how willingly your people who are here have given to you. 18 Lord, the God of our fathers Abraham, Isaac and Israel, keep these desires and thoughts in the hearts of your people forever, and keep their hearts loyal to you. 19 And give my son Solomon the wholehearted devotion to keep your commands, statutes and decrees and to do everything to build the palatial structure for which I have provided.”
+
+20 Then David said to the whole assembly, “Praise the Lord your God.” So they all praised the Lord, the God of their fathers; they bowed down, prostrating themselves before the Lord and the king.
+
+Solomon Acknowledged as King
+21 The next day they made sacrifices to the Lord and presented burnt offerings to him: a thousand bulls, a thousand rams and a thousand male lambs, together with their drink offerings, and other sacrifices in abundance for all Israel. 22 They ate and drank with great joy in the presence of the Lord that day.
+
+Then they acknowledged Solomon son of David as king a second time, anointing him before the Lord to be ruler and Zadok to be priest. 23 So Solomon sat on the throne of the Lord as king in place of his father David. He prospered and all Israel obeyed him. 24 All the officers and warriors, as well as all of King David’s sons, pledged their submission to King Solomon.
+
+25 The Lord highly exalted Solomon in the sight of all Israel and bestowed on him royal splendor such as no king over Israel ever had before.
+
+The Death of David
+26 David son of Jesse was king over all Israel. 27 He ruled over Israel forty years—seven in Hebron and thirty-three in Jerusalem. 28 He died at a good old age, having enjoyed long life, wealth and honor. His son Solomon succeeded him as king.
+
+29 As for the events of King David’s reign, from beginning to end, they are written in the records of Samuel the seer, the records of Nathan the prophet and the records of Gad the seer, 30 together with the details of his reign and power, and the circumstances that surrounded him and Israel and the kingdoms of all the other lands.  
+         </p>
+                                  </div>
   
   
   
