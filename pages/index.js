@@ -15950,7 +15950,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-I Chronicles is in the process of being coded.
+The Chronicles were written for the exiles after returning from Babylonian captivity, reminding them that they were the chosen people of Israel from the line of David. 
            
 </p>                                                      
                   <div className={styles.nav}>           
@@ -18326,8 +18326,8 @@ The meaning of “Torah” is often restricted to signify the first five books o
              <h4 className={styles.h4}>II Samuel is Completed</h4>    
             <h4 className={styles.h4}>I Kings is Completed</h4>   
             <h4 className={styles.h4}>II Kings is Completed</h4>  
-           <h4 className={styles.h4}>I Chronicles is being coded</h4>  
-          
+           <h4 className={styles.h4}>I Chronicles is Completed</h4>  
+            <h4 className={styles.h4}>II Chronicles is being coded</h4>  
                 </p>
           </div>
 
