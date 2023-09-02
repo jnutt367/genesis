@@ -19221,6 +19221,373 @@ So the prophet stopped but said, “I know that God has determined to destroy yo
   
              </div>  
 
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Chronicles Chapter XXVI </h2>
+                                <p>
+ <h4 className={styles.h4}>Uzziah King of Judah</h4> 
+
+26 Then all the people of Judah took Uzziah,[a] who was sixteen years old, and made him king in place of his father Amaziah. 2 He was the one who rebuilt Elath and restored it to Judah after Amaziah rested with his ancestors.
+
+3 Uzziah was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother’s name was Jekoliah; she was from Jerusalem. 4 He did what was right in the eyes of the Lord, just as his father Amaziah had done. 5 He sought God during the days of Zechariah, who instructed him in the fear[b] of God. As long as he sought the Lord, God gave him success.
+
+6 He went to war against the Philistines and broke down the walls of Gath, Jabneh and Ashdod. He then rebuilt towns near Ashdod and elsewhere among the Philistines. 7 God helped him against the Philistines and against the Arabs who lived in Gur Baal and against the Meunites. 8 The Ammonites brought tribute to Uzziah, and his fame spread as far as the border of Egypt, because he had become very powerful.
+
+9 Uzziah built towers in Jerusalem at the Corner Gate, at the Valley Gate and at the angle of the wall, and he fortified them. 10 He also built towers in the wilderness and dug many cisterns, because he had much livestock in the foothills and in the plain. He had people working his fields and vineyards in the hills and in the fertile lands, for he loved the soil.
+
+11 Uzziah had a well-trained army, ready to go out by divisions according to their numbers as mustered by Jeiel the secretary and Maaseiah the officer under the direction of Hananiah, one of the royal officials. 12 The total number of family leaders over the fighting men was 2,600. 13 Under their command was an army of 307,500 men trained for war, a powerful force to support the king against his enemies. 14 Uzziah provided shields, spears, helmets, coats of armor, bows and slingstones for the entire army. 15 In Jerusalem he made devices invented for use on the towers and on the corner defenses so that soldiers could shoot arrows and hurl large stones from the walls. His fame spread far and wide, for he was greatly helped until he became powerful.
+
+16 But after Uzziah became powerful, his pride led to his downfall. He was unfaithful to the Lord his God, and entered the temple of the Lord to burn incense on the altar of incense. 17 Azariah the priest with eighty other courageous priests of the Lord followed him in. 18 They confronted King Uzziah and said, “It is not right for you, Uzziah, to burn incense to the Lord. That is for the priests, the descendants of Aaron, who have been consecrated to burn incense. Leave the sanctuary, for you have been unfaithful; and you will not be honored by the Lord God.”
+
+19 Uzziah, who had a censer in his hand ready to burn incense, became angry. While he was raging at the priests in their presence before the incense altar in the Lord’s temple, leprosy[c] broke out on his forehead. 20 When Azariah the chief priest and all the other priests looked at him, they saw that he had leprosy on his forehead, so they hurried him out. Indeed, he himself was eager to leave, because the Lord had afflicted him.
+
+21 King Uzziah had leprosy until the day he died. He lived in a separate house[d]—leprous, and banned from the temple of the Lord. Jotham his son had charge of the palace and governed the people of the land.
+
+22 The other events of Uzziah’s reign, from beginning to end, are recorded by the prophet Isaiah son of Amoz. 23 Uzziah rested with his ancestors and was buried near them in a cemetery that belonged to the kings, for people said, “He had leprosy.” And Jotham his son succeeded him as king.  
+                                </p>
+             </div> 
+
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Chronicles Chapter XXVII </h2>
+                                <p>
+ <h4 className={styles.h4}>Jotham King of Judah</h4> 
+
+
+27 Jotham was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerusha daughter of Zadok. 2 He did what was right in the eyes of the Lord, just as his father Uzziah had done, but unlike him he did not enter the temple of the Lord. The people, however, continued their corrupt practices. 3 Jotham rebuilt the Upper Gate of the temple of the Lord and did extensive work on the wall at the hill of Ophel. 4 He built towns in the hill country of Judah and forts and towers in the wooded areas.
+
+5 Jotham waged war against the king of the Ammonites and conquered them. That year the Ammonites paid him a hundred talents[a] of silver, ten thousand cors[b] of wheat and ten thousand cors[c] of barley. The Ammonites brought him the same amount also in the second and third years.
+
+6 Jotham grew powerful because he walked steadfastly before the Lord his God.
+
+7 The other events in Jotham’s reign, including all his wars and the other things he did, are written in the book of the kings of Israel and Judah. 8 He was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. 9 Jotham rested with his ancestors and was buried in the City of David. And Ahaz his son succeeded him as king.
+                                </p>
+             </div> 
+
+
+  <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Chronicles Chapter XXVIII </h2>
+                                <p>
+ <h4 className={styles.h4}>Ahaz King of Judah</h4> 
+
+28 Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. Unlike David his father, he did not do what was right in the eyes of the Lord. 2 He followed the ways of the kings of Israel and also made idols for worshiping the Baals. 3 He burned sacrifices in the Valley of Ben Hinnom and sacrificed his children in the fire, engaging in the detestable practices of the nations the Lord had driven out before the Israelites. 4 He offered sacrifices and burned incense at the high places, on the hilltops and under every spreading tree.
+
+5 Therefore the Lord his God delivered him into the hands of the king of Aram. The Arameans defeated him and took many of his people as prisoners and brought them to Damascus.
+
+He was also given into the hands of the king of Israel, who inflicted heavy casualties on him. 6 In one day Pekah son of Remaliah killed a hundred and twenty thousand soldiers in Judah—because Judah had forsaken the Lord, the God of their ancestors. 7 Zikri, an Ephraimite warrior, killed Maaseiah the king’s son, Azrikam the officer in charge of the palace, and Elkanah, second to the king. 8 The men of Israel took captive from their fellow Israelites who were from Judah two hundred thousand wives, sons and daughters. They also took a great deal of plunder, which they carried back to Samaria.
+
+9 But a prophet of the Lord named Oded was there, and he went out to meet the army when it returned to Samaria. He said to them, “Because the Lord, the God of your ancestors, was angry with Judah, he gave them into your hand. But you have slaughtered them in a rage that reaches to heaven. 10 And now you intend to make the men and women of Judah and Jerusalem your slaves. But aren’t you also guilty of sins against the Lord your God? 11 Now listen to me! Send back your fellow Israelites you have taken as prisoners, for the Lord’s fierce anger rests on you.”
+
+12 Then some of the leaders in Ephraim—Azariah son of Jehohanan, Berekiah son of Meshillemoth, Jehizkiah son of Shallum, and Amasa son of Hadlai—confronted those who were arriving from the war. 13 “You must not bring those prisoners here,” they said, “or we will be guilty before the Lord. Do you intend to add to our sin and guilt? For our guilt is already great, and his fierce anger rests on Israel.”
+
+14 So the soldiers gave up the prisoners and plunder in the presence of the officials and all the assembly. 15 The men designated by name took the prisoners, and from the plunder they clothed all who were naked. They provided them with clothes and sandals, food and drink, and healing balm. All those who were weak they put on donkeys. So they took them back to their fellow Israelites at Jericho, the City of Palms, and returned to Samaria.
+
+16 At that time King Ahaz sent to the kings[a] of Assyria for help. 17 The Edomites had again come and attacked Judah and carried away prisoners, 18 while the Philistines had raided towns in the foothills and in the Negev of Judah. They captured and occupied Beth Shemesh, Aijalon and Gederoth, as well as Soko, Timnah and Gimzo, with their surrounding villages. 19 The Lord had humbled Judah because of Ahaz king of Israel,[b] for he had promoted wickedness in Judah and had been most unfaithful to the Lord. 20 Tiglath-Pileser[c] king of Assyria came to him, but he gave him trouble instead of help. 21 Ahaz took some of the things from the temple of the Lord and from the royal palace and from the officials and presented them to the king of Assyria, but that did not help him.
+
+22 In his time of trouble King Ahaz became even more unfaithful to the Lord. 23 He offered sacrifices to the gods of Damascus, who had defeated him; for he thought, “Since the gods of the kings of Aram have helped them, I will sacrifice to them so they will help me.” But they were his downfall and the downfall of all Israel.
+
+24 Ahaz gathered together the furnishings from the temple of God and cut them in pieces. He shut the doors of the Lord’s temple and set up altars at every street corner in Jerusalem. 25 In every town in Judah he built high places to burn sacrifices to other gods and aroused the anger of the Lord, the God of his ancestors.
+
+26 The other events of his reign and all his ways, from beginning to end, are written in the book of the kings of Judah and Israel. 27 Ahaz rested with his ancestors and was buried in the city of Jerusalem, but he was not placed in the tombs of the kings of Israel. And Hezekiah his son succeeded him as king.
+
+  
+                                </p>
+             </div> 
+
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Chronicles Chapter XXIX </h2>
+                                <p>
+ <h4 className={styles.h4}>Hezekiah Purifies the Temple</h4> 
+
+29 Hezekiah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Abijah daughter of Zechariah. 2 He did what was right in the eyes of the Lord, just as his father David had done.
+
+3 In the first month of the first year of his reign, he opened the doors of the temple of the Lord and repaired them. 4 He brought in the priests and the Levites, assembled them in the square on the east side 5 and said: “Listen to me, Levites! Consecrate yourselves now and consecrate the temple of the Lord, the God of your ancestors. Remove all defilement from the sanctuary. 6 Our parents were unfaithful; they did evil in the eyes of the Lord our God and forsook him. They turned their faces away from the Lord’s dwelling place and turned their backs on him. 7 They also shut the doors of the portico and put out the lamps. They did not burn incense or present any burnt offerings at the sanctuary to the God of Israel. 8 Therefore, the anger of the Lord has fallen on Judah and Jerusalem; he has made them an object of dread and horror and scorn, as you can see with your own eyes. 9 This is why our fathers have fallen by the sword and why our sons and daughters and our wives are in captivity. 10 Now I intend to make a covenant with the Lord, the God of Israel, so that his fierce anger will turn away from us. 11 My sons, do not be negligent now, for the Lord has chosen you to stand before him and serve him, to minister before him and to burn incense.”
+
+12 Then these Levites set to work:
+
+from the Kohathites,
+
+Mahath son of Amasai and Joel son of Azariah;
+
+from the Merarites,
+
+Kish son of Abdi and Azariah son of Jehallelel;
+
+from the Gershonites,
+
+Joah son of Zimmah and Eden son of Joah;
+
+13 from the descendants of Elizaphan,
+
+Shimri and Jeiel;
+
+from the descendants of Asaph,
+
+Zechariah and Mattaniah;
+
+14 from the descendants of Heman,
+
+Jehiel and Shimei;
+
+from the descendants of Jeduthun,
+
+Shemaiah and Uzziel.
+
+15 When they had assembled their fellow Levites and consecrated themselves, they went in to purify the temple of the Lord, as the king had ordered, following the word of the Lord. 16 The priests went into the sanctuary of the Lord to purify it. They brought out to the courtyard of the Lord’s temple everything unclean that they found in the temple of the Lord. The Levites took it and carried it out to the Kidron Valley. 17 They began the consecration on the first day of the first month, and by the eighth day of the month they reached the portico of the Lord. For eight more days they consecrated the temple of the Lord itself, finishing on the sixteenth day of the first month.
+
+18 Then they went in to King Hezekiah and reported: “We have purified the entire temple of the Lord, the altar of burnt offering with all its utensils, and the table for setting out the consecrated bread, with all its articles. 19 We have prepared and consecrated all the articles that King Ahaz removed in his unfaithfulness while he was king. They are now in front of the Lord’s altar.”
+
+20 Early the next morning King Hezekiah gathered the city officials together and went up to the temple of the Lord. 21 They brought seven bulls, seven rams, seven male lambs and seven male goats as a sin offering[a] for the kingdom, for the sanctuary and for Judah. The king commanded the priests, the descendants of Aaron, to offer these on the altar of the Lord. 22 So they slaughtered the bulls, and the priests took the blood and splashed it against the altar; next they slaughtered the rams and splashed their blood against the altar; then they slaughtered the lambs and splashed their blood against the altar. 23 The goats for the sin offering were brought before the king and the assembly, and they laid their hands on them. 24 The priests then slaughtered the goats and presented their blood on the altar for a sin offering to atone for all Israel, because the king had ordered the burnt offering and the sin offering for all Israel.
+
+25 He stationed the Levites in the temple of the Lord with cymbals, harps and lyres in the way prescribed by David and Gad the king’s seer and Nathan the prophet; this was commanded by the Lord through his prophets. 26 So the Levites stood ready with David’s instruments, and the priests with their trumpets.
+
+27 Hezekiah gave the order to sacrifice the burnt offering on the altar. As the offering began, singing to the Lord began also, accompanied by trumpets and the instruments of David king of Israel. 28 The whole assembly bowed in worship, while the musicians played and the trumpets sounded. All this continued until the sacrifice of the burnt offering was completed.
+
+29 When the offerings were finished, the king and everyone present with him knelt down and worshiped. 30 King Hezekiah and his officials ordered the Levites to praise the Lord with the words of David and of Asaph the seer. So they sang praises with gladness and bowed down and worshiped.
+
+31 Then Hezekiah said, “You have now dedicated yourselves to the Lord. Come and bring sacrifices and thank offerings to the temple of the Lord.” So the assembly brought sacrifices and thank offerings, and all whose hearts were willing brought burnt offerings.
+
+32 The number of burnt offerings the assembly brought was seventy bulls, a hundred rams and two hundred male lambs—all of them for burnt offerings to the Lord. 33 The animals consecrated as sacrifices amounted to six hundred bulls and three thousand sheep and goats. 34 The priests, however, were too few to skin all the burnt offerings; so their relatives the Levites helped them until the task was finished and until other priests had been consecrated, for the Levites had been more conscientious in consecrating themselves than the priests had been. 35 There were burnt offerings in abundance, together with the fat of the fellowship offerings and the drink offerings that accompanied the burnt offerings.
+
+So the service of the temple of the Lord was reestablished. 36 Hezekiah and all the people rejoiced at what God had brought about for his people, because it was done so quickly.
+
+  
+                                </p>
+             </div> 
+
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Chronicles Chapter XXX </h2>
+                                <p>
+ <h4 className={styles.h4}>Hezekiah Celebrates the Passover</h4> 
+
+30 Hezekiah sent word to all Israel and Judah and also wrote letters to Ephraim and Manasseh, inviting them to come to the temple of the Lord in Jerusalem and celebrate the Passover to the Lord, the God of Israel. 2 The king and his officials and the whole assembly in Jerusalem decided to celebrate the Passover in the second month. 3 They had not been able to celebrate it at the regular time because not enough priests had consecrated themselves and the people had not assembled in Jerusalem. 4 The plan seemed right both to the king and to the whole assembly. 5 They decided to send a proclamation throughout Israel, from Beersheba to Dan, calling the people to come to Jerusalem and celebrate the Passover to the Lord, the God of Israel. It had not been celebrated in large numbers according to what was written.
+
+6 At the king’s command, couriers went throughout Israel and Judah with letters from the king and from his officials, which read:
+
+“People of Israel, return to the Lord, the God of Abraham, Isaac and Israel, that he may return to you who are left, who have escaped from the hand of the kings of Assyria. 7 Do not be like your parents and your fellow Israelites, who were unfaithful to the Lord, the God of their ancestors, so that he made them an object of horror, as you see. 8 Do not be stiff-necked, as your ancestors were; submit to the Lord. Come to his sanctuary, which he has consecrated forever. Serve the Lord your God, so that his fierce anger will turn away from you. 9 If you return to the Lord, then your fellow Israelites and your children will be shown compassion by their captors and will return to this land, for the Lord your God is gracious and compassionate. He will not turn his face from you if you return to him.”
+
+10 The couriers went from town to town in Ephraim and Manasseh, as far as Zebulun, but people scorned and ridiculed them. 11 Nevertheless, some from Asher, Manasseh and Zebulun humbled themselves and went to Jerusalem. 12 Also in Judah the hand of God was on the people to give them unity of mind to carry out what the king and his officials had ordered, following the word of the Lord.
+
+13 A very large crowd of people assembled in Jerusalem to celebrate the Festival of Unleavened Bread in the second month. 14 They removed the altars in Jerusalem and cleared away the incense altars and threw them into the Kidron Valley.
+
+15 They slaughtered the Passover lamb on the fourteenth day of the second month. The priests and the Levites were ashamed and consecrated themselves and brought burnt offerings to the temple of the Lord. 16 Then they took up their regular positions as prescribed in the Law of Moses the man of God. The priests splashed against the altar the blood handed to them by the Levites. 17 Since many in the crowd had not consecrated themselves, the Levites had to kill the Passover lambs for all those who were not ceremonially clean and could not consecrate their lambs[a] to the Lord. 18 Although most of the many people who came from Ephraim, Manasseh, Issachar and Zebulun had not purified themselves, yet they ate the Passover, contrary to what was written. But Hezekiah prayed for them, saying, “May the Lord, who is good, pardon everyone 19 who sets their heart on seeking God—the Lord, the God of their ancestors—even if they are not clean according to the rules of the sanctuary.” 20 And the Lord heard Hezekiah and healed the people.
+
+21 The Israelites who were present in Jerusalem celebrated the Festival of Unleavened Bread for seven days with great rejoicing, while the Levites and priests praised the Lord every day with resounding instruments dedicated to the Lord.[b]
+
+22 Hezekiah spoke encouragingly to all the Levites, who showed good understanding of the service of the Lord. For the seven days they ate their assigned portion and offered fellowship offerings and praised[c] the Lord, the God of their ancestors.
+
+23 The whole assembly then agreed to celebrate the festival seven more days; so for another seven days they celebrated joyfully. 24 Hezekiah king of Judah provided a thousand bulls and seven thousand sheep and goats for the assembly, and the officials provided them with a thousand bulls and ten thousand sheep and goats. A great number of priests consecrated themselves. 25 The entire assembly of Judah rejoiced, along with the priests and Levites and all who had assembled from Israel, including the foreigners who had come from Israel and also those who resided in Judah. 26 There was great joy in Jerusalem, for since the days of Solomon son of David king of Israel there had been nothing like this in Jerusalem. 27 The priests and the Levites stood to bless the people, and God heard them, for their prayer reached heaven, his holy dwelling place.  
+                                </p>
+             </div> 
+
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Chronicles Chapter XXXI</h2>
+                                <p>
+ <h4 className={styles.h4}>Contributions for Worship</h4> 
+
+  31 When all this had ended, the Israelites who were there went out to the towns of Judah, smashed the sacred stones and cut down the Asherah poles. They destroyed the high places and the altars throughout Judah and Benjamin and in Ephraim and Manasseh. After they had destroyed all of them, the Israelites returned to their own towns and to their own property.
+
+
+2 Hezekiah assigned the priests and Levites to divisions—each of them according to their duties as priests or Levites—to offer burnt offerings and fellowship offerings, to minister, to give thanks and to sing praises at the gates of the Lord’s dwelling. 3 The king contributed from his own possessions for the morning and evening burnt offerings and for the burnt offerings on the Sabbaths, at the New Moons and at the appointed festivals as written in the Law of the Lord. 4 He ordered the people living in Jerusalem to give the portion due the priests and Levites so they could devote themselves to the Law of the Lord. 5 As soon as the order went out, the Israelites generously gave the firstfruits of their grain, new wine, olive oil and honey and all that the fields produced. They brought a great amount, a tithe of everything. 6 The people of Israel and Judah who lived in the towns of Judah also brought a tithe of their herds and flocks and a tithe of the holy things dedicated to the Lord their God, and they piled them in heaps. 7 They began doing this in the third month and finished in the seventh month. 8 When Hezekiah and his officials came and saw the heaps, they praised the Lord and blessed his people Israel.
+
+9 Hezekiah asked the priests and Levites about the heaps; 10 and Azariah the chief priest, from the family of Zadok, answered, “Since the people began to bring their contributions to the temple of the Lord, we have had enough to eat and plenty to spare, because the Lord has blessed his people, and this great amount is left over.”
+
+11 Hezekiah gave orders to prepare storerooms in the temple of the Lord, and this was done. 12 Then they faithfully brought in the contributions, tithes and dedicated gifts. Konaniah, a Levite, was the overseer in charge of these things, and his brother Shimei was next in rank. 13 Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismakiah, Mahath and Benaiah were assistants of Konaniah and Shimei his brother. All these served by appointment of King Hezekiah and Azariah the official in charge of the temple of God.
+
+14 Kore son of Imnah the Levite, keeper of the East Gate, was in charge of the freewill offerings given to God, distributing the contributions made to the Lord and also the consecrated gifts. 15 Eden, Miniamin, Jeshua, Shemaiah, Amariah and Shekaniah assisted him faithfully in the towns of the priests, distributing to their fellow priests according to their divisions, old and young alike.
+
+16 In addition, they distributed to the males three years old or more whose names were in the genealogical records—all who would enter the temple of the Lord to perform the daily duties of their various tasks, according to their responsibilities and their divisions. 17 And they distributed to the priests enrolled by their families in the genealogical records and likewise to the Levites twenty years old or more, according to their responsibilities and their divisions. 18 They included all the little ones, the wives, and the sons and daughters of the whole community listed in these genealogical records. For they were faithful in consecrating themselves.
+
+19 As for the priests, the descendants of Aaron, who lived on the farmlands around their towns or in any other towns, men were designated by name to distribute portions to every male among them and to all who were recorded in the genealogies of the Levites.
+
+20 This is what Hezekiah did throughout Judah, doing what was good and right and faithful before the Lord his God. 21 In everything that he undertook in the service of God’s temple and in obedience to the law and the commands, he sought his God and worked wholeheartedly. And so he prospered.                                </p>
+             </div> 
+
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Chronicles Chapter XXXII </h2>
+                                <p>
+ <h4 className={styles.h4}>Sennacherib Threatens Jerusalem</h4> 
+
+
+32 After all that Hezekiah had so faithfully done, Sennacherib king of Assyria came and invaded Judah. He laid siege to the fortified cities, thinking to conquer them for himself. 2 When Hezekiah saw that Sennacherib had come and that he intended to wage war against Jerusalem, 3 he consulted with his officials and military staff about blocking off the water from the springs outside the city, and they helped him. 4 They gathered a large group of people who blocked all the springs and the stream that flowed through the land. “Why should the kings[a] of Assyria come and find plenty of water?” they said. 5 Then he worked hard repairing all the broken sections of the wall and building towers on it. He built another wall outside that one and reinforced the terraces[b] of the City of David. He also made large numbers of weapons and shields.
+
+6 He appointed military officers over the people and assembled them before him in the square at the city gate and encouraged them with these words: 7 “Be strong and courageous. Do not be afraid or discouraged because of the king of Assyria and the vast army with him, for there is a greater power with us than with him. 8 With him is only the arm of flesh, but with us is the Lord our God to help us and to fight our battles.” And the people gained confidence from what Hezekiah the king of Judah said.
+
+9 Later, when Sennacherib king of Assyria and all his forces were laying siege to Lachish, he sent his officers to Jerusalem with this message for Hezekiah king of Judah and for all the people of Judah who were there:
+
+10 “This is what Sennacherib king of Assyria says: On what are you basing your confidence, that you remain in Jerusalem under siege? 11 When Hezekiah says, ‘The Lord our God will save us from the hand of the king of Assyria,’ he is misleading you, to let you die of hunger and thirst. 12 Did not Hezekiah himself remove this god’s high places and altars, saying to Judah and Jerusalem, ‘You must worship before one altar and burn sacrifices on it’?
+
+13 “Do you not know what I and my predecessors have done to all the peoples of the other lands? Were the gods of those nations ever able to deliver their land from my hand? 14 Who of all the gods of these nations that my predecessors destroyed has been able to save his people from me? How then can your god deliver you from my hand? 15 Now do not let Hezekiah deceive you and mislead you like this. Do not believe him, for no god of any nation or kingdom has been able to deliver his people from my hand or the hand of my predecessors. How much less will your god deliver you from my hand!”
+
+16 Sennacherib’s officers spoke further against the Lord God and against his servant Hezekiah. 17 The king also wrote letters ridiculing the Lord, the God of Israel, and saying this against him: “Just as the gods of the peoples of the other lands did not rescue their people from my hand, so the god of Hezekiah will not rescue his people from my hand.” 18 Then they called out in Hebrew to the people of Jerusalem who were on the wall, to terrify them and make them afraid in order to capture the city. 19 They spoke about the God of Jerusalem as they did about the gods of the other peoples of the world—the work of human hands.
+
+20 King Hezekiah and the prophet Isaiah son of Amoz cried out in prayer to heaven about this. 21 And the Lord sent an angel, who annihilated all the fighting men and the commanders and officers in the camp of the Assyrian king. So he withdrew to his own land in disgrace. And when he went into the temple of his god, some of his sons, his own flesh and blood, cut him down with the sword.
+
+22 So the Lord saved Hezekiah and the people of Jerusalem from the hand of Sennacherib king of Assyria and from the hand of all others. He took care of them[c] on every side. 23 Many brought offerings to Jerusalem for the Lord and valuable gifts for Hezekiah king of Judah. From then on he was highly regarded by all the nations.
+
+Hezekiah’s Pride, Success and Death
+24 In those days Hezekiah became ill and was at the point of death. He prayed to the Lord, who answered him and gave him a miraculous sign. 25 But Hezekiah’s heart was proud and he did not respond to the kindness shown him; therefore the Lord’s wrath was on him and on Judah and Jerusalem. 26 Then Hezekiah repented of the pride of his heart, as did the people of Jerusalem; therefore the Lord’s wrath did not come on them during the days of Hezekiah.
+
+27 Hezekiah had very great wealth and honor, and he made treasuries for his silver and gold and for his precious stones, spices, shields and all kinds of valuables. 28 He also made buildings to store the harvest of grain, new wine and olive oil; and he made stalls for various kinds of cattle, and pens for the flocks. 29 He built villages and acquired great numbers of flocks and herds, for God had given him very great riches.
+
+30 It was Hezekiah who blocked the upper outlet of the Gihon spring and channeled the water down to the west side of the City of David. He succeeded in everything he undertook. 31 But when envoys were sent by the rulers of Babylon to ask him about the miraculous sign that had occurred in the land, God left him to test him and to know everything that was in his heart.
+
+32 The other events of Hezekiah’s reign and his acts of devotion are written in the vision of the prophet Isaiah son of Amoz in the book of the kings of Judah and Israel. 33 Hezekiah rested with his ancestors and was buried on the hill where the tombs of David’s descendants are. All Judah and the people of Jerusalem honored him when he died. And Manasseh his son succeeded him as king.
+
+
+                                </p>
+             </div> 
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Chronicles Chapter XXXIII </h2>
+                                <p>
+ <h4 className={styles.h4}>Manasseh King of Judah</h4> 
+
+33 Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years. 2 He did evil in the eyes of the Lord, following the detestable practices of the nations the Lord had driven out before the Israelites. 3 He rebuilt the high places his father Hezekiah had demolished; he also erected altars to the Baals and made Asherah poles. He bowed down to all the starry hosts and worshiped them. 4 He built altars in the temple of the Lord, of which the Lord had said, “My Name will remain in Jerusalem forever.” 5 In both courts of the temple of the Lord, he built altars to all the starry hosts. 6 He sacrificed his children in the fire in the Valley of Ben Hinnom, practiced divination and witchcraft, sought omens, and consulted mediums and spiritists. He did much evil in the eyes of the Lord, arousing his anger.
+
+7 He took the image he had made and put it in God’s temple, of which God had said to David and to his son Solomon, “In this temple and in Jerusalem, which I have chosen out of all the tribes of Israel, I will put my Name forever. 8 I will not again make the feet of the Israelites leave the land I assigned to your ancestors, if only they will be careful to do everything I commanded them concerning all the laws, decrees and regulations given through Moses.” 9 But Manasseh led Judah and the people of Jerusalem astray, so that they did more evil than the nations the Lord had destroyed before the Israelites.
+
+10 The Lord spoke to Manasseh and his people, but they paid no attention. 11 So the Lord brought against them the army commanders of the king of Assyria, who took Manasseh prisoner, put a hook in his nose, bound him with bronze shackles and took him to Babylon. 12 In his distress he sought the favor of the Lord his God and humbled himself greatly before the God of his ancestors. 13 And when he prayed to him, the Lord was moved by his entreaty and listened to his plea; so he brought him back to Jerusalem and to his kingdom. Then Manasseh knew that the Lord is God.
+
+14 Afterward he rebuilt the outer wall of the City of David, west of the Gihon spring in the valley, as far as the entrance of the Fish Gate and encircling the hill of Ophel; he also made it much higher. He stationed military commanders in all the fortified cities in Judah.
+
+15 He got rid of the foreign gods and removed the image from the temple of the Lord, as well as all the altars he had built on the temple hill and in Jerusalem; and he threw them out of the city. 16 Then he restored the altar of the Lord and sacrificed fellowship offerings and thank offerings on it, and told Judah to serve the Lord, the God of Israel. 17 The people, however, continued to sacrifice at the high places, but only to the Lord their God.
+
+18 The other events of Manasseh’s reign, including his prayer to his God and the words the seers spoke to him in the name of the Lord, the God of Israel, are written in the annals of the kings of Israel.[a] 19 His prayer and how God was moved by his entreaty, as well as all his sins and unfaithfulness, and the sites where he built high places and set up Asherah poles and idols before he humbled himself—all these are written in the records of the seers.[b] 20 Manasseh rested with his ancestors and was buried in his palace. And Amon his son succeeded him as king.
+
+Amon King of Judah
+21 Amon was twenty-two years old when he became king, and he reigned in Jerusalem two years. 22 He did evil in the eyes of the Lord, as his father Manasseh had done. Amon worshiped and offered sacrifices to all the idols Manasseh had made. 23 But unlike his father Manasseh, he did not humble himself before the Lord; Amon increased his guilt.
+
+24 Amon’s officials conspired against him and assassinated him in his palace. 25 Then the people of the land killed all who had plotted against King Amon, and they made Josiah his son king in his place.  
+                                </p>
+             </div> 
+
+
+<div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Chronicles Chapter XXXIV </h2>
+                                <p>
+ <h4 className={styles.h4}>Josiah’s Reforms</h4> 
+
+
+34 Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years. 2 He did what was right in the eyes of the Lord and followed the ways of his father David, not turning aside to the right or to the left.
+
+3 In the eighth year of his reign, while he was still young, he began to seek the God of his father David. In his twelfth year he began to purge Judah and Jerusalem of high places, Asherah poles and idols. 4 Under his direction the altars of the Baals were torn down; he cut to pieces the incense altars that were above them, and smashed the Asherah poles and the idols. These he broke to pieces and scattered over the graves of those who had sacrificed to them. 5 He burned the bones of the priests on their altars, and so he purged Judah and Jerusalem. 6 In the towns of Manasseh, Ephraim and Simeon, as far as Naphtali, and in the ruins around them, 7 he tore down the altars and the Asherah poles and crushed the idols to powder and cut to pieces all the incense altars throughout Israel. Then he went back to Jerusalem.
+
+8 In the eighteenth year of Josiah’s reign, to purify the land and the temple, he sent Shaphan son of Azaliah and Maaseiah the ruler of the city, with Joah son of Joahaz, the recorder, to repair the temple of the Lord his God.
+
+9 They went to Hilkiah the high priest and gave him the money that had been brought into the temple of God, which the Levites who were the gatekeepers had collected from the people of Manasseh, Ephraim and the entire remnant of Israel and from all the people of Judah and Benjamin and the inhabitants of Jerusalem. 10 Then they entrusted it to the men appointed to supervise the work on the Lord’s temple. These men paid the workers who repaired and restored the temple. 11 They also gave money to the carpenters and builders to purchase dressed stone, and timber for joists and beams for the buildings that the kings of Judah had allowed to fall into ruin.
+
+12 The workers labored faithfully. Over them to direct them were Jahath and Obadiah, Levites descended from Merari, and Zechariah and Meshullam, descended from Kohath. The Levites—all who were skilled in playing musical instruments— 13 had charge of the laborers and supervised all the workers from job to job. Some of the Levites were secretaries, scribes and gatekeepers.
+
+The Book of the Law Found
+14 While they were bringing out the money that had been taken into the temple of the Lord, Hilkiah the priest found the Book of the Law of the Lord that had been given through Moses. 15 Hilkiah said to Shaphan the secretary, “I have found the Book of the Law in the temple of the Lord.” He gave it to Shaphan.
+
+16 Then Shaphan took the book to the king and reported to him: “Your officials are doing everything that has been committed to them. 17 They have paid out the money that was in the temple of the Lord and have entrusted it to the supervisors and workers.” 18 Then Shaphan the secretary informed the king, “Hilkiah the priest has given me a book.” And Shaphan read from it in the presence of the king.
+
+19 When the king heard the words of the Law, he tore his robes. 20 He gave these orders to Hilkiah, Ahikam son of Shaphan, Abdon son of Micah,[a] Shaphan the secretary and Asaiah the king’s attendant: 21 “Go and inquire of the Lord for me and for the remnant in Israel and Judah about what is written in this book that has been found. Great is the Lord’s anger that is poured out on us because those who have gone before us have not kept the word of the Lord; they have not acted in accordance with all that is written in this book.”
+
+22 Hilkiah and those the king had sent with him[b] went to speak to the prophet Huldah, who was the wife of Shallum son of Tokhath,[c] the son of Hasrah,[d] keeper of the wardrobe. She lived in Jerusalem, in the New Quarter.
+
+23 She said to them, “This is what the Lord, the God of Israel, says: Tell the man who sent you to me, 24 ‘This is what the Lord says: I am going to bring disaster on this place and its people—all the curses written in the book that has been read in the presence of the king of Judah. 25 Because they have forsaken me and burned incense to other gods and aroused my anger by all that their hands have made,[e] my anger will be poured out on this place and will not be quenched.’ 26 Tell the king of Judah, who sent you to inquire of the Lord, ‘This is what the Lord, the God of Israel, says concerning the words you heard: 27 Because your heart was responsive and you humbled yourself before God when you heard what he spoke against this place and its people, and because you humbled yourself before me and tore your robes and wept in my presence, I have heard you, declares the Lord. 28 Now I will gather you to your ancestors, and you will be buried in peace. Your eyes will not see all the disaster I am going to bring on this place and on those who live here.’”
+
+So they took her answer back to the king.
+
+29 Then the king called together all the elders of Judah and Jerusalem. 30 He went up to the temple of the Lord with the people of Judah, the inhabitants of Jerusalem, the priests and the Levites—all the people from the least to the greatest. He read in their hearing all the words of the Book of the Covenant, which had been found in the temple of the Lord. 31 The king stood by his pillar and renewed the covenant in the presence of the Lord—to follow the Lord and keep his commands, statutes and decrees with all his heart and all his soul, and to obey the words of the covenant written in this book.
+
+32 Then he had everyone in Jerusalem and Benjamin pledge themselves to it; the people of Jerusalem did this in accordance with the covenant of God, the God of their ancestors.
+
+33 Josiah removed all the detestable idols from all the territory belonging to the Israelites, and he had all who were present in Israel serve the Lord their God. As long as he lived, they did not fail to follow the Lord, the God of their ancestors.
+
+
+                                </p>
+             </div> 
+
+
+  <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Chronicles Chapter XXXV </h2>
+                                <p>
+ <h4 className={styles.h4}>Josiah Celebrates the Passover</h4> 
+
+35 Josiah celebrated the Passover to the Lord in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month. 2 He appointed the priests to their duties and encouraged them in the service of the Lord’s temple. 3 He said to the Levites, who instructed all Israel and who had been consecrated to the Lord: “Put the sacred ark in the temple that Solomon son of David king of Israel built. It is not to be carried about on your shoulders. Now serve the Lord your God and his people Israel. 4 Prepare yourselves by families in your divisions, according to the instructions written by David king of Israel and by his son Solomon.
+
+5 “Stand in the holy place with a group of Levites for each subdivision of the families of your fellow Israelites, the lay people. 6 Slaughter the Passover lambs, consecrate yourselves and prepare the lambs for your fellow Israelites, doing what the Lord commanded through Moses.”
+
+7 Josiah provided for all the lay people who were there a total of thirty thousand lambs and goats for the Passover offerings, and also three thousand cattle—all from the king’s own possessions.
+
+8 His officials also contributed voluntarily to the people and the priests and Levites. Hilkiah, Zechariah and Jehiel, the officials in charge of God’s temple, gave the priests twenty-six hundred Passover offerings and three hundred cattle. 9 Also Konaniah along with Shemaiah and Nethanel, his brothers, and Hashabiah, Jeiel and Jozabad, the leaders of the Levites, provided five thousand Passover offerings and five hundred head of cattle for the Levites.
+
+10 The service was arranged and the priests stood in their places with the Levites in their divisions as the king had ordered. 11 The Passover lambs were slaughtered, and the priests splashed against the altar the blood handed to them, while the Levites skinned the animals. 12 They set aside the burnt offerings to give them to the subdivisions of the families of the people to offer to the Lord, as it is written in the Book of Moses. They did the same with the cattle. 13 They roasted the Passover animals over the fire as prescribed, and boiled the holy offerings in pots, caldrons and pans and served them quickly to all the people. 14 After this, they made preparations for themselves and for the priests, because the priests, the descendants of Aaron, were sacrificing the burnt offerings and the fat portions until nightfall. So the Levites made preparations for themselves and for the Aaronic priests.
+
+15 The musicians, the descendants of Asaph, were in the places prescribed by David, Asaph, Heman and Jeduthun the king’s seer. The gatekeepers at each gate did not need to leave their posts, because their fellow Levites made the preparations for them.
+
+16 So at that time the entire service of the Lord was carried out for the celebration of the Passover and the offering of burnt offerings on the altar of the Lord, as King Josiah had ordered. 17 The Israelites who were present celebrated the Passover at that time and observed the Festival of Unleavened Bread for seven days. 18 The Passover had not been observed like this in Israel since the days of the prophet Samuel; and none of the kings of Israel had ever celebrated such a Passover as did Josiah, with the priests, the Levites and all Judah and Israel who were there with the people of Jerusalem. 19 This Passover was celebrated in the eighteenth year of Josiah’s reign.
+
+The Death of Josiah
+20 After all this, when Josiah had set the temple in order, Necho king of Egypt went up to fight at Carchemish on the Euphrates, and Josiah marched out to meet him in battle. 21 But Necho sent messengers to him, saying, “What quarrel is there, king of Judah, between you and me? It is not you I am attacking at this time, but the house with which I am at war. God has told me to hurry; so stop opposing God, who is with me, or he will destroy you.”
+
+22 Josiah, however, would not turn away from him, but disguised himself to engage him in battle. He would not listen to what Necho had said at God’s command but went to fight him on the plain of Megiddo.
+
+23 Archers shot King Josiah, and he told his officers, “Take me away; I am badly wounded.” 24 So they took him out of his chariot, put him in his other chariot and brought him to Jerusalem, where he died. He was buried in the tombs of his ancestors, and all Judah and Jerusalem mourned for him.
+
+25 Jeremiah composed laments for Josiah, and to this day all the male and female singers commemorate Josiah in the laments. These became a tradition in Israel and are written in the Laments.
+
+26 The other events of Josiah’s reign and his acts of devotion in accordance with what is written in the Law of the Lord— 27 all the events, from beginning to end, are written in the book of the kings of Israel and Judah.  
+                                </p>
+             </div> 
+
+  
+  <div className={styles.card4}
+          >
+            <h2 className={styles.chapter3}>II Chronicles Chapter XXXVI </h2>
+                                <p>
+ <h4 className={styles.h4}>Jehoahaz King of Judah</h4> 
+
+  36 1 And the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father.
+
+Jehoahaz King of Judah
+2 Jehoahaz[a] was twenty-three years old when he became king, and he reigned in Jerusalem three months. 3 The king of Egypt dethroned him in Jerusalem and imposed on Judah a levy of a hundred talents[b] of silver and a talent[c] of gold. 4 The king of Egypt made Eliakim, a brother of Jehoahaz, king over Judah and Jerusalem and changed Eliakim’s name to Jehoiakim. But Necho took Eliakim’s brother Jehoahaz and carried him off to Egypt.
+
+Jehoiakim King of Judah
+5 Jehoiakim was twenty-five years old when he became king, and he reigned in Jerusalem eleven years. He did evil in the eyes of the Lord his God. 6 Nebuchadnezzar king of Babylon attacked him and bound him with bronze shackles to take him to Babylon. 7 Nebuchadnezzar also took to Babylon articles from the temple of the Lord and put them in his temple[d] there.
+
+8 The other events of Jehoiakim’s reign, the detestable things he did and all that was found against him, are written in the book of the kings of Israel and Judah. And Jehoiachin his son succeeded him as king.
+
+Jehoiachin King of Judah
+9 Jehoiachin was eighteen[e] years old when he became king, and he reigned in Jerusalem three months and ten days. He did evil in the eyes of the Lord. 10 In the spring, King Nebuchadnezzar sent for him and brought him to Babylon, together with articles of value from the temple of the Lord, and he made Jehoiachin’s uncle,[f] Zedekiah, king over Judah and Jerusalem.
+
+Zedekiah King of Judah
+11 Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. 12 He did evil in the eyes of the Lord his God and did not humble himself before Jeremiah the prophet, who spoke the word of the Lord. 13 He also rebelled against King Nebuchadnezzar, who had made him take an oath in God’s name. He became stiff-necked and hardened his heart and would not turn to the Lord, the God of Israel. 14 Furthermore, all the leaders of the priests and the people became more and more unfaithful, following all the detestable practices of the nations and defiling the temple of the Lord, which he had consecrated in Jerusalem.
+
+The Fall of Jerusalem
+15 The Lord, the God of their ancestors, sent word to them through his messengers again and again, because he had pity on his people and on his dwelling place. 16 But they mocked God’s messengers, despised his words and scoffed at his prophets until the wrath of the Lord was aroused against his people and there was no remedy. 17 He brought up against them the king of the Babylonians,[g] who killed their young men with the sword in the sanctuary, and did not spare young men or young women, the elderly or the infirm. God gave them all into the hands of Nebuchadnezzar. 18 He carried to Babylon all the articles from the temple of God, both large and small, and the treasures of the Lord’s temple and the treasures of the king and his officials. 19 They set fire to God’s temple and broke down the wall of Jerusalem; they burned all the palaces and destroyed everything of value there.
+
+20 He carried into exile to Babylon the remnant, who escaped from the sword, and they became servants to him and his successors until the kingdom of Persia came to power. 21 The land enjoyed its sabbath rests; all the time of its desolation it rested, until the seventy years were completed in fulfillment of the word of the Lord spoken by Jeremiah.
+
+22 In the first year of Cyrus king of Persia, in order to fulfill the word of the Lord spoken by Jeremiah, the Lord moved the heart of Cyrus king of Persia to make a proclamation throughout his realm and also to put it in writing:
+
+23 “This is what Cyrus king of Persia says:
+
+“‘The Lord, the God of heaven, has given me all the kingdoms of the earth and he has appointed me to build a temple for him at Jerusalem in Judah. Any of his people among you may go up, and may the Lord their God be with them.’”                                </p>
+             </div> 
+
+
+
+ 
+
   
   
   
@@ -19252,7 +19619,9 @@ The meaning of “Torah” is often restricted to signify the first five books o
             <h4 className={styles.h4}>I Kings is Completed</h4>   
             <h4 className={styles.h4}>II Kings is Completed</h4>  
            <h4 className={styles.h4}>I Chronicles is Completed</h4>  
-           <h4 className={styles.h4}>II Chronicles is being coded now</h4>            
+           <h4 className={styles.h4}>II Chronicles is Completed</h4>    
+          <h4 className={styles.h4}>Ezra, Nehemiah & Esther are all being coded </h4>     
+  
                 </p>
           </div>
 
