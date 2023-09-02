@@ -18414,10 +18414,22 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter I </h2>
                                 <p>
- <h4 className={styles.h4}>            </h4> 
+ <h4 className={styles.h4}>Solomon Asks for Wisdom</h4> 
 
 
-          
+1 Solomon son of David established himself firmly over his kingdom, for the Lord his God was with him and made him exceedingly great.
+
+2 Then Solomon spoke to all Israel—to the commanders of thousands and commanders of hundreds, to the judges and to all the leaders in Israel, the heads of families— 3 and Solomon and the whole assembly went to the high place at Gibeon, for God’s tent of meeting was there, which Moses the Lord’s servant had made in the wilderness. 4 Now David had brought up the ark of God from Kiriath Jearim to the place he had prepared for it, because he had pitched a tent for it in Jerusalem. 5 But the bronze altar that Bezalel son of Uri, the son of Hur, had made was in Gibeon in front of the tabernacle of the Lord; so Solomon and the assembly inquired of him there. 6 Solomon went up to the bronze altar before the Lord in the tent of meeting and offered a thousand burnt offerings on it.
+
+7 That night God appeared to Solomon and said to him, “Ask for whatever you want me to give you.”
+
+8 Solomon answered God, “You have shown great kindness to David my father and have made me king in his place. 9 Now, Lord God, let your promise to my father David be confirmed, for you have made me king over a people who are as numerous as the dust of the earth. 10 Give me wisdom and knowledge, that I may lead this people, for who is able to govern this great people of yours?”
+
+11 God said to Solomon, “Since this is your heart’s desire and you have not asked for wealth, possessions or honor, nor for the death of your enemies, and since you have not asked for a long life but for wisdom and knowledge to govern my people over whom I have made you king, 12 therefore wisdom and knowledge will be given you. And I will also give you wealth, possessions and honor, such as no king who was before you ever had and none after you will have.”
+
+13 Then Solomon went to Jerusalem from the high place at Gibeon, from before the tent of meeting. And he reigned over Israel.
+
+14 Solomon accumulated chariots and horses; he had fourteen hundred chariots and twelve thousand horses,[a] which he kept in the chariot cities and also with him in Jerusalem. 15 The king made silver and gold as common in Jerusalem as stones, and cedar as plentiful as sycamore-fig trees in the foothills. 16 Solomon’s horses were imported from Egypt and from Kue[b]—the royal merchants purchased them from Kue at the current price. 17 They imported a chariot from Egypt for six hundred shekels[c] of silver, and a horse for a hundred and fifty.[d] They also exported them to all the kings of the Hittites and of the Arameans.          
                                    </p>
   </div>
 
@@ -18425,8 +18437,34 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter II </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>Preparations for Building the Temple</h4> 
 
+2 [a]Solomon gave orders to build a temple for the Name of the Lord and a royal palace for himself. 2 He conscripted 70,000 men as carriers and 80,000 as stonecutters in the hills and 3,600 as foremen over them.
+
+3 Solomon sent this message to Hiram[b] king of Tyre:
+
+“Send me cedar logs as you did for my father David when you sent him cedar to build a palace to live in. 4 Now I am about to build a temple for the Name of the Lord my God and to dedicate it to him for burning fragrant incense before him, for setting out the consecrated bread regularly, and for making burnt offerings every morning and evening and on the Sabbaths, at the New Moons and at the appointed festivals of the Lord our God. This is a lasting ordinance for Israel.
+
+5 “The temple I am going to build will be great, because our God is greater than all other gods. 6 But who is able to build a temple for him, since the heavens, even the highest heavens, cannot contain him? Who then am I to build a temple for him, except as a place to burn sacrifices before him?
+
+7 “Send me, therefore, a man skilled to work in gold and silver, bronze and iron, and in purple, crimson and blue yarn, and experienced in the art of engraving, to work in Judah and Jerusalem with my skilled workers, whom my father David provided.
+
+8 “Send me also cedar, juniper and algum[c] logs from Lebanon, for I know that your servants are skilled in cutting timber there. My servants will work with yours 9 to provide me with plenty of lumber, because the temple I build must be large and magnificent. 10 I will give your servants, the woodsmen who cut the timber, twenty thousand cors[d] of ground wheat, twenty thousand cors[e] of barley, twenty thousand baths[f] of wine and twenty thousand baths of olive oil.”
+
+11 Hiram king of Tyre replied by letter to Solomon:
+
+“Because the Lord loves his people, he has made you their king.”
+
+12 And Hiram added:
+
+“Praise be to the Lord, the God of Israel, who made heaven and earth! He has given King David a wise son, endowed with intelligence and discernment, who will build a temple for the Lord and a palace for himself.
+
+13 “I am sending you Huram-Abi, a man of great skill, 14 whose mother was from Dan and whose father was from Tyre. He is trained to work in gold and silver, bronze and iron, stone and wood, and with purple and blue and crimson yarn and fine linen. He is experienced in all kinds of engraving and can execute any design given to him. He will work with your skilled workers and with those of my lord, David your father.
+
+15 “Now let my lord send his servants the wheat and barley and the olive oil and wine he promised, 16 and we will cut all the logs from Lebanon that you need and will float them as rafts by sea down to Joppa. You can then take them up to Jerusalem.”
+
+17 Solomon took a census of all the foreigners residing in Israel, after the census his father David had taken; and they were found to be 153,600. 18 He assigned 70,000 of them to be carriers and 80,000 to be stonecutters in the hills, with 3,600 foremen over them to keep the people working.
+  
        </p>
                                   </div>
 
@@ -18434,8 +18472,22 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter III </h2>
                                 <p>
- <h4 className={styles.h4}>             </h4> 
+ <h4 className={styles.h4}>Solomon Builds the Temple</h4> 
 
+
+3 Then Solomon began to build the temple of the Lord in Jerusalem on Mount Moriah, where the Lord had appeared to his father David. It was on the threshing floor of Araunah[a] the Jebusite, the place provided by David. 2 He began building on the second day of the second month in the fourth year of his reign.
+
+3 The foundation Solomon laid for building the temple of God was sixty cubits long and twenty cubits wide[b] (using the cubit of the old standard). 4 The portico at the front of the temple was twenty cubits[c] long across the width of the building and twenty[d] cubits high.
+
+He overlaid the inside with pure gold. 5 He paneled the main hall with juniper and covered it with fine gold and decorated it with palm tree and chain designs. 6 He adorned the temple with precious stones. And the gold he used was gold of Parvaim. 7 He overlaid the ceiling beams, doorframes, walls and doors of the temple with gold, and he carved cherubim on the walls.
+
+8 He built the Most Holy Place, its length corresponding to the width of the temple—twenty cubits long and twenty cubits wide. He overlaid the inside with six hundred talents[e] of fine gold. 9 The gold nails weighed fifty shekels.[f] He also overlaid the upper parts with gold.
+
+10 For the Most Holy Place he made a pair of sculptured cherubim and overlaid them with gold. 11 The total wingspan of the cherubim was twenty cubits. One wing of the first cherub was five cubits[g] long and touched the temple wall, while its other wing, also five cubits long, touched the wing of the other cherub. 12 Similarly one wing of the second cherub was five cubits long and touched the other temple wall, and its other wing, also five cubits long, touched the wing of the first cherub. 13 The wings of these cherubim extended twenty cubits. They stood on their feet, facing the main hall.[h]
+
+14 He made the curtain of blue, purple and crimson yarn and fine linen, with cherubim worked into it.
+
+15 For the front of the temple he made two pillars, which together were thirty-five cubits[i] long, each with a capital five cubits high. 16 He made interwoven chains[j] and put them on top of the pillars. He also made a hundred pomegranates and attached them to the chains. 17 He erected the pillars in the front of the temple, one to the south and one to the north. The one to the south he named Jakin[k] and the one to the north Boaz.  
          </p>
                                   </div>
 
@@ -18444,9 +18496,51 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter IV </h2>
                                 <p>
- <h4 className={styles.h4}>             </h4> 
+ <h4 className={styles.h4}>The Temple’s Furnishings</h4> 
 
+4 He made a bronze altar twenty cubits long, twenty cubits wide and ten cubits high.[a] 2 He made the Sea of cast metal, circular in shape, measuring ten cubits from rim to rim and five cubits[b] high. It took a line of thirty cubits[c] to measure around it. 3 Below the rim, figures of bulls encircled it—ten to a cubit.[d] The bulls were cast in two rows in one piece with the Sea.
 
+4 The Sea stood on twelve bulls, three facing north, three facing west, three facing south and three facing east. The Sea rested on top of them, and their hindquarters were toward the center. 5 It was a handbreadth[e] in thickness, and its rim was like the rim of a cup, like a lily blossom. It held three thousand baths.[f]
+
+6 He then made ten basins for washing and placed five on the south side and five on the north. In them the things to be used for the burnt offerings were rinsed, but the Sea was to be used by the priests for washing.
+
+7 He made ten gold lampstands according to the specifications for them and placed them in the temple, five on the south side and five on the north.
+
+8 He made ten tables and placed them in the temple, five on the south side and five on the north. He also made a hundred gold sprinkling bowls.
+
+9 He made the courtyard of the priests, and the large court and the doors for the court, and overlaid the doors with bronze. 10 He placed the Sea on the south side, at the southeast corner.
+
+11 And Huram also made the pots and shovels and sprinkling bowls.
+
+So Huram finished the work he had undertaken for King Solomon in the temple of God:
+
+12 the two pillars;
+
+the two bowl-shaped capitals on top of the pillars;
+
+the two sets of network decorating the two bowl-shaped capitals on top of the pillars;
+
+13 the four hundred pomegranates for the two sets of network (two rows of pomegranates for each network, decorating the bowl-shaped capitals on top of the pillars);
+
+14 the stands with their basins;
+
+15 the Sea and the twelve bulls under it;
+
+16 the pots, shovels, meat forks and all related articles.
+
+All the objects that Huram-Abi made for King Solomon for the temple of the Lord were of polished bronze. 17 The king had them cast in clay molds in the plain of the Jordan between Sukkoth and Zarethan.[g] 18 All these things that Solomon made amounted to so much that the weight of the bronze could not be calculated.
+
+19 Solomon also made all the furnishings that were in God’s temple:
+
+the golden altar;
+
+the tables on which was the bread of the Presence;
+
+20 the lampstands of pure gold with their lamps, to burn in front of the inner sanctuary as prescribed;
+
+21 the gold floral work and lamps and tongs (they were solid gold);
+
+22 the pure gold wick trimmers, sprinkling bowls, dishes and censers; and the gold doors of the temple: the inner doors to the Most Holy Place and the doors of the main hall.
 </p>
                                   </div>
 
@@ -18454,10 +18548,23 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter V </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>The Ark Brought to the Temple</h4> 
+
+5 When all the work Solomon had done for the temple of the Lord was finished, he brought in the things his father David had dedicated—the silver and gold and all the furnishings—and he placed them in the treasuries of God’s temple.
 
 
+2 Then Solomon summoned to Jerusalem the elders of Israel, all the heads of the tribes and the chiefs of the Israelite families, to bring up the ark of the Lord’s covenant from Zion, the City of David. 3 And all the Israelites came together to the king at the time of the festival in the seventh month.
 
+4 When all the elders of Israel had arrived, the Levites took up the ark, 5 and they brought up the ark and the tent of meeting and all the sacred furnishings in it. The Levitical priests carried them up; 6 and King Solomon and the entire assembly of Israel that had gathered about him were before the ark, sacrificing so many sheep and cattle that they could not be recorded or counted.
+
+7 The priests then brought the ark of the Lord’s covenant to its place in the inner sanctuary of the temple, the Most Holy Place, and put it beneath the wings of the cherubim. 8 The cherubim spread their wings over the place of the ark and covered the ark and its carrying poles. 9 These poles were so long that their ends, extending from the ark, could be seen from in front of the inner sanctuary, but not from outside the Holy Place; and they are still there today. 10 There was nothing in the ark except the two tablets that Moses had placed in it at Horeb, where the Lord made a covenant with the Israelites after they came out of Egypt.
+
+11 The priests then withdrew from the Holy Place. All the priests who were there had consecrated themselves, regardless of their divisions. 12 All the Levites who were musicians—Asaph, Heman, Jeduthun and their sons and relatives—stood on the east side of the altar, dressed in fine linen and playing cymbals, harps and lyres. They were accompanied by 120 priests sounding trumpets. 13 The trumpeters and musicians joined in unison to give praise and thanks to the Lord. Accompanied by trumpets, cymbals and other instruments, the singers raised their voices in praise to the Lord and sang:
+
+“He is good;
+    his love endures forever.”
+
+Then the temple of the Lord was filled with the cloud, 14 and the priests could not perform their service because of the cloud, for the glory of the Lord filled the temple of God.
   
               </p>
                                   </div>
@@ -18467,8 +18574,51 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter VI </h2>
                                 <p>
- <h4 className={styles.h4}>             </h4> 
+ <h4 className={styles.h4}>The Lord has said that he would dwell in a dark cloud</h4> 
 
+6 Then Solomon said, “The Lord has said that he would dwell in a dark cloud; 2 I have built a magnificent temple for you, a place for you to dwell forever.”
+
+3 While the whole assembly of Israel was standing there, the king turned around and blessed them. 4 Then he said:
+
+“Praise be to the Lord, the God of Israel, who with his hands has fulfilled what he promised with his mouth to my father David. For he said, 5 ‘Since the day I brought my people out of Egypt, I have not chosen a city in any tribe of Israel to have a temple built so that my Name might be there, nor have I chosen anyone to be ruler over my people Israel. 6 But now I have chosen Jerusalem for my Name to be there, and I have chosen David to rule my people Israel.’
+
+7 “My father David had it in his heart to build a temple for the Name of the Lord, the God of Israel. 8 But the Lord said to my father David, ‘You did well to have it in your heart to build a temple for my Name. 9 Nevertheless, you are not the one to build the temple, but your son, your own flesh and blood—he is the one who will build the temple for my Name.’
+
+10 “The Lord has kept the promise he made. I have succeeded David my father and now I sit on the throne of Israel, just as the Lord promised, and I have built the temple for the Name of the Lord, the God of Israel. 11 There I have placed the ark, in which is the covenant of the Lord that he made with the people of Israel.”
+
+Solomon’s Prayer of Dedication
+12 Then Solomon stood before the altar of the Lord in front of the whole assembly of Israel and spread out his hands. 13 Now he had made a bronze platform, five cubits long, five cubits wide and three cubits high,[a] and had placed it in the center of the outer court. He stood on the platform and then knelt down before the whole assembly of Israel and spread out his hands toward heaven. 14 He said:
+
+“Lord, the God of Israel, there is no God like you in heaven or on earth—you who keep your covenant of love with your servants who continue wholeheartedly in your way. 15 You have kept your promise to your servant David my father; with your mouth you have promised and with your hand you have fulfilled it—as it is today.
+
+16 “Now, Lord, the God of Israel, keep for your servant David my father the promises you made to him when you said, ‘You shall never fail to have a successor to sit before me on the throne of Israel, if only your descendants are careful in all they do to walk before me according to my law, as you have done.’ 17 And now, Lord, the God of Israel, let your word that you promised your servant David come true.
+
+18 “But will God really dwell on earth with humans? The heavens, even the highest heavens, cannot contain you. How much less this temple I have built! 19 Yet, Lord my God, give attention to your servant’s prayer and his plea for mercy. Hear the cry and the prayer that your servant is praying in your presence. 20 May your eyes be open toward this temple day and night, this place of which you said you would put your Name there. May you hear the prayer your servant prays toward this place. 21 Hear the supplications of your servant and of your people Israel when they pray toward this place. Hear from heaven, your dwelling place; and when you hear, forgive.
+
+22 “When anyone wrongs their neighbor and is required to take an oath and they come and swear the oath before your altar in this temple, 23 then hear from heaven and act. Judge between your servants, condemning the guilty and bringing down on their heads what they have done, and vindicating the innocent by treating them in accordance with their innocence.
+
+24 “When your people Israel have been defeated by an enemy because they have sinned against you and when they turn back and give praise to your name, praying and making supplication before you in this temple, 25 then hear from heaven and forgive the sin of your people Israel and bring them back to the land you gave to them and their ancestors.
+
+26 “When the heavens are shut up and there is no rain because your people have sinned against you, and when they pray toward this place and give praise to your name and turn from their sin because you have afflicted them, 27 then hear from heaven and forgive the sin of your servants, your people Israel. Teach them the right way to live, and send rain on the land you gave your people for an inheritance.
+
+28 “When famine or plague comes to the land, or blight or mildew, locusts or grasshoppers, or when enemies besiege them in any of their cities, whatever disaster or disease may come, 29 and when a prayer or plea is made by anyone among your people Israel—being aware of their afflictions and pains, and spreading out their hands toward this temple— 30 then hear from heaven, your dwelling place. Forgive, and deal with everyone according to all they do, since you know their hearts (for you alone know the human heart), 31 so that they will fear you and walk in obedience to you all the time they live in the land you gave our ancestors.
+
+32 “As for the foreigner who does not belong to your people Israel but has come from a distant land because of your great name and your mighty hand and your outstretched arm—when they come and pray toward this temple, 33 then hear from heaven, your dwelling place. Do whatever the foreigner asks of you, so that all the peoples of the earth may know your name and fear you, as do your own people Israel, and may know that this house I have built bears your Name.
+
+34 “When your people go to war against their enemies, wherever you send them, and when they pray to you toward this city you have chosen and the temple I have built for your Name, 35 then hear from heaven their prayer and their plea, and uphold their cause.
+
+36 “When they sin against you—for there is no one who does not sin—and you become angry with them and give them over to the enemy, who takes them captive to a land far away or near; 37 and if they have a change of heart in the land where they are held captive, and repent and plead with you in the land of their captivity and say, ‘We have sinned, we have done wrong and acted wickedly’; 38 and if they turn back to you with all their heart and soul in the land of their captivity where they were taken, and pray toward the land you gave their ancestors, toward the city you have chosen and toward the temple I have built for your Name; 39 then from heaven, your dwelling place, hear their prayer and their pleas, and uphold their cause. And forgive your people, who have sinned against you.
+
+40 “Now, my God, may your eyes be open and your ears attentive to the prayers offered in this place.
+
+41 “Now arise, Lord God, and come to your resting place,
+    you and the ark of your might.
+May your priests, Lord God, be clothed with salvation,
+    may your faithful people rejoice in your goodness.
+42 Lord God, do not reject your anointed one.
+    Remember the great love promised to David your servant.”
+
+  
                                      </p>
                                   </div>
 
@@ -18476,8 +18626,30 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter VII </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>The Dedication of the Temple</h4> 
 
+
+7 When Solomon finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the Lord filled the temple. 2 The priests could not enter the temple of the Lord because the glory of the Lord filled it. 3 When all the Israelites saw the fire coming down and the glory of the Lord above the temple, they knelt on the pavement with their faces to the ground, and they worshiped and gave thanks to the Lord, saying,
+
+“He is good;
+    his love endures forever.”
+
+4 Then the king and all the people offered sacrifices before the Lord. 5 And King Solomon offered a sacrifice of twenty-two thousand head of cattle and a hundred and twenty thousand sheep and goats. So the king and all the people dedicated the temple of God. 6 The priests took their positions, as did the Levites with the Lord’s musical instruments, which King David had made for praising the Lord and which were used when he gave thanks, saying, “His love endures forever.” Opposite the Levites, the priests blew their trumpets, and all the Israelites were standing.
+
+7 Solomon consecrated the middle part of the courtyard in front of the temple of the Lord, and there he offered burnt offerings and the fat of the fellowship offerings, because the bronze altar he had made could not hold the burnt offerings, the grain offerings and the fat portions.
+
+8 So Solomon observed the festival at that time for seven days, and all Israel with him—a vast assembly, people from Lebo Hamath to the Wadi of Egypt. 9 On the eighth day they held an assembly, for they had celebrated the dedication of the altar for seven days and the festival for seven days more. 10 On the twenty-third day of the seventh month he sent the people to their homes, joyful and glad in heart for the good things the Lord had done for David and Solomon and for his people Israel.
+
+The Lord Appears to Solomon
+11 When Solomon had finished the temple of the Lord and the royal palace, and had succeeded in carrying out all he had in mind to do in the temple of the Lord and in his own palace, 12 the Lord appeared to him at night and said:
+
+“I have heard your prayer and have chosen this place for myself as a temple for sacrifices.
+
+13 “When I shut up the heavens so that there is no rain, or command locusts to devour the land or send a plague among my people, 14 if my people, who are called by my name, will humble themselves and pray and seek my face and turn from their wicked ways, then I will hear from heaven, and I will forgive their sin and will heal their land. 15 Now my eyes will be open and my ears attentive to the prayers offered in this place. 16 I have chosen and consecrated this temple so that my Name may be there forever. My eyes and my heart will always be there.
+
+17 “As for you, if you walk before me faithfully as David your father did, and do all I command, and observe my decrees and laws, 18 I will establish your royal throne, as I covenanted with David your father when I said, ‘You shall never fail to have a successor to rule over Israel.’
+
+19 “But if you[a] turn away and forsake the decrees and commands I have given you[b] and go off to serve other gods and worship them, 20 then I will uproot Israel from my land, which I have given them, and will reject this temple I have consecrated for my Name. I will make it a byword and an object of ridicule among all peoples. 21 This temple will become a heap of rubble. All[c] who pass by will be appalled and say, ‘Why has the Lord done such a thing to this land and to this temple?’ 22 People will answer, ‘Because they have forsaken the Lord, the God of their ancestors, who brought them out of Egypt, and have embraced other gods, worshiping and serving them—that is why he brought all this disaster on them.’”
 
 
                                   </p>
@@ -18488,7 +18660,19 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter VIII </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>Solomon’s Other Activities</h4> 
+
+8 At the end of twenty years, during which Solomon built the temple of the Lord and his own palace, 2 Solomon rebuilt the villages that Hiram[a] had given him, and settled Israelites in them. 3 Solomon then went to Hamath Zobah and captured it. 4 He also built up Tadmor in the desert and all the store cities he had built in Hamath. 5 He rebuilt Upper Beth Horon and Lower Beth Horon as fortified cities, with walls and with gates and bars, 6 as well as Baalath and all his store cities, and all the cities for his chariots and for his horses[b]—whatever he desired to build in Jerusalem, in Lebanon and throughout all the territory he ruled.
+
+7 There were still people left from the Hittites, Amorites, Perizzites, Hivites and Jebusites (these people were not Israelites). 8 Solomon conscripted the descendants of all these people remaining in the land—whom the Israelites had not destroyed—to serve as slave labor, as it is to this day. 9 But Solomon did not make slaves of the Israelites for his work; they were his fighting men, commanders of his captains, and commanders of his chariots and charioteers. 10 They were also King Solomon’s chief officials—two hundred and fifty officials supervising the men.
+
+11 Solomon brought Pharaoh’s daughter up from the City of David to the palace he had built for her, for he said, “My wife must not live in the palace of David king of Israel, because the places the ark of the Lord has entered are holy.”
+
+12 On the altar of the Lord that he had built in front of the portico, Solomon sacrificed burnt offerings to the Lord, 13 according to the daily requirement for offerings commanded by Moses for the Sabbaths, the New Moons and the three annual festivals—the Festival of Unleavened Bread, the Festival of Weeks and the Festival of Tabernacles. 14 In keeping with the ordinance of his father David, he appointed the divisions of the priests for their duties, and the Levites to lead the praise and to assist the priests according to each day’s requirement. He also appointed the gatekeepers by divisions for the various gates, because this was what David the man of God had ordered. 15 They did not deviate from the king’s commands to the priests or to the Levites in any matter, including that of the treasuries.
+
+16 All Solomon’s work was carried out, from the day the foundation of the temple of the Lord was laid until its completion. So the temple of the Lord was finished.
+
+17 Then Solomon went to Ezion Geber and Elath on the coast of Edom. 18 And Hiram sent him ships commanded by his own men, sailors who knew the sea. These, with Solomon’s men, sailed to Ophir and brought back four hundred and fifty talents[c] of gold, which they delivered to King Solomon.
 
 
                                </p>
@@ -18500,10 +18684,32 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter IX </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>The Queen of Sheba Visits Solomon</h4> 
 
 
-                </p>
+9 When the queen of Sheba heard of Solomon’s fame, she came to Jerusalem to test him with hard questions. Arriving with a very great caravan—with camels carrying spices, large quantities of gold, and precious stones—she came to Solomon and talked with him about all she had on her mind. 2 Solomon answered all her questions; nothing was too hard for him to explain to her. 3 When the queen of Sheba saw the wisdom of Solomon, as well as the palace he had built, 4 the food on his table, the seating of his officials, the attending servants in their robes, the cupbearers in their robes and the burnt offerings he made at[a] the temple of the Lord, she was overwhelmed.
+
+5 She said to the king, “The report I heard in my own country about your achievements and your wisdom is true. 6 But I did not believe what they said until I came and saw with my own eyes. Indeed, not even half the greatness of your wisdom was told me; you have far exceeded the report I heard. 7 How happy your people must be! How happy your officials, who continually stand before you and hear your wisdom! 8 Praise be to the Lord your God, who has delighted in you and placed you on his throne as king to rule for the Lord your God. Because of the love of your God for Israel and his desire to uphold them forever, he has made you king over them, to maintain justice and righteousness.”
+
+9 Then she gave the king 120 talents[b] of gold, large quantities of spices, and precious stones. There had never been such spices as those the queen of Sheba gave to King Solomon.
+
+10 (The servants of Hiram and the servants of Solomon brought gold from Ophir; they also brought algumwood[c] and precious stones. 11 The king used the algumwood to make steps for the temple of the Lord and for the royal palace, and to make harps and lyres for the musicians. Nothing like them had ever been seen in Judah.)
+
+12 King Solomon gave the queen of Sheba all she desired and asked for; he gave her more than she had brought to him. Then she left and returned with her retinue to her own country.
+
+Solomon’s Splendor
+13 The weight of the gold that Solomon received yearly was 666 talents,[d] 14 not including the revenues brought in by merchants and traders. Also all the kings of Arabia and the governors of the territories brought gold and silver to Solomon.
+
+15 King Solomon made two hundred large shields of hammered gold; six hundred shekels[e] of hammered gold went into each shield. 16 He also made three hundred small shields of hammered gold, with three hundred shekels[f] of gold in each shield. The king put them in the Palace of the Forest of Lebanon.
+
+17 Then the king made a great throne covered with ivory and overlaid with pure gold. 18 The throne had six steps, and a footstool of gold was attached to it. On both sides of the seat were armrests, with a lion standing beside each of them. 19 Twelve lions stood on the six steps, one at either end of each step. Nothing like it had ever been made for any other kingdom. 20 All King Solomon’s goblets were gold, and all the household articles in the Palace of the Forest of Lebanon were pure gold. Nothing was made of silver, because silver was considered of little value in Solomon’s day. 21 The king had a fleet of trading ships[g] manned by Hiram’s[h] servants. Once every three years it returned, carrying gold, silver and ivory, and apes and baboons.
+
+22 King Solomon was greater in riches and wisdom than all the other kings of the earth. 23 All the kings of the earth sought audience with Solomon to hear the wisdom God had put in his heart. 24 Year after year, everyone who came brought a gift—articles of silver and gold, and robes, weapons and spices, and horses and mules.
+
+25 Solomon had four thousand stalls for horses and chariots, and twelve thousand horses,[i] which he kept in the chariot cities and also with him in Jerusalem. 26 He ruled over all the kings from the Euphrates River to the land of the Philistines, as far as the border of Egypt. 27 The king made silver as common in Jerusalem as stones, and cedar as plentiful as sycamore-fig trees in the foothills. 28 Solomon’s horses were imported from Egypt and from all other countries.
+
+Solomon’s Death
+29 As for the other events of Solomon’s reign, from beginning to end, are they not written in the records of Nathan the prophet, in the prophecy of Ahijah the Shilonite and in the visions of Iddo the seer concerning Jeroboam son of Nebat? 30 Solomon reigned in Jerusalem over all Israel forty years. 31 Then he rested with his ancestors and was buried in the city of David his father. And Rehoboam his son succeeded him as king.                </p>
                 
   </div>  
 
@@ -18512,8 +18718,33 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter X </h2>
                                 <p>
- <h4 className={styles.h4}>             </h4> 
+ <h4 className={styles.h4}>Israel Rebels Against Rehoboam</h4> 
 
+
+10 Rehoboam went to Shechem, for all Israel had gone there to make him king. 2 When Jeroboam son of Nebat heard this (he was in Egypt, where he had fled from King Solomon), he returned from Egypt. 3 So they sent for Jeroboam, and he and all Israel went to Rehoboam and said to him: 4 “Your father put a heavy yoke on us, but now lighten the harsh labor and the heavy yoke he put on us, and we will serve you.”
+
+5 Rehoboam answered, “Come back to me in three days.” So the people went away.
+
+6 Then King Rehoboam consulted the elders who had served his father Solomon during his lifetime. “How would you advise me to answer these people?” he asked.
+
+7 They replied, “If you will be kind to these people and please them and give them a favorable answer, they will always be your servants.”
+
+8 But Rehoboam rejected the advice the elders gave him and consulted the young men who had grown up with him and were serving him. 9 He asked them, “What is your advice? How should we answer these people who say to me, ‘Lighten the yoke your father put on us’?”
+
+10 The young men who had grown up with him replied, “The people have said to you, ‘Your father put a heavy yoke on us, but make our yoke lighter.’ Now tell them, ‘My little finger is thicker than my father’s waist. 11 My father laid on you a heavy yoke; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.’”
+
+12 Three days later Jeroboam and all the people returned to Rehoboam, as the king had said, “Come back to me in three days.” 13 The king answered them harshly. Rejecting the advice of the elders, 14 he followed the advice of the young men and said, “My father made your yoke heavy; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.” 15 So the king did not listen to the people, for this turn of events was from God, to fulfill the word the Lord had spoken to Jeroboam son of Nebat through Ahijah the Shilonite.
+
+16 When all Israel saw that the king refused to listen to them, they answered the king:
+
+“What share do we have in David,
+    what part in Jesse’s son?
+To your tents, Israel!
+    Look after your own house, David!”
+
+So all the Israelites went home. 17 But as for the Israelites who were living in the towns of Judah, Rehoboam still ruled over them.
+
+18 King Rehoboam sent out Adoniram,[a] who was in charge of forced labor, but the Israelites stoned him to death. King Rehoboam, however, managed to get into his chariot and escape to Jerusalem. 19 So Israel has been in rebellion against the house of David to this day.
 
 
                                  </p>
@@ -18523,9 +18754,20 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XI </h2>
                                 <p>
- <h4 className={styles.h4}>                    </h4> 
+ <h4 className={styles.h4}>Rehoboam Fortifies Judah</h4> 
+11 When Rehoboam arrived in Jerusalem, he mustered Judah and Benjamin—a hundred and eighty thousand able young men—to go to war against Israel and to regain the kingdom for Rehoboam.
+
+2 But this word of the Lord came to Shemaiah the man of God: 3 “Say to Rehoboam son of Solomon king of Judah and to all Israel in Judah and Benjamin, 4 ‘This is what the Lord says: Do not go up to fight against your fellow Israelites. Go home, every one of you, for this is my doing.’” So they obeyed the words of the Lord and turned back from marching against Jeroboam.
 
 
+5 Rehoboam lived in Jerusalem and built up towns for defense in Judah: 6 Bethlehem, Etam, Tekoa, 7 Beth Zur, Soko, Adullam, 8 Gath, Mareshah, Ziph, 9 Adoraim, Lachish, Azekah, 10 Zorah, Aijalon and Hebron. These were fortified cities in Judah and Benjamin. 11 He strengthened their defenses and put commanders in them, with supplies of food, olive oil and wine. 12 He put shields and spears in all the cities, and made them very strong. So Judah and Benjamin were his.
+
+13 The priests and Levites from all their districts throughout Israel sided with him. 14 The Levites even abandoned their pasturelands and property and came to Judah and Jerusalem, because Jeroboam and his sons had rejected them as priests of the Lord 15 when he appointed his own priests for the high places and for the goat and calf idols he had made. 16 Those from every tribe of Israel who set their hearts on seeking the Lord, the God of Israel, followed the Levites to Jerusalem to offer sacrifices to the Lord, the God of their ancestors. 17 They strengthened the kingdom of Judah and supported Rehoboam son of Solomon three years, following the ways of David and Solomon during this time.
+
+Rehoboam’s Family
+18 Rehoboam married Mahalath, who was the daughter of David’s son Jerimoth and of Abihail, the daughter of Jesse’s son Eliab. 19 She bore him sons: Jeush, Shemariah and Zaham. 20 Then he married Maakah daughter of Absalom, who bore him Abijah, Attai, Ziza and Shelomith. 21 Rehoboam loved Maakah daughter of Absalom more than any of his other wives and concubines. In all, he had eighteen wives and sixty concubines, twenty-eight sons and sixty daughters.
+
+22 Rehoboam appointed Abijah son of Maakah as crown prince among his brothers, in order to make him king. 23 He acted wisely, dispersing some of his sons throughout the districts of Judah and Benjamin, and to all the fortified cities. He gave them abundant provisions and took many wives for them.
                                 </p>
                                   </div>
 
@@ -18534,7 +18776,26 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XII</h2>
                                 <p>
- <h4 className={styles.h4}>Joash Repairs the Temple</h4> 
+ <h4 className={styles.h4}>Shishak Attacks Jerusalem</h4> 
+
+
+12 After Rehoboam’s position as king was established and he had become strong, he and all Israel[a] with him abandoned the law of the Lord. 2 Because they had been unfaithful to the Lord, Shishak king of Egypt attacked Jerusalem in the fifth year of King Rehoboam. 3 With twelve hundred chariots and sixty thousand horsemen and the innumerable troops of Libyans, Sukkites and Cushites[b] that came with him from Egypt, 4 he captured the fortified cities of Judah and came as far as Jerusalem.
+
+5 Then the prophet Shemaiah came to Rehoboam and to the leaders of Judah who had assembled in Jerusalem for fear of Shishak, and he said to them, “This is what the Lord says, ‘You have abandoned me; therefore, I now abandon you to Shishak.’”
+
+6 The leaders of Israel and the king humbled themselves and said, “The Lord is just.”
+
+7 When the Lord saw that they humbled themselves, this word of the Lord came to Shemaiah: “Since they have humbled themselves, I will not destroy them but will soon give them deliverance. My wrath will not be poured out on Jerusalem through Shishak. 8 They will, however, become subject to him, so that they may learn the difference between serving me and serving the kings of other lands.”
+
+9 When Shishak king of Egypt attacked Jerusalem, he carried off the treasures of the temple of the Lord and the treasures of the royal palace. He took everything, including the gold shields Solomon had made. 10 So King Rehoboam made bronze shields to replace them and assigned these to the commanders of the guard on duty at the entrance to the royal palace. 11 Whenever the king went to the Lord’s temple, the guards went with him, bearing the shields, and afterward they returned them to the guardroom.
+
+12 Because Rehoboam humbled himself, the Lord’s anger turned from him, and he was not totally destroyed. Indeed, there was some good in Judah.
+
+13 King Rehoboam established himself firmly in Jerusalem and continued as king. He was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the Lord had chosen out of all the tribes of Israel in which to put his Name. His mother’s name was Naamah; she was an Ammonite. 14 He did evil because he had not set his heart on seeking the Lord.
+
+15 As for the events of Rehoboam’s reign, from beginning to end, are they not written in the records of Shemaiah the prophet and of Iddo the seer that deal with genealogies? There was continual warfare between Rehoboam and Jeroboam. 16 Rehoboam rested with his ancestors and was buried in the City of David. And Abijah his son succeeded him as king.
+
+
           </p>
                                   </div>
 
@@ -18544,8 +18805,26 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XIII </h2>
                                 <p>
- <h4 className={styles.h4}>           </h4> 
+ <h4 className={styles.h4}>Abijah King of Judah</h4> 
 
+
+13 In the eighteenth year of the reign of Jeroboam, Abijah became king of Judah, 2 and he reigned in Jerusalem three years. His mother’s name was Maakah,[a] a daughter[b] of Uriel of Gibeah.
+
+There was war between Abijah and Jeroboam. 3 Abijah went into battle with an army of four hundred thousand able fighting men, and Jeroboam drew up a battle line against him with eight hundred thousand able troops.
+
+4 Abijah stood on Mount Zemaraim, in the hill country of Ephraim, and said, “Jeroboam and all Israel, listen to me! 5 Don’t you know that the Lord, the God of Israel, has given the kingship of Israel to David and his descendants forever by a covenant of salt? 6 Yet Jeroboam son of Nebat, an official of Solomon son of David, rebelled against his master. 7 Some worthless scoundrels gathered around him and opposed Rehoboam son of Solomon when he was young and indecisive and not strong enough to resist them.
+
+8 “And now you plan to resist the kingdom of the Lord, which is in the hands of David’s descendants. You are indeed a vast army and have with you the golden calves that Jeroboam made to be your gods. 9 But didn’t you drive out the priests of the Lord, the sons of Aaron, and the Levites, and make priests of your own as the peoples of other lands do? Whoever comes to consecrate himself with a young bull and seven rams may become a priest of what are not gods.
+
+10 “As for us, the Lord is our God, and we have not forsaken him. The priests who serve the Lord are sons of Aaron, and the Levites assist them. 11 Every morning and evening they present burnt offerings and fragrant incense to the Lord. They set out the bread on the ceremonially clean table and light the lamps on the gold lampstand every evening. We are observing the requirements of the Lord our God. But you have forsaken him. 12 God is with us; he is our leader. His priests with their trumpets will sound the battle cry against you. People of Israel, do not fight against the Lord, the God of your ancestors, for you will not succeed.”
+
+13 Now Jeroboam had sent troops around to the rear, so that while he was in front of Judah the ambush was behind them. 14 Judah turned and saw that they were being attacked at both front and rear. Then they cried out to the Lord. The priests blew their trumpets 15 and the men of Judah raised the battle cry. At the sound of their battle cry, God routed Jeroboam and all Israel before Abijah and Judah. 16 The Israelites fled before Judah, and God delivered them into their hands. 17 Abijah and his troops inflicted heavy losses on them, so that there were five hundred thousand casualties among Israel’s able men. 18 The Israelites were subdued on that occasion, and the people of Judah were victorious because they relied on the Lord, the God of their ancestors.
+
+19 Abijah pursued Jeroboam and took from him the towns of Bethel, Jeshanah and Ephron, with their surrounding villages. 20 Jeroboam did not regain power during the time of Abijah. And the Lord struck him down and he died.
+
+21 But Abijah grew in strength. He married fourteen wives and had twenty-two sons and sixteen daughters.
+
+22 The other events of Abijah’s reign, what he did and what he said, are written in the annotations of the prophet Iddo.  
        </p>
                                   </div>
 
@@ -18553,8 +18832,22 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XIV </h2>
                                 <p>
- <h4 className={styles.h4}>           </h4> 
+ <h4 className={styles.h4}>Asa King of Judah</h4> 
 
+14 [a]And Abijah rested with his ancestors and was buried in the City of David. Asa his son succeeded him as king, and in his days the country was at peace for ten years.
+
+Asa King of Judah
+2 Asa did what was good and right in the eyes of the Lord his God. 3 He removed the foreign altars and the high places, smashed the sacred stones and cut down the Asherah poles.[b] 4 He commanded Judah to seek the Lord, the God of their ancestors, and to obey his laws and commands. 5 He removed the high places and incense altars in every town in Judah, and the kingdom was at peace under him. 6 He built up the fortified cities of Judah, since the land was at peace. No one was at war with him during those years, for the Lord gave him rest.
+
+7 “Let us build up these towns,” he said to Judah, “and put walls around them, with towers, gates and bars. The land is still ours, because we have sought the Lord our God; we sought him and he has given us rest on every side.” So they built and prospered.
+
+8 Asa had an army of three hundred thousand men from Judah, equipped with large shields and with spears, and two hundred and eighty thousand from Benjamin, armed with small shields and with bows. All these were brave fighting men.
+
+9 Zerah the Cushite marched out against them with an army of thousands upon thousands and three hundred chariots, and came as far as Mareshah. 10 Asa went out to meet him, and they took up battle positions in the Valley of Zephathah near Mareshah.
+
+11 Then Asa called to the Lord his God and said, “Lord, there is no one like you to help the powerless against the mighty. Help us, Lord our God, for we rely on you, and in your name we have come against this vast army. Lord, you are our God; do not let mere mortals prevail against you.”
+
+12 The Lord struck down the Cushites before Asa and Judah. The Cushites fled, 13 and Asa and his army pursued them as far as Gerar. Such a great number of Cushites fell that they could not recover; they were crushed before the Lord and his forces. The men of Judah carried off a large amount of plunder. 14 They destroyed all the villages around Gerar, for the terror of the Lord had fallen on them. They looted all these villages, since there was much plunder there. 15 They also attacked the camps of the herders and carried off droves of sheep and goats and camels. Then they returned to Jerusalem.  
                          </p>
                                   </div>
 
@@ -18564,9 +18857,21 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XV </h2>
                                 <p>
- <h4 className={styles.h4}>             </h4> 
+ <h4 className={styles.h4}>Asa’s Reform</h4> 
 
 
+15 The Spirit of God came on Azariah son of Oded. 2 He went out to meet Asa and said to him, “Listen to me, Asa and all Judah and Benjamin. The Lord is with you when you are with him. If you seek him, he will be found by you, but if you forsake him, he will forsake you. 3 For a long time Israel was without the true God, without a priest to teach and without the law. 4 But in their distress they turned to the Lord, the God of Israel, and sought him, and he was found by them. 5 In those days it was not safe to travel about, for all the inhabitants of the lands were in great turmoil. 6 One nation was being crushed by another and one city by another, because God was troubling them with every kind of distress. 7 But as for you, be strong and do not give up, for your work will be rewarded.”
+
+8 When Asa heard these words and the prophecy of Azariah son of[a] Oded the prophet, he took courage. He removed the detestable idols from the whole land of Judah and Benjamin and from the towns he had captured in the hills of Ephraim. He repaired the altar of the Lord that was in front of the portico of the Lord’s temple.
+
+9 Then he assembled all Judah and Benjamin and the people from Ephraim, Manasseh and Simeon who had settled among them, for large numbers had come over to him from Israel when they saw that the Lord his God was with him.
+
+10 They assembled at Jerusalem in the third month of the fifteenth year of Asa’s reign. 11 At that time they sacrificed to the Lord seven hundred head of cattle and seven thousand sheep and goats from the plunder they had brought back. 12 They entered into a covenant to seek the Lord, the God of their ancestors, with all their heart and soul. 13 All who would not seek the Lord, the God of Israel, were to be put to death, whether small or great, man or woman. 14 They took an oath to the Lord with loud acclamation, with shouting and with trumpets and horns. 15 All Judah rejoiced about the oath because they had sworn it wholeheartedly. They sought God eagerly, and he was found by them. So the Lord gave them rest on every side.
+
+16 King Asa also deposed his grandmother Maakah from her position as queen mother, because she had made a repulsive image for the worship of Asherah. Asa cut it down, broke it up and burned it in the Kidron Valley. 17 Although he did not remove the high places from Israel, Asa’s heart was fully committed to the Lord all his life. 18 He brought into the temple of God the silver and gold and the articles that he and his father had dedicated.
+
+19 There was no more war until the thirty-fifth year of Asa’s reign.
+  
 
                                                 </p>
                                   </div>
@@ -18576,8 +18881,21 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XVI </h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
+ <h4 className={styles.h4}>Asa’s Last Years</h4> 
 
+
+16 In the thirty-sixth year of Asa’s reign Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.
+
+2 Asa then took the silver and gold out of the treasuries of the Lord’s temple and of his own palace and sent it to Ben-Hadad king of Aram, who was ruling in Damascus. 3 “Let there be a treaty between me and you,” he said, “as there was between my father and your father. See, I am sending you silver and gold. Now break your treaty with Baasha king of Israel so he will withdraw from me.”
+
+4 Ben-Hadad agreed with King Asa and sent the commanders of his forces against the towns of Israel. They conquered Ijon, Dan, Abel Maim[a] and all the store cities of Naphtali. 5 When Baasha heard this, he stopped building Ramah and abandoned his work. 6 Then King Asa brought all the men of Judah, and they carried away from Ramah the stones and timber Baasha had been using. With them he built up Geba and Mizpah.
+
+7 At that time Hanani the seer came to Asa king of Judah and said to him: “Because you relied on the king of Aram and not on the Lord your God, the army of the king of Aram has escaped from your hand. 8 Were not the Cushites[b] and Libyans a mighty army with great numbers of chariots and horsemen[c]? Yet when you relied on the Lord, he delivered them into your hand. 9 For the eyes of the Lord range throughout the earth to strengthen those whose hearts are fully committed to him. You have done a foolish thing, and from now on you will be at war.”
+
+10 Asa was angry with the seer because of this; he was so enraged that he put him in prison. At the same time Asa brutally oppressed some of the people.
+
+11 The events of Asa’s reign, from beginning to end, are written in the book of the kings of Judah and Israel. 12 In the thirty-ninth year of his reign Asa was afflicted with a disease in his feet. Though his disease was severe, even in his illness he did not seek help from the Lord, but only from the physicians. 13 Then in the forty-first year of his reign Asa died and rested with his ancestors. 14 They buried him in the tomb that he had cut out for himself in the City of David. They laid him on a bier covered with spices and various blended perfumes, and they made a huge fire in his honor.
+  
                    </p>
                                   </div>
 
@@ -18585,10 +18903,34 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XVII </h2>
                                 <p>
-                     <h4 className={styles.h4}>            </h4>   
+                     <h4 className={styles.h4}>Jehoshaphat King of Judah</h4>   
 
 
+17 Jehoshaphat his son succeeded him as king and strengthened himself against Israel. 2 He stationed troops in all the fortified cities of Judah and put garrisons in Judah and in the towns of Ephraim that his father Asa had captured.
 
+3 The Lord was with Jehoshaphat because he followed the ways of his father David before him. He did not consult the Baals 4 but sought the God of his father and followed his commands rather than the practices of Israel. 5 The Lord established the kingdom under his control; and all Judah brought gifts to Jehoshaphat, so that he had great wealth and honor. 6 His heart was devoted to the ways of the Lord; furthermore, he removed the high places and the Asherah poles from Judah.
+
+7 In the third year of his reign he sent his officials Ben-Hail, Obadiah, Zechariah, Nethanel and Micaiah to teach in the towns of Judah. 8 With them were certain Levites—Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiramoth, Jehonathan, Adonijah, Tobijah and Tob-Adonijah—and the priests Elishama and Jehoram. 9 They taught throughout Judah, taking with them the Book of the Law of the Lord; they went around to all the towns of Judah and taught the people.
+
+10 The fear of the Lord fell on all the kingdoms of the lands surrounding Judah, so that they did not go to war against Jehoshaphat. 11 Some Philistines brought Jehoshaphat gifts and silver as tribute, and the Arabs brought him flocks: seven thousand seven hundred rams and seven thousand seven hundred goats.
+
+12 Jehoshaphat became more and more powerful; he built forts and store cities in Judah 13 and had large supplies in the towns of Judah. He also kept experienced fighting men in Jerusalem. 14 Their enrollment by families was as follows:
+
+From Judah, commanders of units of 1,000:
+
+Adnah the commander, with 300,000 fighting men;
+
+15 next, Jehohanan the commander, with 280,000;
+
+16 next, Amasiah son of Zikri, who volunteered himself for the service of the Lord, with 200,000.
+
+17 From Benjamin:
+
+Eliada, a valiant soldier, with 200,000 men armed with bows and shields;
+
+18 next, Jehozabad, with 180,000 men armed for battle.
+
+19 These were the men who served the king, besides those he stationed in the fortified cities throughout Judah.
                                 </p>
                                   </div>
 
@@ -18596,9 +18938,68 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XVIII </h2>
                                 <p>
- <h4 className={styles.h4}>               </h4> 
+ <h4 className={styles.h4}>Micaiah Prophesies Against Ahab</h4> 
 
+18 Now Jehoshaphat had great wealth and honor, and he allied himself with Ahab by marriage. 2 Some years later he went down to see Ahab in Samaria. Ahab slaughtered many sheep and cattle for him and the people with him and urged him to attack Ramoth Gilead. 3 Ahab king of Israel asked Jehoshaphat king of Judah, “Will you go with me against Ramoth Gilead?”
 
+Jehoshaphat replied, “I am as you are, and my people as your people; we will join you in the war.” 4 But Jehoshaphat also said to the king of Israel, “First seek the counsel of the Lord.”
+
+5 So the king of Israel brought together the prophets—four hundred men—and asked them, “Shall we go to war against Ramoth Gilead, or shall I not?”
+
+“Go,” they answered, “for God will give it into the king’s hand.”
+
+6 But Jehoshaphat asked, “Is there no longer a prophet of the Lord here whom we can inquire of?”
+
+7 The king of Israel answered Jehoshaphat, “There is still one prophet through whom we can inquire of the Lord, but I hate him because he never prophesies anything good about me, but always bad. He is Micaiah son of Imlah.”
+
+“The king should not say such a thing,” Jehoshaphat replied.
+
+8 So the king of Israel called one of his officials and said, “Bring Micaiah son of Imlah at once.”
+
+9 Dressed in their royal robes, the king of Israel and Jehoshaphat king of Judah were sitting on their thrones at the threshing floor by the entrance of the gate of Samaria, with all the prophets prophesying before them. 10 Now Zedekiah son of Kenaanah had made iron horns, and he declared, “This is what the Lord says: ‘With these you will gore the Arameans until they are destroyed.’”
+
+11 All the other prophets were prophesying the same thing. “Attack Ramoth Gilead and be victorious,” they said, “for the Lord will give it into the king’s hand.”
+
+12 The messenger who had gone to summon Micaiah said to him, “Look, the other prophets without exception are predicting success for the king. Let your word agree with theirs, and speak favorably.”
+
+13 But Micaiah said, “As surely as the Lord lives, I can tell him only what my God says.”
+
+14 When he arrived, the king asked him, “Micaiah, shall we go to war against Ramoth Gilead, or shall I not?”
+
+“Attack and be victorious,” he answered, “for they will be given into your hand.”
+
+15 The king said to him, “How many times must I make you swear to tell me nothing but the truth in the name of the Lord?”
+
+16 Then Micaiah answered, “I saw all Israel scattered on the hills like sheep without a shepherd, and the Lord said, ‘These people have no master. Let each one go home in peace.’”
+
+17 The king of Israel said to Jehoshaphat, “Didn’t I tell you that he never prophesies anything good about me, but only bad?”
+
+18 Micaiah continued, “Therefore hear the word of the Lord: I saw the Lord sitting on his throne with all the multitudes of heaven standing on his right and on his left. 19 And the Lord said, ‘Who will entice Ahab king of Israel into attacking Ramoth Gilead and going to his death there?’
+
+“One suggested this, and another that. 20 Finally, a spirit came forward, stood before the Lord and said, ‘I will entice him.’
+
+“‘By what means?’ the Lord asked.
+
+21 “‘I will go and be a deceiving spirit in the mouths of all his prophets,’ he said.
+
+“‘You will succeed in enticing him,’ said the Lord. ‘Go and do it.’
+
+22 “So now the Lord has put a deceiving spirit in the mouths of these prophets of yours. The Lord has decreed disaster for you.”
+
+23 Then Zedekiah son of Kenaanah went up and slapped Micaiah in the face. “Which way did the spirit from[a] the Lord go when he went from me to speak to you?” he asked.
+
+24 Micaiah replied, “You will find out on the day you go to hide in an inner room.”
+
+25 The king of Israel then ordered, “Take Micaiah and send him back to Amon the ruler of the city and to Joash the king’s son, 26 and say, ‘This is what the king says: Put this fellow in prison and give him nothing but bread and water until I return safely.’”
+
+27 Micaiah declared, “If you ever return safely, the Lord has not spoken through me.” Then he added, “Mark my words, all you people!”
+
+Ahab Killed at Ramoth Gilead
+28 So the king of Israel and Jehoshaphat king of Judah went up to Ramoth Gilead. 29 The king of Israel said to Jehoshaphat, “I will enter the battle in disguise, but you wear your royal robes.” So the king of Israel disguised himself and went into battle.
+
+30 Now the king of Aram had ordered his chariot commanders, “Do not fight with anyone, small or great, except the king of Israel.” 31 When the chariot commanders saw Jehoshaphat, they thought, “This is the king of Israel.” So they turned to attack him, but Jehoshaphat cried out, and the Lord helped him. God drew them away from him, 32 for when the chariot commanders saw that he was not the king of Israel, they stopped pursuing him.
+
+33 But someone drew his bow at random and hit the king of Israel between the breastplate and the scale armor. The king told the chariot driver, “Wheel around and get me out of the fighting. I’ve been wounded.” 34 All day long the battle raged, and the king of Israel propped himself up in his chariot facing the Arameans until evening. Then at sunset he died.
 
                                   </p>
                                   </div>
@@ -18607,9 +19008,15 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XIX </h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
+ <h4 className={styles.h4}>Jehoshaphat Appoints Judges</h4> 
+19 When Jehoshaphat king of Judah returned safely to his palace in Jerusalem, 2 Jehu the seer, the son of Hanani, went out to meet him and said to the king, “Should you help the wicked and love[a] those who hate the Lord? Because of this, the wrath of the Lord is on you. 3 There is, however, some good in you, for you have rid the land of the Asherah poles and have set your heart on seeking God.”
 
+Jehoshaphat Appoints Judges
+4 Jehoshaphat lived in Jerusalem, and he went out again among the people from Beersheba to the hill country of Ephraim and turned them back to the Lord, the God of their ancestors. 5 He appointed judges in the land, in each of the fortified cities of Judah. 6 He told them, “Consider carefully what you do, because you are not judging for mere mortals but for the Lord, who is with you whenever you give a verdict. 7 Now let the fear of the Lord be on you. Judge carefully, for with the Lord our God there is no injustice or partiality or bribery.”
 
+8 In Jerusalem also, Jehoshaphat appointed some of the Levites, priests and heads of Israelite families to administer the law of the Lord and to settle disputes. And they lived in Jerusalem. 9 He gave them these orders: “You must serve faithfully and wholeheartedly in the fear of the Lord. 10 In every case that comes before you from your people who live in the cities—whether bloodshed or other concerns of the law, commands, decrees or regulations—you are to warn them not to sin against the Lord; otherwise his wrath will come on you and your people. Do this, and you will not sin.
+
+11 “Amariah the chief priest will be over you in any matter concerning the Lord, and Zebadiah son of Ishmael, the leader of the tribe of Judah, will be over you in any matter concerning the king, and the Levites will serve as officials before you. Act with courage, and may the Lord be with those who do well.”
 
                                 </p>
   </div>
@@ -18618,9 +19025,45 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XX</h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
+ <h4 className={styles.h4}>Jehoshaphat Defeats Moab and Ammon</h4> 
 
+20 After this, the Moabites and Ammonites with some of the Meunites[a] came to wage war against Jehoshaphat.
 
+2 Some people came and told Jehoshaphat, “A vast army is coming against you from Edom,[b] from the other side of the Dead Sea. It is already in Hazezon Tamar” (that is, En Gedi). 3 Alarmed, Jehoshaphat resolved to inquire of the Lord, and he proclaimed a fast for all Judah. 4 The people of Judah came together to seek help from the Lord; indeed, they came from every town in Judah to seek him.
+
+5 Then Jehoshaphat stood up in the assembly of Judah and Jerusalem at the temple of the Lord in the front of the new courtyard 6 and said:
+
+“Lord, the God of our ancestors, are you not the God who is in heaven? You rule over all the kingdoms of the nations. Power and might are in your hand, and no one can withstand you. 7 Our God, did you not drive out the inhabitants of this land before your people Israel and give it forever to the descendants of Abraham your friend? 8 They have lived in it and have built in it a sanctuary for your Name, saying, 9 ‘If calamity comes upon us, whether the sword of judgment, or plague or famine, we will stand in your presence before this temple that bears your Name and will cry out to you in our distress, and you will hear us and save us.’
+
+10 “But now here are men from Ammon, Moab and Mount Seir, whose territory you would not allow Israel to invade when they came from Egypt; so they turned away from them and did not destroy them. 11 See how they are repaying us by coming to drive us out of the possession you gave us as an inheritance. 12 Our God, will you not judge them? For we have no power to face this vast army that is attacking us. We do not know what to do, but our eyes are on you.”
+
+13 All the men of Judah, with their wives and children and little ones, stood there before the Lord.
+
+14 Then the Spirit of the Lord came on Jahaziel son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite and descendant of Asaph, as he stood in the assembly.
+
+15 He said: “Listen, King Jehoshaphat and all who live in Judah and Jerusalem! This is what the Lord says to you: ‘Do not be afraid or discouraged because of this vast army. For the battle is not yours, but God’s. 16 Tomorrow march down against them. They will be climbing up by the Pass of Ziz, and you will find them at the end of the gorge in the Desert of Jeruel. 17 You will not have to fight this battle. Take up your positions; stand firm and see the deliverance the Lord will give you, Judah and Jerusalem. Do not be afraid; do not be discouraged. Go out to face them tomorrow, and the Lord will be with you.’”
+
+18 Jehoshaphat bowed down with his face to the ground, and all the people of Judah and Jerusalem fell down in worship before the Lord. 19 Then some Levites from the Kohathites and Korahites stood up and praised the Lord, the God of Israel, with a very loud voice.
+
+20 Early in the morning they left for the Desert of Tekoa. As they set out, Jehoshaphat stood and said, “Listen to me, Judah and people of Jerusalem! Have faith in the Lord your God and you will be upheld; have faith in his prophets and you will be successful.” 21 After consulting the people, Jehoshaphat appointed men to sing to the Lord and to praise him for the splendor of his[c] holiness as they went out at the head of the army, saying:
+
+“Give thanks to the Lord,
+    for his love endures forever.”
+
+22 As they began to sing and praise, the Lord set ambushes against the men of Ammon and Moab and Mount Seir who were invading Judah, and they were defeated. 23 The Ammonites and Moabites rose up against the men from Mount Seir to destroy and annihilate them. After they finished slaughtering the men from Seir, they helped to destroy one another.
+
+24 When the men of Judah came to the place that overlooks the desert and looked toward the vast army, they saw only dead bodies lying on the ground; no one had escaped. 25 So Jehoshaphat and his men went to carry off their plunder, and they found among them a great amount of equipment and clothing[d] and also articles of value—more than they could take away. There was so much plunder that it took three days to collect it. 26 On the fourth day they assembled in the Valley of Berakah, where they praised the Lord. This is why it is called the Valley of Berakah[e] to this day.
+
+27 Then, led by Jehoshaphat, all the men of Judah and Jerusalem returned joyfully to Jerusalem, for the Lord had given them cause to rejoice over their enemies. 28 They entered Jerusalem and went to the temple of the Lord with harps and lyres and trumpets.
+
+29 The fear of God came on all the surrounding kingdoms when they heard how the Lord had fought against the enemies of Israel. 30 And the kingdom of Jehoshaphat was at peace, for his God had given him rest on every side.
+
+The End of Jehoshaphat’s Reign
+31 So Jehoshaphat reigned over Judah. He was thirty-five years old when he became king of Judah, and he reigned in Jerusalem twenty-five years. His mother’s name was Azubah daughter of Shilhi. 32 He followed the ways of his father Asa and did not stray from them; he did what was right in the eyes of the Lord. 33 The high places, however, were not removed, and the people still had not set their hearts on the God of their ancestors.
+
+34 The other events of Jehoshaphat’s reign, from beginning to end, are written in the annals of Jehu son of Hanani, which are recorded in the book of the kings of Israel.
+
+35 Later, Jehoshaphat king of Judah made an alliance with Ahaziah king of Israel, whose ways were wicked. 36 He agreed with him to construct a fleet of trading ships.[f] After these were built at Ezion Geber, 37 Eliezer son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, “Because you have made an alliance with Ahaziah, the Lord will destroy what you have made.” The ships were wrecked and were not able to set sail to trade.[g]
                               </p>
                                   </div>
   
@@ -18629,9 +19072,25 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XXI </h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
-  
-  
+ <h4 className={styles.h4}>Jehoram King of Judah</h4> 
+  21 Then Jehoshaphat rested with his ancestors and was buried with them in the City of David. And Jehoram his son succeeded him as king. 2 Jehoram’s brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariahu, Michael and Shephatiah. All these were sons of Jehoshaphat king of Israel.[a] 3 Their father had given them many gifts of silver and gold and articles of value, as well as fortified cities in Judah, but he had given the kingdom to Jehoram because he was his firstborn son.
+
+Jehoram King of Judah
+4 When Jehoram established himself firmly over his father’s kingdom, he put all his brothers to the sword along with some of the officials of Israel. 5 Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years. 6 He followed the ways of the kings of Israel, as the house of Ahab had done, for he married a daughter of Ahab. He did evil in the eyes of the Lord. 7 Nevertheless, because of the covenant the Lord had made with David, the Lord was not willing to destroy the house of David. He had promised to maintain a lamp for him and his descendants forever.
+
+8 In the time of Jehoram, Edom rebelled against Judah and set up its own king. 9 So Jehoram went there with his officers and all his chariots. The Edomites surrounded him and his chariot commanders, but he rose up and broke through by night. 10 To this day Edom has been in rebellion against Judah.
+
+Libnah revolted at the same time, because Jehoram had forsaken the Lord, the God of his ancestors. 11 He had also built high places on the hills of Judah and had caused the people of Jerusalem to prostitute themselves and had led Judah astray.
+
+12 Jehoram received a letter from Elijah the prophet, which said:
+
+“This is what the Lord, the God of your father David, says: ‘You have not followed the ways of your father Jehoshaphat or of Asa king of Judah. 13 But you have followed the ways of the kings of Israel, and you have led Judah and the people of Jerusalem to prostitute themselves, just as the house of Ahab did. You have also murdered your own brothers, members of your own family, men who were better than you. 14 So now the Lord is about to strike your people, your sons, your wives and everything that is yours, with a heavy blow. 15 You yourself will be very ill with a lingering disease of the bowels, until the disease causes your bowels to come out.’”
+
+16 The Lord aroused against Jehoram the hostility of the Philistines and of the Arabs who lived near the Cushites. 17 They attacked Judah, invaded it and carried off all the goods found in the king’s palace, together with his sons and wives. Not a son was left to him except Ahaziah,[b] the youngest.
+
+18 After all this, the Lord afflicted Jehoram with an incurable disease of the bowels. 19 In the course of time, at the end of the second year, his bowels came out because of the disease, and he died in great pain. His people made no funeral fire in his honor, as they had for his predecessors.
+
+20 Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years. He passed away, to no one’s regret, and was buried in the City of David, but not in the tombs of the kings.  
                               </p>
          </div>
 
@@ -18639,7 +19098,20 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XXII </h2>
                                 <p>
- <h4 className={styles.h4}>            </h4> 
+ <h4 className={styles.h4}>Ahaziah King of Judah</h4> 
+
+22 The people of Jerusalem made Ahaziah, Jehoram’s youngest son, king in his place, since the raiders, who came with the Arabs into the camp, had killed all the older sons. So Ahaziah son of Jehoram king of Judah began to reign.
+
+2 Ahaziah was twenty-two[a] years old when he became king, and he reigned in Jerusalem one year. His mother’s name was Athaliah, a granddaughter of Omri.
+
+3 He too followed the ways of the house of Ahab, for his mother encouraged him to act wickedly. 4 He did evil in the eyes of the Lord, as the house of Ahab had done, for after his father’s death they became his advisers, to his undoing. 5 He also followed their counsel when he went with Joram[b] son of Ahab king of Israel to wage war against Hazael king of Aram at Ramoth Gilead. The Arameans wounded Joram; 6 so he returned to Jezreel to recover from the wounds they had inflicted on him at Ramoth[c] in his battle with Hazael king of Aram.
+
+Then Ahaziah[d] son of Jehoram king of Judah went down to Jezreel to see Joram son of Ahab because he had been wounded.
+
+7 Through Ahaziah’s visit to Joram, God brought about Ahaziah’s downfall. When Ahaziah arrived, he went out with Joram to meet Jehu son of Nimshi, whom the Lord had anointed to destroy the house of Ahab. 8 While Jehu was executing judgment on the house of Ahab, he found the officials of Judah and the sons of Ahaziah’s relatives, who had been attending Ahaziah, and he killed them. 9 He then went in search of Ahaziah, and his men captured him while he was hiding in Samaria. He was brought to Jehu and put to death. They buried him, for they said, “He was a son of Jehoshaphat, who sought the Lord with all his heart.” So there was no one in the house of Ahaziah powerful enough to retain the kingdom.
+
+Athaliah and Joash
+10 When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to destroy the whole royal family of the house of Judah. 11 But Jehosheba,[e] the daughter of King Jehoram, took Joash son of Ahaziah and stole him away from among the royal princes who were about to be murdered and put him and his nurse in a bedroom. Because Jehosheba,[f] the daughter of King Jehoram and wife of the priest Jehoiada, was Ahaziah’s sister, she hid the child from Athaliah so she could not kill him. 12 He remained hidden with them at the temple of God for six years while Athaliah ruled the land.
 
 
                                 </p>
@@ -18651,8 +19123,25 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XXIII </h2>
                                 <p>
- <h4 className={styles.h4}>                </h4> 
+ <h4 className={styles.h4}>Chapter XXIII</h4> 
+23 In the seventh year Jehoiada showed his strength. He made a covenant with the commanders of units of a hundred: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zikri. 2 They went throughout Judah and gathered the Levites and the heads of Israelite families from all the towns. When they came to Jerusalem, 3 the whole assembly made a covenant with the king at the temple of God.
 
+Jehoiada said to them, “The king’s son shall reign, as the Lord promised concerning the descendants of David. 4 Now this is what you are to do: A third of you priests and Levites who are going on duty on the Sabbath are to keep watch at the doors, 5 a third of you at the royal palace and a third at the Foundation Gate, and all the others are to be in the courtyards of the temple of the Lord. 6 No one is to enter the temple of the Lord except the priests and Levites on duty; they may enter because they are consecrated, but all the others are to observe the Lord’s command not to enter.[a] 7 The Levites are to station themselves around the king, each with weapon in hand. Anyone who enters the temple is to be put to death. Stay close to the king wherever he goes.”
+
+8 The Levites and all the men of Judah did just as Jehoiada the priest ordered. Each one took his men—those who were going on duty on the Sabbath and those who were going off duty—for Jehoiada the priest had not released any of the divisions. 9 Then he gave the commanders of units of a hundred the spears and the large and small shields that had belonged to King David and that were in the temple of God. 10 He stationed all the men, each with his weapon in his hand, around the king—near the altar and the temple, from the south side to the north side of the temple.
+
+11 Jehoiada and his sons brought out the king’s son and put the crown on him; they presented him with a copy of the covenant and proclaimed him king. They anointed him and shouted, “Long live the king!”
+
+12 When Athaliah heard the noise of the people running and cheering the king, she went to them at the temple of the Lord. 13 She looked, and there was the king, standing by his pillar at the entrance. The officers and the trumpeters were beside the king, and all the people of the land were rejoicing and blowing trumpets, and musicians with their instruments were leading the praises. Then Athaliah tore her robes and shouted, “Treason! Treason!”
+
+14 Jehoiada the priest sent out the commanders of units of a hundred, who were in charge of the troops, and said to them: “Bring her out between the ranks[b] and put to the sword anyone who follows her.” For the priest had said, “Do not put her to death at the temple of the Lord.” 15 So they seized her as she reached the entrance of the Horse Gate on the palace grounds, and there they put her to death.
+
+16 Jehoiada then made a covenant that he, the people and the king[c] would be the Lord’s people. 17 All the people went to the temple of Baal and tore it down. They smashed the altars and idols and killed Mattan the priest of Baal in front of the altars.
+
+18 Then Jehoiada placed the oversight of the temple of the Lord in the hands of the Levitical priests, to whom David had made assignments in the temple, to present the burnt offerings of the Lord as written in the Law of Moses, with rejoicing and singing, as David had ordered. 19 He also stationed gatekeepers at the gates of the Lord’s temple so that no one who was in any way unclean might enter.
+
+20 He took with him the commanders of hundreds, the nobles, the rulers of the people and all the people of the land and brought the king down from the temple of the Lord. They went into the palace through the Upper Gate and seated the king on the royal throne. 21 All the people of the land rejoiced, and the city was calm, because Athaliah had been slain with the sword.
+  
                  </p>
   
              </div>
@@ -18662,9 +19151,32 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XXIV </h2>
                                 <p>
- <h4 className={styles.h4}>                  </h4> 
+ <h4 className={styles.h4}>Joash Repairs the Temple</h4> 
 
+24 Joash was seven years old when he became king, and he reigned in Jerusalem forty years. His mother’s name was Zibiah; she was from Beersheba. 2 Joash did what was right in the eyes of the Lord all the years of Jehoiada the priest. 3 Jehoiada chose two wives for him, and he had sons and daughters.
 
+4 Some time later Joash decided to restore the temple of the Lord. 5 He called together the priests and Levites and said to them, “Go to the towns of Judah and collect the money due annually from all Israel, to repair the temple of your God. Do it now.” But the Levites did not act at once.
+
+6 Therefore the king summoned Jehoiada the chief priest and said to him, “Why haven’t you required the Levites to bring in from Judah and Jerusalem the tax imposed by Moses the servant of the Lord and by the assembly of Israel for the tent of the covenant law?”
+
+7 Now the sons of that wicked woman Athaliah had broken into the temple of God and had used even its sacred objects for the Baals.
+
+8 At the king’s command, a chest was made and placed outside, at the gate of the temple of the Lord. 9 A proclamation was then issued in Judah and Jerusalem that they should bring to the Lord the tax that Moses the servant of God had required of Israel in the wilderness. 10 All the officials and all the people brought their contributions gladly, dropping them into the chest until it was full. 11 Whenever the chest was brought in by the Levites to the king’s officials and they saw that there was a large amount of money, the royal secretary and the officer of the chief priest would come and empty the chest and carry it back to its place. They did this regularly and collected a great amount of money. 12 The king and Jehoiada gave it to those who carried out the work required for the temple of the Lord. They hired masons and carpenters to restore the Lord’s temple, and also workers in iron and bronze to repair the temple.
+
+13 The men in charge of the work were diligent, and the repairs progressed under them. They rebuilt the temple of God according to its original design and reinforced it. 14 When they had finished, they brought the rest of the money to the king and Jehoiada, and with it were made articles for the Lord’s temple: articles for the service and for the burnt offerings, and also dishes and other objects of gold and silver. As long as Jehoiada lived, burnt offerings were presented continually in the temple of the Lord.
+
+15 Now Jehoiada was old and full of years, and he died at the age of a hundred and thirty. 16 He was buried with the kings in the City of David, because of the good he had done in Israel for God and his temple.
+
+The Wickedness of Joash
+17 After the death of Jehoiada, the officials of Judah came and paid homage to the king, and he listened to them. 18 They abandoned the temple of the Lord, the God of their ancestors, and worshiped Asherah poles and idols. Because of their guilt, God’s anger came on Judah and Jerusalem. 19 Although the Lord sent prophets to the people to bring them back to him, and though they testified against them, they would not listen.
+
+20 Then the Spirit of God came on Zechariah son of Jehoiada the priest. He stood before the people and said, “This is what God says: ‘Why do you disobey the Lord’s commands? You will not prosper. Because you have forsaken the Lord, he has forsaken you.’”
+
+21 But they plotted against him, and by order of the king they stoned him to death in the courtyard of the Lord’s temple. 22 King Joash did not remember the kindness Zechariah’s father Jehoiada had shown him but killed his son, who said as he lay dying, “May the Lord see this and call you to account.”
+
+23 At the turn of the year,[a] the army of Aram marched against Joash; it invaded Judah and Jerusalem and killed all the leaders of the people. They sent all the plunder to their king in Damascus. 24 Although the Aramean army had come with only a few men, the Lord delivered into their hands a much larger army. Because Judah had forsaken the Lord, the God of their ancestors, judgment was executed on Joash. 25 When the Arameans withdrew, they left Joash severely wounded. His officials conspired against him for murdering the son of Jehoiada the priest, and they killed him in his bed. So he died and was buried in the City of David, but not in the tombs of the kings.
+
+26 Those who conspired against him were Zabad,[b] son of Shimeath an Ammonite woman, and Jehozabad, son of Shimrith[c] a Moabite woman. 27 The account of his sons, the many prophecies about him, and the record of the restoration of the temple of God are written in the annotations on the book of the kings. And Amaziah his son succeeded him as king.
 
                                 </p>
   
@@ -18674,8 +19186,38 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
           >
             <h2 className={styles.chapter3}>II Chronicles Chapter XXV </h2>
                                 <p>
- <h4 className={styles.h4}>                     </h4> 
-           </p>
+ <h4 className={styles.h4}>Amaziah King of Judah</h4> 
+
+  
+25 Amaziah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem. 2 He did what was right in the eyes of the Lord, but not wholeheartedly. 3 After the kingdom was firmly in his control, he executed the officials who had murdered his father the king. 4 Yet he did not put their children to death, but acted in accordance with what is written in the Law, in the Book of Moses, where the Lord commanded: “Parents shall not be put to death for their children, nor children be put to death for their parents; each will die for their own sin.”[a]
+
+5 Amaziah called the people of Judah together and assigned them according to their families to commanders of thousands and commanders of hundreds for all Judah and Benjamin. He then mustered those twenty years old or more and found that there were three hundred thousand men fit for military service, able to handle the spear and shield. 6 He also hired a hundred thousand fighting men from Israel for a hundred talents[b] of silver.
+
+7 But a man of God came to him and said, “Your Majesty, these troops from Israel must not march with you, for the Lord is not with Israel—not with any of the people of Ephraim. 8 Even if you go and fight courageously in battle, God will overthrow you before the enemy, for God has the power to help or to overthrow.”
+
+9 Amaziah asked the man of God, “But what about the hundred talents I paid for these Israelite troops?”
+
+The man of God replied, “The Lord can give you much more than that.”
+
+10 So Amaziah dismissed the troops who had come to him from Ephraim and sent them home. They were furious with Judah and left for home in a great rage.
+
+11 Amaziah then marshaled his strength and led his army to the Valley of Salt, where he killed ten thousand men of Seir. 12 The army of Judah also captured ten thousand men alive, took them to the top of a cliff and threw them down so that all were dashed to pieces.
+
+13 Meanwhile the troops that Amaziah had sent back and had not allowed to take part in the war raided towns belonging to Judah from Samaria to Beth Horon. They killed three thousand people and carried off great quantities of plunder.
+
+14 When Amaziah returned from slaughtering the Edomites, he brought back the gods of the people of Seir. He set them up as his own gods, bowed down to them and burned sacrifices to them. 15 The anger of the Lord burned against Amaziah, and he sent a prophet to him, who said, “Why do you consult this people’s gods, which could not save their own people from your hand?”
+
+16 While he was still speaking, the king said to him, “Have we appointed you an adviser to the king? Stop! Why be struck down?”
+
+So the prophet stopped but said, “I know that God has determined to destroy you, because you have done this and have not listened to my counsel.”
+
+17 After Amaziah king of Judah consulted his advisers, he sent this challenge to Jehoash[c] son of Jehoahaz, the son of Jehu, king of Israel: “Come, let us face each other in battle.”
+
+18 But Jehoash king of Israel replied to Amaziah king of Judah: “A thistle in Lebanon sent a message to a cedar in Lebanon, ‘Give your daughter to my son in marriage.’ Then a wild beast in Lebanon came along and trampled the thistle underfoot. 19 You say to yourself that you have defeated Edom, and now you are arrogant and proud. But stay at home! Why ask for trouble and cause your own downfall and that of Judah also?”
+
+20 Amaziah, however, would not listen, for God so worked that he might deliver them into the hands of Jehoash, because they sought the gods of Edom. 21 So Jehoash king of Israel attacked. He and Amaziah king of Judah faced each other at Beth Shemesh in Judah. 22 Judah was routed by Israel, and every man fled to his home. 23 Jehoash king of Israel captured Amaziah king of Judah, the son of Joash, the son of Ahaziah,[d] at Beth Shemesh. Then Jehoash brought him to Jerusalem and broke down the wall of Jerusalem from the Ephraim Gate to the Corner Gate—a section about four hundred cubits[e] long. 24 He took all the gold and silver and all the articles found in the temple of God that had been in the care of Obed-Edom, together with the palace treasures and the hostages, and returned to Samaria.
+
+25 Amaziah son of Joash king of Judah lived for fifteen years after the death of Jehoash son of Jehoahaz king of Israel. 26 As for the other events of Amaziah’s reign, from beginning to end, are they not written in the book of the kings of Judah and Israel? 27 From the time that Amaziah turned away from following the Lord, they conspired against him in Jerusalem and he fled to Lachish, but they sent men after him to Lachish and killed him there. 28 He was brought back by horse and was buried with his ancestors in the City of Judah.[f]           </p>
   
              </div>  
 
