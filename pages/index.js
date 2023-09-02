@@ -18367,7 +18367,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-II Chronicles starts by descriding Solomon asking God for wisdom, the building of the temple & Solomonn's prayer to consecrate the temple.
+II Chronicles starts by describing Solomon asking God for wisdom, the building of the temple & Solomon's prayer to consecrate the temple.
            
 </p>                                                      
                   <div className={styles.nav2}>           
