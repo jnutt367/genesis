@@ -18367,7 +18367,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-II Chronicles is in the process of being coded.
+II Chronicles starts by descriding Solomon asking God for wisdom, the building of the temple & Solomonn's prayer to consecrate the temple.
            
 </p>                                                      
                   <div className={styles.nav2}>           
@@ -18709,8 +18709,8 @@ The meaning of “Torah” is often restricted to signify the first five books o
              <h4 className={styles.h4}>II Samuel is Completed</h4>    
             <h4 className={styles.h4}>I Kings is Completed</h4>   
             <h4 className={styles.h4}>II Kings is Completed</h4>  
-           <h4 className={styles.h4}>I Chronicles is being coded</h4>  
-           <h4 className={styles.h4}>II Chronicles is being coded</h4>            
+           <h4 className={styles.h4}>I Chronicles is Completed</h4>  
+           <h4 className={styles.h4}>II Chronicles is being coded now</h4>            
                 </p>
           </div>
 
