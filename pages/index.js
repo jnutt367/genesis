@@ -7017,7 +7017,7 @@ Cities of Refuge
                                   </div>
                                   
                               
-        <div className={styles.grid}>
+        <div className={styles.grid3}>
           
 
    <div className={styles.card3}
