@@ -271,7 +271,7 @@
 
 .nav {
     background-color: #EC514A;
-    border: 2px outset gold;
+    border: 2px groove gold;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -283,7 +283,7 @@
 
 .nav2 {
     background-color: #5A7B7A;
-    border: 2px outset gold;
+    border: 2px groove gold;
     color: white;
     opacity: 1;
     padding: 5px;
@@ -295,7 +295,7 @@
 
 .nav3 {
     background-color: #69282C;
-    border: 2px outset gold;   
+    border: 2px groove gold;   
     color: white;
     opacity: 1;
     padding: 5px;
@@ -307,7 +307,7 @@
 
 .nav4 {
     background-color: #EC5C4B;
-    border: 2px outset gold;
+    border: 2px groove gold;
     color: white;
     opacity: 1;
     padding: 5px;
@@ -366,7 +366,7 @@
 
 .grid {
     background-color: #EC514A;
-    border: 2px outset gold;
+    border: 2px groove gold;
     color: white;
     display: flex;
     align-items: center;
@@ -379,8 +379,8 @@
     font-size: 2rem;
 }
 .grid2 {
-    border: 2px outset gold;
-    border: 1px solid gold;
+    background-color: #5A7B7A;
+    border: 2px groove gold;
     color: white;
     display: flex;
     align-items: center;
@@ -390,7 +390,7 @@
 
 .grid3 {
     background-color: #69282C;
-    border: 2px outset gold;
+    border: 2px groove gold;
     color: white;
     display: flex;
     align-items: center;
@@ -399,7 +399,7 @@
 }
 .grid4 {
     background-color: #EC5C4B;
-    border: 2px outset gold;
+    border: 2px groove gold;
     color: white;
     display: flex;
     align-items: center;
