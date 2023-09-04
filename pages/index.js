@@ -21379,7 +21379,8 @@ The meaning of “Torah” is often restricted to signify the first five books o
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
         </code>
         </p>
-      </main>  
+  </div>  
+  </main>  
   
   
                 
