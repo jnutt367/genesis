@@ -21012,8 +21012,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-ESTHER 
-           
+Although the name of God never appears in this book, His faithfulness for His people is evident.
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
@@ -21256,7 +21255,7 @@ The king said, “Impale him on it!” 10 So they impaled Haman on the pole he h
 
  <div className={styles.card4}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter VIII </h2>
+            <h2 className={styles.chapter3}>Esther Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>The King’s Edict in Behalf of the Jews</h4> 
 
@@ -21284,7 +21283,7 @@ The Triumph of the Jews
 
  <div className={styles.card6}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter IX </h2>
+            <h2 className={styles.chapter3}>Esther Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}> The Jews struck down all their enemies with the sword</h4> 
 9 On the thirteenth day of the twelfth month, the month of Adar, the edict commanded by the king was to be carried out. On this day the enemies of the Jews had hoped to overpower them, but now the tables were turned and the Jews got the upper hand over those who hated them. 2 The Jews assembled in their cities in all the provinces of King Xerxes to attack those determined to destroy them. No one could stand against them, because the people of all the other nationalities were afraid of them. 3 And all the nobles of the provinces, the satraps, the governors and the king’s administrators helped the Jews, because fear of Mordecai had seized them. 4 Mordecai was prominent in the palace; his reputation spread throughout the provinces, and he became more and more powerful.
@@ -21318,7 +21317,7 @@ Purim Established
 
  <div className={styles.card4}
           >
-            <h2 className={styles.chapter3}>Ezra Chapter X </h2>
+            <h2 className={styles.chapter3}>Esther Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>The Greatness of Mordecai</h4> 
 
