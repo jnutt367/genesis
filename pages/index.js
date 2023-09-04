@@ -19660,8 +19660,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-Ezra lorem ipsum dolerum poselarteatum this is bieng coded out
-           
+Ezra begins the story of the exiles coming back from Babylon, King Cyrus of Persia allows for the rebuilding of the City & temple, by the prompting of our God.
 </p>                                                      
                   <div className={styles.nav3}>           
       <a href="https://mytorah.vercel.app/#numbers">
@@ -20261,7 +20260,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-Nehemiah & Ezra, originally all in one unified story, of the exiles rebuilding the temple & finding & re-iterating through the book of the law of Moses
+Nehemiah & Ezra, originally all in one unified story, tells of the exiles rebuilding the temple & finding & re-iterating through the book of the law of Moses
            
 </p>                                                      
                   <div className={styles.nav4}>           
