@@ -20332,7 +20332,7 @@ I was cupbearer to the king.
                                   </div>
 
 
-<div className={styles.card5}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Nehemiah  Chapter II </h2>
                                 <p>
@@ -20401,7 +20401,7 @@ They replied, “Let us start rebuilding.” So they began this good work.
                                   </div>
 
 
- <div className={styles.card5}
+ <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Nehemiah  Chapter IV </h2>
                                 <p>
@@ -20464,7 +20464,7 @@ At this the whole assembly said, “Amen,” and praised the Lord. And the peopl
 19 Remember me with favor, my God, for all I have done for these people.                                    </p>
                                   </div>
 
- <div className={styles.card5}
+ <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Nehemiah Chapter VI </h2>
                                 <p>
@@ -20603,7 +20603,7 @@ When the seventh month came and the Israelites had settled in their towns,
                                   </div>
 
 
- <div className={styles.card5}
+ <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Nehemiah Chapter VIII </h2>
                                 <p>
@@ -20675,7 +20675,7 @@ The Agreement of the People
 
 
 
- <div className={styles.card5}
+ <div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Ezra Chapter X </h2>
                                 <p>
@@ -20814,7 +20814,7 @@ Akkub, Talmon and their associates, who kept watch at the gates—172 men.
   </div>
 
 
-<div className={styles.card5}
+<div className={styles.card4}
           >
             <h2 className={styles.chapter3}>Nehemiah Chapter XII </h2>
                                 <p>
