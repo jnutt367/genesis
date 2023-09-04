@@ -21015,7 +21015,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 ESTHER 
            
 </p>                                                      
-                  <div className={styles.nav4}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
              <Image 
                                 src="/previous.webp"
@@ -21052,7 +21052,7 @@ ESTHER
                                       <iframe width="100%" height="315" src="https://www.youtube.com/embed/JydNSlufRIs?si=AyfRkox1fd2oYewx?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   
                               
-        <div className={styles.grid4}>
+        <div className={styles.grid}>
           
 
    <div className={styles.card6}
@@ -21373,7 +21373,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
      
 
         </div>
-</div>
+
         <p className={styles.description}> 
         <code className={styles.publisher}>
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
