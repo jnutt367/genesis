@@ -20250,7 +20250,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
         </h1>
           <div className={styles.image}>
                            <Image 
-                                                    src="/nehemiah.png"
+                                                    src="/Ezra-Nehemiah.jpeg"
                                                     alt="hero image for Leviticus"
                                                     height={900}
                                                     width={2000}
