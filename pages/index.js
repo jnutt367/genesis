@@ -21366,21 +21366,20 @@ The meaning of “Torah” is often restricted to signify the first five books o
              <h4 className={styles.h4}>Ecclesiastes is Completed</h4>  
                 
                 
-                </p>
+                  </p>
           </div>
 
 
      
 
         </div>
-
+</div>
         <p className={styles.description}> 
         <code className={styles.publisher}>
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
         </code>
         </p>
-  </div>  
-  </main>  
+      </main>  
   
   
                 
