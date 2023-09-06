@@ -21049,6 +21049,7 @@ Although the name of God never appears in this book, His faithfulness for His pe
                </div>
                                  <div className={styles.iframe}> 
                                       <iframe width="100%" height="315" src="https://www.youtube.com/embed/JydNSlufRIs?si=AyfRkox1fd2oYewx?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
                                   
                               
         <div className={styles.grid}>
@@ -21378,7 +21379,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
         </code>
         </p>
-  </div>
+  
       </main>  
   
   
