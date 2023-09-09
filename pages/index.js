@@ -21382,9 +21382,668 @@ The meaning of “Torah” is often restricted to signify the first five books o
   
       </main>  
   
+ 
+
+
+
+   <main id="isaiah" className={styles.main}>
+      
+      <div className={styles.hero}>
+      
+            <h2 className={styles.holy}>THE WORD</h2>
+                <h1 className={styles.bible}>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                </h1>
+          
+        <h1 className={styles.title}>
+         ISAIAH
+        </h1>
+         <div  className={styles.image}>
+                   
+                               <Image 
+                                src="/isaiah.png"
+                                alt="isaiah"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+                    
+              
+                            
+</div> 
+<p className={styles.parables}>
+       
+                     Isaiah has a vision from the Lord pertaining to Judah & Jerusalem.             
+      </p>
+<div className={styles.nav}>               
+
+    <a href="https://john-zeta.vercel.app/">
+           <Image className={styles.arrow}
+                                src="/previous.webp"
+                                alt="Left arrow"
+                                height={75}
+                                width={75}
+                                priority
+                              />
+       </a>  
   
+  <a href="https://cash.app/$JNutt367">
+              <Image className={styles.arrow}
+                                src="/donations_please.webp"
+                                alt="youtube-icon"
+                                height={75}
+                                width={90}
+                                priority
+                              /> 
+       </a>
+           
+           
+        <a href="https://mytorah.vercel.app/#exodus">
+             <Image className={styles.arrow}
+                                src="/next.webp"
+                                alt="right arrow"
+                                 height={75}
+                                width={90}
+                                priority
+                              />
+       </a>           
+        </div>
+   <div className={styles.iframe}>
+              <iframe width="100%" height="315" src="https://www.youtube.com/embed/d0A6Uchb1F8?si=IUd4rz0gzYflg-L1?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                  
+          </div>
+        
+         <div className={styles.grid}>
+                                  <div className={styles.card}>
+            <h2  className={styles.chapter}>Isaiah Chapter I</h2>
+            <p>
+<h4 className={styles.h4}>            </h4>
+
+                                  
+                                  </p>
+          </div>
+
+          <div className={styles.card}>
+              <h2  className={styles.chapter}>Genesis Chapter II</h2>
+            <p>
+                           <h4 className={styles.h4}>T             </h4> 
+
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter III</h2>
+            <p>
+<h4 className={styles.h4}>               </h4>
+
+              
+              </p>
+  </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter IV</h2>
+            <p>
+            
+<h4 className={styles.h4}>            </h4>
+ 
+            </p>
+          </div>
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Isaiah Chapter V</h2>
+            <p>
+            
+<h4 className={styles.h4}>                </h4>
+  
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Isaiah Chapter VI</h2>
+            <p>
+           
+<h4 className={styles.h4}>               </h4>
+ 
+
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter VII</h2>
+            <p>
+ <h4 className={styles.h4}>            </h4> 
+ 
+
+
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          > 
+           <h2  className={styles.chapter}>Isaiah Chapter VIII</h2>
+            <p>
+            
+<h4 className={styles.h4}>           </h4>  
+
+              
+              </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+  <h2  className={styles.chapter}>Isaiah Chapter IX</h2>
+            <p>
+            
+<h4 className={styles.h4}>             </h4>
+    
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter X</h2>
+            <p>
+            
+<h4 className={styles.h4}>                   </h4>
+
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter XI</h2>
+            <p>
+            
+<h4 className={styles.h4}>                </h4>
+
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter XII</h2>
+            <p>
+           
+<h4 className={styles.h4}>            </h4>
+    
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Isaiah Chapter XIII</h2>
+            <p>
+            
+<h4 className={styles.h4}>               </h4>
+     
+
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter XIV</h2>
+            <p>
+            
+<h4 className={styles.h4}>              </h4>
+              
+              
+              </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter XV</h2>
+            <p>
+           
+<h4 className={styles.h4}>                 </h4>
+ 
+
+             </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter XVI</h2>
+            <p>
+          <h4 className={styles.h4}>                  </h4>
+    
+                </p>
+          </div>
+
+          <div className={styles.card}>
+            <h2  className={styles.chapter}>Isaiah Chapter XVII</h2>
+            <p>
+                  <h4 className={styles.h4}>             </h4>
+ 
+  
+            </p>
+          </div>
+
+          <div className={styles.card}>
+            <h2  className={styles.chapter}>Isaiah Chapter XVIII</h2>
+                        <p>
+ <h4 className={styles.h4}>                </h4>
+ 
+
+                        </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+            <h2  className={styles.chapter}>Isaiah Chapter XIX</h2>
+                    <p>
+                            <h4 className={styles.h4}>               </h4>
+ 
+                      </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Isaiah Chapter XX</h2>
+            <p>
+         <h4 className={styles.h4}>                 </h4>
+
+            </p>
+          </div>
+          <div
+            className={styles.card}
+          >
+         <h2  className={styles.chapter}>Isaiah Chapter XXI</h2>
+            <p>
+            
+<h4 className={styles.h4}>               </h4>
+
+              </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Isaiah Chapter XXII</h2>
+            <p>
+           
+<h4 className={styles.h4}>          </h4>
+  
+           </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+            <h2  className={styles.chapter}>Isaiah Chapter XXIII</h2>
+                  <p>
+                 <h4 className={styles.h4}>               </h4>
+                  
+              
+                            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+            <h2  className={styles.chapter}>Isaiah Chapter XXIV</h2>
+                        <p>
+                     <h4 className={styles.h4}>            </h4>
+
+                            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Isaiah Chapter XXV</h2>
+            <p>
+            
+<h4 className={styles.h4}>              </h4>
+
+           
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+            <h2  className={styles.chapter}>Isaiah Chapter XXVI</h2>
+                          <p>
+                         
+             <h4 className={styles.h4}>             </h4>
+
+                            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Isaiah Chapter XXVII</h2>
+                                <p>
+                               
+<h4 className={styles.h4}>               </h4>
+              
+              
+              </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XXVIII</h2>
+                                          <p>
+                                         
+                             <h4 className={styles.h4}>                </h4> 
+
+              
+                                      </p>
+          </div>
+
+    <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XXIX</h2>
+                                          <p>
+                                         
+                            <h4 className={styles.h4}>            </h4>
+
+
+  </p>
+          </div>
+
+
+    <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XXX</h2>
+                                          <p>
+                                         
+
+
+  
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XXXI</h2>
+                                          <p>
+                                         
+<h4 className={styles.h4}>             </h4>
+
+                                          </p>
+          </div>
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XXXII</h2>
+                                          <p>
+                                         
+<h4 className={styles.h4}>             </h4>
+                            
+  </p>
+          </div>
+
+
+              <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XXXIII</h2>
+                                          <p>
+                                         
+                                         <h4 className={styles.h4}>           </h4>
+                                    
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XXXIV</h2>
+                                          <p>
+                     <h4 className={styles.h4}>               </h4>
+                            
+
+
+
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Genesis Chapter XXXV</h2>
+                                          <p>
+                                         
+                                       <h4 className={styles.h4}>                 </h4>
+                             
+                                          </p>
+          </div>
+
+
+              <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XXXVI</h2>
+                                          <p>
+                                         
+                                  <h4 className={styles.h4}>                </h4>
+             
+                                          </p>
+          </div>
+
+
+              <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XXXVII</h2>
+                                          <p>
+                                         
+                                                   <h4 className={styles.h4}>            </h4>
+                                                  
+                                          </p>
+          </div>
+              
+              <div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XXXVIII</h2>
+                                          <p>
+                                         
+                                            <h4 className={styles.h4}>               </h4>
+                                      
+                                          </p>
+          </div>
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XXXIX</h2>
+                                          <p>
+                                         
+                                             <h4 className={styles.h4}>              </h4>
+                                
+                                          </p>
+          </div>
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XL</h2>
+                                          <p>
+                                         
+                                              <h4 className={styles.h4}>                </h4>
+                                       
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XLI</h2>
+                                          <p>
+                                         
+                                       <h4 className={styles.h4}>             </h4>
+                                      
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XLII</h2>
+                                          <p>
+                                         
+                                             <h4 className={styles.h4}>                  </h4>
+                        
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XLIII</h2>
+                                          <p>
+                                         
+                                                <h4 className={styles.h4}>                 </h4>
+                        
+              
+                                          </p>
+          </div>              
+              
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XLIV</h2>
+                                          <p>
+                                         
+                                              <h4 className={styles.h4}>            </h4>
+                                          
+                                            </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XLV</h2>
+                                          <p>
+                                         
+                                                  <h4 className={styles.h4}>                  </h4>
+                                                 
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XLVI</h2>
+                                          <p>
+                                         
+                                         <h4 className={styles.h4}>              </h4>
+                                   
+              
+                                            </p>
+          </div>           
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XLVII</h2>
+                                          <p>
+                                         
+                                              <h4 className={styles.h4}>                 </h4> 
+              
+                                          </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XLVIII</h2>
+                                          <p>
+                                         
+                                               <h4 className={styles.h4}>                    </h4>
+                         
+              
+              </p>
+          </div>
+
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter XLIX</h2>
+                                          <p>
+                                         
+                                                          <h4 className={styles.h4}>            </h4>
+                                           
+
+                                          </p>
+          </div>           
+
+<div
+            className={styles.card}
+          >
+          <h2  className={styles.chapter}>Isaiah Chapter L</h2>
+                                          <p>
+                                         
+<h4 className={styles.h4}>              </h4>
+         
+4 
+                                          </p>
+          </div>           
+              
+              
+              <div className={styles.iframe}>
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/d_Q6WkD_Pas?si=fdyToTgzjUxRYsXR?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              </div>            
+          </div>  
+           
+       </div>    
+ 
+  </main>  
                 
 
+
+
+
+
+  
 
   
                 
