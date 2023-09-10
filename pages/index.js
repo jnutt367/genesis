@@ -21415,7 +21415,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
        
                      Isaiah has a vision from the Lord pertaining to Judah & Jerusalem.             
       </p>
-<div className={styles.nav}>               
+<div className={styles.nav3}>               
 
     <a href="https://john-zeta.vercel.app/">
            <Image className={styles.arrow}
