@@ -21457,18 +21457,237 @@ The meaning of “Torah” is often restricted to signify the first five books o
                                   <div className={styles.card}>
             <h2  className={styles.chapter}>Isaiah Chapter I</h2>
             <p>
-<h4 className={styles.h4}>            </h4>
+<h4 className={styles.h4}>A Rebellious Nation</h4>
+1 The vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah.
 
-                                  
+
+2 Hear me, you heavens! Listen, earth!
+    For the Lord has spoken:
+“I reared children and brought them up,
+    but they have rebelled against me.
+3 The ox knows its master,
+    the donkey its owner’s manger,
+but Israel does not know,
+    my people do not understand.”
+
+4 Woe to the sinful nation,
+    a people whose guilt is great,
+a brood of evildoers,
+    children given to corruption!
+They have forsaken the Lord;
+    they have spurned the Holy One of Israel
+    and turned their backs on him.
+
+5 Why should you be beaten anymore?
+    Why do you persist in rebellion?
+Your whole head is injured,
+    your whole heart afflicted.
+6 From the sole of your foot to the top of your head
+    there is no soundness—
+only wounds and welts
+    and open sores,
+not cleansed or bandaged
+    or soothed with olive oil.
+
+7 Your country is desolate,
+    your cities burned with fire;
+your fields are being stripped by foreigners
+    right before you,
+    laid waste as when overthrown by strangers.
+8 Daughter Zion is left
+    like a shelter in a vineyard,
+like a hut in a cucumber field,
+    like a city under siege.
+9 Unless the Lord Almighty
+    had left us some survivors,
+we would have become like Sodom,
+    we would have been like Gomorrah.
+
+10 Hear the word of the Lord,
+    you rulers of Sodom;
+listen to the instruction of our God,
+    you people of Gomorrah!
+11 “The multitude of your sacrifices—
+    what are they to me?” says the Lord.
+“I have more than enough of burnt offerings,
+    of rams and the fat of fattened animals;
+I have no pleasure
+    in the blood of bulls and lambs and goats.
+12 When you come to appear before me,
+    who has asked this of you,
+    this trampling of my courts?
+13 Stop bringing meaningless offerings!
+    Your incense is detestable to me.
+New Moons, Sabbaths and convocations—
+    I cannot bear your worthless assemblies.
+14 Your New Moon feasts and your appointed festivals
+    I hate with all my being.
+They have become a burden to me;
+    I am weary of bearing them.
+15 When you spread out your hands in prayer,
+    I hide my eyes from you;
+even when you offer many prayers,
+    I am not listening.
+
+Your hands are full of blood!
+
+16 Wash and make yourselves clean.
+    Take your evil deeds out of my sight;
+    stop doing wrong.
+17 Learn to do right; seek justice.
+    Defend the oppressed.[a]
+Take up the cause of the fatherless;
+    plead the case of the widow.
+
+18 “Come now, let us settle the matter,”
+    says the Lord.
+“Though your sins are like scarlet,
+    they shall be as white as snow;
+though they are red as crimson,
+    they shall be like wool.
+19 If you are willing and obedient,
+    you will eat the good things of the land;
+20 but if you resist and rebel,
+    you will be devoured by the sword.”
+For the mouth of the Lord has spoken.
+
+21 See how the faithful city
+    has become a prostitute!
+She once was full of justice;
+    righteousness used to dwell in her—
+    but now murderers!
+22 Your silver has become dross,
+    your choice wine is diluted with water.
+23 Your rulers are rebels,
+    partners with thieves;
+they all love bribes
+    and chase after gifts.
+They do not defend the cause of the fatherless;
+    the widow’s case does not come before them.
+
+24 Therefore the Lord, the Lord Almighty,
+    the Mighty One of Israel, declares:
+“Ah! I will vent my wrath on my foes
+    and avenge myself on my enemies.
+25 I will turn my hand against you;[b]
+    I will thoroughly purge away your dross
+    and remove all your impurities.
+26 I will restore your leaders as in days of old,
+    your rulers as at the beginning.
+Afterward you will be called
+    the City of Righteousness,
+    the Faithful City.”
+
+27 Zion will be delivered with justice,
+    her penitent ones with righteousness.
+28 But rebels and sinners will both be broken,
+    and those who forsake the Lord will perish.
+
+29 “You will be ashamed because of the sacred oaks
+    in which you have delighted;
+you will be disgraced because of the gardens
+    that you have chosen.
+30 You will be like an oak with fading leaves,
+    like a garden without water.
+31 The mighty man will become tinder
+    and his work a spark;
+both will burn together,
+    with no one to quench the fire.”                                  
                                   </p>
           </div>
 
           <div className={styles.card}>
               <h2  className={styles.chapter}>Isaiah Chapter II</h2>
             <p>
-                           <h4 className={styles.h4}>T             </h4> 
+                           <h4 className={styles.h4}>The Mountain of the Lord</h4> 
 
-  
+
+2 This is what Isaiah son of Amoz saw concerning Judah and Jerusalem:
+
+2 In the last days
+
+the mountain of the Lord’s temple will be established
+    as the highest of the mountains;
+it will be exalted above the hills,
+    and all nations will stream to it.
+
+3 Many peoples will come and say,
+
+“Come, let us go up to the mountain of the Lord,
+    to the temple of the God of Jacob.
+He will teach us his ways,
+    so that we may walk in his paths.”
+The law will go out from Zion,
+    the word of the Lord from Jerusalem.
+4 He will judge between the nations
+    and will settle disputes for many peoples.
+They will beat their swords into plowshares
+    and their spears into pruning hooks.
+Nation will not take up sword against nation,
+    nor will they train for war anymore.
+
+5 Come, descendants of Jacob,
+    let us walk in the light of the Lord.
+
+The Day of the Lord
+6 You, Lord, have abandoned your people,
+    the descendants of Jacob.
+They are full of superstitions from the East;
+    they practice divination like the Philistines
+    and embrace pagan customs.
+7 Their land is full of silver and gold;
+    there is no end to their treasures.
+Their land is full of horses;
+    there is no end to their chariots.
+8 Their land is full of idols;
+    they bow down to the work of their hands,
+    to what their fingers have made.
+9 So people will be brought low
+    and everyone humbled—
+    do not forgive them.[a]
+
+10 Go into the rocks, hide in the ground
+    from the fearful presence of the Lord
+    and the splendor of his majesty!
+11 The eyes of the arrogant will be humbled
+    and human pride brought low;
+the Lord alone will be exalted in that day.
+
+12 The Lord Almighty has a day in store
+    for all the proud and lofty,
+for all that is exalted
+    (and they will be humbled),
+13 for all the cedars of Lebanon, tall and lofty,
+    and all the oaks of Bashan,
+14 for all the towering mountains
+    and all the high hills,
+15 for every lofty tower
+    and every fortified wall,
+16 for every trading ship[b]
+    and every stately vessel.
+17 The arrogance of man will be brought low
+    and human pride humbled;
+the Lord alone will be exalted in that day,
+18     and the idols will totally disappear.
+
+19 People will flee to caves in the rocks
+    and to holes in the ground
+from the fearful presence of the Lord
+    and the splendor of his majesty,
+    when he rises to shake the earth.
+20 In that day people will throw away
+    to the moles and bats
+their idols of silver and idols of gold,
+    which they made to worship.
+21 They will flee to caverns in the rocks
+    and to the overhanging crags
+from the fearful presence of the Lord
+    and the splendor of his majesty,
+    when he rises to shake the earth.
+
+22 Stop trusting in mere humans,
+    who have but a breath in their nostrils.
+    Why hold them in esteem?
             </p>
           </div>
 
@@ -21477,9 +21696,89 @@ The meaning of “Torah” is often restricted to signify the first five books o
           >
              <h2  className={styles.chapter}>Isaiah Chapter III</h2>
             <p>
-<h4 className={styles.h4}>               </h4>
+<h4 className={styles.h4}>Judgment on Jerusalem and Judah</h4>
 
-              
+
+3 See now, the Lord,
+    the Lord Almighty,
+is about to take from Jerusalem and Judah
+    both supply and support:
+all supplies of food and all supplies of water,
+2     the hero and the warrior,
+the judge and the prophet,
+    the diviner and the elder,
+3 the captain of fifty and the man of rank,
+    the counselor, skilled craftsman and clever enchanter.
+
+4 “I will make mere youths their officials;
+    children will rule over them.”
+
+5 People will oppress each other—
+    man against man, neighbor against neighbor.
+The young will rise up against the old,
+    the nobody against the honored.
+
+6 A man will seize one of his brothers
+    in his father’s house, and say,
+“You have a cloak, you be our leader;
+    take charge of this heap of ruins!”
+7 But in that day he will cry out,
+    “I have no remedy.
+I have no food or clothing in my house;
+    do not make me the leader of the people.”
+
+8 Jerusalem staggers,
+    Judah is falling;
+their words and deeds are against the Lord,
+    defying his glorious presence.
+9 The look on their faces testifies against them;
+    they parade their sin like Sodom;
+    they do not hide it.
+Woe to them!
+    They have brought disaster upon themselves.
+
+10 Tell the righteous it will be well with them,
+    for they will enjoy the fruit of their deeds.
+11 Woe to the wicked!
+    Disaster is upon them!
+They will be paid back
+    for what their hands have done.
+
+12 Youths oppress my people,
+    women rule over them.
+My people, your guides lead you astray;
+    they turn you from the path.
+
+13 The Lord takes his place in court;
+    he rises to judge the people.
+14 The Lord enters into judgment
+    against the elders and leaders of his people:
+“It is you who have ruined my vineyard;
+    the plunder from the poor is in your houses.
+15 What do you mean by crushing my people
+    and grinding the faces of the poor?”
+declares the Lord, the Lord Almighty.
+
+16 The Lord says,
+    “The women of Zion are haughty,
+walking along with outstretched necks,
+    flirting with their eyes,
+strutting along with swaying hips,
+    with ornaments jingling on their ankles.
+17 Therefore the Lord will bring sores on the heads of the women of Zion;
+    the Lord will make their scalps bald.”
+
+18 In that day the Lord will snatch away their finery: the bangles and headbands and crescent necklaces, 19 the earrings and bracelets and veils, 20 the headdresses and anklets and sashes, the perfume bottles and charms, 21 the signet rings and nose rings, 22 the fine robes and the capes and cloaks, the purses 23 and mirrors, and the linen garments and tiaras and shawls.
+
+24 Instead of fragrance there will be a stench;
+    instead of a sash, a rope;
+instead of well-dressed hair, baldness;
+    instead of fine clothing, sackcloth;
+    instead of beauty, branding.
+25 Your men will fall by the sword,
+    your warriors in battle.
+26 The gates of Zion will lament and mourn;
+    destitute, she will sit on the ground.
               </p>
   </div>
 
@@ -21489,8 +21788,17 @@ The meaning of “Torah” is often restricted to signify the first five books o
              <h2  className={styles.chapter}>Isaiah Chapter IV</h2>
             <p>
             
-<h4 className={styles.h4}>            </h4>
- 
+<h4 className={styles.h4}>The Branch of the Lord</h4>
+
+4 1 In that day seven women
+    will take hold of one man
+and say, “We will eat our own food
+    and provide our own clothes;
+only let us be called by your name.
+    Take away our disgrace!”
+
+The Branch of the Lord
+2 In that day the Branch of the Lord will be beautiful and glorious, and the fruit of the land will be the pride and glory of the survivors in Israel. 3 Those who are left in Zion, who remain in Jerusalem, will be called holy, all who are recorded among the living in Jerusalem. 4 The Lord will wash away the filth of the women of Zion; he will cleanse the bloodstains from Jerusalem by a spirit[a] of judgment and a spirit[b] of fire. 5 Then the Lord will create over all of Mount Zion and over those who assemble there a cloud of smoke by day and a glow of flaming fire by night; over everything the glory[c] will be a canopy. 6 It will be a shelter and shade from the heat of the day, and a refuge and hiding place from the storm and rain.              
             </p>
           </div>
           <div
@@ -21499,8 +21807,140 @@ The meaning of “Torah” is often restricted to signify the first five books o
            <h2  className={styles.chapter}>Isaiah Chapter V</h2>
             <p>
             
-<h4 className={styles.h4}>                </h4>
-  
+<h4 className={styles.h4}>  The Song of the Vineyard</h4>
+
+5 I will sing for the one I love
+    a song about his vineyard:
+My loved one had a vineyard
+    on a fertile hillside.
+2 He dug it up and cleared it of stones
+    and planted it with the choicest vines.
+He built a watchtower in it
+    and cut out a winepress as well.
+Then he looked for a crop of good grapes,
+    but it yielded only bad fruit.
+
+3 “Now you dwellers in Jerusalem and people of Judah,
+    judge between me and my vineyard.
+4 What more could have been done for my vineyard
+    than I have done for it?
+When I looked for good grapes,
+    why did it yield only bad?
+5 Now I will tell you
+    what I am going to do to my vineyard:
+I will take away its hedge,
+    and it will be destroyed;
+I will break down its wall,
+    and it will be trampled.
+6 I will make it a wasteland,
+    neither pruned nor cultivated,
+    and briers and thorns will grow there.
+I will command the clouds
+    not to rain on it.”
+
+7 The vineyard of the Lord Almighty
+    is the nation of Israel,
+and the people of Judah
+    are the vines he delighted in.
+And he looked for justice, but saw bloodshed;
+    for righteousness, but heard cries of distress.
+
+Woes and Judgments
+8 Woe to you who add house to house
+    and join field to field
+till no space is left
+    and you live alone in the land.
+
+9 The Lord Almighty has declared in my hearing:
+
+“Surely the great houses will become desolate,
+    the fine mansions left without occupants.
+10 A ten-acre vineyard will produce only a bath[a] of wine;
+    a homer[b] of seed will yield only an ephah[c] of grain.”
+
+11 Woe to those who rise early in the morning
+    to run after their drinks,
+who stay up late at night
+    till they are inflamed with wine.
+12 They have harps and lyres at their banquets,
+    pipes and timbrels and wine,
+but they have no regard for the deeds of the Lord,
+    no respect for the work of his hands.
+13 Therefore my people will go into exile
+    for lack of understanding;
+those of high rank will die of hunger
+    and the common people will be parched with thirst.
+14 Therefore Death expands its jaws,
+    opening wide its mouth;
+into it will descend their nobles and masses
+    with all their brawlers and revelers.
+15 So people will be brought low
+    and everyone humbled,
+    the eyes of the arrogant humbled.
+16 But the Lord Almighty will be exalted by his justice,
+    and the holy God will be proved holy by his righteous acts.
+17 Then sheep will graze as in their own pasture;
+    lambs will feed[d] among the ruins of the rich.
+
+18 Woe to those who draw sin along with cords of deceit,
+    and wickedness as with cart ropes,
+19 to those who say, “Let God hurry;
+    let him hasten his work
+    so we may see it.
+The plan of the Holy One of Israel—
+    let it approach, let it come into view,
+    so we may know it.”
+
+20 Woe to those who call evil good
+    and good evil,
+who put darkness for light
+    and light for darkness,
+who put bitter for sweet
+    and sweet for bitter.
+
+21 Woe to those who are wise in their own eyes
+    and clever in their own sight.
+
+22 Woe to those who are heroes at drinking wine
+    and champions at mixing drinks,
+23 who acquit the guilty for a bribe,
+    but deny justice to the innocent.
+24 Therefore, as tongues of fire lick up straw
+    and as dry grass sinks down in the flames,
+so their roots will decay
+    and their flowers blow away like dust;
+for they have rejected the law of the Lord Almighty
+    and spurned the word of the Holy One of Israel.
+25 Therefore the Lord’s anger burns against his people;
+    his hand is raised and he strikes them down.
+The mountains shake,
+    and the dead bodies are like refuse in the streets.
+
+Yet for all this, his anger is not turned away,
+    his hand is still upraised.
+
+26 He lifts up a banner for the distant nations,
+    he whistles for those at the ends of the earth.
+Here they come,
+    swiftly and speedily!
+27 Not one of them grows tired or stumbles,
+    not one slumbers or sleeps;
+not a belt is loosened at the waist,
+    not a sandal strap is broken.
+28 Their arrows are sharp,
+    all their bows are strung;
+their horses’ hooves seem like flint,
+    their chariot wheels like a whirlwind.
+29 Their roar is like that of the lion,
+    they roar like young lions;
+they growl as they seize their prey
+    and carry it off with no one to rescue.
+30 In that day they will roar over it
+    like the roaring of the sea.
+And if one looks at the land,
+    there is only darkness and distress;
+    even the sun will be darkened by clouds.
+
   
             </p>
           </div>
@@ -21511,9 +21951,50 @@ The meaning of “Torah” is often restricted to signify the first five books o
            <h2  className={styles.chapter}>Isaiah Chapter VI</h2>
             <p>
            
-<h4 className={styles.h4}>               </h4>
+<h4 className={styles.h4}>Isaiah’s Commission</h4>
  
+6 In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne; and the train of his robe filled the temple. 2 Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying. 3 And they were calling to one another:
 
+“Holy, holy, holy is the Lord Almighty;
+    the whole earth is full of his glory.”
+
+4 At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke.
+
+5 “Woe to me!” I cried. “I am ruined! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the Lord Almighty.”
+
+6 Then one of the seraphim flew to me with a live coal in his hand, which he had taken with tongs from the altar. 7 With it he touched my mouth and said, “See, this has touched your lips; your guilt is taken away and your sin atoned for.”
+
+8 Then I heard the voice of the Lord saying, “Whom shall I send? And who will go for us?”
+
+And I said, “Here am I. Send me!”
+
+9 He said, “Go and tell this people:
+
+“‘Be ever hearing, but never understanding;
+    be ever seeing, but never perceiving.’
+10 Make the heart of this people calloused;
+    make their ears dull
+    and close their eyes.[a]
+Otherwise they might see with their eyes,
+    hear with their ears,
+    understand with their hearts,
+and turn and be healed.”
+
+11 Then I said, “For how long, Lord?”
+
+And he answered:
+
+“Until the cities lie ruined
+    and without inhabitant,
+until the houses are left deserted
+    and the fields ruined and ravaged,
+12 until the Lord has sent everyone far away
+    and the land is utterly forsaken.
+13 And though a tenth remains in the land,
+    it will again be laid waste.
+But as the terebinth and oak
+    leave stumps when they are cut down,
+    so the holy seed will be the stump in the land.”
   
             </p>
           </div>
@@ -21839,7 +22320,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 <div
             className={styles.card}
           >
-          <h2  className={styles.chapter}>Genesis Chapter XXXV</h2>
+          <h2  className={styles.chapter}>Isaiah Chapter XXXV</h2>
                                           <p>
                                          
                                        <h4 className={styles.h4}>                 </h4>
@@ -22027,7 +22508,121 @@ The meaning of “Torah” is often restricted to signify the first five books o
 4 
                                           </p>
           </div>           
+
+
+
+     <div className={styles.card}>
+            <h2  className={styles.chapter}>Isaiah Chapter LI</h2>
+            <p>
+<h4 className={styles.h4}>            </h4>
+
+                                  
+                                  </p>
+          </div>
+
+          <div className={styles.card}>
+              <h2  className={styles.chapter}>Isaiah Chapter LII</h2>
+            <p>
+                           <h4 className={styles.h4}>           </h4> 
+
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter LIII</h2>
+            <p>
+<h4 className={styles.h4}>               </h4>
+
               
+              </p>
+  </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter LIV</h2>
+            <p>
+            
+<h4 className={styles.h4}>            </h4>
+ 
+            </p>
+          </div>
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Isaiah Chapter LV</h2>
+            <p>
+            
+<h4 className={styles.h4}>                </h4>
+  
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+           <h2  className={styles.chapter}>Isaiah Chapter LVI</h2>
+            <p>
+           
+<h4 className={styles.h4}>               </h4>
+ 
+
+  
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter LVII</h2>
+            <p>
+ <h4 className={styles.h4}>            </h4> 
+ 
+
+
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          > 
+           <h2  className={styles.chapter}>Isaiah Chapter LVIII</h2>
+            <p>
+            
+<h4 className={styles.h4}>           </h4>  
+
+              
+              </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+  <h2  className={styles.chapter}>Isaiah Chapter LIX</h2>
+            <p>
+            
+<h4 className={styles.h4}>             </h4>
+    
+            </p>
+          </div>
+
+          <div
+            className={styles.card}
+          >
+             <h2  className={styles.chapter}>Isaiah Chapter LX</h2>
+            <p>
+            
+<h4 className={styles.h4}>                   </h4>
+
+  
+            </p>
+          </div>
+
+  
               
               <div className={styles.iframe}>
             <iframe width="100%" height="315" src="https://www.youtube.com/embed/d_Q6WkD_Pas?si=fdyToTgzjUxRYsXR?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
