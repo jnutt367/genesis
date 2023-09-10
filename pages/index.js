@@ -21453,7 +21453,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
                                   
           </div>
         
-         <div className={styles.grid}>
+         <div className={styles.grid3}>
                                   <div className={styles.card}>
             <h2  className={styles.chapter}>Isaiah Chapter I</h2>
             <p>
