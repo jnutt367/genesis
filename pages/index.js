@@ -22212,7 +22212,133 @@ Yet for all this, his anger is not turned away,
              <h2  className={styles.chapter}>Isaiah Chapter X</h2>
             <p>
             
-<h4 className={styles.h4}>                   </h4>
+<h4 className={styles.h4}>Woe to those who make unjust laws</h4>
+
+10 
+    to those who issue oppressive decrees,
+2 to deprive the poor of their rights
+    and withhold justice from the oppressed of my people,
+making widows their prey
+    and robbing the fatherless.
+3 What will you do on the day of reckoning,
+    when disaster comes from afar?
+To whom will you run for help?
+    Where will you leave your riches?
+4 Nothing will remain but to cringe among the captives
+    or fall among the slain.
+
+Yet for all this, his anger is not turned away,
+    his hand is still upraised.
+
+God’s Judgment on Assyria
+5 “Woe to the Assyrian, the rod of my anger,
+    in whose hand is the club of my wrath!
+6 I send him against a godless nation,
+    I dispatch him against a people who anger me,
+to seize loot and snatch plunder,
+    and to trample them down like mud in the streets.
+7 But this is not what he intends,
+    this is not what he has in mind;
+his purpose is to destroy,
+    to put an end to many nations.
+8 ‘Are not my commanders all kings?’ he says.
+9     ‘Has not Kalno fared like Carchemish?
+Is not Hamath like Arpad,
+    and Samaria like Damascus?
+10 As my hand seized the kingdoms of the idols,
+    kingdoms whose images excelled those of Jerusalem and Samaria—
+11 shall I not deal with Jerusalem and her images
+    as I dealt with Samaria and her idols?’”
+
+12 When the Lord has finished all his work against Mount Zion and Jerusalem, he will say, “I will punish the king of Assyria for the willful pride of his heart and the haughty look in his eyes. 13 For he says:
+
+“‘By the strength of my hand I have done this,
+    and by my wisdom, because I have understanding.
+I removed the boundaries of nations,
+    I plundered their treasures;
+    like a mighty one I subdued[a] their kings.
+14 As one reaches into a nest,
+    so my hand reached for the wealth of the nations;
+as people gather abandoned eggs,
+    so I gathered all the countries;
+not one flapped a wing,
+    or opened its mouth to chirp.’”
+
+15 Does the ax raise itself above the person who swings it,
+    or the saw boast against the one who uses it?
+As if a rod were to wield the person who lifts it up,
+    or a club brandish the one who is not wood!
+16 Therefore, the Lord, the Lord Almighty,
+    will send a wasting disease upon his sturdy warriors;
+under his pomp a fire will be kindled
+    like a blazing flame.
+17 The Light of Israel will become a fire,
+    their Holy One a flame;
+in a single day it will burn and consume
+    his thorns and his briers.
+18 The splendor of his forests and fertile fields
+    it will completely destroy,
+    as when a sick person wastes away.
+19 And the remaining trees of his forests will be so few
+    that a child could write them down.
+
+The Remnant of Israel
+20 In that day the remnant of Israel,
+    the survivors of Jacob,
+will no longer rely on him
+    who struck them down
+but will truly rely on the Lord,
+    the Holy One of Israel.
+21 A remnant will return,[b] a remnant of Jacob
+    will return to the Mighty God.
+22 Though your people be like the sand by the sea, Israel,
+    only a remnant will return.
+Destruction has been decreed,
+    overwhelming and righteous.
+23 The Lord, the Lord Almighty, will carry out
+    the destruction decreed upon the whole land.
+
+24 Therefore this is what the Lord, the Lord Almighty, says:
+
+“My people who live in Zion,
+    do not be afraid of the Assyrians,
+who beat you with a rod
+    and lift up a club against you, as Egypt did.
+25 Very soon my anger against you will end
+    and my wrath will be directed to their destruction.”
+
+26 The Lord Almighty will lash them with a whip,
+    as when he struck down Midian at the rock of Oreb;
+and he will raise his staff over the waters,
+    as he did in Egypt.
+27 In that day their burden will be lifted from your shoulders,
+    their yoke from your neck;
+the yoke will be broken
+    because you have grown so fat.[c]
+
+28 They enter Aiath;
+    they pass through Migron;
+    they store supplies at Mikmash.
+29 They go over the pass, and say,
+    “We will camp overnight at Geba.”
+Ramah trembles;
+    Gibeah of Saul flees.
+30 Cry out, Daughter Gallim!
+    Listen, Laishah!
+    Poor Anathoth!
+31 Madmenah is in flight;
+    the people of Gebim take cover.
+32 This day they will halt at Nob;
+    they will shake their fist
+at the mount of Daughter Zion,
+    at the hill of Jerusalem.
+
+33 See, the Lord, the Lord Almighty,
+    will lop off the boughs with great power.
+The lofty trees will be felled,
+    the tall ones will be brought low.
+34 He will cut down the forest thickets with an ax;
+    Lebanon will fall before the Mighty One.
 
   
             </p>
@@ -22224,9 +22350,65 @@ Yet for all this, his anger is not turned away,
              <h2  className={styles.chapter}>Isaiah Chapter XI</h2>
             <p>
             
-<h4 className={styles.h4}>                </h4>
+<h4 className={styles.h4}>The Branch From Jesse</h4>
 
-  
+11 A shoot will come up from the stump of Jesse;
+    from his roots a Branch will bear fruit.
+2 The Spirit of the Lord will rest on him—
+    the Spirit of wisdom and of understanding,
+    the Spirit of counsel and of might,
+    the Spirit of the knowledge and fear of the Lord—
+3 and he will delight in the fear of the Lord.
+
+He will not judge by what he sees with his eyes,
+    or decide by what he hears with his ears;
+4 but with righteousness he will judge the needy,
+    with justice he will give decisions for the poor of the earth.
+He will strike the earth with the rod of his mouth;
+    with the breath of his lips he will slay the wicked.
+5 Righteousness will be his belt
+    and faithfulness the sash around his waist.
+
+6 The wolf will live with the lamb,
+    the leopard will lie down with the goat,
+the calf and the lion and the yearling[a] together;
+    and a little child will lead them.
+7 The cow will feed with the bear,
+    their young will lie down together,
+    and the lion will eat straw like the ox.
+8 The infant will play near the cobra’s den,
+    and the young child will put its hand into the viper’s nest.
+9 They will neither harm nor destroy
+    on all my holy mountain,
+for the earth will be filled with the knowledge of the Lord
+    as the waters cover the sea.
+
+10 In that day the Root of Jesse will stand as a banner for the peoples; the nations will rally to him, and his resting place will be glorious. 11 In that day the Lord will reach out his hand a second time to reclaim the surviving remnant of his people from Assyria, from Lower Egypt, from Upper Egypt, from Cush,[b] from Elam, from Babylonia,[c] from Hamath and from the islands of the Mediterranean.
+
+12 He will raise a banner for the nations
+    and gather the exiles of Israel;
+he will assemble the scattered people of Judah
+    from the four quarters of the earth.
+13 Ephraim’s jealousy will vanish,
+    and Judah’s enemies[d] will be destroyed;
+Ephraim will not be jealous of Judah,
+    nor Judah hostile toward Ephraim.
+14 They will swoop down on the slopes of Philistia to the west;
+    together they will plunder the people to the east.
+They will subdue Edom and Moab,
+    and the Ammonites will be subject to them.
+15 The Lord will dry up
+    the gulf of the Egyptian sea;
+with a scorching wind he will sweep his hand
+    over the Euphrates River.
+He will break it up into seven streams
+    so that anyone can cross over in sandals.
+16 There will be a highway for the remnant of his people
+    that is left from Assyria,
+as there was for Israel
+    when they came up from Egypt.
+
+Footnotes  
             </p>
           </div>
 
@@ -22236,8 +22418,31 @@ Yet for all this, his anger is not turned away,
              <h2  className={styles.chapter}>Isaiah Chapter XII</h2>
             <p>
            
-<h4 className={styles.h4}>            </h4>
-    
+<h4 className={styles.h4}>Songs of Praise</h4>
+
+
+12 In that day you will say:
+
+“I will praise you, Lord.
+    Although you were angry with me,
+your anger has turned away
+    and you have comforted me.
+2 Surely God is my salvation;
+    I will trust and not be afraid.
+The Lord, the Lord himself, is my strength and my defense[a];
+    he has become my salvation.”
+3 With joy you will draw water
+    from the wells of salvation.
+
+4 In that day you will say:
+
+“Give praise to the Lord, proclaim his name;
+    make known among the nations what he has done,
+    and proclaim that his name is exalted.
+5 Sing to the Lord, for he has done glorious things;
+    let this be known to all the world.
+6 Shout aloud and sing for joy, people of Zion,
+    for great is the Holy One of Israel among you.”              
             </p>
           </div>
 
