@@ -22004,8 +22004,34 @@ But as the terebinth and oak
           >
              <h2  className={styles.chapter}>Isaiah Chapter VII</h2>
             <p>
- <h4 className={styles.h4}>            </h4> 
+ <h4 className={styles.h4}>The Sign of Immanuel</h4> 
  
+
+7 When Ahaz son of Jotham, the son of Uzziah, was king of Judah, King Rezin of Aram and Pekah son of Remaliah king of Israel marched up to fight against Jerusalem, but they could not overpower it.
+
+2 Now the house of David was told, “Aram has allied itself with[a] Ephraim”; so the hearts of Ahaz and his people were shaken, as the trees of the forest are shaken by the wind.
+
+3 Then the Lord said to Isaiah, “Go out, you and your son Shear-Jashub,[b] to meet Ahaz at the end of the aqueduct of the Upper Pool, on the road to the Launderer’s Field. 4 Say to him, ‘Be careful, keep calm and don’t be afraid. Do not lose heart because of these two smoldering stubs of firewood—because of the fierce anger of Rezin and Aram and of the son of Remaliah. 5 Aram, Ephraim and Remaliah’s son have plotted your ruin, saying, 6 “Let us invade Judah; let us tear it apart and divide it among ourselves, and make the son of Tabeel king over it.” 7 Yet this is what the Sovereign Lord says:
+
+“‘It will not take place,
+    it will not happen,
+8 for the head of Aram is Damascus,
+    and the head of Damascus is only Rezin.
+Within sixty-five years
+    Ephraim will be too shattered to be a people.
+9 The head of Ephraim is Samaria,
+    and the head of Samaria is only Remaliah’s son.
+If you do not stand firm in your faith,
+    you will not stand at all.’”
+
+10 Again the Lord spoke to Ahaz, 11 “Ask the Lord your God for a sign, whether in the deepest depths or in the highest heights.”
+
+12 But Ahaz said, “I will not ask; I will not put the Lord to the test.”
+
+13 Then Isaiah said, “Hear now, you house of David! Is it not enough to try the patience of humans? Will you try the patience of my God also? 14 Therefore the Lord himself will give you[c] a sign: The virgin[d] will conceive and give birth to a son, and[e] will call him Immanuel.[f] 15 He will be eating curds and honey when he knows enough to reject the wrong and choose the right, 16 for before the boy knows enough to reject the wrong and choose the right, the land of the two kings you dread will be laid waste. 17 The Lord will bring on you and on your people and on the house of your father a time unlike any since Ephraim broke away from Judah—he will bring the king of Assyria.”
+
+Assyria, the Lord’s Instrument
+18 In that day the Lord will whistle for flies from the Nile delta in Egypt and for bees from the land of Assyria. 19 They will all come and settle in the steep ravines and in the crevices in the rocks, on all the thornbushes and at all the water holes. 20 In that day the Lord will use a razor hired from beyond the Euphrates River—the king of Assyria—to shave your head and private parts, and to cut off your beard also. 21 In that day, a person will keep alive a young cow and two goats. 22 And because of the abundance of the milk they give, there will be curds to eat. All who remain in the land will eat curds and honey. 23 In that day, in every place where there were a thousand vines worth a thousand silver shekels,[g] there will be only briers and thorns. 24 Hunters will go there with bow and arrow, for the land will be covered with briers and thorns. 25 As for all the hills once cultivated by the hoe, you will no longer go there for fear of the briers and thorns; they will become places where cattle are turned loose and where sheep run.
 
 
             </p>
@@ -22017,7 +22043,63 @@ But as the terebinth and oak
            <h2  className={styles.chapter}>Isaiah Chapter VIII</h2>
             <p>
             
-<h4 className={styles.h4}>           </h4>  
+<h4 className={styles.h4}>Isaiah and His Children as Signs</h4>  
+
+8 The Lord said to me, “Take a large scroll and write on it with an ordinary pen: Maher-Shalal-Hash-Baz.”[a] 2 So I called in Uriah the priest and Zechariah son of Jeberekiah as reliable witnesses for me. 3 Then I made love to the prophetess, and she conceived and gave birth to a son. And the Lord said to me, “Name him Maher-Shalal-Hash-Baz. 4 For before the boy knows how to say ‘My father’ or ‘My mother,’ the wealth of Damascus and the plunder of Samaria will be carried off by the king of Assyria.”
+
+5 The Lord spoke to me again:
+
+6 “Because this people has rejected
+    the gently flowing waters of Shiloah
+and rejoices over Rezin
+    and the son of Remaliah,
+7 therefore the Lord is about to bring against them
+    the mighty floodwaters of the Euphrates—
+    the king of Assyria with all his pomp.
+It will overflow all its channels,
+    run over all its banks
+8 and sweep on into Judah, swirling over it,
+    passing through it and reaching up to the neck.
+Its outspread wings will cover the breadth of your land,
+    Immanuel[b]!”
+
+9 Raise the war cry,[c] you nations, and be shattered!
+    Listen, all you distant lands.
+Prepare for battle, and be shattered!
+    Prepare for battle, and be shattered!
+10 Devise your strategy, but it will be thwarted;
+    propose your plan, but it will not stand,
+    for God is with us.[d]
+
+11 This is what the Lord says to me with his strong hand upon me, warning me not to follow the way of this people:
+
+12 “Do not call conspiracy
+    everything this people calls a conspiracy;
+do not fear what they fear,
+    and do not dread it.
+13 The Lord Almighty is the one you are to regard as holy,
+    he is the one you are to fear,
+    he is the one you are to dread.
+14 He will be a holy place;
+    for both Israel and Judah he will be
+a stone that causes people to stumble
+    and a rock that makes them fall.
+And for the people of Jerusalem he will be
+    a trap and a snare.
+15 Many of them will stumble;
+    they will fall and be broken,
+    they will be snared and captured.”
+
+16 Bind up this testimony of warning
+    and seal up God’s instruction among my disciples.
+17 I will wait for the Lord,
+    who is hiding his face from the descendants of Jacob.
+I will put my trust in him.
+
+18 Here am I, and the children the Lord has given me. We are signs and symbols in Israel from the Lord Almighty, who dwells on Mount Zion.
+
+The Darkness Turns to Light
+19 When someone tells you to consult mediums and spiritists, who whisper and mutter, should not a people inquire of their God? Why consult the dead on behalf of the living? 20 Consult God’s instruction and the testimony of warning. If anyone does not speak according to this word, they have no light of dawn. 21 Distressed and hungry, they will roam through the land; when they are famished, they will become enraged and, looking upward, will curse their king and their God. 22 Then they will look toward the earth and see only distress and darkness and fearful gloom, and they will be thrust into utter darkness.
 
               
               </p>
@@ -22029,8 +22111,98 @@ But as the terebinth and oak
   <h2  className={styles.chapter}>Isaiah Chapter IX</h2>
             <p>
             
-<h4 className={styles.h4}>             </h4>
-    
+<h4 className={styles.h4}>Nevertheless, there will be no more gloom</h4>
+
+9 [a] for those who were in distress. In the past he humbled the land of Zebulun and the land of Naphtali, but in the future he will honor Galilee of the nations, by the Way of the Sea, beyond the Jordan—
+
+2 The people walking in darkness
+    have seen a great light;
+on those living in the land of deep darkness
+    a light has dawned.
+3 You have enlarged the nation
+    and increased their joy;
+they rejoice before you
+    as people rejoice at the harvest,
+as warriors rejoice
+    when dividing the plunder.
+4 For as in the day of Midian’s defeat,
+    you have shattered
+the yoke that burdens them,
+    the bar across their shoulders,
+    the rod of their oppressor.
+5 Every warrior’s boot used in battle
+    and every garment rolled in blood
+will be destined for burning,
+    will be fuel for the fire.
+6 For to us a child is born,
+    to us a son is given,
+    and the government will be on his shoulders.
+And he will be called
+    Wonderful Counselor, Mighty God,
+    Everlasting Father, Prince of Peace.
+7 Of the greatness of his government and peace
+    there will be no end.
+He will reign on David’s throne
+    and over his kingdom,
+establishing and upholding it
+    with justice and righteousness
+    from that time on and forever.
+The zeal of the Lord Almighty
+    will accomplish this.
+
+The Lord’s Anger Against Israel
+8 The Lord has sent a message against Jacob;
+    it will fall on Israel.
+9 All the people will know it—
+    Ephraim and the inhabitants of Samaria—
+who say with pride
+    and arrogance of heart,
+10 “The bricks have fallen down,
+    but we will rebuild with dressed stone;
+the fig trees have been felled,
+    but we will replace them with cedars.”
+11 But the Lord has strengthened Rezin’s foes against them
+    and has spurred their enemies on.
+12 Arameans from the east and Philistines from the west
+    have devoured Israel with open mouth.
+
+Yet for all this, his anger is not turned away,
+    his hand is still upraised.
+
+13 But the people have not returned to him who struck them,
+    nor have they sought the Lord Almighty.
+14 So the Lord will cut off from Israel both head and tail,
+    both palm branch and reed in a single day;
+15 the elders and dignitaries are the head,
+    the prophets who teach lies are the tail.
+16 Those who guide this people mislead them,
+    and those who are guided are led astray.
+17 Therefore the Lord will take no pleasure in the young men,
+    nor will he pity the fatherless and widows,
+for everyone is ungodly and wicked,
+    every mouth speaks folly.
+
+Yet for all this, his anger is not turned away,
+    his hand is still upraised.
+
+18 Surely wickedness burns like a fire;
+    it consumes briers and thorns,
+it sets the forest thickets ablaze,
+    so that it rolls upward in a column of smoke.
+19 By the wrath of the Lord Almighty
+    the land will be scorched
+and the people will be fuel for the fire;
+    they will not spare one another.
+20 On the right they will devour,
+    but still be hungry;
+on the left they will eat,
+    but not be satisfied.
+Each will feed on the flesh of their own offspring[b]:
+21     Manasseh will feed on Ephraim, and Ephraim on Manasseh;
+    together they will turn against Judah.
+
+Yet for all this, his anger is not turned away,
+    his hand is still upraised.              
             </p>
           </div>
 
