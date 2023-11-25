@@ -8,6 +8,7 @@
 
 .container {
   background-color: black;
+  background-image: linear-gradient(to bottom right, black, gold);   
   width: 100%;
   display: grid;
   align-items: center;
@@ -33,7 +34,7 @@
   tex-align: left;
 }
 .bible {
- position: relative;
+  position: relative;
   top: -37px;
   z-index: 10;
   margin-top: 0;
@@ -68,7 +69,7 @@
   display: grid;
   align-items: center;
   justify-content: center;  
-  background-color:  black;
+  background-color:  transparent;
   min-height: 100vh;  
   padding: 4rem 0;
   position:relative;
@@ -271,6 +272,7 @@
 
 .nav {
     background-color: #EC514A;
+    background-image: linear-gradient(to bottom right, gold, black);       
     opacity: 1;
     padding: 5px;
     display: flex;
