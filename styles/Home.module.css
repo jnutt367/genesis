@@ -8,7 +8,7 @@
 
 .container {
   background-color: black;
-  background-image: linear-gradient(to bottom right, black, gold);   
+  background-image: linear-gradient(to bottom right, whitesmoke, gold);   
   width: 100%;
   display: grid;
   align-items: center;
@@ -212,10 +212,10 @@
 
 
 .title {
-  color: white;
+  color: gold;
   position: sticky; 
-  background-color: black;
-  opacity: 0.5;
+  background-color: transparent;
+  opacity: 0.8;
   padding-top: 40px;
   z-index: 2;
   top: -45px;
@@ -272,7 +272,8 @@
 
 .nav {
     background-color: #EC514A;
-    background-image: linear-gradient(to bottom right, gold, black);       
+    background-image: linear-gradient(to bottom right, gold, black);  
+    border: silver;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -364,6 +365,7 @@
 
 .grid {
     background-color: #EC514A;
+    background-image: linear-gradient(to bottom right, whitesmoke, gold);       
     color: white;
     display: flex;
     align-items: center;
