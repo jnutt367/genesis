@@ -273,7 +273,7 @@
 .nav {
     background-color: #EC514A;
     background-image: linear-gradient(to bottom right, #996515, #FFFFB8);  
-    border: silver;
+    border: 1px solid gold;
     opacity: 1;
     padding: 5px;
     display: flex;
