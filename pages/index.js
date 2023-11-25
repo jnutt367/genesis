@@ -18,7 +18,7 @@ export default function Home() {
       
             <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://thewordofgodrisen.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
           
         <h1 className={styles.title}>
@@ -36,32 +36,35 @@ export default function Home() {
 <div className={styles.nav}>               
 
     <a href="https://john-zeta.vercel.app/">
+      <p>Prev</p>
            <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
-                                height={75}
-                                width={75}
+                                height={25}
+                                width={25}
                                 priority
                               />
        </a>  
   
   <a href="https://cash.app/$JNutt367">
+    <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="youtube-icon"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
            
            
         <a href="https://mytorah.vercel.app/#exodus">
+          <p>Next</p>
              <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>           
