@@ -24,16 +24,9 @@ export default function Home() {
         <h1 className={styles.title}>
          GENESIS
         </h1>
-         <div  className={styles.image}>
+         <div  className={styles.iframe}>
                    
-                               <Image 
-                                src="/genesis2.png"
-                                alt="Jesus in clouds"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
-                    
+                             <iframe width="100%" height="315" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
               
                             
 </div> 
