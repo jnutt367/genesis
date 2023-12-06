@@ -1071,8 +1071,3 @@
         margin-left: 0;
     }            
 }
-@media (min-width: 900px) {
- .parables {
-    left: 700px;
-  }
-}
