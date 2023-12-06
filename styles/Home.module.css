@@ -108,7 +108,7 @@
   0%  {left:-3000px}  
   100% { color: gold; left: 750px}  
 }    
-}
+
 .image {
     /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);*/
     text-align: center;
@@ -965,7 +965,9 @@
         padding-right: 120px;
         padding-left: 120px; 
     }
-
+.iframe1 {
+    width: 60%;
+}
  .parables {
    top: -200px;
    left: 550px;
