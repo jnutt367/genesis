@@ -966,9 +966,13 @@
         padding-left: 120px; 
     }
 .iframe1 {
-    width: 60%;
+  top: 175px;
+  height: 400px ;
+  width: 55%;
+  padding-left: 25px;
+  margin-bottom: -200px;
+  margin-top: -250px;     
 }
-
 
 .parables {
    top: -200px;
@@ -978,8 +982,8 @@
    font-size: 1.15rem;
    margin-top: 50px;
    opacity: 0.6;
-   color: white;
-   background-image: linear-gradient(to bottom right,  #996515, #FFFFB8); 
+   color: gold;
+   background-image: linear-gradient(to bottom right, #002147, #87CEEB);
    padding: 15px;
    line-height: 350%; 
    border: 1px solid white;
