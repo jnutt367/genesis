@@ -100,15 +100,7 @@
     top: -15px;
     font-family: Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
-    animation-name: parables;
-    animation-duration: 3s;  
-    animation-iteration-count: 1;
 }
-@keyframes parables {
-  0%  {left:-3000px}  
-  100% { color: gold; left: 750px}  
-}    
-
 .image {
     /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);*/
     text-align: center;
@@ -965,33 +957,6 @@
         padding-right: 120px;
         padding-left: 120px; 
     }
-.iframe1 {
-  top: 175px;
-  height: 400px ;
-  width: 55%;
-  padding-left: 25px;
-  margin-bottom: -200px;
-  margin-top: -250px;     
-}
-
-.parables {
-   top: -200px;
-   left: 550px;
-   width: 300px;
-   height: 475px;
-   font-size: 1.15rem;
-   margin-top: 50px;
-   opacity: 0.6;
-   color: gold;
-   background-image: linear-gradient(to bottom right, #002147, #87CEEB);
-   padding: 15px;
-   line-height: 350%; 
-   border: 1px solid white;
-   border-radius: 15px;
-   box-shadow: 0px 0px 2px 2px black;    
- }
-
-    
 }
 @media (min-width: 1080px) {
          .image {
