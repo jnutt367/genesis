@@ -7,8 +7,13 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>The Word of God Risen</title>
-        <meta name="description" content="The Torah, or Pentateuch" />
+        <meta name="description" content="The Torah, or Pentateuch, in addition to all books of the Old Testament up to but not including Isaiah" />
+    
         <link rel="icon" href="/favicon.ico" />
+<link
+          href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap, Montserrat,Roboto"
+          rel="stylesheet"
+        />       
       </Head>
    
 
