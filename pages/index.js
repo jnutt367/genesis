@@ -4992,9 +4992,9 @@ Punishment for Disobedience
                         </div>
     <p className={styles.parables}>
 
-           This is Numbers! It begins with a census of all the men of the Israelites 20 years old or more, able to serve in the army.
+           Numbers begins with a census of all the men of the Israelites 20 years old or more, able to serve in the army.
 </p>                                                      
-                  <div className={styles.nav4}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#leviticus">
                 <p>Prev</p>
              <Image 
@@ -5040,7 +5040,7 @@ Punishment for Disobedience
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter I </h2>
+            <h2 className={styles.chapter}>Numbers Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>The Census</h4> 
 
@@ -5142,7 +5142,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter II </h2>
+            <h2 className={styles.chapter}>Numbers Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>The Arrangement of the Tribal Camps</h4> 
 
@@ -5193,7 +5193,7 @@ All the men twenty years old or more who were able to serve in the army were lis
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter III </h2>
+            <h2 className={styles.chapter}>Numbers Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>The Levites</h4> 
 
@@ -5250,7 +5250,7 @@ These were the Levite clans, according to their families.
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter IV </h2>
+            <h2 className={styles.chapter}>Numbers Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>The Kohathites</h4> 
 
@@ -5328,7 +5328,7 @@ The Test for an Unfaithful Wife
   
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter VI </h2>
+            <h2 className={styles.chapter}>Numbers Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>The Nazirite</h4> 
 
@@ -5369,7 +5369,7 @@ The Priestly Blessing
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter VII </h2>
+            <h2 className={styles.chapter}>Numbers Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>Offerings at the Dedication of the Tabernacle</h4> 
 
@@ -5442,7 +5442,7 @@ The Priestly Blessing
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter VIII </h2>
+            <h2 className={styles.chapter}>Numbers Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>Setting Up the Lamps</h4> 
 
@@ -5468,7 +5468,7 @@ The Setting Apart of the Levites
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter IX </h2>
+            <h2 className={styles.chapter}>Numbers Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}>The Passover</h4> 
 
@@ -5497,7 +5497,7 @@ The Cloud Above the Tabernacle
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter X </h2>
+            <h2 className={styles.chapter}>Numbers Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>The Silver Trumpets</h4> 
 
@@ -5541,7 +5541,7 @@ The Israelites Leave Sinai
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XI </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>Fire From the Lord</h4> 
 
@@ -5583,7 +5583,7 @@ Quail From the Lord
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XII </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XII </h2>
                                 <p>
  <h4 className={styles.h4}>Miriam and Aaron Oppose Moses</h4> 
 
@@ -5623,7 +5623,7 @@ Why then were you not afraid
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XIII </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XIII </h2>
                                 <p>
  <h4 className={styles.h4}>Exploring Canaan</h4> 
 
@@ -5677,7 +5677,7 @@ Report on the Exploration
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XIV </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XIV </h2>
                                 <p>
  <h4 className={styles.h4}>The People Rebel</h4> 
 
@@ -5712,7 +5712,7 @@ Report on the Exploration
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XV </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XV </h2>
                                 <p>
  <h4 className={styles.h4}>Supplementary Offerings</h4> 
 
@@ -5746,7 +5746,7 @@ Tassels on Garments
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XVI </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XVI </h2>
                                 <p>
  <h4 className={styles.h4}>Korah, Dathan and Abiram</h4> 
 
@@ -5793,7 +5793,7 @@ Tassels on Garments
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XVII </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XVII </h2>
                                 <p>
  <h4 className={styles.h4}>The Budding of Aaron’s Staff</h4> 
 
@@ -5815,7 +5815,7 @@ Tassels on Garments
 
   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XVIII </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XVIII </h2>
                                 <p>
  <h4 className={styles.h4}>Duties of Priests and Levites</h4> 
 
@@ -5849,7 +5849,7 @@ Offerings for Priests and Levites
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XIX </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XIX </h2>
                                 <p>
  <h4 className={styles.h4}>The Water of Cleansing</h4> 
 
@@ -5874,7 +5874,7 @@ Offerings for Priests and Levites
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XX </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XX </h2>
                                 <p>
  <h4 className={styles.h4}>Water From the Rock</h4> 
 
@@ -5925,7 +5925,7 @@ The Death of Aaron
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXI </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXI </h2>
                                 <p>
  <h4 className={styles.h4}>Arad Destroyed</h4> 
 
@@ -6001,7 +6001,7 @@ We have demolished them as far as Nophah,
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXII </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXII </h2>
                                 <p>
  <h4 className={styles.h4}>Balak Summons Balaam</h4> 
 
@@ -6071,7 +6071,7 @@ Balaam’s Donkey
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXIII </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXIII </h2>
                                 <p>
  <h4 className={styles.h4}>Balaam’s First Message</h4> 
 
@@ -6157,7 +6157,7 @@ Balaam’s Third Message
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXIV </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXIV </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter XXIV </h4> 
 
@@ -6277,7 +6277,7 @@ they will subdue Ashur and Eber,
 
   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXVI </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXVI </h2>
                                 <p>
  <h4 className={styles.h4}>The Second Census</h4> 
 
@@ -6506,7 +6506,7 @@ the Korahite clan.
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXVII </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXVII </h2>
                                 <p>
  <h4 className={styles.h4}>Zelophehad’s Daughters</h4> 
 
@@ -6532,7 +6532,7 @@ Joshua to Succeed Moses
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXVIII </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXVIII </h2>
                                 <p>
  <h4 className={styles.h4}>Daily Offerings</h4> 
 
@@ -6557,7 +6557,7 @@ The Festival of Weeks
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXIX </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXIX </h2>
                                 <p>
  <h4 className={styles.h4}>The Festival of Trumpets</h4> 
 
@@ -6622,7 +6622,7 @@ The Festival of Tabernacles
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXXI </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXXI </h2>
                                 <p>
  <h4 className={styles.h4}>Vengeance on the Midianites</h4> 
 
@@ -6670,7 +6670,7 @@ Dividing the Spoils
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXXII </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXXII </h2>
                                 <p>
  <h4 className={styles.h4}>The Transjordan Tribes</h4> 
 
@@ -6705,7 +6705,7 @@ Dividing the Spoils
 
   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXXIII </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXXIII </h2>
                                 <p>
  <h4 className={styles.h4}>Stages in Israel’s Journey</h4> 
 
@@ -6808,7 +6808,7 @@ Dividing the Spoils
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXXIV </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXXIV </h2>
                                 <p>
  <h4 className={styles.h4}>Boundaries of Canaan</h4> 
 
@@ -6875,7 +6875,7 @@ the leader from the tribe of Naphtali.”
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXXV </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXXV </h2>
                                 <p>
  <h4 className={styles.h4}>Towns for the Levites</h4> 
 
@@ -6930,7 +6930,7 @@ Cities of Refuge
   
           <div className={styles.card2}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
@@ -6966,7 +6966,7 @@ Cities of Refuge
         <div className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://thewordofgodrisen.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         <h1 className={styles.title}>
       DEUTERONOMY
@@ -7023,12 +7023,12 @@ Cities of Refuge
                                   </div>
                                   
                               
-        <div className={styles.grid3}>
+        <div className={styles.grid}>
           
 
    <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter I </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>The Appointment of Leaders</h4> 
 
@@ -8323,48 +8323,45 @@ Your enemies will cower before you,
         <h1 className={styles.title}>
           JOSHUA
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/the_jordan.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
-                          
-
-                        </div>
+          <div className={styles.iframe1}>
+                         
+     <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                      </div>
     <p className={styles.parables}>
-This is the beginning of the story of the Israelites crossing the Jordan into the promised land led by Joshua
+This is the beginning of the story of the Israelites crossing the Jordan into the promised land, led by Joshua
            
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://mytorah.vercel.app/#numbers">
+                <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+                                  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
+
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -8379,9 +8376,9 @@ This is the beginning of the story of the Israelites crossing the Jordan into th
         <div className={styles.grid2}>
           
 
-   <div className={styles.card4}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter I </h2>
+            <h2 className={styles.chapter}>Joshua Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>Joshua Installed as Leader</h4> 
 
@@ -8400,9 +8397,9 @@ This is the beginning of the story of the Israelites crossing the Jordan into th
                                   </p>
   </div>
 
- <div className={styles.card3}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter II </h2>
+            <h2 className={styles.chapter}>Joshua Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>            </h4> 
 
@@ -8431,9 +8428,9 @@ So she sent them away, and they departed. And she tied the scarlet cord in the w
                                    </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter III </h2>
+            <h2 className={styles.chapter}>Joshua Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>Crossing the Jordan</h4> 
 
@@ -8454,9 +8451,9 @@ So she sent them away, and they departed. And she tied the scarlet cord in the w
                                </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter IV </h2>
+            <h2 className={styles.chapter}>Joshua Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>Choose twelve men from among the people</h4> 
                                4 When the whole nation had finished crossing the Jordan, the Lord said to Joshua, 2 “Choose twelve men from among the people, one from each tribe, 3 and tell them to take up twelve stones from the middle of the Jordan, from right where the priests are standing, and carry them over with you and put them down at the place where you stay tonight.”
@@ -8481,9 +8478,9 @@ So she sent them away, and they departed. And she tied the scarlet cord in the w
                                   </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter V </h2>
+            <h2 className={styles.chapter}>Joshua Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>Circumcision and Passover at Gilgal</h4> 
 5 Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how the Lord had dried up the Jordan before the Israelites until they[a] had crossed over, their hearts melted in fear and they no longer had the courage to face the Israelites.
@@ -8506,9 +8503,9 @@ The Fall of Jericho
                                   </div>
 
   
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter VI </h2>
+            <h2 className={styles.chapter}>Joshua Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>See, I have delivered Jericho into your hands</h4> 
 
@@ -8542,9 +8539,9 @@ at the cost of his youngest
                                     </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter VII </h2>
+            <h2 className={styles.chapter}>Joshua Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>Achan’s Sin</h4> 
 
@@ -8578,9 +8575,9 @@ Then all Israel stoned him, and after they had stoned the rest, they burned them
                                    </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter VIII </h2>
+            <h2 className={styles.chapter}>Joshua Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>Ai Destroyed</h4> 
            
@@ -8610,9 +8607,9 @@ The Covenant Renewed at Mount Ebal
                                      </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter IX </h2>
+            <h2 className={styles.chapter}>Joshua Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}>The Gibeonite Deception</h4> 
 
@@ -8644,9 +8641,9 @@ The whole assembly grumbled against the leaders, 19 but all the leaders answered
 
 
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter X </h2>
+            <h2 className={styles.chapter}>Joshua Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>The Sun Stands Still</h4> 
     
@@ -8703,9 +8700,9 @@ Southern Cities Conquered
 43 Then Joshua returned with all Israel to the camp at Gilgal.                                    </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XI </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>Northern Kings Defeated</h4> 
 
@@ -8730,9 +8727,9 @@ Southern Cities Conquered
                                     </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XII </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XII </h2>
                                 <p>
  <h4 className={styles.h4}>List of Defeated Kings</h4> 
 
@@ -8787,9 +8784,9 @@ thirty-one kings in all.
                                     </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XIII </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XIII </h2>
                                 <p>
  <h4 className={styles.h4}>Land Still to Be Taken</h4> 
 
@@ -8826,9 +8823,9 @@ Division of the Land East of the Jordan
 
 
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XIV </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XIV </h2>
                                 <p>
  <h4 className={styles.h4}>Division of the Land West of the Jordan</h4> 
 
@@ -8847,9 +8844,9 @@ Then the land had rest from war.
                                     </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XV </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XV </h2>
                                 <p>
  <h4 className={styles.h4}>Allotment for Judah</h4> 
 
@@ -8907,9 +8904,9 @@ Beth Arabah, Middin, Sekakah, 62 Nibshan, the City of Salt and En Gedi—six tow
 63 Judah could not dislodge the Jebusites, who were living in Jerusalem; to this day the Jebusites live there with the people of Judah.                                    </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XVI </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XVI </h2>
                                 <p>
  <h4 className={styles.h4}>Allotment for Ephraim and Manasseh</h4> 
 
@@ -8928,9 +8925,9 @@ The boundary of their inheritance went from Ataroth Addar in the east to Upper B
                                     </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XVII </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XVII </h2>
                                 <p>
  <h4 className={styles.h4}>allotment for the tribe of Manasseh</h4> 
 17 This was the allotment for the tribe of Manasseh as Joseph’s firstborn, that is, for Makir, Manasseh’s firstborn. Makir was the ancestor of the Gileadites, who had received Gilead and Bashan because the Makirites were great soldiers. 2 So this allotment was for the rest of the people of Manasseh—the clans of Abiezer, Helek, Asriel, Shechem, Hepher and Shemida. These are the other male descendants of Manasseh son of Joseph by their clans.
@@ -8955,9 +8952,9 @@ The boundary of their inheritance went from Ataroth Addar in the east to Upper B
                                   </div>
 
 
-  <div className={styles.card3}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XVIII </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XVIII </h2>
                                 <p>
  <h4 className={styles.h4}>Division of the Rest of the Land</h4> 
 
@@ -8991,9 +8988,9 @@ This was the inheritance of Benjamin for its clans.
                                     </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XIX </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XIX </h2>
                                 <p>
  <h4 className={styles.h4}>Allotment for Simeon</h4> 
 
@@ -9050,9 +9047,9 @@ Allotment for Joshua
                                 </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XX </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XX </h2>
                                 <p>
  <h4 className={styles.h4}>Cities of Refuge</h4> 
 
@@ -9063,9 +9060,9 @@ Allotment for Joshua
                                   </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XXI </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XXI </h2>
                                 <p>
  <h4 className={styles.h4}>Towns for the Levites</h4> 
 
@@ -9143,9 +9140,9 @@ Ramoth in Gilead (a city of refuge for one accused of murder), Mahanaim, 39 Hesh
                                   </div>
 
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XXII </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XXII </h2>
                                 <p>
  <h4 className={styles.h4}>Eastern Tribes Return Home </h4> 
 
@@ -9182,9 +9179,9 @@ Ramoth in Gilead (a city of refuge for one accused of murder), Mahanaim, 39 Hesh
                              </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XXIII </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XXIII </h2>
                                 <p>
  <h4 className={styles.h4}>Joshua’s Farewell to the Leaders</h4> 
 
@@ -9201,9 +9198,9 @@ Ramoth in Gilead (a city of refuge for one accused of murder), Mahanaim, 39 Hesh
                                     </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Joshua Chapter XXIV </h2>
+            <h2 className={styles.chapter}>Joshua Chapter XXIV </h2>
                                 <p>
  <h4 className={styles.h4}>The Covenant Renewed at Shechem</h4> 
 
@@ -9255,9 +9252,9 @@ Buried in the Promised Land
 
 
   
-          <div className={styles.card4}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
