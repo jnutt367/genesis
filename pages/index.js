@@ -5300,7 +5300,7 @@ Thus they were counted, as the Lord commanded Moses.
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter V </h2>
+            <h2 className={styles.chapter}>Numbers Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>The Purity of the Camp</h4> 
 
@@ -6597,7 +6597,7 @@ The Festival of Tabernacles
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXX </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXX </h2>
                                 <p>
  <h4 className={styles.h4}>Vows</h4> 
 
@@ -6911,7 +6911,7 @@ Cities of Refuge
 
 <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Numbers Chapter XXXVI </h2>
+            <h2 className={styles.chapter}>Numbers Chapter XXXVI </h2>
                                 <p>
  <h4 className={styles.h4}>Inheritance of Zelophehad’s Daughters</h4> 
 
@@ -10365,7 +10365,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 Ruth is a story of loyalty. A foreign wife's loyalty to her husband's family leads on to the family line of King David, through Obed, the Father of Jesse.
            
 </p>                                                      
-                  <div className={styles.nav4}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
           <p>Prev</p>
                                                       
@@ -14735,7 +14735,7 @@ II Kings continues the stories of the prophets Elijah & Elisha warning the peopl
         <div className={styles.grid}>
           
 
-   <div className={styles.card6}
+   <div className={styles.card}
           >
             <h2 className={styles.chapter}>II Kings Chapter I </h2>
                                 <p>
@@ -15742,7 +15742,7 @@ Amon King of Judah
 
 <div className={styles.card4}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter XXII </h2>
+            <h2 className={styles.chapter}>II Kings Chapter XXII </h2>
                                 <p>
  <h4 className={styles.h4}>The Book of the Law Found</h4> 
 
@@ -18534,7 +18534,7 @@ the tables on which was the bread of the Presence;
 
 <div className={styles.card}
           >
-            <h2 className={styles.cha}>II Chronicles Chapter V </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>The Ark Brought to the Temple</h4> 
 
