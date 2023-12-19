@@ -14698,7 +14698,7 @@ II Kings continues the stories of the prophets Elijah & Elisha warning the peopl
                                 src="/previous.webp"
                                 alt="prev"
                                  height={25}
-                                width=25}
+                                width={25}
                                 priority
                               />
        </a>
