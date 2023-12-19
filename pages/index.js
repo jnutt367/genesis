@@ -7136,7 +7136,7 @@ Moses Forbidden to Cross the Jordan
                                     </p>
                                   </div>
 
-   <div className={styles.}
+   <div className={styles.card}
           >
             <h2 className={styles.chapter}>Deuteronomy Chapter IV </h2>
                                 <p>
