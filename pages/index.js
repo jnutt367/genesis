@@ -7450,7 +7450,7 @@ The Firstborn Animals
                                     </p>
                                   </div>
 
-   <div className={styles.c}
+   <div className={styles.card}
           >
             <h2 className={styles.chapter}>Deuteronomy Chapter XVI </h2>
                                 <p>
@@ -9296,14 +9296,9 @@ Buried in the Promised Land
         <h1 className={styles.title}>
           JUDGES
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/judges.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+          <div className={styles.iframe1}>
+                        <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    
                           
 
                         </div>
@@ -9311,33 +9306,36 @@ Buried in the Promised Land
 Judges is a time in the history of Israel that they had no king & did what they saw fit...it did not go well for them.
            
 </p>                                                      
-                  <div className={styles.nav3}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
-             <Image 
+            <p>Prev</p>
+                                                      <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+ <p>Give</p>                                  
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
+ <p>Next</p>                                  
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -9349,12 +9347,12 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                   </div>
                                   
                               
-        <div className={styles.grid3}>
+        <div className={styles.grid}>
           
 
-   <div className={styles.card5}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter I </h2>
+            <h2 className={styles.chapter}>Judges Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>Israel Fights the Remaining Canaanites</h4> 
 
@@ -9391,9 +9389,9 @@ Judges is a time in the history of Israel that they had no king & did what they 
                                   </p>
   </div>
 
- <div className={styles.card5}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter II </h2>
+            <h2 className={styles.chapter}>Judges Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}> The Angel of the Lord at Bokim</h4> 
 
@@ -9414,9 +9412,9 @@ Disobedience and Defeat
 20 Therefore the Lord was very angry with Israel and said, “Because this nation has violated the covenant I ordained for their ancestors and has not listened to me, 21 I will no longer drive out before them any of the nations Joshua left when he died. 22 I will use them to test Israel and see whether they will keep the way of the Lord and walk in it as their ancestors did.” 23 The Lord had allowed those nations to remain; he did not drive them out at once by giving them into the hands of Joshua.                                 </p>
                                   </div>
 
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter III </h2>
+            <h2 className={styles.chapter}>Judges Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>These are the nations the Lord left</h4> 
 
@@ -9447,9 +9445,9 @@ Shamgar
                                </p>
                                   </div>
 
-   <div className={styles.card5}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter IV </h2>
+            <h2 className={styles.chapter}>Judges Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}> Deborah</h4> 
                       
@@ -9485,9 +9483,9 @@ Shamgar
                                   </p>
                                   </div>
 
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter V </h2>
+            <h2 className={styles.chapter}>Judges Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}> The Song of Deborah</h4> 
 
@@ -9609,9 +9607,9 @@ Then the land had peace forty years.                                            
                                   </div>
 
   
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter VI </h2>
+            <h2 className={styles.chapter}>Judges Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>Gideon</h4> 
 
@@ -9663,9 +9661,9 @@ When they carefully investigated, they were told, “Gideon son of Joash did it.
 39 Then Gideon said to God, “Do not be angry with me. Let me make just one more request. Allow me one more test with the fleece, but this time make the fleece dry and let the ground be covered with dew.” 40 That night God did so. Only the fleece was dry; all the ground was covered with dew.                                    </p>
                                   </div>
 
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter VII </h2>
+            <h2 className={styles.chapter}>Judges Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>Gideon Defeats the Midianites</h4> 
 
@@ -9696,9 +9694,9 @@ So all the men of Ephraim were called out and they seized the waters of the Jord
                                    </p>
                                   </div>
 
-   <div className={styles.card5}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter VIII </h2>
+            <h2 className={styles.chapter}>Judges Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>Zebah and Zalmunna</h4> 
 
@@ -9742,9 +9740,9 @@ Gideon’s Death
                                                   </p>
                                   </div>
 
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter IX </h2>
+            <h2 className={styles.chapter}>Judges Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}>Abimelek</h4> 
 
@@ -9806,9 +9804,9 @@ Zebul replied, “You mistake the shadows of the mountains for men.”
 
 
 
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter X </h2>
+            <h2 className={styles.chapter}>Judges Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>Tola</h4> 
     
@@ -9831,9 +9829,9 @@ Jephthah
                                                     </p>
                                   </div>
 
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter XI </h2>
+            <h2 className={styles.chapter}>Judges Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>Jephthah the Gileadite was a mighty warrior</h4> 
 
@@ -9882,9 +9880,9 @@ From this comes the Israelite tradition 40 that each year the young women of Isr
                                     </p>
                                   </div>
 
-   <div className={styles.card5}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter XII </h2>
+            <h2 className={styles.chapter}>Judges Chapter XII </h2>
                                 <p>
  <h4 className={styles.h4}>Jephthah and Ephraim</h4> 
 
@@ -9906,9 +9904,9 @@ Ibzan, Elon and Abdon
                                     </p>
                                   </div>
 
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter XIII </h2>
+            <h2 className={styles.chapter}>Judges Chapter XIII </h2>
                                 <p>
  <h4 className={styles.h4}>The Birth of Samson</h4> 
 
@@ -9948,9 +9946,9 @@ Ibzan, Elon and Abdon
 
 
 
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter XIV </h2>
+            <h2 className={styles.chapter}>Judges Chapter XIV </h2>
                                 <p>
  <h4 className={styles.h4}>Samson’s Marriage</h4> 
 
@@ -10000,9 +9998,9 @@ Samson said to them,
                                     </p>
                                   </div>
 
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter XV </h2>
+            <h2 className={styles.chapter}>Judges Chapter XV </h2>
                                 <p>
  <h4 className={styles.h4}>Samson’s Vengeance on the Philistines</h4> 
 
@@ -10050,9 +10048,9 @@ With a donkey’s jawbone
   </p>
                                   </div>
 
-   <div className={styles.card5}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter XVI </h2>
+            <h2 className={styles.chapter}>Judges Chapter XVI </h2>
                                 <p>
  <h4 className={styles.h4}>Samson and Delilah</h4> 
 
@@ -10115,9 +10113,9 @@ When they stood him among the pillars, 26 Samson said to the servant who held hi
                                     </p>
                                   </div>
 
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter XVII </h2>
+            <h2 className={styles.chapter}>Judges Chapter XVII </h2>
                                 <p>
  <h4 className={styles.h4}>Micah’s Idols</h4> 
   
@@ -10141,9 +10139,9 @@ Then his mother said, “The Lord bless you, my son!”
                                   </div>
 
 
-  <div className={styles.card5}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter XVIII </h2>
+            <h2 className={styles.chapter}>Judges Chapter XVIII </h2>
                                 <p>
  <h4 className={styles.h4}>The Danites Settle in Laish</h4> 
 
@@ -10186,9 +10184,9 @@ The Danites rebuilt the city and settled there. 29 They named it Dan after their
                                     </p>
                                   </div>
 
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter XIX </h2>
+            <h2 className={styles.chapter}>Judges Chapter XIX </h2>
                                 <p>
  <h4 className={styles.h4}>A Levite and His Concubine</h4> 
 
@@ -10222,9 +10220,9 @@ Now a Levite who lived in a remote area in the hill country of Ephraim took a co
                                 </p>
                                   </div>
 
-   <div className={styles.card5}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter XX </h2>
+            <h2 className={styles.chapter}>Judges Chapter XX </h2>
                                 <p>
  <h4 className={styles.h4}>The Israelites Punish the Benjamites</h4> 
 
@@ -10267,9 +10265,9 @@ The Benjamites had begun to inflict casualties on the Israelites (about thirty),
                                   </p>
                                   </div>
 
-<div className={styles.card5}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Judges Chapter XXI </h2>
+            <h2 className={styles.chapter}>Judges Chapter XXI </h2>
                                 <p>
  <h4 className={styles.h4}>Wives for the Benjamites</h4> 
 
@@ -10307,9 +10305,9 @@ The Benjamites had begun to inflict casualties on the Israelites (about thirty),
 
 
   
-          <div className={styles.card5}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
@@ -10357,14 +10355,9 @@ The meaning of “Torah” is often restricted to signify the first five books o
         <h1 className={styles.title}>
           RUTH
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/ruth.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+          <div className={styles.iframe1}>
+                        <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    
                           
 
                         </div>
@@ -10374,31 +10367,35 @@ Ruth is a story of loyalty. A foreign wife's loyalty to her husband's family lea
 </p>                                                      
                   <div className={styles.nav4}>           
       <a href="https://mytorah.vercel.app/#numbers">
+          <p>Prev</p>
+                                                      
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+                                  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
-           <Image 
+           <p>Next</p>
+                                  <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -10410,12 +10407,12 @@ Ruth is a story of loyalty. A foreign wife's loyalty to her husband's family lea
                                   </div>
                                   
                               
-        <div className={styles.grid4}>
+        <div className={styles.grid}>
           
 
-   <div className={styles.card6}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ruth Chapter I </h2>
+            <h2 className={styles.chapter}>Ruth Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>Naomi Loses Her Husband and Sons</h4> 
 
@@ -10448,9 +10445,9 @@ Then she kissed them goodbye and they wept aloud 10 and said to her, “We will 
                                </p>
   </div>
 
-   <div className={styles.card6}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ruth Chapter II </h2>
+            <h2 className={styles.chapter}>Ruth Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>Ruth Meets Boaz in the Grain Field</h4> 
 
@@ -10496,9 +10493,9 @@ Then Ruth told her mother-in-law about the one at whose place she had been worki
 23 So Ruth stayed close to the women of Boaz to glean until the barley and wheat harvests were finished. And she lived with her mother-in-law.                                   </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ruth Chapter III </h2>
+            <h2 className={styles.chapter}>Ruth Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>Ruth and Boaz at the Threshing Floor</h4> 
 
@@ -10529,9 +10526,9 @@ Then she told her everything Boaz had done for her 17 and added, “He gave me t
                                   </div>
 
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ruth Chapter IV </h2>
+            <h2 className={styles.chapter}>Ruth Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>Boaz Marries Ruth</h4> 
 
@@ -10585,9 +10582,9 @@ and Jesse the father of David.
 
 
   
-          <div className={styles.card6}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
@@ -10637,48 +10634,46 @@ The meaning of “Torah” is often restricted to signify the first five books o
         <h1 className={styles.title}>
        I SAMUEL
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/samuel.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+          <div className={styles.iframe1}>
+                          <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    
                           
 
                         </div>
     <p className={styles.parables}>
-I Samuel records the lives of Samuel & Saul. Also much of the life of King David
+I Samuel records the lives of Samuel & Saul. Also much of the life of King David is in I Samuel.
            
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
+  <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+  <p>Give</p>                                  
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                              height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
+  <p>Next</p>                                  
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                              height={25}
+                                width={25}
                                 priority
                               />
            
@@ -10693,9 +10688,9 @@ I Samuel records the lives of Samuel & Saul. Also much of the life of King David
         <div className={styles.grid}>
           
 
-   <div className={styles.card6}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter I </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>The Birth of Samuel</h4> 
 
@@ -10725,9 +10720,9 @@ Hannah Dedicates Samuel
                                </p>
   </div>
 
-   <div className={styles.card4}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter II </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>Hannah’s Prayer</h4> 
 
@@ -10803,9 +10798,9 @@ Prophecy Against the House of Eli
                                             </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter III </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>The Lord Calls Samuel</h4> 
 
@@ -10846,9 +10841,9 @@ Samuel answered, “Here I am.”
                                   </div>
 
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter IV </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>The Philistines Capture the Ark</h4> 
 
@@ -10886,9 +10881,9 @@ Eli asked, “What happened, my son?”
                                    </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter V </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>The Ark in Ashdod and Ekron</h4> 
 
@@ -10908,9 +10903,9 @@ As the ark of God was entering Ekron, the people of Ekron cried out, “They hav
                                   </div>
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter VI </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>The Ark Returned to Israel</h4> 
 
@@ -10937,9 +10932,9 @@ They replied, “Five gold tumors and five gold rats, according to the number of
                                    </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter VII </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>Samuel Subdues the Philistines at Mizpah</h4> 
 
@@ -10963,9 +10958,9 @@ Then all the people of Israel turned back to the Lord. 3 So Samuel said to all t
                                   </div>  
 
   
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter VIII </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>Israel Asks for a King</h4> 
 
@@ -10988,9 +10983,9 @@ Then Samuel said to the Israelites, “Everyone go back to your own town.”
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter IX </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}>Samuel Anoints Saul</h4> 
 
@@ -11036,9 +11031,9 @@ Then Samuel said to the Israelites, “Everyone go back to your own town.”
                                   </div>  
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter X </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>Has not the Lord anointed you ruler over his inheritance?</h4> 
 
@@ -11079,9 +11074,9 @@ Then the people shouted, “Long live the king!”
                                    </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XI </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>Saul Rescues the City of Jabesh</h4> 
 
@@ -11110,9 +11105,9 @@ Saul Confirmed as King
                                   </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XII</h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XII</h2>
                                 <p>
  <h4 className={styles.h4}>Samuel’s Farewell Speech</h4> 
 
@@ -11145,9 +11140,9 @@ Saul Confirmed as King
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XIII </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XIII </h2>
                                 <p>
  <h4 className={styles.h4}>Samuel Rebukes Saul</h4> 
 
@@ -11182,9 +11177,9 @@ Jonathan Attacks the Philistines
                                    </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XIV </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XIV </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter XIV</h4> 
 
@@ -11265,9 +11260,9 @@ Saul’s Family
 
 
   
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XV </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XV </h2>
                                 <p>
  <h4 className={styles.h4}>The Lord Rejects Saul as King</h4> 
 
@@ -11331,9 +11326,9 @@ And Samuel put Agag to death before the Lord at Gilgal.
                                   </div>
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XVI </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XVI </h2>
                                 <p>
  <h4 className={styles.h4}>Samuel Anoints David</h4> 
 
@@ -11381,9 +11376,9 @@ David in Saul’s Service
                                    </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XVII </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XVII </h2>
                                 <p>
  <h4 className={styles.h4}>David and Goliath</h4> 
 
@@ -11452,9 +11447,9 @@ David said, “I am the son of your servant Jesse of Bethlehem.”
                                    </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XVIII </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XVIII </h2>
                                 <p>
  <h4 className={styles.h4}>                     </h4> 
 
@@ -11494,9 +11489,9 @@ Saul’s Growing Fear of David
                                    </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XIX </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XIX </h2>
                                 <p>
  <h4 className={styles.h4}>Saul Tries to Kill David</h4> 
 
@@ -11533,9 +11528,9 @@ Michal told him, “He said to me, ‘Let me get away. Why should I kill you?’
                                    </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XX </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XX </h2>
                                 <p>
  <h4 className={styles.h4}>David and Jonathan</h4> 
 
@@ -11580,9 +11575,9 @@ Michal told him, “He said to me, ‘Let me get away. Why should I kill you?’
                                    </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XXI</h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XXI</h2>
                                 <p>
  <h4 className={styles.h4}>David at Nob</h4> 
 
@@ -11618,9 +11613,9 @@ David at Gath
                                   </div>
   
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XXII </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XXII </h2>
                                 <p>
  <h4 className={styles.h4}>David at Adullam and Mizpah</h4> 
 
@@ -11657,9 +11652,9 @@ But the king’s officials were unwilling to raise a hand to strike the priests 
                                   </div>
 
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XXIII </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XXIII </h2>
                                 <p>
  <h4 className={styles.h4}>David Saves Keilah</h4> 
 
@@ -11699,9 +11694,9 @@ And the Lord said, “They will.”
                                    </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XXIV </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XXIV </h2>
                                 <p>
  <h4 className={styles.h4}>David Spares Saul’s Life</h4> 
 
@@ -11725,9 +11720,9 @@ And the Lord said, “They will.”
 
 
   
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XXV </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XXV </h2>
                                 <p>
  <h4 className={styles.h4}>David, Nabal and Abigail</h4> 
 
@@ -11774,9 +11769,9 @@ Then David sent word to Abigail, asking her to become his wife. 40 His servants 
   
   
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XXVI</h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XXVI</h2>
                                 <p>
  <h4 className={styles.h4}>David Again Spares Saul’s Life</h4> 
 
@@ -11822,9 +11817,9 @@ So David went on his way, and Saul returned home.
 
   
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XXVII </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XXVII </h2>
                                 <p>
  <h4 className={styles.h4}>David Among the Philistines</h4> 
 
@@ -11845,9 +11840,9 @@ So David went on his way, and Saul returned home.
   
   
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XXVIII </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XXVIII </h2>
                                 <p>
  <h4 className={styles.h4}>the Philistines gathered their forces</h4> 
 
@@ -11906,9 +11901,9 @@ But his men joined the woman in urging him, and he listened to them. He got up f
 
 
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XXIX </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XXIX </h2>
                                 <p>
  <h4 className={styles.h4}>Achish Sends David Back to Ziklag</h4> 
 
@@ -11935,9 +11930,9 @@ Achish replied, “Is this not David, who was an officer of Saul king of Israel?
 
   
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XXX</h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XXX</h2>
                                 <p>
  <h4 className={styles.h4}>David Destroys the Amalekites</h4> 
 
@@ -11977,9 +11972,9 @@ He answered, “Swear to me before God that you will not kill me or hand me over
 
 
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter XXXI </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter XXXI </h2>
                                 <p>
  <h4 className={styles.h4}>Saul Takes His Life</h4> 
 
@@ -11999,9 +11994,9 @@ But his armor-bearer was terrified and would not do it; so Saul took his own swo
                                   </div>  
   
   
-          <div className={styles.card4}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
@@ -12050,15 +12045,9 @@ The meaning of “Torah” is often restricted to signify the first five books o
         <h1 className={styles.title}>
        II SAMUEL
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/second_samuel.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
-                          
+          <div className={styles.iframe1}>
+                        <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    
 
                         </div>
     <p className={styles.parables}>
@@ -12067,31 +12056,34 @@ II Samuel continues the story of Israel's kingdom. Starting with Sauls's death i
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://mytorah.vercel.app/#numbers">
+                                                      <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+ <p>Give</p>                                  
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -12106,9 +12098,9 @@ II Samuel continues the story of Israel's kingdom. Starting with Sauls's death i
         <div className={styles.grid2}>
           
 
-   <div className={styles.card6}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter I </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>David Hears of Saul’s Death</h4> 
 
@@ -12190,9 +12182,9 @@ Your love for me was wonderful,
                                    </p>
   </div>
 
-   <div className={styles.card4}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter II </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>David Anointed King Over Judah</h4> 
 
@@ -12250,9 +12242,9 @@ War Between the Houses of David and Saul
                                             </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter III </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>Sons were born to David in Hebron:</h4> 
 
@@ -12322,9 +12314,9 @@ And all the people wept over him again.
                                   </div>
 
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Samuel Chapter IV </h2>
+            <h2 className={styles.chapter}>I Samuel Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>Ish-Bosheth Murdered</h4> 
 
@@ -12343,9 +12335,9 @@ And all the people wept over him again.
                                    </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter V </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>David Becomes King Over Israel</h4> 
 
@@ -12380,9 +12372,9 @@ The Lord answered him, “Go, for I will surely deliver the Philistines into you
                                   </div>
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter VI </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>The Ark Brought to Jerusalem</h4> 
 
@@ -12408,9 +12400,9 @@ The Lord answered him, “Go, for I will surely deliver the Philistines into you
                                    </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter VII </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>God’s Promise to David</h4> 
 
@@ -12450,9 +12442,9 @@ David’s Prayer
                                   </div>  
 
   
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter VIII </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>David’s Victories</h4> 
 
@@ -12481,9 +12473,9 @@ David’s Officials
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter IX </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}>  David and Mephibosheth</h4> 
      
@@ -12522,9 +12514,9 @@ David said, “Mephibosheth!”
                                   </div>  
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter X </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>David Defeats the Ammonites</h4> 
 
@@ -12555,9 +12547,9 @@ So the Arameans were afraid to help the Ammonites anymore.
                                  </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XI </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>David and Bathsheba</h4> 
                 
@@ -12590,9 +12582,9 @@ So the Arameans were afraid to help the Ammonites anymore.
                                   </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XII</h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XII</h2>
                                 <p>
  <h4 className={styles.h4}>Nathan Rebukes David</h4> 
 
@@ -12636,9 +12628,9 @@ Nathan replied, “The Lord has taken away your sin. You are not going to die. 1
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XIII </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XIII </h2>
                                 <p>
  <h4 className={styles.h4}>Amnon and Tamar</h4> 
 
@@ -12699,9 +12691,9 @@ Now the man standing watch looked up and saw many people on the road west of him
                                    </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XIV </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XIV </h2>
                                 <p>
  <h4 className={styles.h4}>Absalom Returns to Jerusalem</h4> 
 
@@ -12765,9 +12757,9 @@ The woman answered, “As surely as you live, my lord the king, no one can turn 
 
 
   
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XV </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XV </h2>
                                 <p>
  <h4 className={styles.h4}>Absalom’s Conspiracy</h4> 
 
@@ -12815,9 +12807,9 @@ David Flees
                                   </div>
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XVI </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XVI </h2>
                                 <p>
  <h4 className={styles.h4}>David and Ziba</h4> 
 
@@ -12862,9 +12854,9 @@ The Advice of Ahithophel and Hushai
                                  </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XVII </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XVII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter XVII</h4> 
 
@@ -12897,9 +12889,9 @@ Absalom’s Death
                                    </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XVIII </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XVIII </h2>
                                 <p>
  <h4 className={styles.h4}>David mustered the men</h4> 
 
@@ -12974,9 +12966,9 @@ The Cushite replied, “May the enemies of my lord the king and all who rise up 
                               </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XIX </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XIX </h2>
                                 <p>
  <h4 className={styles.h4}>David Returns to Jerusalem</h4> 
 
@@ -13031,9 +13023,9 @@ But the men of Judah pressed their claims even more forcefully than the men of I
                                    </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XX </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XX </h2>
                                 <p>
  <h4 className={styles.h4}>Sheba Rebels Against David</h4> 
 
@@ -13078,9 +13070,9 @@ David’s Officials
 23 Joab was over Israel’s entire army; Benaiah son of Jehoiada was over the Kerethites and Pelethites; 24 Adoniram[c] was in charge of forced labor; Jehoshaphat son of Ahilud was recorder; 25 Sheva was secretary; Zadok and Abiathar were priests; 26 and Ira the Jairite[d] was David’s priest.                                   </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XXI</h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XXI</h2>
                                 <p>
  <h4 className={styles.h4}>The Gibeonites Avenged</h4> 
 
@@ -13117,9 +13109,9 @@ Wars Against the Philistines
                                   </div>
   
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XXII </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XXII </h2>
                                 <p>
  <h4 className={styles.h4}>David’s Song of Praise</h4> 
 
@@ -13250,9 +13242,9 @@ You exalted me above my foes;
                                   </div>
 
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XXIII </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XXIII </h2>
                                 <p>
  <h4 className={styles.h4}> David’s Last Words</h4> 
 
@@ -13370,9 +13362,9 @@ Gareb the Ithrite
 There were thirty-seven in all.                              </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Samuel Chapter XXIV </h2>
+            <h2 className={styles.chapter}>II Samuel Chapter XXIV </h2>
                                 <p>
  <h4 className={styles.h4}>David Enrolls the Fighting Men</h4> 
 
@@ -13421,9 +13413,9 @@ So David bought the threshing floor and the oxen and paid fifty shekels[e] of si
                                   </div>
   
   
-          <div className={styles.card4}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
@@ -13476,48 +13468,45 @@ The meaning of “Torah” is often restricted to signify the first five books o
         <h1 className={styles.title}>
        I KINGS
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/kings.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
-                          
+          <div className={styles.iframe1}>
+                      <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    
 
                         </div>
     <p className={styles.parables}>
 I Kings records the history of Israel's divided kingdom & includes the building of the temple & palace in Jerusalem.
            
 </p>                                                      
-                  <div className={styles.nav3}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
+                                                      <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+<p>Give</p>                                  
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
+<p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -13528,12 +13517,12 @@ I Kings records the history of Israel's divided kingdom & includes the building 
                                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/bVFW3wbi9pk?si=3z0utcFzJ3Il-OXY?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>
                               
-        <div className={styles.grid3}>
+        <div className={styles.grid}>
           
 
-   <div className={styles.card6}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter I </h2>
+            <h2 className={styles.chapter}>I Kings Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>Adonijah Sets Himself Up as King</h4> 
 
@@ -13588,9 +13577,9 @@ David Makes Solomon King
                                    </p>
   </div>
 
-   <div className={styles.card4}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter II </h2>
+            <h2 className={styles.chapter}>I Kings Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>David’s Charge to Solomon</h4> 
 
@@ -13665,9 +13654,9 @@ The kingdom was now established in Solomon’s hands.
                                             </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter III </h2>
+            <h2 className={styles.chapter}>I Kings Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>Solomon Asks for Wisdom</h4> 
 
@@ -13708,9 +13697,9 @@ But the other said, “Neither I nor you shall have him. Cut him in two!”
                                   </div>
 
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter IV </h2>
+            <h2 className={styles.chapter}>I Kings Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>Solomon’s Officials and Governors</h4> 
 
@@ -13774,9 +13763,9 @@ Solomon’s Wisdom
                                </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter V </h2>
+            <h2 className={styles.chapter}>I Kings Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>Preparations for Building the Temple</h4> 
 
@@ -13799,9 +13788,9 @@ Solomon’s Wisdom
                                   </div>
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter VI </h2>
+            <h2 className={styles.chapter}>I Kings Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>Solomon Builds the Temple</h4> 
 
@@ -13831,9 +13820,9 @@ Solomon’s Wisdom
                                    </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Knigs Chapter VII </h2>
+            <h2 className={styles.chapter}>I Knigs Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>Solomon Builds His Palace</h4> 
 
@@ -13900,9 +13889,9 @@ and the gold sockets for the doors of the innermost room, the Most Holy Place, a
                                   </div>  
 
   
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Knigs Chapter VIII </h2>
+            <h2 className={styles.chapter}>I Knigs Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>The Ark Brought to the Temple</h4> 
 
@@ -13964,9 +13953,9 @@ The Dedication of the Temple
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter IX </h2>
+            <h2 className={styles.chapter}>I Kings Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}> The Lord Appears to Solomon</h4> 
     
@@ -13995,9 +13984,9 @@ Solomon’s Other Activities
   </div>  
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter X </h2>
+            <h2 className={styles.chapter}>I Kings Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>The Queen of Sheba Visits Solomon</h4> 
 
@@ -14026,9 +14015,9 @@ Solomon’s Splendor
                                  </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter XI </h2>
+            <h2 className={styles.chapter}>I Kings Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>Solomon’s Wives</h4> 
                 
@@ -14071,9 +14060,9 @@ Solomon’s Death
                                   </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Knigs Chapter XII</h2>
+            <h2 className={styles.chapter}>I Knigs Chapter XII</h2>
                                 <p>
  <h4 className={styles.h4}>Israel Rebels Against Rehoboam</h4> 
 
@@ -14122,9 +14111,9 @@ Golden Calves at Bethel and Dan
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter XIII </h2>
+            <h2 className={styles.chapter}>I Kings Chapter XIII </h2>
                                 <p>
  <h4 className={styles.h4}>The Man of God From Judah</h4> 
 
@@ -14162,9 +14151,9 @@ Golden Calves at Bethel and Dan
                                    </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter XIV </h2>
+            <h2 className={styles.chapter}>I Kings Chapter XIV </h2>
                                 <p>
  <h4 className={styles.h4}>Ahijah’s Prophecy Against Jeroboam</h4> 
 
@@ -14198,9 +14187,9 @@ Rehoboam King of Judah
 
 
   
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter XV </h2>
+            <h2 className={styles.chapter}>I Kings Chapter XV </h2>
                                 <p>
  <h4 className={styles.h4}>Abijah King of Judah</h4> 
 
@@ -14242,9 +14231,9 @@ Baasha King of Israel
                                   </div>
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Knigs Chapter XVI </h2>
+            <h2 className={styles.chapter}>I Knigs Chapter XVI </h2>
                                 <p>
  <h4 className={styles.h4}>Then the word of the Lord came to Jehu </h4> 
 
@@ -14284,9 +14273,9 @@ Ahab Becomes King of Israel
                                  </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter XVII </h2>
+            <h2 className={styles.chapter}>I Kings Chapter XVII </h2>
                                 <p>
  <h4 className={styles.h4}>Elijah Announces a Great Drought</h4> 
 
@@ -14315,9 +14304,9 @@ Elijah and the Widow at Zarephath
 24 Then the woman said to Elijah, “Now I know that you are a man of God and that the word of the Lord from your mouth is the truth.”                               </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter XVIII </h2>
+            <h2 className={styles.chapter}>I Kings Chapter XVIII </h2>
                                 <p>
  <h4 className={styles.h4}>Elijah and Obadiah</h4> 
 
@@ -14383,9 +14372,9 @@ So Elijah said, “Go and tell Ahab, ‘Hitch up your chariot and go down before
                               </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter XIX </h2>
+            <h2 className={styles.chapter}>I Kings Chapter XIX </h2>
                                 <p>
  <h4 className={styles.h4}>Elijah Flees to Horeb</h4> 
 
@@ -14420,9 +14409,9 @@ The Call of Elisha
 21 So Elisha left him and went back. He took his yoke of oxen and slaughtered them. He burned the plowing equipment to cook the meat and gave it to the people, and they ate. Then he set out to follow Elijah and became his servant.                                   </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter XX </h2>
+            <h2 className={styles.chapter}>I Kings Chapter XX </h2>
                                 <p>
  <h4 className={styles.h4}>Ben-Hadad Attacks Samaria</h4> 
 
@@ -14500,9 +14489,9 @@ A Prophet Condemns Ahab
 41 Then the prophet quickly removed the headband from his eyes, and the king of Israel recognized him as one of the prophets. 42 He said to the king, “This is what the Lord says: ‘You have set free a man I had determined should die.[c] Therefore it is your life for his life, your people for his people.’” 43 Sullen and angry, the king of Israel went to his palace in Samaria.                                </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter XXI</h2>
+            <h2 className={styles.chapter}>I Kings Chapter XXI</h2>
                                 <p>
  <h4 className={styles.h4}>Naboth’s Vineyard</h4> 
 
@@ -14546,9 +14535,9 @@ A Prophet Condemns Ahab
                                   </div>
   
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter XXII </h2>
+            <h2 className={styles.chapter}>I Kings Chapter XXII </h2>
                                 <p>
  <h4 className={styles.h4}>Micaiah Prophesies Against Ahab</h4> 
 
@@ -14637,9 +14626,9 @@ Ahaziah King of Israel
 
   
   
-          <div className={styles.card4}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
@@ -14691,14 +14680,9 @@ The meaning of “Torah” is often restricted to signify the first five books o
         <h1 className={styles.title}>
        II KINGS
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/second_kings.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+          <div className={styles.iframe1}>
+                         <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    
                           
 
                         </div>
@@ -14706,33 +14690,38 @@ The meaning of “Torah” is often restricted to signify the first five books o
 II Kings continues the stories of the prophets Elijah & Elisha warning the people of Israel to repent of their sins.
            
 </p>                                                      
-                  <div className={styles.nav4}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
+
+                                                      <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width=25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+                                  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
+
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -14743,12 +14732,12 @@ II Kings continues the stories of the prophets Elijah & Elisha warning the peopl
                                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/bVFW3wbi9pk?si=3z0utcFzJ3Il-OXY?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>
                               
-        <div className={styles.grid4}>
+        <div className={styles.grid}>
           
 
    <div className={styles.card6}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter I </h2>
+            <h2 className={styles.chapter}>II Kings Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>The Lord’s Judgment on Ahaziah</h4> 
 
@@ -14787,9 +14776,9 @@ Because Ahaziah had no son, Joram[b] succeeded him as king in the second year of
                                    </p>
   </div>
 
-   <div className={styles.card4}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter II </h2>
+            <h2 className={styles.chapter}>II Kings Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>Elijah Taken Up to Heaven</h4> 
 
@@ -14844,9 +14833,9 @@ Elisha Is Jeered
                                             </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter III </h2>
+            <h2 className={styles.chapter}>II Kings Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>Moab Revolts</h4> 
 
@@ -14889,9 +14878,9 @@ While the harpist was playing, the hand of the Lord came on Elisha 16 and he sai
                                   </div>
 
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter IV </h2>
+            <h2 className={styles.chapter}>II Kings Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>The Widow’s Olive Oil</h4> 
 
@@ -14973,9 +14962,9 @@ But Elisha answered, “Give it to the people to eat. For this is what the Lord 
                                </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter V </h2>
+            <h2 className={styles.chapter}>II Kings Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>Naaman Healed of Leprosy</h4> 
 
@@ -15021,9 +15010,9 @@ After Naaman had traveled some distance, 20 Gehazi, the servant of Elisha the ma
                                   </div>
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter VI </h2>
+            <h2 className={styles.chapter}>II Kings Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>An Axhead Floats</h4> 
            
@@ -15085,9 +15074,9 @@ The king said, “This disaster is from the Lord. Why should I wait for the Lord
                                      </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Knigs Chapter VII </h2>
+            <h2 className={styles.chapter}>II Knigs Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>Hear the word of the Lord</h4> 
 
@@ -15124,9 +15113,9 @@ The Siege Lifted
                                   </div>  
 
   
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Knigs Chapter VIII </h2>
+            <h2 className={styles.chapter}>II Knigs Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>The Shunammite’s Land Restored</h4> 
 
@@ -15175,9 +15164,9 @@ Then Ahaziah son of Jehoram king of Judah went down to Jezreel to see Joram son 
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter IX </h2>
+            <h2 className={styles.chapter}>II Kings Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}>Jehu Anointed King of Israel</h4> 
 
@@ -15242,9 +15231,9 @@ Jezebel Killed
   </div>  
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter X </h2>
+            <h2 className={styles.chapter}>I Kings Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>Ahab’s Family Killed</h4> 
 
@@ -15300,9 +15289,9 @@ Servants of Baal Killed
                                  </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter XI </h2>
+            <h2 className={styles.chapter}>II Kings Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>Athaliah and Joash</h4> 
               
@@ -15328,9 +15317,9 @@ Then Jehoiada the priest posted guards at the temple of the Lord. 19 He took wit
                                   </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Knigs Chapter XII</h2>
+            <h2 className={styles.chapter}>II Knigs Chapter XII</h2>
                                 <p>
  <h4 className={styles.h4}>Joash Repairs the Temple</h4> 
 
@@ -15352,9 +15341,9 @@ Then Jehoiada the priest posted guards at the temple of the Lord. 19 He took wit
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter XIII </h2>
+            <h2 className={styles.chapter}>II Kings Chapter XIII </h2>
                                 <p>
  <h4 className={styles.h4}>Jehoahaz King of Israel</h4> 
 
@@ -15389,9 +15378,9 @@ Now Moabite raiders used to enter the country every spring. 21 Once while some I
                                 </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter XIV </h2>
+            <h2 className={styles.chapter}>I Kings Chapter XIV </h2>
                                 <p>
  <h4 className={styles.h4}>Amaziah King of Judah</h4> 
 
@@ -15426,9 +15415,9 @@ Jeroboam II King of Israel
 
 
   
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter XV </h2>
+            <h2 className={styles.chapter}>II Kings Chapter XV </h2>
                                 <p>
  <h4 className={styles.h4}>Azariah King of Judah</h4> 
 
@@ -15479,9 +15468,9 @@ Jotham King of Judah
                                   </div>
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Knigs Chapter XVI </h2>
+            <h2 className={styles.chapter}>II Knigs Chapter XVI </h2>
                                 <p>
  <h4 className={styles.h4}>Ahaz King of Judah</h4> 
 
@@ -15501,9 +15490,9 @@ Jotham King of Judah
                                  </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Kings Chapter XVII </h2>
+            <h2 className={styles.chapter}>I Kings Chapter XVII </h2>
                                 <p>
                      <h4 className={styles.h4}>Hoshea Last King of Israel</h4>   
 
@@ -15538,9 +15527,9 @@ Samaria Resettled
                                 </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter XVIII </h2>
+            <h2 className={styles.chapter}>II Kings Chapter XVIII </h2>
                                 <p>
  <h4 className={styles.h4}>Hezekiah King of Judah</h4> 
 
@@ -15582,9 +15571,9 @@ Sennacherib Threatens Jerusalem
                                   </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter XIX </h2>
+            <h2 className={styles.chapter}>II Kings Chapter XIX </h2>
                                 <p>
  <h4 className={styles.h4}>Jerusalem’s Deliverance Foretold</h4> 
 
@@ -15684,9 +15673,9 @@ declares the Lord.
                                 </p>
   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter XX</h2>
+            <h2 className={styles.chapter}>II Kings Chapter XX</h2>
                                 <p>
  <h4 className={styles.h4}>Hezekiah’s Illness</h4> 
 
@@ -15726,9 +15715,9 @@ Envoys From Babylon
                                   </div>
   
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter XXI </h2>
+            <h2 className={styles.chapter}>II Kings Chapter XXI </h2>
                                 <p>
  <h4 className={styles.h4}>Manasseh King of Judah</h4> 
 
@@ -15775,9 +15764,9 @@ So they took her answer back to the king.
              </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter XXIII </h2>
+            <h2 className={styles.chapter}>II Kings Chapter XXIII </h2>
                                 <p>
  <h4 className={styles.h4}>Josiah Renews the Covenant</h4> 
 
@@ -15821,9 +15810,9 @@ Jehoiakim King of Judah
              </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter XXIV </h2>
+            <h2 className={styles.chapter}>II Kings Chapter XXIV </h2>
                                 <p>
  <h4 className={styles.h4}>Nebuchadnezzar king of Babylon invaded the land</h4> 
 24 During Jehoiakim’s reign, Nebuchadnezzar king of Babylon invaded the land, and Jehoiakim became his vassal for three years. But then he turned against Nebuchadnezzar and rebelled. 2 The Lord sent Babylonian,[a] Aramean, Moabite and Ammonite raiders against him to destroy Judah, in accordance with the word of the Lord proclaimed by his servants the prophets. 3 Surely these things happened to Judah according to the Lord’s command, in order to remove them from his presence because of the sins of Manasseh and all he had done, 4 including the shedding of innocent blood. For he had filled Jerusalem with innocent blood, and the Lord was not willing to forgive.
@@ -15852,9 +15841,9 @@ Now Zedekiah rebelled against the king of Babylon.
   
              </div>  
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Kings Chapter XXV </h2>
+            <h2 className={styles.chapter}>II Kings Chapter XXV </h2>
                                 <p>
  <h4 className={styles.h4}>They killed the sons of Zedekiah</h4> 
 25 So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his whole army. He encamped outside the city and built siege works all around it. 2 The city was kept under siege until the eleventh year of King Zedekiah.
@@ -15886,9 +15875,9 @@ Jehoiachin Released
   
   
   
-          <div className={styles.card4}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
@@ -15941,14 +15930,9 @@ The meaning of “Torah” is often restricted to signify the first five books o
         <h1 className={styles.title}>
        I CHRONICLES
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/chronicles.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+          <div className={styles.iframe1}>
+                          <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    
                           
 
                         </div>
@@ -15958,31 +15942,34 @@ The Chronicles were written for the exiles after returning from Babylonian capti
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
+                <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+                                  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -15996,9 +15983,9 @@ The Chronicles were written for the exiles after returning from Babylonian capti
         <div className={styles.grid}>
           
 
-   <div className={styles.card6}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter I </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>Historical Records From Adam to Abraham</h4> 
 
@@ -16182,9 +16169,9 @@ Timna, Alvah, Jetheth, 52 Oholibamah, Elah, Pinon, 53 Kenaz, Teman, Mibzar, 54 M
                                    </p>
   </div>
 
-   <div className={styles.card4}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter II </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>Israel’s Sons</h4> 
 
@@ -16332,9 +16319,9 @@ Bethlehem, the Netophathites, Atroth Beth Joab, half the Manahathites, the Zorit
        </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter III </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>The Sons of David</h4> 
 
@@ -16446,9 +16433,9 @@ Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah and Anani—seven in all.
                                   </div>
 
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter IV </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>Other Clans of Judah</h4> 
 
@@ -16544,9 +16531,9 @@ Hammuel his son, Zakkur his son and Shimei his son.
 </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter V </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>Reuben</h4> 
 
@@ -16599,9 +16586,9 @@ The Half-Tribe of Manasseh
                                   </div>
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter VI </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>Levi</h4> 
 
@@ -16869,9 +16856,9 @@ they received Ramoth in Gilead, Mahanaim, 81 Heshbon and Jazer, together with th
                                      </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter VII </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>Issachar</h4> 
 
@@ -17008,9 +16995,9 @@ Arah, Hanniel and Rizia.
                                   </div>  
 
   
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter VIII </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>The Genealogy of Saul the Benjamite</h4> 
 
@@ -17078,9 +17065,9 @@ All these were the descendants of Benjamin.
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter IX </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}>All Israel was listed</h4> 
 
@@ -17162,9 +17149,9 @@ Azrikam, Bokeru, Ishmael, Sheariah, Obadiah and Hanan. These were the sons of Az
   </div>  
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter X </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>Saul Takes His Life</h4> 
 
@@ -17185,9 +17172,9 @@ But his armor-bearer was terrified and would not do it; so Saul took his own swo
                                  </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XI </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>David Becomes King Over Israel</h4> 
 
@@ -17310,9 +17297,9 @@ Ithmah the Moabite,
                                   </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XII</h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XII</h2>
                                 <p>
  <h4 className={styles.h4}>Warriors Join David</h4> 
 
@@ -17384,9 +17371,9 @@ Others Join David at Hebron
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XIII </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XIII </h2>
                                 <p>
  <h4 className={styles.h4}>Bringing Back the Ark</h4> 
 
@@ -17404,9 +17391,9 @@ Others Join David at Hebron
        </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XIV </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XIV </h2>
                                 <p>
  <h4 className={styles.h4}>David’s House and Family</h4> 
 
@@ -17428,9 +17415,9 @@ The Lord answered him, “Go, I will deliver them into your hands.”
 
 
   
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XV </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XV </h2>
                                 <p>
  <h4 className={styles.h4}>The Ark Brought to Jerusalem</h4> 
 
@@ -17480,9 +17467,9 @@ Amminadab the leader and 112 relatives.
                                   </div>
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XVI </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XVI </h2>
                                 <p>
  <h4 className={styles.h4}>Ministering Before the Ark</h4> 
 
@@ -17575,9 +17562,9 @@ Then all the people said “Amen” and “Praise the Lord.”
                    </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XVII </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XVII </h2>
                                 <p>
                      <h4 className={styles.h4}>God’s Promise to David</h4>   
 
@@ -17613,9 +17600,9 @@ David’s Prayer
                                 </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XVIII </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XVIII </h2>
                                 <p>
  <h4 className={styles.h4}>David’s Victories</h4> 
 
@@ -17641,9 +17628,9 @@ David’s Officials
                                   </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XIX </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XIX </h2>
                                 <p>
  <h4 className={styles.h4}>David Defeats the Ammonites</h4> 
 
@@ -17672,9 +17659,9 @@ So the Arameans were not willing to help the Ammonites anymore.
                                 </p>
   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XX</h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XX</h2>
                                 <p>
  <h4 className={styles.h4}>The Capture of Rabbah</h4> 
 
@@ -17692,9 +17679,9 @@ War With the Philistines
                                   </div>
   
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XXI </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XXI </h2>
                                 <p>
  <h4 className={styles.h4}>David Counts the Fighting Men</h4> 
   
@@ -17737,9 +17724,9 @@ David Builds an Altar
                               </p>
          </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XXII </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XXII </h2>
                                 <p>
  <h4 className={styles.h4}>Preparations for the Temple</h4> 
 
@@ -17761,9 +17748,9 @@ Preparations for the Temple
              </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XXIII </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XXIII </h2>
                                 <p>
  <h4 className={styles.h4}>The Levites</h4> 
 
@@ -17859,9 +17846,9 @@ Mahli, Eder and Jerimoth—three in all.
              </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XXIV </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XXIV </h2>
                                 <p>
  <h4 className={styles.h4}>The Divisions of Priests</h4> 
 
@@ -17968,9 +17955,9 @@ These were the Levites, according to their families. 31 They also cast lots, jus
   
              </div>  
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XXV </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XXV </h2>
                                 <p>
  <h4 className={styles.h4}>The Musicians</h4> 
 
@@ -18046,9 +18033,9 @@ his sons and relatives	12.
   
              </div>  
 
-   <div className={styles.card4}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XXVI </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XXVI </h2>
                                 <p>
  <h4 className={styles.h4}>The Gatekeepers</h4> 
 
@@ -18122,9 +18109,9 @@ The Treasurers and Other Officials
                                    </p>
   </div>
 
-   <div className={styles.card4}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XXVII </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XXVII </h2>
                                 <p>
  <h4 className={styles.h4}>Army Divisions</h4> 
 
@@ -18225,9 +18212,9 @@ Joab was the commander of the royal army.
        </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XXVIII </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XXVIII </h2>
                                 <p>
  <h4 className={styles.h4}>David’s Plans for the Temple</h4> 
 
@@ -18253,9 +18240,9 @@ Joab was the commander of the royal army.
 
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>I Chronicles Chapter XXIX </h2>
+            <h2 className={styles.chapter}>I Chronicles Chapter XXIX </h2>
                                 <p>
  <h4 className={styles.h4}>Gifts for Building the Temple</h4> 
 
@@ -18302,9 +18289,9 @@ The Death of David
   
   
   
-          <div className={styles.card4}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
@@ -18358,14 +18345,9 @@ The meaning of “Torah” is often restricted to signify the first five books o
         <h1 className={styles.title}>
        II CHRONICLES
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/second_chronicles.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+          <div className={styles.iframe1}>
+                          <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    
                           
 
                         </div>
@@ -18373,33 +18355,36 @@ The meaning of “Torah” is often restricted to signify the first five books o
 II Chronicles starts by describing Solomon asking God for wisdom, the building of the temple & Solomon's prayer to consecrate the temple.
            
 </p>                                                      
-                  <div className={styles.nav2}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
+                <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
-              <Image className={styles.arrow}
+              <p>Give</p>
+                                  <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -18410,12 +18395,12 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
                                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/HR7xaHv3Ias?si=hgXwbFvYE1ONhkyq?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>
                               
-        <div className={styles.grid2}>
+        <div className={styles.grid}>
           
 
-   <div className={styles.card6}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter I </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>Solomon Asks for Wisdom</h4> 
 
@@ -18436,9 +18421,9 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
                                    </p>
   </div>
 
-   <div className={styles.card4}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter II </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>Preparations for Building the Temple</h4> 
 
@@ -18471,9 +18456,9 @@ II Chronicles starts by describing Solomon asking God for wisdom, the building o
        </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter III </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>Solomon Builds the Temple</h4> 
 
@@ -18495,9 +18480,9 @@ He overlaid the inside with pure gold. 5 He paneled the main hall with juniper a
                                   </div>
 
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter IV </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>The Temple’s Furnishings</h4> 
 
@@ -18547,9 +18532,9 @@ the tables on which was the bread of the Presence;
 </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter V </h2>
+            <h2 className={styles.cha}>II Chronicles Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>The Ark Brought to the Temple</h4> 
 
@@ -18573,9 +18558,9 @@ Then the temple of the Lord was filled with the cloud, 14 and the priests could 
                                   </div>
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter VI </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>The Lord has said that he would dwell in a dark cloud</h4> 
 
@@ -18625,9 +18610,9 @@ May your priests, Lord God, be clothed with salvation,
                                      </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter VII </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>The Dedication of the Temple</h4> 
 
@@ -18659,9 +18644,9 @@ The Lord Appears to Solomon
                                   </div>  
 
   
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter VIII </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>Solomon’s Other Activities</h4> 
 
@@ -18683,9 +18668,9 @@ The Lord Appears to Solomon
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter IX </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}>The Queen of Sheba Visits Solomon</h4> 
 
@@ -18717,9 +18702,9 @@ Solomon’s Death
   </div>  
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter X </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>Israel Rebels Against Rehoboam</h4> 
 
@@ -18753,9 +18738,9 @@ So all the Israelites went home. 17 But as for the Israelites who were living in
                                  </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XI </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>Rehoboam Fortifies Judah</h4> 
 11 When Rehoboam arrived in Jerusalem, he mustered Judah and Benjamin—a hundred and eighty thousand able young men—to go to war against Israel and to regain the kingdom for Rehoboam.
@@ -18775,9 +18760,9 @@ Rehoboam’s Family
                                   </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XII</h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XII</h2>
                                 <p>
  <h4 className={styles.h4}>Shishak Attacks Jerusalem</h4> 
 
@@ -18804,9 +18789,9 @@ Rehoboam’s Family
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XIII </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XIII </h2>
                                 <p>
  <h4 className={styles.h4}>Abijah King of Judah</h4> 
 
@@ -18831,9 +18816,9 @@ There was war between Abijah and Jeroboam. 3 Abijah went into battle with an arm
        </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XIV </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XIV </h2>
                                 <p>
  <h4 className={styles.h4}>Asa King of Judah</h4> 
 
@@ -18856,9 +18841,9 @@ Asa King of Judah
 
 
   
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XV </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XV </h2>
                                 <p>
  <h4 className={styles.h4}>Asa’s Reform</h4> 
 
@@ -18880,9 +18865,9 @@ Asa King of Judah
                                   </div>
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XVI </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XVI </h2>
                                 <p>
  <h4 className={styles.h4}>Asa’s Last Years</h4> 
 
@@ -18902,9 +18887,9 @@ Asa King of Judah
                    </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XVII </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XVII </h2>
                                 <p>
                      <h4 className={styles.h4}>Jehoshaphat King of Judah</h4>   
 
@@ -18937,9 +18922,9 @@ Eliada, a valiant soldier, with 200,000 men armed with bows and shields;
                                 </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XVIII </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XVIII </h2>
                                 <p>
  <h4 className={styles.h4}>Micaiah Prophesies Against Ahab</h4> 
 
@@ -19007,9 +18992,9 @@ Ahab Killed at Ramoth Gilead
                                   </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XIX </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XIX </h2>
                                 <p>
  <h4 className={styles.h4}>Jehoshaphat Appoints Judges</h4> 
 19 When Jehoshaphat king of Judah returned safely to his palace in Jerusalem, 2 Jehu the seer, the son of Hanani, went out to meet him and said to the king, “Should you help the wicked and love[a] those who hate the Lord? Because of this, the wrath of the Lord is on you. 3 There is, however, some good in you, for you have rid the land of the Asherah poles and have set your heart on seeking God.”
@@ -19024,9 +19009,9 @@ Jehoshaphat Appoints Judges
                                 </p>
   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XX</h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XX</h2>
                                 <p>
  <h4 className={styles.h4}>Jehoshaphat Defeats Moab and Ammon</h4> 
 
@@ -19071,9 +19056,9 @@ The End of Jehoshaphat’s Reign
                                   </div>
   
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXI </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXI </h2>
                                 <p>
  <h4 className={styles.h4}>Jehoram King of Judah</h4> 
   21 Then Jehoshaphat rested with his ancestors and was buried with them in the City of David. And Jehoram his son succeeded him as king. 2 Jehoram’s brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariahu, Michael and Shephatiah. All these were sons of Jehoshaphat king of Israel.[a] 3 Their father had given them many gifts of silver and gold and articles of value, as well as fortified cities in Judah, but he had given the kingdom to Jehoram because he was his firstborn son.
@@ -19097,9 +19082,9 @@ Libnah revolted at the same time, because Jehoram had forsaken the Lord, the God
                               </p>
          </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXII </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXII </h2>
                                 <p>
  <h4 className={styles.h4}>Ahaziah King of Judah</h4> 
 
@@ -19122,9 +19107,9 @@ Athaliah and Joash
              </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXIII </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXIII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter XXIII</h4> 
 23 In the seventh year Jehoiada showed his strength. He made a covenant with the commanders of units of a hundred: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zikri. 2 They went throughout Judah and gathered the Levites and the heads of Israelite families from all the towns. When they came to Jerusalem, 3 the whole assembly made a covenant with the king at the temple of God.
@@ -19150,9 +19135,9 @@ Jehoiada said to them, “The king’s son shall reign, as the Lord promised con
              </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXIV </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXIV </h2>
                                 <p>
  <h4 className={styles.h4}>Joash Repairs the Temple</h4> 
 
@@ -19185,9 +19170,9 @@ The Wickedness of Joash
   
              </div>  
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXV </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXV </h2>
                                 <p>
  <h4 className={styles.h4}>Amaziah King of Judah</h4> 
 
@@ -19225,9 +19210,9 @@ So the prophet stopped but said, “I know that God has determined to destroy yo
              </div>  
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXVI </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXVI </h2>
                                 <p>
  <h4 className={styles.h4}>Uzziah King of Judah</h4> 
 
@@ -19252,9 +19237,9 @@ So the prophet stopped but said, “I know that God has determined to destroy yo
              </div> 
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXVII </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXVII </h2>
                                 <p>
  <h4 className={styles.h4}>Jotham King of Judah</h4> 
 
@@ -19270,9 +19255,9 @@ So the prophet stopped but said, “I know that God has determined to destroy yo
              </div> 
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXVIII </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXVIII </h2>
                                 <p>
  <h4 className={styles.h4}>Ahaz King of Judah</h4> 
 
@@ -19301,9 +19286,9 @@ He was also given into the hands of the king of Israel, who inflicted heavy casu
              </div> 
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXIX </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXIX </h2>
                                 <p>
  <h4 className={styles.h4}>Hezekiah Purifies the Temple</h4> 
 
@@ -19364,9 +19349,9 @@ So the service of the temple of the Lord was reestablished. 36 Hezekiah and all 
              </div> 
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXX </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXX </h2>
                                 <p>
  <h4 className={styles.h4}>Hezekiah Celebrates the Passover</h4> 
 
@@ -19391,9 +19376,9 @@ So the service of the temple of the Lord was reestablished. 36 Hezekiah and all 
              </div> 
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXXI</h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXXI</h2>
                                 <p>
  <h4 className={styles.h4}>Contributions for Worship</h4> 
 
@@ -19416,9 +19401,9 @@ So the service of the temple of the Lord was reestablished. 36 Hezekiah and all 
              </div> 
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXXII </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXXII </h2>
                                 <p>
  <h4 className={styles.h4}>Sennacherib Threatens Jerusalem</h4> 
 
@@ -19452,9 +19437,9 @@ Hezekiah’s Pride, Success and Death
                                 </p>
              </div> 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXXIII </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXXIII </h2>
                                 <p>
  <h4 className={styles.h4}>Manasseh King of Judah</h4> 
 
@@ -19478,9 +19463,9 @@ Amon King of Judah
              </div> 
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXXIV </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXXIV </h2>
                                 <p>
  <h4 className={styles.h4}>Josiah’s Reforms</h4> 
 
@@ -19519,9 +19504,9 @@ So they took her answer back to the king.
              </div> 
 
 
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXXV </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXXV </h2>
                                 <p>
  <h4 className={styles.h4}>Josiah Celebrates the Passover</h4> 
 
@@ -19553,9 +19538,9 @@ The Death of Josiah
              </div> 
 
   
-  <div className={styles.card4}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>II Chronicles Chapter XXXVI </h2>
+            <h2 className={styles.chapter}>II Chronicles Chapter XXXVI </h2>
                                 <p>
  <h4 className={styles.h4}>Jehoahaz King of Judah</h4> 
 
@@ -19594,9 +19579,9 @@ The Fall of Jerusalem
   
   
   
-          <div className={styles.card4}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
@@ -19651,47 +19636,45 @@ The meaning of “Torah” is often restricted to signify the first five books o
         <h1 className={styles.title}>
           EZRA
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/ezra.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+          <div className={styles.iframe1}>
+                   <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    
                           
 
                         </div>
     <p className={styles.parables}>
 Ezra begins the story of the exiles coming back from Babylon, King Cyrus of Persia allows for the rebuilding of the City & temple, by the prompting of our God.
 </p>                                                      
-                  <div className={styles.nav3}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
+                <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+ <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -19703,12 +19686,12 @@ Ezra begins the story of the exiles coming back from Babylon, King Cyrus of Pers
                                   </div>
                                   
                               
-        <div className={styles.grid3}>
+        <div className={styles.grid}>
           
 
-   <div className={styles.card6}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ezra Chapter I </h2>
+            <h2 className={styles.chapter}>Ezra Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>Cyrus Helps the Exiles to Return</h4> 
 
@@ -19735,9 +19718,9 @@ other articles	1,000
                                </p>
   </div>
 
-   <div className={styles.card6}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ezra Chapter II </h2>
+            <h2 className={styles.chapter}>Ezra Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>The List of the Exiles Who Returned</h4> 
 
@@ -19838,9 +19821,9 @@ Hobaiah, Hakkoz and Barzillai (a man who had married a daughter of Barzillai the
                                   </p>
                                   </div>
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ruth Chapter III </h2>
+            <h2 className={styles.chapter}>Ruth Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>Rebuilding the Altar</h4> 
 
@@ -19862,9 +19845,9 @@ And all the people gave a great shout of praise to the Lord, because the foundat
                                   </div>
 
 
- <div className={styles.card6}
+ <div className={styles.car}
           >
-            <h2 className={styles.chapter3}>Ezra Chapter IV </h2>
+            <h2 className={styles.chapter}>Ezra Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>Opposition to the Rebuilding</h4> 
 
@@ -19907,9 +19890,9 @@ Greetings.
                                    </p>
                                   </div>
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ezra Chapter V </h2>
+            <h2 className={styles.chapter}>Ezra Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>Tattenai’s Letter to Darius</h4> 
 
@@ -19939,9 +19922,9 @@ Cordial greetings.
                                    </p>
                                   </div>
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ezra Chapter VI </h2>
+            <h2 className={styles.chapter}>Ezra Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>The Decree of Darius</h4> 
 
@@ -19975,9 +19958,9 @@ The Passover
                                    </p>
                                   </div>
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ezra Chapter VII </h2>
+            <h2 className={styles.chapter}>Ezra Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>Ezra Comes to Jerusalem</h4> 
 
@@ -20007,9 +19990,9 @@ Greetings.
                                   </div>
 
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ezra Chapter VIII </h2>
+            <h2 className={styles.chapter}>Ezra Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>List of the Family Heads Returning With Ezra</h4> 
 
@@ -20065,9 +20048,9 @@ The Return to Jerusalem
                                   </div>
 
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ezra Chapter IX </h2>
+            <h2 className={styles.chapter}>Ezra Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}>Ezra’s Prayer About Intermarriage</h4> 
 
@@ -20091,9 +20074,9 @@ The Return to Jerusalem
 
 
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ezra Chapter X </h2>
+            <h2 className={styles.chapter}>Ezra Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>The People’s Confession of Sin</h4> 
 
@@ -20194,9 +20177,9 @@ Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel and Benaiah.
 
 
   
-          <div className={styles.card6}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
@@ -20252,13 +20235,8 @@ The meaning of “Torah” is often restricted to signify the first five books o
          NEHEMIAH
         </h1>
           <div className={styles.iframe1}>
-                           <Image 
-                                                    src="/heart_mountain.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+                             <iframe width="100%" height="315" src="https://www.youtube.com/embed/MkETkRv9tG8?si=29gb-4Xl2BzfWuBa?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                           
                           
 
                         </div>
