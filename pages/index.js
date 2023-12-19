@@ -6,8 +6,9 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>The Word of God Risen</title>
-        <meta name="description" content="The Torah, or Pentateuch, in addition to all books of the Old Testament up to but not including Isaiah" />
+       <title>The Word of God Risen: Old Testament part 1</title>
+        <meta name="description" content="The bible: Old Testament: Genesis through Jeremiah." />
+
     
         <link rel="icon" href="/favicon.ico" />
 <link
@@ -20251,7 +20252,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
         <h1 className={styles.title}>
          NEHEMIAH
         </h1>
-          <div className={styles.image}>
+          <div className={styles.iframe1}>
                            <Image 
                                                     src="/heart_mountain.png"
                                                     alt="hero image for Leviticus"
@@ -20268,31 +20269,34 @@ Nehemiah & Ezra, originally all in one unified story, tells of the exiles rebuil
 </p>                                                      
                   <div className={styles.nav4}>           
       <a href="https://mytorah.vercel.app/#numbers">
+                                                      <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+                                  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
-           <Image 
+           <p>Next</p>
+                                  <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -20304,12 +20308,12 @@ Nehemiah & Ezra, originally all in one unified story, tells of the exiles rebuil
                                   </div>
                                   
                               
-        <div className={styles.grid4}>
+        <div className={styles.grid}>
           
 
-   <div className={styles.card6}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter I </h2>
+            <h2 className={styles.chapter}>Nehemiah Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>Nehemiah’s Prayer</h4> 
 
@@ -20334,9 +20338,9 @@ I was cupbearer to the king.
                                   </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah  Chapter II </h2>
+            <h2 className={styles.chapter}>Nehemiah  Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>Artaxerxes Sends Nehemiah to Jerusalem</h4> 
 
@@ -20376,9 +20380,9 @@ They replied, “Let us start rebuilding.” So they began this good work.
 
   
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter III </h2>
+            <h2 className={styles.chapter}>Nehemiah Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>Builders of the Wall</h4> 
 
@@ -20403,9 +20407,9 @@ They replied, “Let us start rebuilding.” So they began this good work.
                                   </div>
 
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah  Chapter IV </h2>
+            <h2 className={styles.chapter}>Nehemiah  Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>Opposition to the Rebuilding</h4> 
 
@@ -20437,9 +20441,9 @@ They replied, “Let us start rebuilding.” So they began this good work.
                                    </p>
                                   </div>
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter V </h2>
+            <h2 className={styles.chapter}>Nehemiah Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>Nehemiah Helps the Poor</h4> 
 
@@ -20466,9 +20470,9 @@ At this the whole assembly said, “Amen,” and praised the Lord. And the peopl
 19 Remember me with favor, my God, for all I have done for these people.                                    </p>
                                   </div>
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter VI </h2>
+            <h2 className={styles.chapter}>Nehemiah Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>Further Opposition to the Rebuilding</h4> 
 
@@ -20499,9 +20503,9 @@ Opposition to the Completed Wall
                                    </p>
                                   </div>
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter VII </h2>
+            <h2 className={styles.chapter}>Nehemiah Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>The List of the Exiles Who Returned</h4> 
 7 After the wall had been rebuilt and I had set the doors in place, the gatekeepers, the musicians and the Levites were appointed. 2 I put in charge of Jerusalem my brother Hanani, along with Hananiah the commander of the citadel, because he was a man of integrity and feared God more than most people do. 3 I said to them, “The gates of Jerusalem are not to be opened until the sun is hot. While the gatekeepers are still on duty, have them shut the doors and bar them. Also appoint residents of Jerusalem as guards, some at their posts and some near their own houses.”
@@ -20605,9 +20609,9 @@ When the seventh month came and the Israelites had settled in their towns,
                                   </div>
 
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter VIII </h2>
+            <h2 className={styles.chapter}>Nehemiah Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>all the people came together as one</h4> 
 1  in the square before the Water Gate. They told Ezra the teacher of the Law to bring out the Book of the Law of Moses, which the Lord had commanded for Israel.
@@ -20637,9 +20641,9 @@ When the seventh month came and the Israelites had settled in their towns,
                                   </div>
 
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter IX </h2>
+            <h2 className={styles.chapter}>Nehemiah Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}>The Israelites Confess Their Sins</h4> 
 
@@ -20677,9 +20681,9 @@ The Agreement of the People
 
 
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Ezra Chapter X </h2>
+            <h2 className={styles.chapter}>Ezra Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>Those who sealed it were:</h4> 
 
@@ -20768,9 +20772,9 @@ Parosh, Pahath-Moab, Elam, Zattu, Bani,
                                   </div>
 
  
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter XI </h2>
+            <h2 className={styles.chapter}>Nehemiah Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>The New Residents of Jerusalem</h4> 
 
@@ -20816,9 +20820,9 @@ Akkub, Talmon and their associates, who kept watch at the gates—172 men.
   </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter XII </h2>
+            <h2 className={styles.chapter}>Nehemiah Chapter XII </h2>
                                 <p>
  <h4 className={styles.h4}>Priests and Levites</h4> 
 
@@ -20906,9 +20910,9 @@ Dedication of the Wall of Jerusalem
 
 
 
-  <div className={styles.card6}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter XIII </h2>
+            <h2 className={styles.chapter}>Nehemiah Chapter XIII </h2>
                                 <p>
  <h4 className={styles.h4}>Nehemiah’s Final Reforms</h4> 
                               
@@ -20945,9 +20949,9 @@ Remember me with favor, my God.
 
   
   
-          <div className={styles.card6}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
@@ -20974,7 +20978,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
              <h4 className={styles.h4}>II Kings is Completed</h4>  
              <h4 className={styles.h4}>I Chronicles is Completed</h4>  
              <h4 className={styles.h4}>II Chronicles is Completed</h4>    
-             <h4 className={styles.h4}>Ezra is Completed, Nehemiah is Completed & Esther is still being coded </h4>     
+             <h4 className={styles.h4}>Ezra is Completed, Nehemiah is Completed & Esther is completed </h4>     
      </p>
           </div>
 
@@ -20998,12 +21002,12 @@ The meaning of “Torah” is often restricted to signify the first five books o
         <div className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://thewordofgodrisen.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         <h1 className={styles.title}>
          ESTHER
         </h1>
-          <div className={styles.image}>
+          <div className={styles.iframe1}>
                            <Image 
                                                     src="/esther.png"
                                                     alt="hero image for Leviticus"
@@ -21019,31 +21023,35 @@ Although the name of God never appears in this book, His faithfulness for His pe
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
+<p>Prev</p>
+  
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
-           <Image 
+  <p>Next</p>         
+  <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -21058,9 +21066,9 @@ Although the name of God never appears in this book, His faithfulness for His pe
         <div className={styles.grid}>
           
 
-   <div className={styles.card6}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Esther Chapter I </h2>
+            <h2 className={styles.chapter}>Esther Chapter I </h2>
                                 <p>
  <h4 className={styles.h4}>Queen Vashti Deposed</h4> 
 
@@ -21088,9 +21096,9 @@ Although the name of God never appears in this book, His faithfulness for His pe
                                   </div>
 
 
-<div className={styles.card4}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Esther  Chapter II </h2>
+            <h2 className={styles.chapter}>Esther  Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>Esther Made Queen</h4> 
 
@@ -21121,9 +21129,9 @@ Mordecai Uncovers a Conspiracy
 
   
 
-<div className={styles.card6}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Esther Chapter III </h2>
+            <h2 className={styles.chapter}>Esther Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>Haman’s Plot to Destroy the Jews</h4> 
 
@@ -21147,9 +21155,9 @@ Mordecai Uncovers a Conspiracy
                                   </div>
 
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Esther Chapter IV </h2>
+            <h2 className={styles.chapter}>Esther Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>Mordecai Persuades Esther to Help</h4> 
 
@@ -21170,9 +21178,9 @@ Mordecai Uncovers a Conspiracy
                         </p>
                                   </div>
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Esther Chapter V </h2>
+            <h2 className={styles.chapter}>Esther Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>Esther’s Request to the King</h4> 
 
@@ -21198,9 +21206,9 @@ Calling together his friends and Zeresh, his wife, 11 Haman boasted to them abou
                                   </p>
                                   </div>
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Esther Chapter VI </h2>
+            <h2 className={styles.chapter}>Esther Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>Mordecai Honored</h4> 
 
@@ -21230,9 +21238,9 @@ His advisers and his wife Zeresh said to him, “Since Mordecai, before whom you
                               </p>
                                   </div>
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Nehemiah Chapter VII </h2>
+            <h2 className={styles.chapter}>Nehemiah Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>Haman Impaled</h4> 
 
@@ -21257,9 +21265,9 @@ The king said, “Impale him on it!” 10 So they impaled Haman on the pole he h
                                   </div>
 
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Esther Chapter VIII </h2>
+            <h2 className={styles.chapter}>Esther Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>The King’s Edict in Behalf of the Jews</h4> 
 
@@ -21285,9 +21293,9 @@ The Triumph of the Jews
                                   </div>
 
 
- <div className={styles.card6}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Esther Chapter IX </h2>
+            <h2 className={styles.chapter}>Esther Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}> The Jews struck down all their enemies with the sword</h4> 
 9 On the thirteenth day of the twelfth month, the month of Adar, the edict commanded by the king was to be carried out. On this day the enemies of the Jews had hoped to overpower them, but now the tables were turned and the Jews got the upper hand over those who hated them. 2 The Jews assembled in their cities in all the provinces of King Xerxes to attack those determined to destroy them. No one could stand against them, because the people of all the other nationalities were afraid of them. 3 And all the nobles of the provinces, the satraps, the governors and the king’s administrators helped the Jews, because fear of Mordecai had seized them. 4 Mordecai was prominent in the palace; his reputation spread throughout the provinces, and he became more and more powerful.
@@ -21319,9 +21327,9 @@ Purim Established
 
 
 
- <div className={styles.card4}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Esther Chapter X </h2>
+            <h2 className={styles.chapter}>Esther Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>The Greatness of Mordecai</h4> 
 
@@ -21333,9 +21341,9 @@ Purim Established
 
   
   
-          <div className={styles.card6}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
