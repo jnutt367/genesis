@@ -14,6 +14,14 @@ export default function Home() {
           href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap, Montserrat,Roboto"
           rel="stylesheet"
         />       
+  <link href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap" 
+            rel="stylesheet"  
+              />      
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&display=swap" 
+              rel="stylesheet" 
+                />  
+              
+            
       </Head>
    
 
