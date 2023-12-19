@@ -39,12 +39,12 @@ export default function Home() {
         </h1>
          <div  className={styles.iframe1}>
                    
-                             <iframe width="100%" height="315" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                             <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
               
                             
 </div> 
 <p className={styles.parables}>
-       "In the beginning God created the heavens and the earth. Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters."                            
+       "In the beginning God created the heavens and the earth. Now the earth was formless and empty, darkness was over the surface of the deep,"                           
 </p>
 <div className={styles.nav}>               
 
@@ -559,7 +559,7 @@ Terah became the father of Abram, Nahor and Haran. And Haran became the father o
           <div
             className={styles.card}
           >
-             <h2  className={styles.chapter}>Matthew Chapter XII</h2>
+             <h2  className={styles.chapter}>Genesis Chapter XII</h2>
             <p>
            
 <h4 className={styles.h4}>The Call of Abram</h4>
@@ -2495,14 +2495,9 @@ The Death of Joseph
         <h1 className={styles.title}>
        EXODUS
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/exodus.png"
-                                                    alt="hero image for Thessalonians"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+          <div className={styles.iframe1}>
+                           <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              
                           
 
                         </div>
@@ -2512,31 +2507,34 @@ The Death of Joseph
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://mytorah.vercel.app/#genesis">
-             <Image 
+  <p>Prev</p>           
+  <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+                                  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#leviticus">
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -2548,7 +2546,7 @@ The Death of Joseph
                                   </div>
                                   
                               
-        <div className={styles.grid2}>
+        <div className={styles.grid}>
           <div className={styles.card2}>
            <h2  className={styles.chapter2}>Exodus Chapter I</h2>
             <p> 
@@ -3986,14 +3984,10 @@ The Glory of the Lord
         <h1 className={styles.title}>
        LEVITICUS
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/leviticus.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+          <div className={styles.iframe1}>
+                          <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              
+                            
                           
 
                         </div>
@@ -4001,33 +3995,36 @@ The Glory of the Lord
 
            Leviticus means "about the Levites" and it details the regulations for their holy living as God's people.
 </p>                                                      
-                  <div className={styles.nav3}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#exodus">
+ <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+                                  <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#numbers">
+ <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -4035,11 +4032,11 @@ The Glory of the Lord
          
                </div>
                                  <div className={styles.iframe}> 
-                                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/IJ-FekWUZzE?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                                  </div>
+                                        <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                 </div>
                                   
                               
-        <div className={styles.grid3}>
+        <div className={styles.grid}>
           
 
    <div className={styles.card}
@@ -4984,16 +4981,11 @@ Punishment for Disobedience
         <h1 className={styles.title}>
       NUMBERS
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/leviticus.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
-                          
+          <div className={styles.iframe1}>
 
+  <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              
+                                            
                         </div>
     <p className={styles.parables}>
 
@@ -5001,31 +4993,34 @@ Punishment for Disobedience
 </p>                                                      
                   <div className={styles.nav4}>           
       <a href="https://mytorah.vercel.app/#leviticus">
+                <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+ <p>Give</p>                                  
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#deuteronomy">
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -5037,7 +5032,7 @@ Punishment for Disobedience
                                   </div>
                                   
                               
-        <div className={styles.grid4}>
+        <div className={styles.grid}>
           
 
    <div className={styles.card}
@@ -6973,14 +6968,10 @@ Cities of Refuge
         <h1 className={styles.title}>
       DEUTERONOMY
         </h1>
-          <div className={styles.image}>
-                           <Image 
-                                                    src="/mountain_top.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+          <div className={styles.iframe1}>
+                          <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              
+                            
                           
 
                         </div>
@@ -6988,33 +6979,36 @@ Cities of Refuge
 
              In the fortieth year, on the first day of the eleventh month, Moses proclaimed to the Israelites all that the Lord had commanded him concerning them.
 </p>                                                      
-                  <div className={styles.nav3}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
+                <p>Prev</p>
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
+<p>Give</p>                                  
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
          <a href="https://mytorah.vercel.app/#joshua">
+                                  <p>Next</p>
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -7029,7 +7023,7 @@ Cities of Refuge
         <div className={styles.grid3}>
           
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
             <h2 className={styles.chapter3}>Deuteronomy Chapter I </h2>
                                 <p>
@@ -7079,9 +7073,9 @@ Rebellion Against the Lord
                                   </p>
   </div>
 
- <div className={styles.card3}
+ <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter II </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter II </h2>
                                 <p>
  <h4 className={styles.h4}>Wanderings in the Wilderness</h4> 
 
@@ -7116,9 +7110,9 @@ Defeat of Sihon King of Heshbon
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter III </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter III </h2>
                                 <p>
  <h4 className={styles.h4}>Defeat of Og King of Bashan</h4> 
 
@@ -7142,9 +7136,9 @@ Moses Forbidden to Cross the Jordan
                                     </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter IV </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter IV </h2>
                                 <p>
  <h4 className={styles.h4}>Obedience Commanded</h4> 
 
@@ -7178,9 +7172,9 @@ Introduction to the Law
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter V </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter V </h2>
                                 <p>
  <h4 className={styles.h4}>The Ten Commandments</h4> 
 
@@ -7223,9 +7217,9 @@ Hear, Israel, the decrees and laws I declare in your hearing today. Learn them a
                                   </div>
 
   
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter VI </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter VI </h2>
                                 <p>
  <h4 className={styles.h4}>Love the Lord Your God</h4> 
 
@@ -7244,9 +7238,9 @@ Hear, Israel, the decrees and laws I declare in your hearing today. Learn them a
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter VII </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter VII </h2>
                                 <p>
  <h4 className={styles.h4}>Driving Out the Nations</h4> 
 
@@ -7266,9 +7260,9 @@ those who hate him he will repay to their face by destruction;
                                     </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter VIII </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter VIII </h2>
                                 <p>
  <h4 className={styles.h4}>Do Not Forget the Lord</h4> 
 8 Be careful to follow every command I am giving you today, so that you may live and increase and may enter and possess the land the Lord promised on oath to your ancestors. 2 Remember how the Lord your God led you all the way in the wilderness these forty years, to humble and test you in order to know what was in your heart, whether or not you would keep his commands. 3 He humbled you, causing you to hunger and then feeding you with manna, which neither you nor your ancestors had known, to teach you that man does not live on bread alone but on every word that comes from the mouth of the Lord. 4 Your clothes did not wear out and your feet did not swell during these forty years. 5 Know then in your heart that as a man disciplines his son, so the Lord your God disciplines you.
@@ -7281,9 +7275,9 @@ those who hate him he will repay to their face by destruction;
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter IX </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter IX </h2>
                                 <p>
  <h4 className={styles.h4}>Not Because of Israel’s Righteousness</h4> 
 
@@ -7314,9 +7308,9 @@ The Golden Calf
 
 
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter X </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter X </h2>
                                 <p>
  <h4 className={styles.h4}>Tablets Like the First Ones</h4> 
 
@@ -7336,9 +7330,9 @@ Fear the Lord
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XI </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XI </h2>
                                 <p>
  <h4 className={styles.h4}>Love and Obey the Lord</h4> 
 
@@ -7359,9 +7353,9 @@ Fear the Lord
                                     </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XII </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XII </h2>
                                 <p>
  <h4 className={styles.h4}>The One Place of Worship</h4> 
 
@@ -7384,9 +7378,9 @@ Fear the Lord
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XIII </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XIII </h2>
                                 <p>
  <h4 className={styles.h4}>Worshiping Other Gods</h4> 
 
@@ -7401,9 +7395,9 @@ Fear the Lord
 
 
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XIV </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XIV </h2>
                                 <p>
  <h4 className={styles.h4}>Clean and Unclean Food</h4> 
 
@@ -7430,9 +7424,9 @@ Tithes
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XV </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XV </h2>
                                 <p>
  <h4 className={styles.h4}>The Year for Canceling Debts</h4> 
 
@@ -7453,9 +7447,9 @@ The Firstborn Animals
                                     </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.c}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XVI </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XVI </h2>
                                 <p>
  <h4 className={styles.h4}>The Passover</h4> 
 
@@ -7484,9 +7478,9 @@ Worshiping Other Gods
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XVII </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XVII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter XVII</h4> 
 17 Do not sacrifice to the Lord your God an ox or a sheep that has any defect or flaw in it, for that would be detestable to him.
@@ -7505,9 +7499,9 @@ The King
                                   </div>
 
 
-  <div className={styles.card3}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XVIII </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XVIII </h2>
                                 <p>
  <h4 className={styles.h4}>Offerings for Priests and Levites</h4> 
 
@@ -7531,9 +7525,9 @@ The Prophet
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XIX </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XIX </h2>
                                 <p>
  <h4 className={styles.h4}>Cities of Refuge</h4> 
 
@@ -7555,9 +7549,9 @@ Witnesses
                                     </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XX </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XX </h2>
                                 <p>
  <h4 className={styles.h4}>Going to War</h4> 
 
@@ -7574,9 +7568,9 @@ Witnesses
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXI </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXI </h2>
                                 <p>
  <h4 className={styles.h4}>Atonement for an Unsolved Murder</h4> 
 
@@ -7597,9 +7591,9 @@ Various Laws
                                   </div>
 
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXII </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXII </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter XXII </h4> 
 
@@ -7637,9 +7631,9 @@ Marriage Violations
 30 A man is not to marry his father’s wife; he must not dishonor his father’s bed.[d]                                    </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXIII </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXIII </h2>
                                 <p>
  <h4 className={styles.h4}>Exclusion From the Assembly</h4> 
 
@@ -7669,9 +7663,9 @@ Miscellaneous Laws
                                     </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXIV </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXIV </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter XXIV </h4> 
 
@@ -7699,9 +7693,9 @@ Miscellaneous Laws
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXV </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXV </h2>
                                 <p>
  <h4 className={styles.h4}>Chapter XXV </h4> 
 
@@ -7723,9 +7717,9 @@ Miscellaneous Laws
 
 
 
-  <div className={styles.card3}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXVI </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXVI </h2>
                                 <p>
  <h4 className={styles.h4}>Firstfruits and Tithes</h4> 
 
@@ -7739,9 +7733,9 @@ Follow the Lord’s Commands
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXVII </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXVII </h2>
                                 <p>
  <h4 className={styles.h4}>The Altar on Mount Ebal</h4> 
 
@@ -7807,9 +7801,9 @@ Then all the people shall say, “Amen!”
                                     </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXVIII </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXVIII </h2>
                                 <p>
  <h4 className={styles.h4}>Blessings for Obedience</h4> 
 
@@ -7868,9 +7862,9 @@ Curses for Disobedience
                                     </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXIX </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXIX </h2>
                                 <p>
  <h4 className={styles.h4}>Renewal of the Covenant</h4> 
 
@@ -7898,9 +7892,9 @@ Your eyes have seen all that the Lord did in Egypt to Pharaoh, to all his offici
                                   </div>
 
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXX </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXX </h2>
                                 <p>
  <h4 className={styles.h4}>Prosperity After Turning to the Lord</h4> 
 
@@ -7920,9 +7914,9 @@ The Offer of Life or Death
                                     </p>
                                   </div>
 
-   <div className={styles.card3}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXXI </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXXI </h2>
                                 <p>
  <h4 className={styles.h4}> Joshua to Succeed Moses</h4> 
   
@@ -7949,9 +7943,9 @@ The Song of Moses
 30 And Moses recited the words of this song from beginning to end in the hearing of the whole assembly of Israel:                                </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXXII </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXXII </h2>
                                 <p>
  <h4 className={styles.h4}>The Song of Moses</h4> 
 
@@ -8121,9 +8115,9 @@ Moses to Die on Mount Nebo
                                     </p>
                                   </div>
 
-  <div className={styles.card3}
+  <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXXIII </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXXIII </h2>
                                 <p>
  <h4 className={styles.h4}>Moses Blesses the Tribes</h4> 
 
@@ -8263,9 +8257,9 @@ Your enemies will cower before you,
                                </p>
                                   </div>
 
-<div className={styles.card3}
+<div className={styles.card}
           >
-            <h2 className={styles.chapter3}>Deuteronomy Chapter XXXIV </h2>
+            <h2 className={styles.chapter}>Deuteronomy Chapter XXXIV </h2>
                                 <p>
  <h4 className={styles.h4}>The Death of Moses</h4> 
 
@@ -8281,9 +8275,9 @@ Your enemies will cower before you,
 
 
   
-          <div className={styles.card3}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter3}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             
             <h4 className={styles.h4}> New Testament IS COMPLETED!!!</h4>
