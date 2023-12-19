@@ -45,7 +45,7 @@ export default function Home() {
                             
 </div> 
 <p className={styles.parables}>
-       "And God said, “Let there be light,” and there was light. 4 God saw that the light was good, and he separated the light from the darkness."                           
+       "God said,“Let there be light,” & there was light. God saw that the light was good, and he separated the light from the darkness."                           
 </p>
 <div className={styles.nav}>               
 
