@@ -45,7 +45,9 @@ export default function Home() {
                             
 </div> 
 <p className={styles.parables}>
-       "God said,“Let there be light,” & there was light. God saw that the light was good, and he separated the light from the darkness."                           
+      So God created mankind in his own image,
+    in the image of God he created them;
+    male and female he created them.                          
 </p>
 <div className={styles.nav}>               
 
