@@ -6980,7 +6980,7 @@ Cities of Refuge
                         </div>
     <p className={styles.parables}>
 
-             In the fortieth year, on the first day of the eleventh month, Moses proclaimed to the Israelites all that the Lord had commanded him concerning them.
+              "The Lord our God said to us at Horeb, “You have stayed long enough at this mountain. Break camp and advance..."
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
