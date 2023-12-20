@@ -20241,7 +20241,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-Nehemiah & Ezra, tells of the exiles rebuilding the temple & finding & re-iterating through the book of the law of Moses
+Nehemiah & Ezra, tells of exiles rebuilding the temple & finding & re-iterating thru the book of  Moses law.
            
 </p>                                                      
                   <div className={styles.nav}>           
