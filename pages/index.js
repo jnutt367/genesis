@@ -19643,7 +19643,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-The exiles, coming back from Babylon.. King Cyrus of Persia allows the rebuilding of the City & temple, by prompting of our God.
+ King Cyrus of Persia allows exiles, coming back from Babylon to rebuild the City & temple, by prompting of our God.
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
