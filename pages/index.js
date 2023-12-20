@@ -10362,7 +10362,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-Ruth is a story of loyalty. A foreign wife's loyalty to her husband's family leads on to the family line of King David, through Obed, the Father of Jesse.
+A foreign wife's loyalty to her husband's family leads on to the family line of King David, through Obed, the Father of Jesse.
            
 </p>                                                      
                   <div className={styles.nav}>           
@@ -15740,7 +15740,7 @@ Amon King of Judah
 25 As for the other events of Amon’s reign, and what he did, are they not written in the book of the annals of the kings of Judah? 26 He was buried in his tomb in the garden of Uzza. And Josiah his son succeeded him as king.                      </p>
                                   </div>
 
-<div className={styles.card4}
+<div className={styles.card}
           >
             <h2 className={styles.chapter}>II Kings Chapter XXII </h2>
                                 <p>
@@ -19643,7 +19643,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
 
                         </div>
     <p className={styles.parables}>
-Ezra begins the story of the exiles coming back from Babylon, King Cyrus of Persia allows for the rebuilding of the City & temple, by the prompting of our God.
+The story of the exiles coming back from Babylon, King Cyrus of Persia allows the rebuilding of the City & temple, by the prompting of our God.
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
@@ -19845,7 +19845,7 @@ And all the people gave a great shout of praise to the Lord, because the foundat
                                   </div>
 
 
- <div className={styles.car}
+ <div className={styles.card}
           >
             <h2 className={styles.chapter}>Ezra Chapter IV </h2>
                                 <p>
@@ -20235,16 +20235,16 @@ The meaning of “Torah” is often restricted to signify the first five books o
          NEHEMIAH
         </h1>
           <div className={styles.iframe1}>
-                             <iframe width="100%" height="315" src="https://www.youtube.com/embed/MkETkRv9tG8?si=29gb-4Xl2BzfWuBa?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                           
+                      <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    
                           
 
                         </div>
     <p className={styles.parables}>
-Nehemiah & Ezra, originally all in one unified story, tells of the exiles rebuilding the temple & finding & re-iterating through the book of the law of Moses
+Nehemiah & Ezra, tells of the exiles rebuilding the temple & finding & re-iterating through the book of the law of Moses
            
 </p>                                                      
-                  <div className={styles.nav4}>           
+                  <div className={styles.nav}>           
       <a href="https://mytorah.vercel.app/#numbers">
                                                       <p>Prev</p>
              <Image 
@@ -20985,13 +20985,8 @@ The meaning of “Torah” is often restricted to signify the first five books o
          ESTHER
         </h1>
           <div className={styles.iframe1}>
-                           <Image 
-                                                    src="/esther.png"
-                                                    alt="hero image for Leviticus"
-                                                    height={900}
-                                                    width={2000}
-                                                    priority
-                                                  />
+                         <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    
                           
 
                         </div>
