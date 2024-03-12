@@ -28,63 +28,7 @@ export default function Home() {
 
      <main id="genesis" className={styles.main}>
       
-      <div className={styles.hero}>
       
-            <h2 className={styles.holy}>THE WORD</h2>
-                <h1 className={styles.bible}>
-                    <a href="https://thewordofgodrisen.vercel.app/" target="_blank">OF GOD</a>
-                </h1>
-          
-        <h1 className={styles.title}>
-         GENESIS
-        </h1>
-         <div  className={styles.iframe1}>
-                   
-                             <iframe width="100%" height="300" src="https://www.youtube.com/embed/BQ-GUyto60M?si=LF_IjRGWpOCyIkND&autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-              
-                            
-</div> 
-<p className={styles.parables}>
-      So God created mankind in his own image,
-    in the image of God he created them;
-    male and female he created them.                          
-</p>
-<div className={styles.nav}>               
-
-    <a href="https://john-zeta.vercel.app/">
-      <p>Prev</p>
-           <Image className={styles.arrow}
-                                src="/previous.webp"
-                                alt="Left arrow"
-                                height={25}
-                                width={25}
-                                priority
-                              />
-       </a>  
-  
-  <a href="https://cash.app/$JNutt367">
-    <p>Give</p>
-              <Image className={styles.arrow}
-                                src="/donations_please.webp"
-                                alt="youtube-icon"
-                                height={25}
-                                width={25}
-                                priority
-                              /> 
-       </a>
-           
-           
-        <a href="https://mytorah.vercel.app/#exodus">
-          <p>Next</p>
-             <Image className={styles.arrow}
-                                src="/next.webp"
-                                alt="right arrow"
-                                 height={25}
-                                width={25}
-                                priority
-                              />
-       </a>           
-        </div>
    <div className={styles.iframe}>
               <iframe width="100%" height="315" src="https://www.youtube.com/embed/GQI72THyO5I?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
