@@ -2428,7 +2428,7 @@ The Death of Joseph
             </div>            
           </div>  
            
-       </div>    
+     
  
   </main>
 
@@ -21300,7 +21300,7 @@ The meaning of “Torah” is often restricted to signify the first five books o
      
 
         </div>
-</div>
+  </div>
         <p className={styles.description}> 
         <code className={styles.publisher}>
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
