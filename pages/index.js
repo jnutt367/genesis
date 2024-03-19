@@ -28,8 +28,7 @@ export default function Home() {
 
      <main id="genesis" className={styles.main}>
       
-      
-   <div className={styles.iframe}>
+        <iframe src="https://api.chatlab.com/aichat/iframe?apiKey=d5a4bf57-ad50-41c9-a2df-fc39065dceba&iFrameMode=true" width="100%" height="300px"></iframe>   <div className={styles.iframe}>
               <iframe width="100%" height="315" src="https://www.youtube.com/embed/GQI72THyO5I?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
         
