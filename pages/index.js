@@ -37,7 +37,7 @@ export default function Home() {
                 <h1 className={styles.bible}>
                     <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
-   <p className={styles.title}>
+   <p className={styles.risen}>
                
                     RISEN
              </p>                
