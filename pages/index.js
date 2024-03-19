@@ -37,6 +37,10 @@ export default function Home() {
                 <h1 className={styles.bible}>
                     <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
+   <p className={styles.title}>
+               
+                    RISEN
+             </p>                
       </div>         
                 <div className={styles.iframe}>
                  <iframe src="https://api.chatlab.com/aichat/iframe?apiKey=d5a4bf57-ad50-41c9-a2df-fc39065dceba&iFrameMode=true" width="100%" height="300px"></iframe> 
