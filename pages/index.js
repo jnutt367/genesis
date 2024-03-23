@@ -29,9 +29,7 @@ export default function Home() {
         
 
 
-    <div className={styles.iframe}>
-                 <iframe src="https://api.chatlab.com/aichat/iframe?apiKey=d5a4bf57-ad50-41c9-a2df-fc39065dceba&iFrameMode=true" width="100%" height="300px"></iframe> 
-          </div>                
+           
      <main id="genesis" className={styles.main}>
       <div className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
